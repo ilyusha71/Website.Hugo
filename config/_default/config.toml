@@ -1,9 +1,9 @@
-baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+baseURL = "http://ilyusha71.github.io/"
+title = "Wakaka Dubi Game Lab"
 theme = "zzo"
 
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
 summaryLength = 70

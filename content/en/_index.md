@@ -6,15 +6,15 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - 哇咔咔逗比遊戲實驗室
     subtitle:
-      - The world’s fastest framework for building websites
+      - 逗你玩磚家
     titleColor: 
     titleShadow: true
-    titleFontSize: 44
+    titleFontSize: 73
     subtitleColor: 
-    subtitleCursive: true
-    subtitleFontSize: 18
+    subtitleCursive: false
+    subtitleFontSize: 27
     spaceBetweenTitleSubtitle: 16
   
   - type: img
