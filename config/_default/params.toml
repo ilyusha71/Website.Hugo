@@ -1,9 +1,10 @@
 logoText = "Wakaka"
-logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
-custom_css = ["css/font.css"]
+logoType = "short" # long, short -> short: squre shape includes logo text, long: rectangle shape not includes logo text
+logo = true # Logo that appears in the site navigation bar.
+description = "大外星人哇咔咔的頂級網站"
+custom_css = []
 custom_js = []
-useFaviconGenerator = false # https://www.favicon-generator.org/
+useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 

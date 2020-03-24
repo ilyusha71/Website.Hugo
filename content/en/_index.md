@@ -10,7 +10,7 @@ header:
     subtitle:
       - 逗你玩磚家
     titleColor: 
-    titleShadow: true
+    titleShadow: false
     titleFontSize: 51
     subtitleColor: 
     subtitleCursive: false

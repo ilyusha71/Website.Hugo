@@ -2,7 +2,7 @@ baseURL = "http://ilyusha71.github.io/"
 title = "Wakaka Dubi Game Lab"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+# defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
