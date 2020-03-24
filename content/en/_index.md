@@ -8,7 +8,7 @@ header:
     title:
       - 哇咔咔逗比遊戲實驗室
     subtitle:
-      - 逗你玩磚家
+      - 咱準備殖民藍星的頂級網站~2020重建準備繼續日常杜比~哇咔咔
     titleColor: 
     titleShadow: false
     titleFontSize: 51

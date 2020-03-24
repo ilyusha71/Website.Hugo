@@ -14,7 +14,7 @@ series:
 -
 categories:
 -
-image: images/feature3/code-file.png
+image: images/feature-dora/img_tutorial_npc_talk.png
 ---
 ## 選擇合適的字體
 ### Step 1 前往Goole Fonts網站

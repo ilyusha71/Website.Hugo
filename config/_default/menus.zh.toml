@@ -1,0 +1,62 @@
+[[main]]
+  identifier = "about"
+  name = "關於哇咔咔"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "archive"
+  name = "檔案"
+  url = "archive"
+  weight = 2
+
+[[main]]
+  identifier = "presentation"
+  name = "簡報"
+  url = "presentation"
+  weight = 3
+
+[[main]]
+  identifier = "gallery"
+  name = "相冊"
+  url = "gallery"
+  weight = 4
+    
+[[main]]
+  parent = "gallery"
+  name = "名場面"
+  url = "gallery/doraemonp-park-spotlight"
+    weight = 1
+
+[[main]]
+  parent = "gallery"
+  name = "Cartoon"
+  url = "gallery/cartoon"
+
+[[main]]
+  parent = "gallery"
+  name = "Photo"
+  url = "gallery/photo"
+
+[[main]]
+  identifier = "posts"
+  name = "日常"
+  url = "posts"
+  weight = 5
+
+[[main]]
+  identifier = "showcase"
+  name = "展示"
+  url = "showcase"
+  weight = 6
+
+[[main]]
+  identifier = "publication"
+  name = "新聞"
+  url = "publication"
+  weight = 7
+
+  [[main]]
+  name = "伊琉沙的星空"
+  url = "2014"
+  weight = 8
