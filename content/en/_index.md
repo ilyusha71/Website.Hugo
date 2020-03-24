@@ -11,10 +11,10 @@ header:
       - 逗你玩磚家
     titleColor: 
     titleShadow: true
-    titleFontSize: 73
+    titleFontSize: 51
     subtitleColor: 
     subtitleCursive: false
-    subtitleFontSize: 27
+    subtitleFontSize: 23
     spaceBetweenTitleSubtitle: 16
   
   - type: img

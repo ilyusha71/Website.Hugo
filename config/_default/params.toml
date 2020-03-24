@@ -3,7 +3,7 @@ logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = ["css/font.css"]
 custom_js = []
-useFaviconGenerator = true # https://www.favicon-generator.org/
+useFaviconGenerator = false # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
@@ -182,7 +182,7 @@ commento = false
 # possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
 [[share]]
   name = "facebook"
-  username = ""
+  username = "fdgdfg"
 [[share]]
   name = "twitter"
 
