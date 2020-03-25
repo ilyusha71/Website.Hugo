@@ -2,7 +2,7 @@
 title: "HC12遠距無線通訊模組開發記錄 Part.1"
 date: 2020-03-25T10:08:06+08:00
 description: "第一天使用HC12就上手"
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: true
