@@ -14,7 +14,7 @@ series:
 -
 categories:
 -
-image: images/feature-dora/img_tutorial_npc_talk.png
+image: https://www.gstatic.com/images/branding/product/1x/google_fonts_ios_180dp.png
 ---
 ## 選擇合適的字體
 ### Step 1 前往Goole Fonts網站
