@@ -1,5 +1,5 @@
 ---
-title: "Photon Unity Networkings 測試"
+title: "PUN2 快速上手"
 date: 2020-03-30T17:02:00+08:00
 description: "第一次使用Photon做網路遊戲就上手"
 draft: false
@@ -15,7 +15,7 @@ series:
 - 遊戲開發
 categories:
 - Unity
-image: images/feature/module.svg
+image: https://blog.photonengine.com/wp-content/uploads/2013/10/x_unitynetworking.jpg
 ---
 ### 實作環境
 + Unity2018.3.0f2
