@@ -65,6 +65,8 @@ git submodule add <主題網址.git> themes/<主題名稱>
 透過下面的指令會啟動本地端的網站，在網址列輸入`localhost:1313/`即可預覽。
 ```powershell
 hugo server
+// 若之後的修改要完全刷新預覽可以改成
+hugo server --disableFastRender
 ```
 ## 網站發佈到Github
 ### 網站發佈
