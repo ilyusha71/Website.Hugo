@@ -1,12 +1,12 @@
 ---
-title: "哆啦A夢牧場物語的好感度積分"
+title: "【哆啦A夢牧場物語】NPC與動物與大雄的好感度"
 date: 2020-03-25T23:52:31+08:00
 description: "好感度的累積方法以及各等級好感度的所需積分"
 draft: false
 hideToc: false
-enableToc: true
+enableToc: false
 enableTocContent: true
-author: iLYuSha
+author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
 series:

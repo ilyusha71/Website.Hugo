@@ -3,8 +3,8 @@ title: "讓Unity的Timeline支援TextMeshPro進行文本變化"
 date: 2020-04-01T15:56:54+08:00
 description: "手把手改寫Playable讓Timeline支援TextMeshPro進行文本變化"
 draft: false
-hideToc: true
-enableToc: true
+hideToc: false
+enableToc: false
 enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
@@ -16,7 +16,7 @@ series:
 - 遊戲開發
 categories:
 - Unity
-image: https://blog.photonengine.com/wp-content/uploads/2013/10/x_unitynetworking.jpg
+image: https://i7.pngguru.com/preview/270/765/311/unity-game-engine-logo-video-game-corelle-brands.jpg
 ---
 17年在台灣參加Unity工作坊的一個項目——<mark>Hover Race</mark>，曾使用preview版本的`TMP`，記得當時可以直接把TMP Text拖到Timeline就能建立TMP的Track與Clip，並直接建立文本變換。最近有個項目需要使用這個功能，多年沒碰Timeline（DoTween使用慣了就懶）發現這個功能消失了，看到知乎的這篇[Timeline中让你事半功倍的工具链](https://zhuanlan.zhihu.com/p/98630673)才知道有些功能被整合自獨立的Asset了，於是重新研究了一下，並再次實現這個功能。
 如果你的專題也有Timeline變換TMP文本的需求就看下去，同時也能一同學習客製化`Playable`。

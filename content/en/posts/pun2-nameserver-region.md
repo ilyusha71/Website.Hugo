@@ -3,8 +3,8 @@ title: "PUN2實作玩家自選地區進行連線"
 date: 2020-03-31T15:49:25+08:00
 description: "如果你不想要讓Photon直接判斷連接地區可以參考咱的研究"
 draft: false
-hideToc: true
-enableToc: true
+hideToc: false
+enableToc: false
 enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
