@@ -24,8 +24,8 @@ image: images/post/story_sprite/icon_301170000.png
 
 ## 雜貨店MOD資料庫
 + 雜貨店資料檔：`VarietyShopData.text`
-+ 雜貨店資料類：`CVarietyShopData`，讀取TextAsset的物品二進制資料`VarietyShopData.text`。
-    + 雜貨店的資料結構：`SVarietyShopData`
++ 雜貨店資料類：`CVarietyShopData`
+    + 雜貨店資料結構：`SVarietyShopData`
         + 商品ID：`mVarietyId`
         + 物品ID：`mItemId`
         + 價格：`mPrice`
@@ -34,17 +34,18 @@ image: images/post/story_sprite/icon_301170000.png
         + 首年販售：`mIsFirstYear`
             + 非首年販售的商品會在第二年春季開始販售。
         + DLC索引：`mDLCIndex`
-+ 商店集成功能界面：`ShopMasterCollection`
++ 商店功能集成介面：`ShopMasterCollection`
+    + 商店模版設定：`Setup()`
     + 取得雜貨店所有商品的資料：`GetAllVarietyShopDatas()`
     + 取得雜貨店首年販售商品的資料：`GetFirstYearVarietyShopDatas()`
-+ 商店模組類：`ShopMasterModel`，取得指定商店的資料結構並記錄該商店所有商品參數的`基本值`。
++ 商店主模板類：`ShopMasterModel`
     + 商品ID：`Id` = `CVarietyShopData.SVarietyShopData.mVarietyId`
     + 物品ID：`ItemId` = `CVarietyShopData.SVarietyShopData.mItemId`
     + 販售價格：`Price` = `CVarietyShopData.SVarietyShopData.mPrice`
     + 販售季節：`Season` = `CVarietyShopData.SVarietyShopData.mSeason`
     + DLC索引：`DLCIndex` = `CVarietyShopData.SVarietyShopData.mDLCIndex`
-    + 事件ID：`EventId`
-+ 商品模組類：`ShopItemDataModel`，顯示遊戲中商店目前上架的商品資料。
+    + 事件ID：`EventId` = -1
++ 商品模板類：`ShopItemDataModel`，商店上架的商品實例。
     + 商品ID：`Id` = `ShopMasterModel.Id`
     + 物品ID：`ItemId` = `ShopMasterModel.ItemId`
     + 商品名稱：`Name` = `ItemModel.Name`
@@ -52,13 +53,10 @@ image: images/post/story_sprite/icon_301170000.png
     + 商品價格：`Price` = `ShopMasterModel.Price`
     + 圖集ID：`AtlasId` = `ItemMasterModel.AtlasId`
     + 圖片ID：`SpriteId` = `ItemModel.Id`
-    + 是否為物品實體：`IsItemModel`，可進行操作的物品，詳見 [物品MOD資料庫](../doraemon-story-item-part1#物品MOD資料庫)。
-    + 是否為單一物品：`IsSingleItem`，只能擁有一件的物品。
-        + 例如背包、工具（捕蟲網）、DLC。
-    + 只能購買一次：`CanBuyOnce`。
-        + 例如會升級的物品（背包）、工具（捕蟲網）、DLC。
-    + 是否需要庫存空間：`IsNeedToEmptyInventory`。
-        + 例如背包與DLC並不需要庫存空間。
+    + 是否為物品模板：`IsItemModel`
+    + 是否為單一物品：`IsSingleItem`
+    + 只能購買一次：`CanBuyOnce`
+    + 是否需要庫存空間：`IsNeedToEmptyInventory`
 
 ### 調用狀態
 + 牧場工作狀態：`FarmWorkState`

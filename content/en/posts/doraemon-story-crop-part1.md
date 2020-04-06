@@ -25,24 +25,23 @@ libraries:
 + [【哆啦A夢牧場物語】作物的成長過程與相關計算](../doraemon-story-crop-part3)
 
 ## 作物MOD資料庫
-`作物`與`種子`均屬於物品類，相關MOD調用參考[物品的品質](../doraemon-story-item-part1)。
 + 作物資料檔：`CropData.text`
-+ 作物資料類：`CCropData`，讀取TextAsset的物品二進制資料`CropData.text`。
-    + 作物的資料結構：`CCropData.SCropData`
-        + 作物ID：`CCropData.SCropData.mCropId`
-        + 名稱ID：`CCropData.SCropData.mNameId`
-        + 收穫次數：`CCropData.SCropData.mHarvestCount`
-        + 成長階數：`CCropData.SCropData.mStep`
-        + 減少階數：`CCropData.SCropData.mReduceStep`
-        + 收成天數：`CCropData.SCropData.mHarvestDays`
-        + 生長季節：`CCropData.SCropData.mSeason`
++ 作物資料類：`CCropData`
+    + 作物資料結構：`SCropData`
+        + 作物ID：`mCropId`
+        + 名稱ID：`mNameId`
+        + 收穫次數：`mHarvestCount`
+        + 成長階數：`mStep`
+        + 減少階數：`mReduceStep`
+        + 收成天數：`mHarvestDays`
+        + 生長季節：`mSeason`
             + `0`為春季生長、`1`為夏季生長、`2`為秋季生長、`3`為冬季生長、`-1`為四季皆生長。
-        + 是否收割：`CCropData.SCropData.mCanReap`
-        + 圖集ID：`CCropData.SCropData.mAtlasId`
-        + 圖片ID：`CCropData.SCropData.mSpriteId`
-        + 物品ID：`CCropData.SCropData.mItemId`
-        + 種子ID：`CCropData.SCropData.mSeedItemId`
-+ 作物模組類：`CropMasterModel`，取得作物的資料結構並記錄所有作物參數的`基本值`。
+        + 是否收割：`mCanReap`
+        + 圖集ID：`mAtlasId`
+        + 圖片ID：`mSpriteId`
+        + 物品ID：`mItemId`
+        + 種子ID：`mSeedItemId`
++ 作物主模板類：`CropMasterModel`
     + 作物ID：`CropMasterModel.CropId` = `CCropData.SCropData.mCropId`
     + 收穫次數：`CropMasterModel.HarvestCount` = `CCropData.SCropData.mHarvestCount`
     + 成長階數：`CropMasterModel.Step` = `CCropData.SCropData.mStep`
@@ -50,12 +49,12 @@ libraries:
     + 收成天數：`CropMasterModel.HarvestDays` = `CCropData.SCropData.mHarvestDays`
     + 生長季節：`CropMasterModel.Season` = `CCropData.SCropData.mSeason`
     + 是否收割：`CropMasterModel.CanReap` = `CCropData.SCropData.mCanReap`
-+ 作物實體類`CropModel`，顯示目前遊戲中各項作物參數的`實際值`與具體的`計算方法`。
++ 作物模板類`CropModel`，土裡作物的實例。
     + 成長方法：`CropModel.Grow()`
     + 減少成長方法：`CropModel.GrowStep()`
     + 成長值：`CropModel.Growth`
     + 品質分：`CropModel.Quality`
-+ 作物定義類：`Crop`，定義作物資料調用的相關參數。
++ 作物定義類：`Crop`
     + 最低品質分：`MIN_QUALITY`，常數值：`1`
     + 最高品質分：`Crop.MAX_QUALITY`，常數值：`500`
     + 品質轉換率：`Crop.QUALITY_CONVERSION_RATE`，常數值：`50`

@@ -26,21 +26,70 @@ image: images/post/story_sprite/icon_301230000.png
 
 ## 料理店MOD資料庫
 + 料理店資料檔：`RestaurantShopData.text`
-+ 料理店資料類：`CRestaurantShopData`，讀取TextAsset的物品二進制資料`RestaurantShopData.text`。
-    + 料理店的資料結構：`SRestaurantShopData`
++ 料理店資料類：`CRestaurantShopData`
+    + 料理店資料結構：`SRestaurantShopData`
         + 商品ID：`mId`
         + 物品ID：`mItemId`
         + 價格：`mPrice`
-        + 販售季節：`mSeason`
+        + 季節：`mSeason`
             + 料理店販售的食譜、料理、農產品會因季節變化而改變。
         + 權重：`mWeight`
             + 影響商品上架的機率。
-+ 商店集成功能界面：`ShopMasterCollection`
++ 商店功能集成介面：`ShopMasterCollection`
+    + 商店模版設定：`Setup()`
     + 取得料理店當季食譜的資料：`GetGroupedBySeasonCookingRecipeShopDatas(int season)`
     + 取得料理店當季料理的資料：`GetGroupedBySeasonDishShopDatas(int season)`
     + 取得料理店當季作物的資料：`GetGroupedBySeasonCropShopDatas(int season)`
     + 取得料理店所有調理器具的資料：`GetAllCookingToolShopDatas()`
     + 取得料理店的資料：`GetRestaurantShopData(int id)`
++ 料理店主模板類：`RestaurantShopMasterModel`，此類專用於`食譜販售`、`料理販售`與`農產品販售`。
+    + 商品ID：`Id` = `CRestaurantShopData.SChickenShopData.mId`
+    + 物品ID：`ItemId` = `CRestaurantShopData.SChickenShopData.mItemId`
+    + 販售價格：`Price` = `CRestaurantShopData.SChickenShopData.mPrice`
+    + 販售季節：`Season` = `CRestaurantShopData.SChickenShopData.mSeason`
+    + 販售權重：`Weight` = `CRestaurantShopData.SChickenShopData.mWeight`
++ 料理店模板類：`RestaurantShopDataModel`
+    + 食譜資料：`CookingRecipeShopItems`，商店上架的食譜實例。
+    + 料理資料：`DishShopItems`，商店上架的料理實例。
+    + 農產品資料：`CropShopItems`，商店上架的農產品實例。
+    + 上架抽選方法：`GetLotteryRestaurantShopMasterDatas`
+    + 食譜上架方法：`UpdateCookingRecipeShopItemDatas(bool is_refresh_data, int season)`
+    + 料理上架方法：`UpdateDishShopItemDatas(bool is_refresh_data, int season)`
+    + 農產品上架方法：`UpdateCropShopItemDatas(bool is_refresh_data, int season)`
++ 商店主模板類：`ShopMasterModel`，此類在料理店用於`調理器具販售`。
+    + 商品ID：`Id` = `CRestaurantShopData.SChickenShopData.mId`
+    + 物品ID：`ItemId` = `CRestaurantShopData.SChickenShopData.mItemId`
+    + 販售價格：`Price` = `CRestaurantShopData.SChickenShopData.mPrice`
+    + 販售季節：`Season` = `CRestaurantShopData.SChickenShopData.mSeason`
+    + DLC索引：`DLCIndex` = -1
+    + 事件ID：`EventId` = -1
++ 商品模板類：`ShopItemDataModel`，商店上架的商品實例。
+    + 商品ID：`Id` = `ShopMasterModel.Id`
+    + 物品ID：`ItemId` = `ShopMasterModel.ItemId`
+    + 商品名稱：`Name` = `ItemModel.Name`
+    + 商品描述：`Description` = `ItemModel.Description`
+    + 商品價格：`Price` = `ShopMasterModel.Price`
+    + 圖集ID：`AtlasId` = `ItemMasterModel.AtlasId`
+    + 圖片ID：`SpriteId` = `ItemModel.Id`
+    + 是否為物品模板：`IsItemModel`
+    + 是否為單一物品：`IsSingleItem`
+    + 只能購買一次：`CanBuyOnce`
+    + 是否需要庫存空間：`IsNeedToEmptyInventory`
+
+### 調用狀態
++ 牧場工作狀態：`FarmWorkState`
+    1. `BeginCallback(ICommandHolderObject collided_obj, ICommand stacked_command)`
+    2. `CreateWorkResponse()`
+    3. `AddCookingShopResponse(ResponseModel root, NpcModel npc)`
+        + `FarmModel.UpdateRestaurantShopData(TimeModel time)`
+            + `RestaurantShopDataModel.UpdateShopDatas(TimeModel time)`
+            + 食譜：`RestaurantShopDataModel.UpdateCookingRecipeShopItemDatas(bool is_refresh_data, int season)`
+                + `ShopMasterCollection.GetGroupedBySeasonCookingRecipeShopDatas(int season)`
+            + 料理：`RestaurantShopDataModel.UpdateDishShopItemDatas(bool is_refresh_data, int season)`
+                + `ShopMasterCollection.GetGroupedBySeasonDishShopDatas(int season)`
+            + 農產品：`RestaurantShopDataModel.UpdateCropShopItemDatas(bool is_refresh_data, int season)`
+                + `ShopMasterCollection.GetGroupedBySeasonCropShopDatas(int season)`
+        + `GetCookingToolShopItemDatas()`
 
 ## 料理店/嚼嚼餐廳商品資料
 + 營業時間
