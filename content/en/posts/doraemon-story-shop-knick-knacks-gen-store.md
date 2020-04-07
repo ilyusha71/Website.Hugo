@@ -36,8 +36,8 @@ image: images/post/story_sprite/icon_301170000.png
         + DLC索引：`mDLCIndex`
 + 商店功能集成介面：`ShopMasterCollection`
     + 商店模版設定：`Setup()`
-    + 取得雜貨店所有商品的資料：`GetAllVarietyShopDatas()`
-    + 取得雜貨店首年販售商品的資料：`GetFirstYearVarietyShopDatas()`
+    + 取得雜貨店所有商品資料的方法：`GetAllVarietyShopDatas()`
+    + 取得雜貨店首年販售商品資料的方法：`GetFirstYearVarietyShopDatas()`
 + 商店主模板類：`ShopMasterModel`
     + 商品ID：`Id` = `CVarietyShopData.SVarietyShopData.mVarietyId`
     + 物品ID：`ItemId` = `CVarietyShopData.SVarietyShopData.mItemId`

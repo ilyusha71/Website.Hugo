@@ -32,9 +32,9 @@ image: images/post/story_sprite/icon_301120000.png
             + 只有商品會陳列在商店的上架列表中。
 + 商店功能集成介面：`ShopMasterCollection`
     + 商店模版設定：`Setup()`
-    + 取得動物商店所有不陳列的資料：`GetAllNotDisplayCattleAndSheepShopDatas()`
+    + 取得動物商店所有不陳列資料的方法：`GetAllNotDisplayCattleAndSheepShopDatas()`
         + 動物販售。
-    + 取得動物商店所有陳列的資料：`GetAllDisplayCattleAndSheepShopDatas()`
+    + 取得動物商店所有陳列資料的方法：`GetAllDisplayCattleAndSheepShopDatas()`
         + 商品販售。
 + 商店主模板類：`ShopMasterModel`
     + 商品ID：`Id` = `CCattleAndSheepShopData.SChickenShopData.mId`
@@ -55,6 +55,10 @@ image: images/post/story_sprite/icon_301120000.png
     + 是否為單一物品：`IsSingleItem`
     + 只能購買一次：`CanBuyOnce`
     + 是否需要庫存空間：`IsNeedToEmptyInventory`
++ 物品定義類：`Item`
+    + 動物鈴能否販售的方法：`CanSaleBell(int item_id)`
++ 吸引搖鈴指令類：`RingTheAttractBellCommand`
++ 引導搖鈴指令類：`RingTheLeadBellCommand`
 
 ### 調用狀態
 + 牧場工作狀態：`FarmWorkState`
@@ -116,6 +120,7 @@ image: images/post/story_sprite/icon_301120000.png
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
+            <td>功能</td>
         </tr>
     </thead>
     <tbody>
@@ -125,6 +130,7 @@ image: images/post/story_sprite/icon_301120000.png
             <td><img width= "64px" src= "/images/post/story_sprite/icon_1001110.png"></td>
             <td>刷子</td>
             <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">500</td>
+            <td>用來幫牛、羊與馬刷背</td>
         </tr>
         <tr>
             <td>100101</td>
@@ -132,6 +138,7 @@ image: images/post/story_sprite/icon_301120000.png
             <td><img width= "64px" src= "/images/post/story_sprite/icon_1001120.png"></td>
             <td>擠乳器</td>
             <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">1000</td>
+            <td>用來幫成牛擠奶，可以獲得牛奶</td>
         </tr>
         <tr>
             <td>100102</td>
@@ -139,6 +146,7 @@ image: images/post/story_sprite/icon_301120000.png
             <td><img width= "64px" src= "/images/post/story_sprite/icon_1001130.png"></td>
             <td>剃毛刀</td>
             <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">1000</td>
+            <td>用來幫成羊剪毛，可以獲得羊毛</td>
         </tr>
     </tbody>
 </table>
@@ -228,6 +236,7 @@ image: images/post/story_sprite/icon_301120000.png
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
+            <td>功能</td>
         </tr>
     </thead>
     <tbody>
@@ -237,6 +246,7 @@ image: images/post/story_sprite/icon_301120000.png
             <td><img width= "64px" src= "/images/post/story_sprite/icon_1001150.png"></td>
             <td>牛鈴</td>
             <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">5000</td>
+            <td>搖鈴後，牛會往大雄的位置移動。<br>持續8分鐘。</td>
         </tr>
         <tr>
             <td>100110</td>
@@ -244,6 +254,7 @@ image: images/post/story_sprite/icon_301120000.png
             <td><img width= "64px" src= "/images/post/story_sprite/icon_1001151.png"></td>
             <td>羊鈴</td>
             <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">5000</td>
+            <td>搖鈴後，羊會往大雄的位置移動。<br>持續8分鐘。</td>
         </tr>
         <tr>
             <td>100112</td>
@@ -251,6 +262,7 @@ image: images/post/story_sprite/icon_301120000.png
             <td><img width= "64px" src= "/images/post/story_sprite/icon_1001153.png"></td>
             <td>引導鈴</td>
             <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">20000</td>
+            <td>在牧場搖鈴會引導動物前往小屋，在小屋搖鈴時會引導動物前往牧場。<br>持續16分鐘。<br>只會影響♥3以上動物。</td>
         </tr>
     </tbody>
 </table>
@@ -261,7 +273,7 @@ image: images/post/story_sprite/icon_301120000.png
     + 只能購買一次：✔。
     + 是否需要庫存空間：✔。
 
-#### 動物鈴上架條件
+#### 動物鈴解鎖條件
 <table>
     <tr>
         <td rowspan="2"><img src= "/images/post/story_sprite/icon_201080021.png"></td>

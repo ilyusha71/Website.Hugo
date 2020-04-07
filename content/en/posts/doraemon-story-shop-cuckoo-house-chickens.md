@@ -55,6 +55,8 @@ image: images/post/story_sprite/icon_301080200.png
     + 是否為單一物品：`IsSingleItem`
     + 只能購買一次：`CanBuyOnce`
     + 是否需要庫存空間：`IsNeedToEmptyInventory`
++ 物品定義類：`Item`
+    + 動物鈴能否販售的方法：`CanSaleBell(int item_id)`
 
 ### 調用狀態
 + 牧場工作狀態：`FarmWorkState`
@@ -140,6 +142,7 @@ image: images/post/story_sprite/icon_301080200.png
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
+            <td>功能</td>
         </tr>
     </thead>
     <tbody>
@@ -149,6 +152,7 @@ image: images/post/story_sprite/icon_301080200.png
             <td><img width= "64px" src= "/images/post/story_sprite/icon_1001152.png"></td>
             <td>雞鈴</td>
             <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">5000</td>
+            <td>搖鈴後，雞會往大雄的位置移動。<br>持續8分鐘。</td>
         </tr>
     </tbody>
 </table>
@@ -159,7 +163,7 @@ image: images/post/story_sprite/icon_301080200.png
     + 只能購買一次：✔。
     + 是否需要庫存空間：✔。
 
-#### 動物鈴上架條件
+#### 動物鈴解鎖條件
 <table>
     <tr>
         <td rowspan="2"><img src= "/images/post/story_sprite/icon_201080031.png"></td>
