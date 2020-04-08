@@ -2,7 +2,7 @@
 title: "PUN2實作玩家遊戲大廳與房間"
 date: 2020-04-07T11:59:45+08:00
 description: ""
-draft: false
+draft: true
 hideToc: false
 enableToc: false
 enableTocContent: true
@@ -88,16 +88,22 @@ image: https://blog.photonengine.com/wp-content/uploads/2013/10/x_unitynetworkin
         + `OnJoinedRoom()`
     + 失敗：
         + `OnJoinRoomFailed(short returnCode, string message);`
-+ `OpJoinRoom`
-    + 成功：
-        + `OnJoinedRoom()`
-    + 失敗：
-        + `OnJoinRoomFailed(short returnCode, string message);`
 
 #### 加入隨機房間
 + `JoinRandomRoom ()`
 + `JoinRandomRoom (Hashtable expectedCustomRoomProperties, byte expectedMaxPlayers)`
 + `JoinRandomRoom (Hashtable expectedCustomRoomProperties, byte expectedMaxPlayers, MatchmakingMode matchingType, TypedLobby typedLobby, string sqlLobbyFilter, string[] expectedUsers = null)`
 
-前兩類的方法差別在於當玩家加入房間失敗時，`JoinRoom`會回傳`OnPhotonJoinRoomFailed`，而JoinOrCreateRoom會根據參數調用`CreateRoom`方法
+回傳方法：
++ `OpJoinRoom`
+    + 成功：
+        + `OnJoinedRoom()`
+    + 失敗：
+        + `OnJoinRoomFailed(short returnCode, string message);`
++ `OpJoinRoom`
+    + 成功：
+        + `OnJoinedRoom()`
+    + 失敗：
+        + `OnJoinRandomFailed(short returnCode, string message);`
 
+### 取得房間列表
