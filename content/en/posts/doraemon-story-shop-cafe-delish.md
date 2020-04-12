@@ -122,24 +122,24 @@ image: images/post/story_sprite/icon_301230000.png
 </table>
 
 ## 料理店商品資料
-+ [`食譜`](../doraemon-story-shop-cafe-delish-recipes)：89種
-    + [`春季食譜`](../doraemon-story-shop-cafe-delish-recipes#春季食譜)：15種
-    + [`夏季食譜`](../doraemon-story-shop-cafe-delish-recipes#夏季食譜)：14種
-    + [`秋季食譜`](../doraemon-story-shop-cafe-delish-recipes#秋季食譜)：14種
-    + [`冬季食譜`](../doraemon-story-shop-cafe-delish-recipes#冬季食譜)：14種
-    + [`四季食譜`](../doraemon-story-shop-cafe-delish-recipes#四季食譜)：32種
-+ [`料理`](../doraemon-story-shop-cafe-delish-meals)：86種
-    + [`春季料理`](../doraemon-story-shop-cafe-delish-meals#春季料理)：22種
-    + [`夏季料理`](../doraemon-story-shop-cafe-delish-meals#夏季料理)：22種
-    + [`秋季料理`](../doraemon-story-shop-cafe-delish-meals#秋季料理)：21種
-    + [`冬季料理`](../doraemon-story-shop-cafe-delish-meals#冬季料理)：21種
-+ [`農產品`](../doraemon-story-shop-cafe-delish-produce)：35種
-    + [`春季農產品`](../doraemon-story-shop-cafe-delish-produce#春季農產品)：7種
-    + [`夏季農產品`](../doraemon-story-shop-cafe-delish-produce#夏季農產品)：8種
-    + [`秋季農產品`](../doraemon-story-shop-cafe-delish-produce#秋季農產品)：6種
-    + [`冬季農產品`](../doraemon-story-shop-cafe-delish-produce#冬季農產品)：3種
-    + [`四季農產品`](../doraemon-story-shop-cafe-delish-produce#四季農產品)：11種
-+ [`調理器具`](#調理器具)：5種
++ [食譜](../doraemon-story-shop-cafe-delish-recipes)：89種
+    + [春季食譜](../doraemon-story-shop-cafe-delish-recipes#春季食譜)：15種
+    + [夏季食譜](../doraemon-story-shop-cafe-delish-recipes#夏季食譜)：14種
+    + [秋季食譜](../doraemon-story-shop-cafe-delish-recipes#秋季食譜)：14種
+    + [冬季食譜](../doraemon-story-shop-cafe-delish-recipes#冬季食譜)：14種
+    + [四季食譜](../doraemon-story-shop-cafe-delish-recipes#四季食譜)：32種
++ [料理](../doraemon-story-shop-cafe-delish-meals)：86種
+    + [春季料理](../doraemon-story-shop-cafe-delish-meals#春季料理)：22種
+    + [夏季料理](../doraemon-story-shop-cafe-delish-meals#夏季料理)：22種
+    + [秋季料理](../doraemon-story-shop-cafe-delish-meals#秋季料理)：21種
+    + [冬季料理](../doraemon-story-shop-cafe-delish-meals#冬季料理)：21種
++ [農產品](../doraemon-story-shop-cafe-delish-produce)：35種
+    + [春季農產品](../doraemon-story-shop-cafe-delish-produce#春季農產品)：7種
+    + [夏季農產品](../doraemon-story-shop-cafe-delish-produce#夏季農產品)：8種
+    + [秋季農產品](../doraemon-story-shop-cafe-delish-produce#秋季農產品)：6種
+    + [冬季農產品](../doraemon-story-shop-cafe-delish-produce#冬季農產品)：3種
+    + [四季農產品](../doraemon-story-shop-cafe-delish-produce#四季農產品)：11種
++ [調理器具](#調理器具)：5種
 
 ### 調理器具
 + 調理器具只能購買一次，已擁有的調理器具可以在`廚房`查看。

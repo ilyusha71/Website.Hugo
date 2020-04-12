@@ -68,9 +68,9 @@ image: images/post/story_sprite/icon_301080200.png
         + `ShopMasterCollection.GetAllDisplayChickenShopDatas()`
 
 ## 小雞商店商品資料
-+ [`動物`](#動物)：1種
-+ [`動物餵食`](#動物餵食)：2種
-+ [`動物鈴`](#動物鈴)：1種
++ [動物](#動物)：1種
++ [動物餵食](#動物餵食)：2種
++ [動物鈴](#動物鈴)：1種
 
 ### 動物
 <table>
