@@ -59,7 +59,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥3</td>
+            <td>合計3♥</td>
         </tr>
     </thead>
     <tr>
@@ -92,7 +92,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥2</td>
+            <td>合計2♥</td>
         </tr>
     </thead>
     <tr>
@@ -123,7 +123,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥5</td>
+            <td>合計5♥</td>
         </tr>
     </thead>
     <tr>
@@ -157,7 +157,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥8</td>
+            <td>合計8♥</td>
         </tr>
     </thead>
     <tr>
@@ -204,7 +204,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥10</td>
+            <td>合計10♥</td>
         </tr>
     </thead>
     <tr>
@@ -236,7 +236,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥11</td>
+            <td>合計11♥</td>
         </tr>
     </thead>
     <tr>
@@ -272,7 +272,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥5</td>
+            <td>合計5♥</td>
         </tr>
     </thead>
     <tr>
@@ -301,7 +301,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥12</td>
+            <td>合計12♥</td>
         </tr>
     </thead>
     <tr>
@@ -333,7 +333,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥12</td>
+            <td>合計12♥</td>
         </tr>
     </thead>
     <tr>
@@ -367,7 +367,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥13</td>
+            <td>合計13♥</td>
         </tr>
     </thead>
     <tr>
@@ -403,7 +403,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥21</td>
+            <td>合計21♥</td>
         </tr>
     </thead>
     <tr>
@@ -435,7 +435,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥16</td>
+            <td>合計16♥</td>
         </tr>
     </thead>
     <tr>
@@ -467,7 +467,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥16</td>
+            <td>合計16♥</td>
         </tr>
     </thead>
     <tr>
@@ -499,7 +499,7 @@ image: images/post/story_sprite/icon_201140020.png
 <table>
     <thead>
         <tr>
-            <td>合計♥30</td>
+            <td>合計30♥</td>
         </tr>
     </thead>
     <tr>

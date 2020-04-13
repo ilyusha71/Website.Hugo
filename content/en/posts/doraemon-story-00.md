@@ -233,7 +233,7 @@ image: images/post/story_sprite/icon_201140010.png
 <table>
     <thead>
         <tr>
-            <td>合計♥12</td>
+            <td>合計12♥</td>
         </tr>
     </thead>
     <tr>
