@@ -3,7 +3,7 @@ title: "【哆啦A夢牧場物語】木工店劇情線"
 date: 2020-04-11T23:28:27+08:00
 description: "胖虎與潘特的劇情發展，還有幻想筆！"
 draft: false
-hideToc: false
+hideToc: true
 enableToc: true
 enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
@@ -21,11 +21,10 @@ image: images/post/story_sprite/icon_201140020.png
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
-         <td>01</td>
-         <td><img src= "/images/post/story_sprite/icon_201140020.png"></td>
-         <td><a href="../doraemon-story-01">木工店</a></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201041140.png"></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201041030.png"></td>
+        <td>01</td>
+        <td align="center"><a href="../doraemon-story-01"><img src= "/images/post/story_sprite/icon_201140020.png">木工店</a></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041140.png">潘特</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041030.png">胖虎</td>
     </tr>
 </table>
 
@@ -55,7 +54,7 @@ image: images/post/story_sprite/icon_201140020.png
     + 開始時間：每日`11:00`
     + 結束時間：每日`13:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -88,7 +87,7 @@ image: images/post/story_sprite/icon_201140020.png
     + 開始時間：每日`11:00`
     + 結束時間：每日`13:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -119,7 +118,7 @@ image: images/post/story_sprite/icon_201140020.png
     + 開始時間：每日`11:00`
     + 結束時間：每日`13:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -152,7 +151,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發時間條件
     + 開始時間：每日`19:00`
     + 結束時間：每日`21:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 
 <table>
     <thead>
@@ -185,7 +184,7 @@ image: images/post/story_sprite/icon_201140020.png
     </tr>
 </table>
 
-`潘特`將`時光電視`交給`胖虎`保管。
+`潘特`將`時光電視`（`1002110`）交給`胖虎`保管。
 + `大雄`去找`胖虎`可獲得。
 + 將`時光電視`交給`薇娜`可觸發[巨木第6話至第9話](../doraemon-story-00#第6話至第9話)劇情線。
 
@@ -200,7 +199,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發時間條件
     + 開始時間：每日`14:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -232,7 +231,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發時間條件
     + 開始時間：每日`14:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -268,7 +267,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發時間條件
     + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -297,7 +296,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發時間條件
     + 開始時間：每日`14:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -329,7 +328,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發時間條件
     + 開始時間：每日`21:00`
     + 結束時間：每日`24:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -363,7 +362,7 @@ image: images/post/story_sprite/icon_201140020.png
     + 開始時間：每日`10:00`
     + 結束時間：每日`16:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -399,7 +398,7 @@ image: images/post/story_sprite/icon_201140020.png
     + 開始時間：每日`10:00`
     + 結束時間：每日`15:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -431,7 +430,7 @@ image: images/post/story_sprite/icon_201140020.png
 ![釣具店](/images/post/map/21300.png)
 + 前置劇情：[木工店第12話 去河邊玩大作戰](#第12話-去河邊玩大作戰)（`20002007`）
     + 間隔天數：`2天`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -463,7 +462,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發時間條件
     + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -495,7 +494,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發時間條件
     + 開始時間：每日`10:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>

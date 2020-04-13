@@ -546,7 +546,7 @@ image: images/post/story_sprite/icon_201171503.png
         <tr>
             <td>500</td>
             <td><img width= "64px" src= "/images/post/story_sprite/icon_1101000.png"></td>
-            <td>牧草</td>
+            <td>乾草</td>
             <td>5 次</td>
             <td>4 階</td>
             <td>2 階</td>

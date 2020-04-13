@@ -3,7 +3,7 @@ title: "【哆啦A夢牧場物語】醫院劇情線"
 date: 2020-04-11T23:45:07+08:00
 description: "靜香、瑟露娜與洛克德的劇情發展，還有幻想筆！"
 draft: false
-hideToc: false
+hideToc: true
 enableToc: true
 enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
@@ -21,12 +21,11 @@ image: images/post/story_sprite/icon_201140060.png
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
-         <td>02</td>
-         <td><img src= "/images/post/story_sprite/icon_201140060.png"></td>
-         <td><a href="../doraemon-story-02">醫院</a></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201041210.png"></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201041220.png"></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201041020.png"></td>
+        <td>02</td>
+        <td align="center"><a href="../doraemon-story-02"><img src= "/images/post/story_sprite/icon_201140060.png">醫院</a></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041210.png">洛克德</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041220.png">瑟露娜</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041020.png">靜香</td>
     </tr>
 </table>
 
@@ -50,7 +49,7 @@ image: images/post/story_sprite/icon_201140060.png
     + 開始時間：每日`14:00`
     + 結束時間：每日`17:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -82,7 +81,7 @@ image: images/post/story_sprite/icon_201140060.png
 + 觸發時間條件
     + 開始時間：每日`14:00`
     + 結束時間：每日`17:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -120,7 +119,7 @@ image: images/post/story_sprite/icon_201140060.png
 + 觸發時間條件
     + 開始時間：每日`14:00`
     + 結束時間：每日`17:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -154,7 +153,7 @@ image: images/post/story_sprite/icon_201140060.png
     + 開始時間：每日`14:00`
     + 結束時間：每日`17:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -184,7 +183,7 @@ image: images/post/story_sprite/icon_201140060.png
     </tr>
 </table>
 
-`瑟露娜`把`幻想筆`交給`靜香`保管。
+`瑟露娜`把`幻想筆`（`1002230`）交給`靜香`保管。
 + `大雄`去找`靜香`可獲得。
 + 將`幻想筆`交給`薇娜`可觸發[巨木第6話至第9話](../doraemon-story-00#第6話至第9話)劇情線。
 
@@ -199,7 +198,7 @@ image: images/post/story_sprite/icon_201140060.png
 + 觸發時間條件
     + 開始時間：每日`10:00`
     + 結束時間：每日`15:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 
 <table>
     <thead>
@@ -235,7 +234,7 @@ image: images/post/story_sprite/icon_201140060.png
 + 觸發時間條件
     + 開始時間：每日`10:00`
     + 結束時間：每日`15:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -279,7 +278,7 @@ image: images/post/story_sprite/icon_201140060.png
 + 觸發時間條件
     + 開始時間：每日`14:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -314,7 +313,7 @@ image: images/post/story_sprite/icon_201140060.png
 + 觸發時間條件
     + 開始時間：每日`14:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -341,7 +340,7 @@ image: images/post/story_sprite/icon_201140060.png
     </tr>
 </table>
 
-### 第10話 偷偷地......
+### 第10話 偷偷地……
 + 事件ID：`20003005`
 + 優先度：`3`
 + 觸發地點：`洛克德醫院`（`20900`）
@@ -352,7 +351,7 @@ image: images/post/story_sprite/icon_201140060.png
 + 觸發時間條件
     + 開始時間：每日`21:00`
     + 結束時間：每日`24:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -376,12 +375,12 @@ image: images/post/story_sprite/icon_201140060.png
 + 觸發地點：`洛克德醫院`（`20900`）
 
 ![洛克德醫院](/images/post/map/20900.png)
-+ 前置劇情：[醫院第10話 偷偷地](#第10話-偷偷地)（`20003005`）
++ 前置劇情：[醫院第10話 偷偷地……](#第10話-偷偷地)（`20003005`）
     + 間隔天數：`2天`
 + 觸發時間條件
     + 開始時間：每日`14:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -413,7 +412,7 @@ image: images/post/story_sprite/icon_201140060.png
 + 觸發時間條件
     + 開始時間：每日`10:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -449,7 +448,7 @@ image: images/post/story_sprite/icon_201140060.png
     + 開始時間：每日`19:00`
     + 結束時間：每日`22:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -481,7 +480,7 @@ image: images/post/story_sprite/icon_201140060.png
 + 觸發時間條件
     + 開始時間：每日`06:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -510,7 +509,7 @@ image: images/post/story_sprite/icon_201140060.png
 + 觸發時間條件
     + 開始時間：每日`10:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>

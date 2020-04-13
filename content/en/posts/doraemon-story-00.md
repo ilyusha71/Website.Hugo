@@ -3,7 +3,7 @@ title: "【哆啦A夢牧場物語】巨木劇情線"
 date: 2020-04-11T23:26:33+08:00
 description: "大雄與哆啦A夢等人的主線劇情發展"
 draft: false
-hideToc: false
+hideToc: true
 enableToc: true
 enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
@@ -21,12 +21,11 @@ image: images/post/story_sprite/icon_201140010.png
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
-         <td>00</td>
-         <td><img src= "/images/post/story_sprite/icon_201140010.png"></td>
-         <td><a href="../doraemon-story-00">巨木</a></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201041000.png"></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201041010.png"></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201041070.png"></td>
+        <td>00</td>
+        <td align="center"><a href="../doraemon-story-00"><img src= "/images/post/story_sprite/icon_201140010.png">巨木</a></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041000.png">大雄</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041010.png">哆啦A夢</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041070.png">薇娜</td>
     </tr>
 </table>
 
@@ -229,7 +228,7 @@ image: images/post/story_sprite/icon_201140010.png
     + 開始時間：每日`11:00`
     + 結束時間：每日`16:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -250,7 +249,7 @@ image: images/post/story_sprite/icon_201140010.png
     </tr>
 </table>
 
-### 第12話 大風暴雨與親子
+### 第12話 大暴風雨與親子
 + 事件ID：`10000012`
 + 優先度：`0`
 + 觸發地點：`巨木根部`（`11700`）
@@ -279,7 +278,7 @@ image: images/post/story_sprite/icon_201140010.png
 + 事件ID：`10000013`
 + 優先度：`0`
 + 前置劇情：
-    + [巨木第12話 大風暴雨與親子](#第12話-大風暴雨與親子)（`10000012`）
+    + [巨木第12話 大暴風雨與親子](#第12話-大暴風雨與親子)（`10000012`）
     + [待補齊](#-)（`50000082`）
 
 ### 第14話 種子的持有人

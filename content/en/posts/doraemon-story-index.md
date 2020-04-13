@@ -21,115 +21,115 @@ image: images/post/story_sprite/icon_301010600.png
     <tr>
         <td>00</td>
         <td align="center"><a href="../doraemon-story-00"><img src= "/images/post/story_sprite/icon_201140010.png">巨木</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041000.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041010.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041070.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041000.png">大雄</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041010.png">哆啦A夢</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041070.png">薇娜</td>
     </tr>
     <tr>
         <td>01</td>
         <td align="center"><a href="../doraemon-story-01"><img src= "/images/post/story_sprite/icon_201140020.png">木工店</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041140.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041030.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041140.png">潘特</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041030.png">胖虎</td>
     </tr>
     <tr>
         <td>02</td>
         <td align="center"><a href="../doraemon-story-02"><img src= "/images/post/story_sprite/icon_201140060.png">醫院</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041210.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041220.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041020.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041210.png">洛克德</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041220.png">瑟露娜</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041020.png">靜香</td>
     </tr>
     <tr>
         <td>03</td>
         <td align="center"><a href="../doraemon-story-03"><img src= "/images/post/story_sprite/icon_201140040.png">料理店</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041230.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041240.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041040.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041230.png">萊斯特</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041240.png">托蘭</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041040.png">靜香</td>
     </tr>
     <tr>
         <td>04</td>
         <td align="center"><a href="../doraemon-story-04"><img src= "/images/post/story_sprite/icon_201140050.png">打鐵店</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041150.png">斯米克</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041160.png">布拉斯</td>
     </tr>
     <tr>
         <td>05</td>
         <td align="center"><a href="../doraemon-story-05"><img src= "/images/post/story_sprite/icon_201140030.png">雜貨店</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041170.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041180.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041190.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041170.png">涅萊爾</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041180.png">埃蒂</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041190.png">緹拉兒</td>
     </tr>
     <tr>
         <td>06</td>
         <td align="center"><a href="../doraemon-story-06"><img src= "/images/post/story_sprite/icon_201140070.png">小雞商店</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041080.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041090.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041100.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041080.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041090.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041100.png"></td>
     </tr>
     <tr>
         <td>07</td>
         <td align="center"><a href="../doraemon-story-07"><img src= "/images/post/story_sprite/icon_201140080.png">動物商店</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041110.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041120.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041130.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041110.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041120.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041130.png"></td>
     </tr>
     <tr>
         <td>08</td>
         <td align="center"><a href="../doraemon-story-08"><img src= "/images/post/story_sprite/icon_201140090.png">釣具店</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041250.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041250.png"></td>
     </tr>
     <tr>
         <td>09</td>
         <td align="center"><a href="../doraemon-story-09"><img src= "/images/post/story_sprite/icon_201140100.png">鎮長</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041200.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041200.png"></td>
     </tr>
     <tr>
         <td>10</td>
         <td align="center"><a href="../doraemon-story-10"><img src= "/images/post/story_sprite/icon_201140110.png">蘭奇</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041050.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041050.png"></td>
     </tr>
     <tr>
         <td>11</td>
         <td align="center"><a href="../doraemon-story-11"><img src= "/images/post/story_sprite/icon_201140120.png">克魯波克魯</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041260.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041270.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041280.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041290.png"></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201041300.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041260.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041270.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041280.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041290.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041300.png"></td>
     </tr>
     <tr>
         <td>12</td>
         <td align="center"><a href="../doraemon-story-12"><img src= "/images/post/story_sprite/icon_201140130.png">狗</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201042000.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201042000.png"></td>
     </tr>
     <tr>
         <td>13</td>
         <td align="center"><a href="../doraemon-story-13"><img src= "/images/post/story_sprite/icon_201140140.png">馬</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201042020.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201042020.png"></td>
     </tr>
     <tr>
         <td>14</td>
         <td align="center"><a href="../doraemon-story-14"><img src= "/images/post/story_sprite/icon_201140150.png">貓</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201042010.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201042010.png"></td>
     </tr>
     <tr>
         <td>15</td>
         <td align="center"><a href="../doraemon-story-15"><img src= "/images/post/story_sprite/icon_201140160.png">熊</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201046010.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201046010.png"></td>
     </tr>
     <tr>
         <td>16</td>
         <td align="center"><a href="../doraemon-story-16"><img src= "/images/post/story_sprite/icon_201140170.png">猴子</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201046000.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201046000.png"></td>
     </tr>
     <tr>
         <td>17</td>
         <td align="center"><a href="../doraemon-story-17"><img src= "/images/post/story_sprite/icon_201140180.png">兔子</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201046020.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201046020.png"></td>
     </tr>
     <tr>
         <td>18</td>
         <td align="center"><a href="../doraemon-story-18"><img src= "/images/post/story_sprite/icon_201140190.png">松鼠</a></td>
-        <td><img width="84px" src= "/images/post/story_sprite/icon_201046030.png"></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201046030.png"></td>
     </tr>
     <tr>
         <td>19</td>
@@ -201,10 +201,10 @@ image: images/post/story_sprite/icon_301010600.png
             <td colspan="10">具有品質★的物品</td>        
         </tr>
     </thead>
-    <tr>
+    <tr>        
+        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_6000126.png">蟲類</a></td>
+        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_5000187.png">魚類</a></td>
         <td align="center"><a href="../doraemon-story-sell-crops"><img width="64px" src= "/images/post/story_sprite/icon_3000205.png">作物</a></td>
-        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_4001008.png">蟲</a></td>
-        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_4001008.png">魚</a></td>
         <td align="center"><a href="../doraemon-story-sell-meals"><img width="64px" src= "/images/post/story_sprite/icon_3300147.png">料理</a></td>         
     </tr>
     <thead>
@@ -213,7 +213,7 @@ image: images/post/story_sprite/icon_301010600.png
         </tr>
     </thead>
     <tr>
-        <td align="center"><a href="../doraemon-story-sell-crops"><img width="64px" src= "/images/post/story_sprite/icon_3000200.png">野外植物</a></td>
+        <td align="center"><a href="../doraemon-story-sell-crops"><img width="64px" src= "/images/post/story_sprite/icon_3100106.png">野外植物</a></td>
         <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_7110020.png">木材</a></td>
         <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_4001007.png">礦物</a></td>
         <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_4001008.png">漂流物</a></td>
@@ -228,12 +228,22 @@ image: images/post/story_sprite/icon_301010600.png
         <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_1101040.png">動物商店</a></td>
         <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_1103000.png">雜貨店</a></td>
         <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_3400106.png">料理店</a></td>
-        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_4001008.png">洛克德醫院</a></td>
-        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_4001008.png">釣具店</a></td>
-        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_4001008.png">木工店</a></td>
-        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_4001008.png">克魯波克魯</a></td>
+        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_1104180.png">洛克德醫院</a></td>
+        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_1102001.png">釣具店</a></td>
+        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_7066000.png">木工店</a></td>
+        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_7063010.png">克魯波克魯</a></td>
     </tr>
 </table>
+
+## 圖鑑
+<table>
+    <tr>        
+        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_6000126.png">蟲類圖鑑</a></td>
+        <td align="center"><a href="../doraemon-story-木工店"><img width="64px" src= "/images/post/story_sprite/icon_5000187.png">魚類圖鑑</a></td>
+    </tr>
+</table>
+
+## 登場道具
 
 ## 好感度與情感度
 + [NPC好感度](../doraemon-story-crop-part1)

@@ -3,7 +3,7 @@ title: "【哆啦A夢牧場物語】料理店劇情線"
 date: 2020-04-11T23:49:02+08:00
 description: "小夫、萊斯特與托蘭的劇情發展，還有來來貓！"
 draft: false
-hideToc: false
+hideToc: true
 enableToc: true
 enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
@@ -21,14 +21,14 @@ image: images/post/story_sprite/icon_201140040.png
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
-         <td>03</td>
-         <td><img src= "/images/post/story_sprite/icon_201140040.png"></td>
-         <td><a href="../doraemon-story-03">料理店</a></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201041230.png"></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201041240.png"></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201041040.png"></td>
+        <td>03</td>
+        <td align="center"><a href="../doraemon-story-03"><img src= "/images/post/story_sprite/icon_201140040.png">料理店</a></td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041230.png">萊斯特</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041240.png">托蘭</td>
+        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041040.png">靜香</td>
     </tr>
 </table>
+
 ### 第1話 小夫的幫忙
 + 事件ID：`10001000`
 + 優先度：`4`
@@ -48,7 +48,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發時間條件
     + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -80,7 +80,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發時間條件
     + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -114,7 +114,7 @@ image: images/post/story_sprite/icon_201140040.png
     + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -149,7 +149,7 @@ image: images/post/story_sprite/icon_201140040.png
     + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -179,7 +179,7 @@ image: images/post/story_sprite/icon_201140040.png
     </tr>
 </table>
 
-`托蘭`把`來來貓`埋在廣場的石碑下，挖出來後由`哆啦A夢`保管。
+`托蘭`把`來來貓`（`1002210`）埋在廣場的石碑下，挖出來後由`哆啦A夢`保管。
 + `大雄`去找`哆啦A夢`可獲得。
 + 將`來來貓`交給`薇娜`可觸發[巨木第6話至第9話](../doraemon-story-00#第6話至第9話)劇情線。
 
@@ -194,7 +194,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發時間條件
     + 開始時間：每日`12:00`
     + 結束時間：每日`14:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -228,7 +228,7 @@ image: images/post/story_sprite/icon_201140040.png
     + 開始時間：每日`10:00`
     + 結束時間：每日`16:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -267,7 +267,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發時間條件
     + 開始時間：每日`10:00`
     + 結束時間：每日`14:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -302,7 +302,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發時間條件
     + 開始時間：每日`14:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -334,7 +334,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發時間條件
     + 開始時間：每日`12:00`
     + 結束時間：每日`14:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -366,7 +366,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發時間條件
     + 開始時間：每日`12:00`
     + 結束時間：每日`15:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -401,7 +401,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發時間條件
     + 開始時間：每日`14:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -431,7 +431,7 @@ image: images/post/story_sprite/icon_201140040.png
     + 開始時間：每日`10:00`
     + 結束時間：每日`14:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -466,7 +466,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發時間條件
     + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -502,7 +502,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發時間條件
     + 開始時間：每日`10:00`
     + 結束時間：每日`14:00`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>

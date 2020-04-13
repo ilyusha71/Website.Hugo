@@ -3,7 +3,7 @@ title: "【哆啦A夢牧場物語】狗劇情線"
 date: 2020-04-11T23:58:37+08:00
 description: "小狗、大雄與哆啦A夢的劇情發展"
 draft: true
-hideToc: false
+hideToc: true
 enableToc: true
 enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔

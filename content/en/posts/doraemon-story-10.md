@@ -3,7 +3,7 @@ title: "【哆啦A夢牧場物語】蘭奇劇情線"
 date: 2020-04-12T20:22:57+08:00
 description: "蘭奇、大雄與哆啦A夢的劇情發展，還有呼喚精靈手環！"
 draft: false
-hideToc: false
+hideToc: true
 enableToc: true
 enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
@@ -40,7 +40,7 @@ image: images/post/story_sprite/icon_201140110.png
     + 開始時間：第一年春季15日`06:00`
     + 結束時間：每日`15:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -87,7 +87,7 @@ image: images/post/story_sprite/icon_201140110.png
     + 開始時間：每日`06:00`
     + 結束時間：每日`15:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -122,7 +122,7 @@ image: images/post/story_sprite/icon_201140110.png
     + 開始時間：每日`06:00`
     + 結束時間：每日`15:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>
@@ -152,7 +152,7 @@ image: images/post/story_sprite/icon_201140110.png
     </tr>
 </table>
 
-`哆啦A夢`從`亞緬`那取回`呼喚精靈手環`。
+`哆啦A夢`從`亞緬`那取回`呼喚精靈手環`（`1002090`）。
 + `大雄`去找`哆啦A夢`可獲得。
 + 將`呼喚精靈手環`交給`薇娜`可觸發[巨木第6話至第9話](../doraemon-story-00#第6話至第9話)劇情線。
 
@@ -167,7 +167,7 @@ image: images/post/story_sprite/icon_201140110.png
     + 開始時間：每日`19:00`
     + 結束時間：每日`24:00`
 + 天氣條件：`下雨天不觸發`
-+ NPC總好感度條件
++ NPC好感度總和條件
 <table>
     <thead>
         <tr>

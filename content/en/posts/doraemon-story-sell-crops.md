@@ -40,16 +40,16 @@ image: images/post/story_sprite/icon_3000501.png
             <td>物品ID</td>
             <td></td>
             <td>作物名稱</td>
-            <td>0.5★</td>
-            <td>1.0★</td>
-            <td>1.5★</td>
-            <td>2.0★</td>
-            <td>2.5★</td>
-            <td>3.0★</td>
-            <td>3.5★</td>
-            <td>4.0★</td>
-            <td>4.5★</td>
-            <td>5.0★</td>
+            <td>★0.5</td>
+            <td>★1.0</td>
+            <td>★1.5</td>
+            <td>★2.0</td>
+            <td>★2.5</td>
+            <td>★3.0</td>
+            <td>★3.5</td>
+            <td>★4.0</td>
+            <td>★4.5</td>
+            <td>★5.0</td>
         </tr>
     </thead>
     <tbody>
@@ -213,16 +213,16 @@ image: images/post/story_sprite/icon_3000501.png
             <td>物品ID</td>
             <td></td>
             <td>作物名稱</td>
-            <td>0.5★</td>
-            <td>1.0★</td>
-            <td>1.5★</td>
-            <td>2.0★</td>
-            <td>2.5★</td>
-            <td>3.0★</td>
-            <td>3.5★</td>
-            <td>4.0★</td>
-            <td>4.5★</td>
-            <td>5.0★</td>
+            <td>★0.5</td>
+            <td>★1.0</td>
+            <td>★1.5</td>
+            <td>★2.0</td>
+            <td>★2.5</td>
+            <td>★3.0</td>
+            <td>★3.5</td>
+            <td>★4.0</td>
+            <td>★4.5</td>
+            <td>★5.0</td>
         </tr>
     </thead>
     <tbody>
@@ -431,16 +431,16 @@ image: images/post/story_sprite/icon_3000501.png
             <td>物品ID</td>
             <td></td>
             <td>作物名稱</td>
-            <td>0.5★</td>
-            <td>1.0★</td>
-            <td>1.5★</td>
-            <td>2.0★</td>
-            <td>2.5★</td>
-            <td>3.0★</td>
-            <td>3.5★</td>
-            <td>4.0★</td>
-            <td>4.5★</td>
-            <td>5.0★</td>
+            <td>★0.5</td>
+            <td>★1.0</td>
+            <td>★1.5</td>
+            <td>★2.0</td>
+            <td>★2.5</td>
+            <td>★3.0</td>
+            <td>★3.5</td>
+            <td>★4.0</td>
+            <td>★4.5</td>
+            <td>★5.0</td>
         </tr>
     </thead>
     <tbody>
@@ -574,16 +574,16 @@ image: images/post/story_sprite/icon_3000501.png
             <td>物品ID</td>
             <td></td>
             <td>作物名稱</td>
-            <td>0.5★</td>
-            <td>1.0★</td>
-            <td>1.5★</td>
-            <td>2.0★</td>
-            <td>2.5★</td>
-            <td>3.0★</td>
-            <td>3.5★</td>
-            <td>4.0★</td>
-            <td>4.5★</td>
-            <td>5.0★</td>
+            <td>★0.5</td>
+            <td>★1.0</td>
+            <td>★1.5</td>
+            <td>★2.0</td>
+            <td>★2.5</td>
+            <td>★3.0</td>
+            <td>★3.5</td>
+            <td>★4.0</td>
+            <td>★4.5</td>
+            <td>★5.0</td>
         </tr>
     </thead>
     <tbody>
@@ -657,23 +657,23 @@ image: images/post/story_sprite/icon_3000501.png
             <td>物品ID</td>
             <td></td>
             <td>作物名稱</td>
-            <td>0.5★</td>
-            <td>1.0★</td>
-            <td>1.5★</td>
-            <td>2.0★</td>
-            <td>2.5★</td>
-            <td>3.0★</td>
-            <td>3.5★</td>
-            <td>4.0★</td>
-            <td>4.5★</td>
-            <td>5.0★</td>
+            <td>★0.5</td>
+            <td>★1.0</td>
+            <td>★1.5</td>
+            <td>★2.0</td>
+            <td>★2.5</td>
+            <td>★3.0</td>
+            <td>★3.5</td>
+            <td>★4.0</td>
+            <td>★4.5</td>
+            <td>★5.0</td>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>1101000</td>
             <td><img width= "64px" src= "/images/post/story_sprite/icon_1101000.png"></td>
-            <td>牧草</td>
+            <td>乾草</td>
             <td>30</td>
             <td>34</td>
             <td>39</td>
