@@ -1,6 +1,6 @@
 ---
 title: "【哆啦A夢牧場物語】洞窟劇情線"
-date: 2020-04-11T23:49:02+08:00
+date: 2020-04-14T08:59:00+08:00
 description: "洞窟的劇情發展"
 draft: false
 hideToc: true
@@ -14,7 +14,7 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140050.png
+image: images/post/story_sprite/icon_201140210.png
 ---
 ![洞窟劇情線](/images/post/story_texture2d/EventImage_2300.png)
 ## 洞窟

@@ -20,13 +20,16 @@ image: images/post/img_tip_24_2.png
 角色卡存在兩種品質，<u>グレード</u>（Grade）與<u>レベル</u>（Level）：
 <mark>グレード</mark>，以下稱作<mark>等</mark>，分為`S`、`A`、`B`、`C`四等。
 <mark>レベル</mark>，以下稱作<mark>級</mark>，在【等】之下分為`Lv1`至`Lv10`十級。
+
 ## 角色卡提升品質
 角色卡可以透過收集其他同角色的卡片進行品質的提升。
 + <mark>グレードアップ</mark>，以下稱作<mark>升等</mark>。
 + <mark>レベルアップ</mark>，以下稱作<mark>升級</mark>。
+
 ## 升等條件
 ![升等](/images/post/doraemon-park-upgrade.png)
 + 角色卡要進行升等必須先升級到`Lv10`。
+
 ### 升等花費
 <table border = "7">
 　<tr>
@@ -41,6 +44,7 @@ image: images/post/img_tip_24_2.png
 ![升級](/images/post/doraemon-park-levelup.png)
 + 角色卡升級僅需要任何一張相同角色的卡片即可進行升級。
 + 角色卡升級消耗的角色卡，以下稱作<mark>材料卡</mark>。
+
 ### 升級花費
 <table border = "7">
 　<tr>
@@ -53,6 +57,7 @@ image: images/post/img_tip_24_2.png
     + C等卡升級每消耗一張材料卡需要花費5枚銅鑼燒獎章。
     + B等卡升級每消耗一張材料卡需要花費15枚銅鑼燒獎章。
     + A等卡升級每消耗一張材料卡需要花費30枚銅鑼燒獎章。
+
 ### 升級經驗
 + 角色卡升級的經驗只與<mark>材料卡</mark>的<mark>等</mark>有關。
 + 角色卡使用同等的材料卡升級，每一張提升1級。
