@@ -1,7 +1,7 @@
 ---
-title: "【哆啦A夢牧場物語】37種作物出貨價格"
+title: "【哆啦A夢牧場物語】36種作物出貨價格"
 date: 2020-04-04T16:01:22+08:00
-description: 37種作物各品質出貨價格
+description: 36種作物各品質出貨價格
 draft: false
 hideToc: false
 enableToc: false
@@ -29,13 +29,16 @@ image: images/post/story_sprite/icon_3000501.png
 + [所有物品出貨價格索引](../doraemon-story-index/#出貨價格)
 + `品質等級`為1的物品，`出貨價格`為`基本售價`。
 + `品質等級`超過1的物品，`出貨價格`會根據上一品質等級的出貨價格以`售價倍率`提升並無條件進位至整數。
-    + [春季作物](#春季作物)：10種
-    + [夏季作物](#夏季作物)：13種
-    + [秋季作物](#秋季作物)：8種
-    + [冬季作物](#冬季作物)：4種
-    + [四季作物](#四季作物)：2種
 
-### 春季作物
+### 作物
+作物一共37種，其中牧草收成後的`乾草`不具有品質差異。
++ [春季作物](#春季作物)：10種
++ [夏季作物](#夏季作物)：13種
++ [秋季作物](#秋季作物)：8種
++ [冬季作物](#冬季作物)：4種
++ [四季作物](#四季作物)：1種
+
+#### 春季作物
 <table>
     <thead>
         <tr>
@@ -208,7 +211,7 @@ image: images/post/story_sprite/icon_3000501.png
     </tbody>
 </table>
 
-### 夏季作物
+#### 夏季作物
 <table>
     <thead>
         <tr>
@@ -426,7 +429,7 @@ image: images/post/story_sprite/icon_3000501.png
     </tbody>
 </table>
 
-### 秋季作物
+#### 秋季作物
 <table>
     <thead>
         <tr>
@@ -569,7 +572,7 @@ image: images/post/story_sprite/icon_3000501.png
     </tbody>
 </table>
 
-### 冬季作物
+#### 冬季作物
 <table>
     <thead>
         <tr>
@@ -652,7 +655,7 @@ image: images/post/story_sprite/icon_3000501.png
     </tbody>
 </table>
 
-### 四季作物
+#### 四季作物
 <table>
     <thead>
         <tr>
@@ -672,21 +675,6 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>1101000</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_1101000.png"></td>
-            <td>乾草</td>
-            <td>30</td>
-            <td>34</td>
-            <td>39</td>
-            <td>45</td>
-            <td>51</td>
-            <td>58</td>
-            <td>66</td>
-            <td>75</td>
-            <td>85</td>
-            <td>97</td>
-        </tr>
         <tr>
             <td>3000501</td>
             <td><img width= "64px" src= "/images/post/story_sprite/icon_3000501.png"></td>

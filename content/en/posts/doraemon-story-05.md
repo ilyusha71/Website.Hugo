@@ -32,7 +32,7 @@ image: images/post/story_sprite/icon_201140030.png
 ### 第0話 要開雜貨店嗎？
 + 事件ID：`20006000`
 + 優先度：`4`
-+ 觸發地點：`雜貨店`（`21100`）
++ 觸發地點：`雜貨店`（`20700`）
 
 ![雜貨店](/images/post/map/21100.png)
 + 前置劇情：[巨木第2話 暴風雨後的小鎮](../doraemon-story-00#第2話-暴風雨後的小鎮)（`10000002`）
@@ -40,29 +40,33 @@ image: images/post/story_sprite/icon_201140030.png
 ### 第1話 克魯波克魯是？
 + 事件ID：`20006001`
 + 優先度：`3`
-+ 觸發地點：`雜貨店`（`21100`）
++ 觸發地點：`萬物鎮東`（`11300`）
+    + <mark>雜貨店門口</mark>（ `194.5`,`1.6`,`-128.2`）
 
-![雜貨店](/images/post/map/21100.png)
+![萬物鎮東](/images/post/map/11300.png)
 + 前置劇情：看完佈告欄引導教學（`81001004`）
 + 觸發時間條件
-    + 開始時間：每日`10:00`
-    + 結束時間：每日`16:00`
+    + 開始時間：每日`06:00`
+    + 結束時間：每日`12:00`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計4♥</td>
+            <td>合計6♥</td>
         </tr>
     </thead>
     <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+        <td>涅萊爾</td>
+        <td>埃蒂</td>
+        <td>緹拉兒</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041180.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041170.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041190.png"></td>
     </tr>
     <tr>
+        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
     </tr>
@@ -71,72 +75,75 @@ image: images/post/story_sprite/icon_201140030.png
 ### 第2話 勤勞的埃蒂小姐
 + 事件ID：`20006002`
 + 優先度：`3`
-+ 觸發地點：`雜貨店`（`21100`）
++ 觸發地點：`雜貨店`（`20700`）
 
 ![雜貨店](/images/post/map/21100.png)
-+ 前置劇情：看完佈告欄引導教學（`81001004`）
++ 前置劇情：[雜貨店第1話 克魯波克魯是？](#第1話-克魯波克魯是)（`20006001`）
+    + 間隔天數：`2天`
 + 觸發時間條件
-    + 開始時間：每日`10:00`
-    + 結束時間：每日`16:00`
+    + 開始時間：每日`15:00`
+    + 結束時間：每日`18:00`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計4♥</td>
+            <td>合計6♥</td>
         </tr>
     </thead>
     <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+        <td>埃蒂</td>
+        <td>緹拉兒</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041170.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041190.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
     </tr>
 </table>
 
 ### 第3話 尋找克魯波克魯
 + 事件ID：`20006003`
 + 優先度：`3`
-+ 觸發地點：`雜貨店`（`21100`）
++ 觸發地點：`萬物鎮東`（`11300`）
 
-![雜貨店](/images/post/map/21100.png)
-+ 前置劇情：看完佈告欄引導教學（`81001004`）
+![萬物鎮東](/images/post/map/11300.png)
++ 前置劇情：[雜貨店第2話 勤勞的埃蒂小姐](#第2話-勤勞的埃蒂小姐)（`20006002`）
+    + 間隔天數：`2天`
 + 觸發時間條件
-    + 開始時間：每日`10:00`
+    + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計4♥</td>
+            <td>合計7♥</td>
         </tr>
     </thead>
     <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+        <td>涅萊爾</td>
+        <td>緹拉兒</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041180.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041190.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
     </tr>
 </table>
 
 ### 第4話 緹拉兒的心情
 + 事件ID：`20006004`
 + 優先度：`3`
-+ 觸發地點：`雜貨店`（`21100`）
++ 觸發地點：`埃蒂小姐家`（`20800`）
 
-![雜貨店](/images/post/map/21100.png)
-+ 前置劇情：看完佈告欄引導教學（`81001004`）
+![埃蒂小姐家](/images/post/map/20800.png)
++ 前置劇情：[雜貨店第3話 尋找克魯波克魯](#第3話-尋找克魯波克魯)（`20006003`）
+    + 間隔天數：`2天`
 + 觸發時間條件
     + 開始時間：每日`10:00`
     + 結束時間：每日`16:00`
@@ -144,19 +151,19 @@ image: images/post/story_sprite/icon_201140030.png
 <table>
     <thead>
         <tr>
-            <td>合計4♥</td>
+            <td>合計7♥</td>
         </tr>
     </thead>
     <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+        <td>緹拉兒</td>
+        <td>蘭奇</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041190.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041050.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
     </tr>
 </table>
@@ -164,188 +171,199 @@ image: images/post/story_sprite/icon_201140030.png
 ### 第5話 涅萊爾的心情
 + 事件ID：`20006005`
 + 優先度：`3`
-+ 觸發地點：`雜貨店`（`21100`）
++ 觸發地點：`萬物鎮東`（`11300`）
 
-![雜貨店](/images/post/map/21100.png)
-+ 前置劇情：看完佈告欄引導教學（`81001004`）
+![萬物鎮東](/images/post/map/11300.png)
++ 前置劇情：[雜貨店第4話 緹拉兒的心情](#第4話-緹拉兒的心情)（`20006004`）
+    + 間隔天數：`2天`
 + 觸發時間條件
-    + 開始時間：每日`10:00`
+    + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計4♥</td>
+            <td>合計5♥</td>
         </tr>
     </thead>
     <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+        <td>涅萊爾</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041180.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
 ### 第6話 埃蒂的心情
 + 事件ID：`20006006`
 + 優先度：`3`
-+ 觸發地點：`雜貨店`（`21100`）
++ 觸發地點：`雜貨店`（`20700`）
 
-![雜貨店](/images/post/map/21100.png)
-+ 前置劇情：看完佈告欄引導教學（`81001004`）
+![雜貨店](/images/post/map/20700.png)
++ 前置劇情：[雜貨店第5話 涅萊爾的心情](#第5話-涅萊爾的心情)（`20006005`）
+    + 間隔天數：`2天`
 + 觸發時間條件
-    + 開始時間：每日`10:00`
+    + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計4♥</td>
+            <td>合計5♥</td>
         </tr>
     </thead>
     <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+        <td>埃蒂</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041170.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
 ### 第7話 兒童會議
 + 事件ID：`20006007`
 + 優先度：`3`
-+ 觸發地點：`雜貨店`（`21100`）
++ 觸發地點：`青青農場`（`11500`）
+    + 往`萬物鎮東`方向的`方尖碑`附近（ `28`,`0`,`-150.3`）
 
-![雜貨店](/images/post/map/21100.png)
-+ 前置劇情：看完佈告欄引導教學（`81001004`）
+![方尖碑](/images/post/map/11500-01.png)
++ 前置劇情：[雜貨店第6話 埃蒂的心情](#第6話-埃蒂的心情)（`20006006`）
+    + 間隔天數：`2天`
 + 觸發時間條件
-    + 開始時間：每日`10:00`
-    + 結束時間：每日`16:00`
+    + 開始時間：每日`06:00`
+    + 結束時間：每日`12:00`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計4♥</td>
+            <td>合計10♥</td>
         </tr>
     </thead>
     <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+        <td>緹拉兒</td>
+        <td>蘭奇</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041190.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041050.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
     </tr>
 </table>
 
 ### 第8話 幫忙雜貨店
 + 事件ID：`20006008`
 + 優先度：`3`
-+ 觸發地點：`雜貨店`（`21100`）
++ 觸發地點：`大雄牧場`（`10000`）
 
-![雜貨店](/images/post/map/21100.png)
-+ 前置劇情：看完佈告欄引導教學（`81001004`）
+![大雄牧場](/images/post/map/10000.png)
++ 前置劇情：[雜貨店第7話 兒童會議](#第7話-兒童會議)（`20006007`）
+    + 間隔天數：`2天`
 + 觸發時間條件
-    + 開始時間：每日`10:00`
-    + 結束時間：每日`16:00`
+    + 開始時間：每日`06:00`
+    + 結束時間：每日`12:00`
++ 天氣條件：`下雨天不觸發`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計4♥</td>
+            <td>合計12♥</td>
         </tr>
     </thead>
     <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+        <td>蘭奇</td>
+        <td>緹拉兒</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041050.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041190.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
     </tr>
 </table>
 
 ### 第9話 關於傾訴
 + 事件ID：`20006009`
 + 優先度：`3`
-+ 觸發地點：`雜貨店`（`21100`）
++ 觸發地點：`萬物鎮東`（`11300`）
+    + <mark>未知位置</mark>（ `194.5`,`1.6`,`-128.2`）
 
-![雜貨店](/images/post/map/21100.png)
-+ 前置劇情：看完佈告欄引導教學（`81001004`）
+![萬物鎮東](/images/post/map/11300.png)
++ 前置劇情：[雜貨店第8話 幫忙雜貨店](#第8話-幫忙雜貨店)（`20006008`）
+    + 間隔天數：`2天`
 + 觸發時間條件
-    + 開始時間：每日`10:00`
-    + 結束時間：每日`16:00`
+    + 開始時間：每日`06:00`
+    + 結束時間：每日`12:00`
++ 天氣條件：`下雨天不觸發`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計4♥</td>
+            <td>合計25♥</td>
         </tr>
     </thead>
     <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+        <td>涅萊爾</td>
+        <td>埃蒂</td>
+        <td>緹拉兒</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041180.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041170.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041190.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060090.png"></td>
     </tr>
 </table>
 
 ### 第10話 感情好的親子
 + 事件ID：`20006010`
 + 優先度：`3`
-+ 觸發地點：`雜貨店`（`21100`）
++ 觸發地點：`萬物鎮東`（`11300`）
+    + <mark>未知位置</mark>（ `194.5`,`1.6`,`-128.2`）
 
-![雜貨店](/images/post/map/21100.png)
-+ 前置劇情：看完佈告欄引導教學（`81001004`）
+![萬物鎮東](/images/post/map/11300.png)
++ 前置劇情：[雜貨店第9話 關於傾訴](#第9話-關於傾訴)（`20006009`）
+    + 間隔天數：`2天`
 + 觸發時間條件
-    + 開始時間：每日`10:00`
-    + 結束時間：每日`16:00`
+    + 開始時間：每日`06:00`
+    + 結束時間：每日`12:00`
++ 天氣條件：`下雨天不觸發`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計4♥</td>
+            <td>合計30♥</td>
         </tr>
     </thead>
     <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+        <td>埃蒂</td>
+        <td>涅萊爾</td>
+        <td>緹拉兒</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041170.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041180.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041190.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
     </tr>
 </table>
-
 
 ![結局](/images/post/story_texture2d/EventImage_2600.png)
