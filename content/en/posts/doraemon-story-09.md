@@ -93,7 +93,7 @@ image: images/post/story_sprite/icon_201140100.png
     </tr>
 </table>
 
-在`EventManager.UpdateActiveRewardEvent()`方法中能找到，這一話劇情結束後會下列四個延伸劇情將解鎖：
+在`EventManager.UpdateActiveRewardEvent()`方法中能得知這段劇情結束後，下列四個延伸劇情將解鎖：
 
 #### 獲得超人手套
 + 事件ID：`20014001`
