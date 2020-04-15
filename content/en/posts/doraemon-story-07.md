@@ -1,6 +1,6 @@
 ---
 title: "【哆啦A夢牧場物語】動物商店劇情線"
-date: 2020-04-14T22:15:42+08:00
+date: 2020-04-14T22:00:42+08:00
 description: "布魯、優與菈姆的劇情發展"
 draft: false
 hideToc: true
@@ -32,169 +32,23 @@ image: images/post/story_sprite/icon_201140080.png
 ### 第0話 要開動物商店嗎？
 + 事件ID：`20007000`
 + 優先度：`4`
-+ 觸發地點：`動物商店`（`21100`）
-
-![動物商店](/images/post/map/21100.png)
-+ 前置劇情：[巨木第2話 暴風雨後的小鎮](../doraemon-story-00#第2話-暴風雨後的小鎮)（`10000002`）
-
-### 第1話 親子吵架
-+ 事件ID：`20007001`
-+ 優先度：`3`
-+ 觸發地點：`動物商店`（`21100`）
-
-![動物商店](/images/post/map/21100.png)
-+ 前置劇情：看完佈告欄引導教學（`81001004`）
-+ 觸發時間條件
-    + 開始時間：每日`10:00`
-    + 結束時間：每日`16:00`
-+ NPC好感度總和條件
-<table>
-    <thead>
-        <tr>
-            <td>合計4♥</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-    </tr>
-</table>
-
-### 第2話 要找工作嗎？——動物商店篇
-+ 事件ID：`20007002`
-+ 優先度：`3`
 + 觸發地點：`動物商店`（`20500`）
 
 ![動物商店](/images/post/map/20500.png)
-+ 前置劇情：[動物商店第1話 親子吵架](#第1話-親子吵架)（`20007001`）
-    + 間隔天數：`2天`
++ 前置劇情：[巨木第2話 暴風雨後的小鎮](../doraemon-story-00#第2話-暴風雨後的小鎮)（`10000002`）
+
+### 第1話 菈姆被襲擊了！？
++ 事件ID：`20007001`
++ 優先度：`3`
++ 觸發地點：`萬物鎮西`（`11200`）
+    + `動物商店`門口（`197.7`,`0`,`-12.1`）
+
+![動物商店門口](/images/post/map/11200-205.png)
++ 前置劇情：看完佈告欄引導教學（`81001004`）
 + 觸發時間條件
     + 開始時間：每日`06:00`
     + 結束時間：每日`12:00`
-+ NPC好感度總和條件
-<table>
-    <thead>
-        <tr>
-            <td>合計4♥</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>布拉斯</td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
-    </tr>
-</table>
-
-### 第3話 動物和布拉斯
-+ 事件ID：`20007003`
-+ 優先度：`3`
-+ 觸發地點：`動物商店`（`21100`）
-
-![動物商店](/images/post/map/21100.png)
-+ 前置劇情：[動物商店第2話 要找工作嗎？——動物商店篇](#第2話-要找工作嗎動物商店篇)（`20007002`）
-    + 間隔天數：`2天`
-+ 觸發時間條件
-    + 開始時間：每日`10:00`
-    + 結束時間：每日`16:00`
-+ NPC好感度總和條件
-<table>
-    <thead>
-        <tr>
-            <td>合計4♥</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>斯米克</td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
-    </tr>
-</table>
-
-### 第4話 要找工作嗎？——料理店篇
-+ 事件ID：`20007004`
-+ 優先度：`3`
-+ 觸發地點：`料理店`（`21200`）
-
-![料理店](/images/post/map/21200.png)
-+ 前置劇情：[動物商店第3話 動物和布拉斯](#第3話-動物和布拉斯)（`20007003`）
-    + 間隔天數：`2天`
-+ 觸發時間條件
-    + 開始時間：每日`12:00`
-    + 結束時間：每日`18:00`
-+ NPC好感度總和條件
-<table>
-    <thead>
-        <tr>
-            <td>合計5♥</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>布拉斯</td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
-    </tr>
-</table>
-
-### 第5話 廚藝差是遺傳？
-+ 事件ID：`20007005`
-+ 優先度：`3`
-+ 觸發地點：`動物商店`（`21100`）
-
-![動物商店](/images/post/map/21100.png)
-+ 前置劇情：[動物商店第4話 要找工作嗎？——料理店篇](#第4話-要找工作嗎料理店篇)（`20007004`）
-    + 間隔天數：`2天`
-+ 觸發時間條件
-    + 開始時間：每日`10:00`
-    + 結束時間：每日`16:00`
-+ NPC好感度總和條件
-<table>
-    <thead>
-        <tr>
-            <td>合計5♥</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>斯米克</td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
-    </tr>
-</table>
-
-### 第6話 布拉斯的寶物
-+ 事件ID：`20007006`
-+ 優先度：`3`
-+ 觸發地點：`動物商店`（`21100`）
-
-![動物商店](/images/post/map/21100.png)
-+ 前置劇情：[動物商店第5話 廚藝差是遺傳？](#第5話-廚藝差是遺傳)（`20007005`）
-    + 間隔天數：`2天`
-+ 觸發時間條件
-    + 開始時間：每日`12:00`
-    + 結束時間：每日`18:00`
++ 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
 + NPC好感度總和條件
 <table>
     <thead>
@@ -203,28 +57,102 @@ image: images/post/story_sprite/icon_201140080.png
         </tr>
     </thead>
     <tr>
-        <td>布拉斯</td>
+        <td>菈姆</td>
+        <td>布魯</td>
+        <td>優</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041110.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041120.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
     </tr>
 </table>
 
-### 第7話 和好如初？
-+ 事件ID：`20007007`
+### 第2話 和動物聊聊
++ 事件ID：`20007002`
 + 優先度：`3`
-+ 觸發地點：`萬物鎮東`（`11300`）
-    + <mark>未知位置</mark>（ `171.9`,`0`,`-129.8`）
++ 觸發地點：`萬物鎮西`（`11200`）
+    + `動物商店`門口（`197.7`,`0`,`-12.1`）
 
-![萬物鎮東](/images/post/map/11300.png)
-+ 前置劇情：[動物商店第6話 布拉斯的寶物](#第6話-布拉斯的寶物)（`20007006`）
+![動物商店門口](/images/post/map/11200-205.png)
++ 前置劇情：[動物商店第1話 菈姆被襲擊了！？](#第1話-菈姆被襲擊了)（`20007001`）
     + 間隔天數：`2天`
 + 觸發時間條件
-    + 開始時間：每日`12:00`
-    + 結束時間：每日`18:00`
+    + 開始時間：每日`06:00`
+    + 結束時間：每日`12:00`
++ 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
++ NPC好感度總和條件
+<table>
+    <thead>
+        <tr>
+            <td>合計3♥</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>菈姆</td>
+    </tr>
+    <tr>
+        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
+    </tr>
+    <tr>
+        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+    </tr>
+</table>
+
+### 第3話 牛奶沒了！
++ 事件ID：`20007003`
++ 優先度：`3`
++ 觸發地點：`萬物鎮西`（`11200`）
+    + `動物商店`門口（`197.7`,`0`,`-12.1`）
+
+![動物商店門口](/images/post/map/11200-205.png)
++ 前置劇情：[動物商店第2話 和動物聊聊](#第2話-和動物聊聊)（`20007002`）
+    + 間隔天數：`2天`
++ 觸發時間條件
+    + 開始時間：每日`06:00`
+    + 結束時間：每日`16:00`
++ 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
++ NPC好感度總和條件
+<table>
+    <thead>
+        <tr>
+            <td>合計10♥</td>
+        </tr>
+    </thead>
+    <tr>        
+        <td>布魯</td>
+        <td>優</td>
+        <td>菈姆</td>
+    </tr>
+    <tr>        
+        <td><img src= "/images/post/story_sprite/icon_201041110.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041120.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
+    </tr>
+    <tr>
+        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+    </tr>
+</table>
+
+### 第4話 菈姆的動物語講座
++ 事件ID：`20007004`
++ 優先度：`3`
++ 觸發地點：`大雄牧場`（`10000`）
+
+![大雄牧場](/images/post/map/10000.png)
++ 前置劇情：[動物商店第3話 牛奶沒了！](#第3話-牛奶沒了)（`20007003`）
+    + 間隔天數：`2天`
++ 觸發時間條件
+    + 開始時間：每日`06:00`
+    + 結束時間：每日`12:00`
++ 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
 + NPC好感度總和條件
 <table>
     <thead>
@@ -232,119 +160,228 @@ image: images/post/story_sprite/icon_201140080.png
             <td>合計13♥</td>
         </tr>
     </thead>
-    <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+    <tr>        
+        <td>布魯</td>
+        <td>優</td>
+        <td>菈姆</td>
+    </tr>
+    <tr>        
+        <td><img src= "/images/post/story_sprite/icon_201041110.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041120.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+    </tr>
+</table>
+
+### 第5話 迷路的小羊
++ 事件ID：`20007005`
++ 優先度：`3`
++ 觸發地點：`萬物鎮西`（`11200`）
+    + `動物商店`門口（`197.7`,`0`,`-12.1`）
+
+![動物商店門口](/images/post/map/11200-205.png)
++ 前置劇情：[動物商店第4話 菈姆的動物語講座](#第4話-菈姆的動物語講座)（`20007004`）
+    + 間隔天數：`2天`
++ 觸發時間條件
+    + 開始時間：每日`06:00`
+    + 結束時間：每日`16:00`
++ 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
++ NPC好感度總和條件
+<table>
+    <thead>
+        <tr>
+            <td>合計6♥</td>
+        </tr>
+    </thead>
+    <tr>        
+        <td>菈姆</td>
+    </tr>
+    <tr>        
+        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
     </tr>
     <tr>
+        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
+    </tr>
+</table>
+
+### 第6話 菈姆的擔憂
++ 事件ID：`20007006`
++ 優先度：`3`
++ 觸發地點：`萬物鎮西`（`11200`）
+    + `動物商店`門口（`197.7`,`0`,`-12.1`）
+
+![動物商店門口](/images/post/map/11200-205.png)
++ 前置劇情：[動物商店第5話 迷路的小羊](#第5話-迷路的小羊)（`20007005`）
+    + 間隔天數：`2天`
++ 觸發時間條件
+    + 開始時間：每日`18:00`
+    + 結束時間：每日`20:00`
++ NPC好感度總和條件
+<table>
+    <thead>
+        <tr>
+            <td>合計10♥</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>布魯</td>
+        <td>優</td>
+    </tr>
+    <tr>
+        <td><img src= "/images/post/story_sprite/icon_201041110.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041120.png"></td>
+    </tr>
+    <tr>
+        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+    </tr>
+</table>
+
+### 第7話 失蹤的菈姆
++ 事件ID：`20007007`
++ 優先度：`3`
++ 觸發地點：`大雄牧場`（`10000`）
+
+![大雄牧場](/images/post/map/10000.png)
++ 前置劇情：
+    + [動物商店第6話 菈姆的擔憂](#第6話-菈姆的擔憂)（`20007006`）
+    + [](#)（`30001002`）
++ 觸發時間條件
+    + 開始時間：每日`16:00`
+    + 結束時間：每日`19:00`
++ 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
++ NPC好感度總和條件
+<table>
+    <thead>
+        <tr>
+            <td>合計19♥</td>
+        </tr>
+    </thead>
+    <tr>        
+        <td>布魯</td>
+        <td>優</td>
+        <td>菈姆</td>
+    </tr>
+    <tr>        
+        <td><img src= "/images/post/story_sprite/icon_201041110.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041120.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
+    </tr>
+    <tr>
+        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
     </tr>
 </table>
 
-### 第8話 就是無法坦率
+### 第8話 羊群
 + 事件ID：`20007008`
 + 優先度：`3`
-+ 觸發地點：`動物商店`（`21100`）
++ 觸發地點：`大雄牧場`（`10000`）
 
-![動物商店](/images/post/map/21100.png)
-+ 前置劇情：[動物商店第7話 和好如初？](#第7話-和好如初)（`20007007`）
+![大雄牧場](/images/post/map/10000.png)
++ 前置劇情：[動物商店第7話 失蹤的菈姆](#第7話-失蹤的菈姆)（`20007007`）
     + 間隔天數：`2天`
 + 觸發時間條件
     + 開始時間：每日`12:00`
-    + 結束時間：每日`18:00`
+    + 結束時間：每日`16:00`
++ 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計16♥</td>
+            <td>合計22♥</td>
         </tr>
     </thead>
-    <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+    <tr>        
+        <td>布魯</td>
+        <td>優</td>
+        <td>菈姆</td>
+    </tr>
+    <tr>        
+        <td><img src= "/images/post/story_sprite/icon_201041110.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041120.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
     </tr>
 </table>
 
-#### 分支劇情：和斯米克先生搭話
-+ 事件ID：`20005200`
-+ 優先度：`5`
-
-#### 分支劇情：去追布拉斯
-+ 事件ID：`20005100`
-+ 優先度：`5`
-
-### 第9話 變坦率了……？
-+ 事件ID：`20007001`
+### 第9話 往羊群的方向
++ 事件ID：`20007009`
 + 優先度：`3`
-+ 觸發地點：`動物商店`（`21100`）
++ 觸發地點：`大雄牧場`（`10000`）
 
-![動物商店](/images/post/map/21100.png)
-+ 前置劇情：[動物商店第8話分支劇情：去追布拉斯](#分支劇情去追布拉斯)（`20005100`）
+![大雄牧場](/images/post/map/10000.png)
++ 前置劇情：[動物商店第8話 羊群](#第8話-羊群)（`20007008`）
     + 間隔天數：`2天`
 + 觸發時間條件
     + 開始時間：每日`12:00`
-    + 結束時間：每日`18:00`
+    + 結束時間：每日`16:00`
++ 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計18♥</td>
+            <td>合計25♥</td>
         </tr>
     </thead>
-    <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+    <tr>        
+        <td>布魯</td>
+        <td>優</td>
+        <td>菈姆</td>
+    </tr>
+    <tr>        
+        <td><img src= "/images/post/story_sprite/icon_201041110.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041120.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
-    </tr>
-    <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060090.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201060090.png"></td>
     </tr>
 </table>
 
-### 第10話 變坦率的第一步
-+ 事件ID：`20007001`
+### 第10話 大家都在喔
++ 事件ID：`20007010`
 + 優先度：`3`
-+ 觸發地點：`動物商店`（`21100`）
++ 觸發地點：`萬物鎮西`（`11200`）
+    + `動物商店`門口（`197.7`,`0`,`-12.1`）
 
-![動物商店](/images/post/map/21100.png)
-+ 前置劇情：[動物商店第8話分支劇情：和斯米克先生搭話](#分支劇情和斯米克先生搭話)（`20005200`）
+![動物商店門口](/images/post/map/11200-205.png)
++ 前置劇情：[動物商店第9話 往羊群的方向](#第9話-往羊群的方向)（`20007009`）
     + 間隔天數：`2天`
 + 觸發時間條件
     + 開始時間：每日`12:00`
-    + 結束時間：每日`18:00`
+    + 結束時間：每日`16:00`
++ 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
 + NPC好感度總和條件
 <table>
     <thead>
         <tr>
-            <td>合計20♥</td>
+            <td>合計30♥</td>
         </tr>
     </thead>
-    <tr>
-        <td>斯米克</td>
-        <td>布拉斯</td>
+    <tr>        
+        <td>布魯</td>
+        <td>優</td>
+        <td>菈姆</td>
+    </tr>
+    <tr>        
+        <td><img src= "/images/post/story_sprite/icon_201041110.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041120.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
-    </tr>
-    <tr>
+        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
     </tr>

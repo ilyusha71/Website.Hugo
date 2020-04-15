@@ -1,6 +1,6 @@
 ---
 title: "【哆啦A夢牧場物語】攻略全資料索引"
-date: 2020-04-15T23:59:59+08:00
+date: 2112-09-03T23:59:59+09:00
 description: "哆啦A夢牧場物語攻略大全"
 draft: false
 hideToc: false
@@ -197,13 +197,20 @@ image: images/post/story_sprite/icon_301010600.png
     </tr>
     <tr>
         <td><img width="100px" src= "/images/post/story_sprite/icon_301140100.png"></td>
-        <td><a href="../">木工店 咚吭噹</a></td>
+        <td><a href="../doraemon-story-shop-hammer-carpenter-shop">木工店 咚吭噹</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-hammer-carpenter-shop#建築"><img width="64px" src= "/images/post/story_sprite/icon_201080012.png">建築</a></td>
     </tr>
     <tr>
         <td><img width="100px" src= "/images/post/story_sprite/icon_301300000.png"></td>
         <td><a href="../">克魯波克魯</a></td>
     </tr>
 </table>
+
+
+
+
+## 地理
+
 
 ## 出貨價格
 <table>
@@ -272,6 +279,9 @@ image: images/post/story_sprite/icon_301010600.png
 + 節日資訊
 + 競賽資訊
 + 食譜大全
+
+## 攻略
++ [黃金雞蛋、黃金牛奶與黃金羊毛的取得條件](../doraemon-story-golden-quality-items)
 
 ## 分析計算
 + [作物播種與收成的品質計算](../doraemon-story-crop-part1)

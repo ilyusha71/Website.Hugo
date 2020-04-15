@@ -24,6 +24,7 @@ image: images/post/story_sprite/icon_3400111.png
 + [所有物品出貨價格索引](../doraemon-story-index/#出貨價格)
 + `品質等級`為1的物品，`出貨價格`為`基本售價`。
 + `品質等級`超過1的物品，`出貨價格`會根據上一品質等級的出貨價格以`售價倍率`提升並無條件進位至整數。
++ `黃金品質`物品的取得方法參考[黃金品質原料取得條件](../doraemon-story-golden-quality-items)。
 
 ### 牧場採集
 <table>
@@ -138,7 +139,7 @@ image: images/post/story_sprite/icon_3400111.png
     </tbody>
 </table>
 
-### 廚房加工
+### 調理加工
 <table>
     <thead>
         <tr>

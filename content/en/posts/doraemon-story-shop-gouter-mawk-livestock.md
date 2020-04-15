@@ -85,28 +85,22 @@ image: images/post/story_sprite/icon_301120000.png
             <td></td>
             <td>動物名稱</td>
             <td>販售價格</td>
-            <td></td>
-            <td>動物名稱</td>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>900100</td>
             <td>110</td>
-            <td><img width= "96px" src= "/images/post/story_sprite/icon_201031110.png"></td>
-            <td>小牛崽兒</td>
-            <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">6000</td>
             <td><img width= "96px" src= "/images/post/story_sprite/icon_201031100.png"></td>
             <td>牛</td>
+            <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">6000</td>
         </tr>
         <tr>
             <td>900101</td>
             <td>112</td>
-            <td><img width= "96px" src= "/images/post/story_sprite/icon_201031130.png"></td>
-            <td>小羊崽兒</td>
-            <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">4000</td>
             <td><img width= "96px" src= "/images/post/story_sprite/icon_201031120.png"></td>
             <td>羊</td>
+            <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">4000</td>
         </tr>
     </tbody>
 </table>
@@ -201,6 +195,8 @@ image: images/post/story_sprite/icon_301120000.png
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
+            <td></td>
+            <td>幼崽名稱</td>
         </tr>
     </thead>
     <tbody>
@@ -210,6 +206,8 @@ image: images/post/story_sprite/icon_301120000.png
             <td><img width= "64px" src= "/images/post/story_sprite/icon_1101030.png"></td>
             <td>牛種子</td>
             <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">3000</td>
+            <td><img width= "96px" src= "/images/post/story_sprite/icon_201031110.png"></td>
+            <td>小牛崽兒</td>
         </tr>
         <tr>
             <td>100108</td>
@@ -217,6 +215,8 @@ image: images/post/story_sprite/icon_301120000.png
             <td><img width= "64px" src= "/images/post/story_sprite/icon_1101040.png"></td>
             <td>羊種子</td>
             <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">2000</td>
+            <td><img width= "96px" src= "/images/post/story_sprite/icon_201031130.png"></td>
+            <td>小羊崽兒</td>
         </tr>
     </tbody>
 </table>
@@ -275,22 +275,36 @@ image: images/post/story_sprite/icon_301120000.png
 
 #### 動物鈴解鎖條件
 <table>
+    <thead>
+        <tr>
+            <td>寬闊的動物小屋</td>
+            <td>牛鈴</td>
+            <td>羊鈴</td>
+        </tr>
+    </thead>
     <tr>
         <td rowspan="2"><img src= "/images/post/story_sprite/icon_201080021.png"></td>
         <td><img width= "64px" src= "/images/post/story_sprite/icon_1001150.png"></td>
         <td><img  width= "64px" src= "/images/post/story_sprite/icon_1001151.png"></td>
     </tr>
     <tr>
-        <td colspan="2">+ 寬闊的動物小屋<br>建完後才會在動物商店上架。</td>
+        <td colspan="2">+ <a href="../doraemon-story-shop-hammer-carpenter-shop#動物小屋升級">寬闊的動物小屋</a><br>升級完成後才會在動物商店上架。</td>
     </tr>
 </table>
 <table>
+    <thead>
+        <tr>
+            <td>巨大的動物小屋</td>
+            <td>巨大的雞小屋</td>
+            <td>引導鈴</td>
+        </tr>
+    </thead>
     <tr>
         <td rowspan="2"><img src= "/images/post/story_sprite/icon_201080022.png"></td>
         <td rowspan="2"><img src= "/images/post/story_sprite/icon_201080032.png"></td>
         <td><img  width= "64px" src= "/images/post/story_sprite/icon_1001153.png"></td>
     </tr>
     <tr>
-        <td>+ 巨大的動物小屋<br>+ 巨大的雞小屋<br>建完後才會在動物商店上架。</td>
+        <td>+ <a href="../doraemon-story-shop-hammer-carpenter-shop#動物小屋升級">巨大的動物小屋</a><br>+ <a href="../doraemon-story-shop-hammer-carpenter-shop#雞小屋升級">巨大的雞小屋</a><br>升級完成後才會在動物商店上架。</td>
     </tr>
 </table>
