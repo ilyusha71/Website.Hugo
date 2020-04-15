@@ -55,8 +55,6 @@ image: images/post/story_sprite/icon_301080200.png
     + 是否為單一物品：`IsSingleItem`
     + 只能購買一次：`CanBuyOnce`
     + 是否需要庫存空間：`IsNeedToEmptyInventory`
-+ 物品定義類：`Item`
-    + 動物鈴能否販售的方法：`CanSaleBell(int item_id)`
 
 ### 調用狀態
 + 牧場工作狀態：`FarmWorkState`
@@ -66,6 +64,10 @@ image: images/post/story_sprite/icon_301080200.png
         + `ShopMasterCollection.GetAllNotDisplayChickenShopDatas()`
         + `ConvertAnimalShopItemDatas(ShopMasterModel[] animal_shop_datas)`
         + `ShopMasterCollection.GetAllDisplayChickenShopDatas()`
+
+### 販售條件
++ 物品定義類：`Item`
+    + 動物鈴販售解鎖：`CanSaleBell(int item_id)`
 
 ## 小雞商店商品資料
 + [動物](#動物)：1種
@@ -172,6 +174,6 @@ image: images/post/story_sprite/icon_301080200.png
         <td><img width= "64px" src= "/images/post/story_sprite/icon_1001152.png"></td>
     </tr>
     <tr>
-        <td>+ <a href="../doraemon-story-shop-hammer-carpenter-shop#雞小屋升級">寬闊的雞小屋</a><br>升級完成後才會在小雞商店上架。</td>
+        <td>+ <a href="../doraemon-story-shop-hammer-carpenter-shop#擴建雞小屋">寬闊的雞小屋</a><br>擴建完成後才會在小雞商店上架。</td>
     </tr>
 </table>

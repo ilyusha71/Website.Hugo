@@ -55,8 +55,6 @@ image: images/post/story_sprite/icon_301120000.png
     + 是否為單一物品：`IsSingleItem`
     + 只能購買一次：`CanBuyOnce`
     + 是否需要庫存空間：`IsNeedToEmptyInventory`
-+ 物品定義類：`Item`
-    + 動物鈴能否販售的方法：`CanSaleBell(int item_id)`
 + 吸引搖鈴指令類：`RingTheAttractBellCommand`
 + 引導搖鈴指令類：`RingTheLeadBellCommand`
 
@@ -68,6 +66,10 @@ image: images/post/story_sprite/icon_301120000.png
         + `ShopMasterCollection.GetAllNotDisplayCattleAndSheepShopDatas()`
         + `ConvertAnimalShopItemDatas(ShopMasterModel[] animal_shop_datas)`
         + `ShopMasterCollection.GetAllDisplayCattleAndSheepShopDatas()`
+
+### 販售條件
++ 物品定義類：`Item`
+    + 動物鈴販售解鎖：`CanSaleBell(int item_id)`
 
 ## 動物商店商品資料
 + [動物](#動物)：2種
@@ -288,7 +290,7 @@ image: images/post/story_sprite/icon_301120000.png
         <td><img  width= "64px" src= "/images/post/story_sprite/icon_1001151.png"></td>
     </tr>
     <tr>
-        <td colspan="2">+ <a href="../doraemon-story-shop-hammer-carpenter-shop#動物小屋升級">寬闊的動物小屋</a><br>升級完成後才會在動物商店上架。</td>
+        <td colspan="2">+ <a href="../doraemon-story-shop-hammer-carpenter-shop#擴建動物小屋">寬闊的動物小屋</a><br>擴建完成後才會在動物商店上架。</td>
     </tr>
 </table>
 <table>
@@ -305,6 +307,6 @@ image: images/post/story_sprite/icon_301120000.png
         <td><img  width= "64px" src= "/images/post/story_sprite/icon_1001153.png"></td>
     </tr>
     <tr>
-        <td>+ <a href="../doraemon-story-shop-hammer-carpenter-shop#動物小屋升級">巨大的動物小屋</a><br>+ <a href="../doraemon-story-shop-hammer-carpenter-shop#雞小屋升級">巨大的雞小屋</a><br>升級完成後才會在動物商店上架。</td>
+        <td>+ <a href="../doraemon-story-shop-hammer-carpenter-shop#擴建動物小屋">巨大的動物小屋</a><br>+ <a href="../doraemon-story-shop-hammer-carpenter-shop#擴建雞小屋">巨大的雞小屋</a><br>擴建完成後才會在動物商店上架。</td>
     </tr>
 </table>

@@ -17,23 +17,43 @@ categories:
 - 商店
 image: images/post/story_sprite/icon_301140100.png
 ---
+<mark>最後更新：2020/04/15</mark>
+## 木工店MOD資料庫
++ 工藝商品模板類：`CraftShopItemDataModel`，商店上架的商品實例。
+    + 商品ID：`Id`
+    + 商品類型：`ItemType`
+    + 物品ID：`ItemId`
+    + 商品等級：`ItemLevel`
+    + 商品名稱：`Name`
+    + 商品描述：`Description`
+    + 附加文字：`AppendText`
+    + 商品價格：`Price`
+    + 圖集ID：`AtlasId`
+    + 圖片ID：`SpriteId`
+    + 所需材料：`MaterialItems`
+    + 分類：`Category`
+    + 是否需要庫存空間：`IsNeedToEmptyInventory`
+### 調用狀態
+### 販售條件
++ 牧場工作狀態：`FarmWorkState`
+    + 建築擴建條件：`CraftShopItemDataModel[] GetBuildingShopItemDatas()`
+
 ## 木工店商品資料
 + [建築](#建築)：11種
-    + [大雄的家升級](#大雄的家升級)：2種
-    + [動物小屋升級](#動物小屋升級)：2種
-    + [雞小屋升級](#雞小屋升級)：2種
-    + [牧場擴建](#牧場擴建)：5種
+    + [擴建大雄的家](#擴建大雄的家)：2種
+    + [擴建動物小屋](#擴建動物小屋)：2種
+    + [擴建雞小屋](#擴建雞小屋)：2種
+    + [建造](#建造)：5種
 + [材料](#材料)：種
 + [裝飾](../doraemon-story-shop-hammer-carpenter-shop-Deco)：種
 
 ### 建築
-木工店進行建築的升級或擴建過程有下列條件：
+木工店進行建築的擴建或建造過程有下列條件：
 + 建築工程會從`潘特`接受委託後的下一個木工店營業日開始。
 + 非木工店營業時間將不計入`工程天數`並自動順延。
 + 木工店營業時間遇到慶典活動也不計入`工程天數`並自動順延。
 
-#### 大雄的家升級
-大雄的家升級為`寬闊的家`之後，將會擁有`廚房`與`冰箱`。
+#### 擴建大雄的家
 <table>
     <thead>
         <tr>
@@ -93,7 +113,14 @@ image: images/post/story_sprite/icon_301140100.png
     </tbody>
 </table>
 
-#### 動物小屋升級
+##### 解鎖項目
++ `寬闊的家`擴建完成
+    + 可使用`廚房`
+    + 可使用`冰箱`
++ `巨大的家`擴建完成
+    + `木工店`解鎖[建造](#建造)項目：`溫室`（1/1條件）
+
+#### 擴建動物小屋
 <table>
     <thead>
         <tr>
@@ -153,9 +180,17 @@ image: images/post/story_sprite/icon_301140100.png
     </tbody>
 </table>
 
-升級`巨大的動物小屋`之前必須先先擴建完成`動物小屋的筒倉`。
+##### 解鎖項目
++ `寬闊的動物小屋`擴建完成：
+    + 可飼養的牛羊從`5頭`增加至`10頭`。
+    + 牛羊可在動物小屋`生產`幼崽。
+    + `動物商店`解鎖[動物鈴](../doraemon-story-shop-gouter-mawk-livestock/#動物鈴)販售：`牛鈴`（1/1條件）
+    + `動物商店`解鎖[動物鈴](../doraemon-story-shop-gouter-mawk-livestock/#動物鈴)販售：`羊鈴`（1/1條件）
++ `巨大的動物小屋`擴建完成：
+    + 可飼養的牛羊從`10頭`增加至`20頭`。
+    + `動物商店`解鎖[動物鈴](../doraemon-story-shop-gouter-mawk-livestock/#動物鈴)販售：`引導鈴`（1/2條件）
 
-#### 雞小屋升級
+#### 擴建雞小屋
 <table>
     <thead>
         <tr>
@@ -215,9 +250,16 @@ image: images/post/story_sprite/icon_301140100.png
     </tbody>
 </table>
 
-升級`巨大的雞小屋`之前必須先擴建完成`雞小屋的筒倉`。
+##### 解鎖項目
++ `寬闊的雞小屋`擴建完成：
+    + 可飼養的雞從`5頭`增加至`10頭`。
+    + 雞可在雞小屋`孵蛋`。
+    + `小雞商店`解鎖[動物鈴](../doraemon-story-shop-cuckoo-house-chickens/#動物鈴)販售：`雞鈴`（1/1條件）
++ `巨大的雞小屋`擴建完成：
+    + 可飼養的雞從`10頭`增加至`20頭`。
+    + `動物商店`解鎖[動物鈴](../doraemon-story-shop-gouter-mawk-livestock/#動物鈴)販售：`引導鈴`（1/2條件）
 
-#### 牧場擴建
+#### 建造
 <table>
     <thead>
         <tr>
@@ -303,4 +345,10 @@ image: images/post/story_sprite/icon_301140100.png
     </tbody>
 </table>
 
-擴建`溫室`之前必須先升級完成`巨大的家`。
+##### 解鎖項目
++ `動物小屋的筒倉`擴建完成：
+    + `木工店`解鎖[擴建](#擴建動物小屋)項目：`寬闊的動物小屋`（1/1條件）
++ `雞小屋的筒倉`擴建完成：
+    + `木工店`解鎖[擴建](#擴建雞小屋)項目：`寬闊的雞小屋`（1/1條件）
++ `馬小屋`擴建完成
++ `溫室`擴建完成
