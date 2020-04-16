@@ -29,7 +29,7 @@ image: images/post/story_sprite/icon_201140200.png
 ### 第1話 用門改變裝潢！？
 + 事件ID：`30001001`
 + 優先度：`2`
-+ 觸發地點：`萬物鎮東`（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
 
 ![萬物鎮東](/images/post/map/11300.png)
 + 觸發時間條件📆

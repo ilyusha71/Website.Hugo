@@ -56,6 +56,8 @@ image: images/post/story_sprite/icon_201140160.png
     </tr>
 </table>
 
+{{< youtube Ggl8g9q0avY >}}
+
 ### 第2話 溫柔的熊
 + 事件ID：`40005002`
 + 優先度：`3`
@@ -85,5 +87,7 @@ image: images/post/story_sprite/icon_201140160.png
         <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
     </tr>
 </table>
+
+{{< youtube Ggl8g9q0avY >}}
 
 ![結局](/images/post/story_texture2d/EventImage_3004.png)

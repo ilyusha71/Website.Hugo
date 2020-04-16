@@ -38,6 +38,8 @@ image: images/post/story_sprite/icon_201140140.png
     + 開始時間：每日`06:00`
     + 結束時間：每日`16:00`
 
+{{< youtube 21STv2M68Bg >}}
+
 ### 第2話 小馬與我
 + 事件ID：`40001002`
 + 優先度：`3`
@@ -62,6 +64,8 @@ image: images/post/story_sprite/icon_201140140.png
         <td><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Half.png"></td>
     </tr>
 </table>
+
+{{< youtube NSSa4IkjPLw >}}
 
 ### 第3話 把小馬還來！
 + 事件ID：`40001003`
@@ -88,12 +92,17 @@ image: images/post/story_sprite/icon_201140140.png
     </tr>
 </table>
 
+{{< youtube Rq68T6Z81fI >}}
+
 ### 第4話 小馬回來了
 + 事件ID：`40001004`
 + 優先度：`3`
 + 前置劇情：[馬第3話 把小馬還來！](#第3話-把小馬還來)（`40001003`）
+    + 間隔天數：`1天`
 + 觸發時間條件📆
     + 開始時間：每日`06:00`
     + 結束時間：每日`12:00`
+
+{{< youtube Ggl8g9q0avY >}}
 
 ![結局](/images/post/story_texture2d/EventImage_3000.png)

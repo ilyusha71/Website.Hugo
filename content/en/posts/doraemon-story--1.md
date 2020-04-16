@@ -270,7 +270,8 @@ image: images/post/story_sprite/icon_201140010.png
 
 ## 建築完成事件
 ### 寬闊的家擴建完成
-+ 事件ID：`10120101`
++ 事件ID：`10120100`、`10120101`
++ 優先度：`100`
 <table>
     <thead>
         <tr>

@@ -215,7 +215,7 @@ image: images/post/story_sprite/icon_201140050.png
 ### 第7話 和好如初？
 + 事件ID：`20005007`
 + 優先度：`3`
-+ 觸發地點：`萬物鎮東`（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + <mark>未知位置</mark>（`171.9`,`0`,`-129.8`）
 
 ![萬物鎮東](/images/post/map/11300.png)
