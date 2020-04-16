@@ -32,8 +32,8 @@ image: images/post/story_sprite/icon_201140200.png
 + 觸發地點：`萬物鎮東`（`11300`）
 
 ![萬物鎮東](/images/post/map/11300.png)
-+ 觸發時間條件
-    + 開始時間：第一年夏季1日`06:00`
++ 觸發時間條件📆
+    + 開始時間：第1年夏季1日`06:00`
     + 結束時間：每日`19:00`
 
 ### 第2話 送們當禮物
@@ -41,13 +41,41 @@ image: images/post/story_sprite/icon_201140200.png
 + 優先度：`2`
 + 前置劇情：[秘密道具第1話 用門改變裝潢！？](#第1話-用門改變裝潢)（`30001001`）
 + NPC：`潘特`（`114`）
-    + 送禮：`金礦石`（`4001003`）
+    + 送禮🎁：`金礦石`（`4001003`）
 <table>
+    <thead>
+        <tr>
+            <td>潘特</td>
+            <td>金礦石</td>
+            <td>取得途徑</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
         <td><img src= "/images/post/story_sprite/icon_4001003.png"></td>
+        <td>礦坑N層挖取、打鐵店購買</td>
     </tr>
 </table>
+
+#### 獲得任意門
+<table>
+    <thead>
+        <tr>
+            <td>持有者</td>
+            <td>保管者</td>
+            <td>秘密道具</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201041000.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_1002120.png"></td>
+    </tr>
+</table>
+
+`潘特`打造完成新門後，`亞緬`會把`任意門`（`1002120`）還給`大雄`。
++ `任意門`可在各個區域之間快速移動。
++ `任意門`每次使用後會記錄`進入`與`出來`的兩個區域。
 
 ### 第3話 秘密基地
 + 事件ID：`30002001`
@@ -62,16 +90,31 @@ image: images/post/story_sprite/icon_201140200.png
 + 優先度：`2`
 + 前置劇情：[秘密道具第3話 秘密基地](#第3話-秘密基地)（`30002001`）
 + NPC：`肯`（`110`）
-    + 送禮：`旗魚`（`5000127`）
+    + 送禮🎁：`旗魚`（`5000127`）
 <table>
+    <thead>
+        <tr>
+            <td>肯</td>
+            <td>旗魚</td>
+            <td>取得途徑</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_201041100.png"></td>
         <td><img src= "/images/post/story_sprite/icon_5000127.png"></td>
+        <td>濤濤海濱、濤濤海岬釣取</td>
     </tr>
 </table>
 
 #### 獲得穿透環
 <table>
+    <thead>
+        <tr>
+            <td>持有者</td>
+            <td>保管者</td>
+            <td>秘密道具</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_201041100.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201041000.png"></td>
@@ -88,18 +131,27 @@ image: images/post/story_sprite/icon_201140200.png
 + 觸發地點：`大雄牧場`（`10000`）
 
 ![大雄牧場](/images/post/map/10000.png)
-+ 觸發時間條件
-    + 開始時間：第一年秋季1日`06:00`
++ 觸發時間條件📆
+    + 開始時間：第1年秋季1日`06:00`
     + 結束時間：每日`12:00`
 
-#### 解鎖工具與機器
+#### 獲得發明家
 <table>
+    <thead>
+        <tr>
+            <td>持有者</td>
+            <td>保管者</td>
+            <td>秘密道具</td>
+        </tr>
+    </thead>
     <tr>
+        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
         <td><img src= "/images/post/story_sprite/icon_1002200.png"></td>
     </tr>
 </table>
 
+#### 解鎖工具與機器
 `斯米克`借用`發明家`（`1002200`）之後，工具將能再進一步升級為`輕輕鬆鬆系列`，同時也能購買`機器`。
 <table>
     <thead>
@@ -145,7 +197,14 @@ image: images/post/story_sprite/icon_201140200.png
 + 優先度：`2`
 + 必要物品：`馬竹`（`4001020`）
 <table>
+    <thead>
+        <tr>
+            <td>馬竹</td>
+            <td>取得途徑</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_4001020.png"></td>
+        <td>透過地底釣竿取得</td>
     </tr>
 </table>

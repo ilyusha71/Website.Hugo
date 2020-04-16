@@ -28,6 +28,62 @@ image: images/post/story_sprite/icon_201140160.png
 </table>
 
 ### 第1話 採集蘋果
++ 事件ID：`40005001`
++ 優先度：`3`
++ 觸發地點：`大雄牧場`（`10000`）
+
+![大雄牧場](/images/post/map/10000.png)
++ 觸發時間條件📆
+    + 開始時間：
+        + 每年`春季1日`
+        + 每日`10:00`
+    + 結束時間：
+        + 每年`秋季30日`
+        + 每日`16:00`
+    + <mark>冬季熊會冬眠</mark>
++ 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
++ NPC好感度💝條件：`小夫`（`104`）
+<table>
+    <thead>
+        <tr>
+            <td align="center">小夫</td>
+            <td align="center">好感度</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><img src= "/images/post/story_sprite/icon_201041040.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+    </tr>
+</table>
+
 ### 第2話 溫柔的熊
++ 事件ID：`40005002`
++ 優先度：`3`
++ 觸發地點：`大雄牧場`（`10000`）
+
+![大雄牧場](/images/post/map/10000.png)
++ 前置劇情：[熊第1話 採集蘋果](#第1話-採集蘋果)（`40005001`）
++ 觸發時間條件📆
+    + 開始時間：
+        + 每年`春季1日`
+        + 每日`10:00`
+    + 結束時間：
+        + 每年`秋季30日`
+        + 每日`16:00`
+    + <mark>冬季熊會冬眠</mark>
++ 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
++ NPC好感度💝條件：`熊`（`601`）
+<table>
+    <thead>
+        <tr>
+            <td align="center">熊</td>
+            <td align="center">好感度💝</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><img src= "/images/post/story_sprite/icon_201046010.png"></td>
+        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+    </tr>
+</table>
 
 ![結局](/images/post/story_texture2d/EventImage_3004.png)

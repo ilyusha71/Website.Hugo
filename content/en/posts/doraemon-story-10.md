@@ -36,15 +36,15 @@ image: images/post/story_sprite/icon_201140110.png
 ![萬物鎮西](/images/post/map/11200.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](../doraemon-story-00#第5話-邂逅女神大人)（`10000005`）
     + 間隔天數：`2天`
-+ 觸發時間條件
-    + 開始時間：第一年春季15日`06:00`
++ 觸發時間條件📆
+    + 開始時間：第1年春季15日`06:00`
     + 結束時間：每日`15:00`
 + 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
-+ NPC好感度總和條件
++ NPC好感度💝總和條件
 <table>
     <thead>
         <tr>
-            <td>合計3♥</td>
+            <td>合計3❤️</td>
         </tr>
     </thead>
     <tr>
@@ -67,11 +67,19 @@ image: images/post/story_sprite/icon_201140110.png
 + 前置劇情：[蘭奇第1話 蘭奇的手環](#第1話-蘭奇的手環)（`10004000`）
 + 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
 + NPC：`蘭奇`（`105`）
-    + 送禮：`珊瑚`（`4001008`）
+    + 送禮🎁：`珊瑚`（`4001008`）
 <table>
+    <thead>
+        <tr>
+            <td>NPC</td>
+            <td>珊瑚</td>
+            <td>取得途徑</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_201041050.png"></td>
         <td><img src= "/images/post/story_sprite/icon_4001008.png"></td>
+        <td>濤濤海濱、濤濤海岬撿拾</td>
     </tr>
 </table>
 
@@ -83,15 +91,15 @@ image: images/post/story_sprite/icon_201140110.png
 ![萬物鎮西](/images/post/map/11200.png)
 + 前置劇情：[蘭奇第2話 壞掉的手環](#第2話-壞掉的手環)（`10004001`）
     + 間隔天數：`2天`
-+ 觸發時間條件
++ 觸發時間條件📆
     + 開始時間：每日`06:00`
     + 結束時間：每日`15:00`
 + 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
-+ NPC好感度總和條件
++ NPC好感度💝總和條件
 <table>
     <thead>
         <tr>
-            <td>合計5♥</td>
+            <td>合計5❤️</td>
         </tr>
     </thead>
     <tr>
@@ -118,15 +126,15 @@ image: images/post/story_sprite/icon_201140110.png
 ![鎮長家門口](/images/post/map/11300-05.png)
 + 前置劇情：[蘭奇第3話 蘭奇的幫忙](#第3話-蘭奇的幫忙)（`10004002`）
     + 間隔天數：`2天`
-+ 觸發時間條件
++ 觸發時間條件📆
     + 開始時間：每日`06:00`
     + 結束時間：每日`15:00`
 + 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
-+ NPC好感度總和條件
++ NPC好感度💝總和條件
 <table>
     <thead>
         <tr>
-            <td>合計8♥</td>
+            <td>合計8❤️</td>
         </tr>
     </thead>
     <tr>
@@ -145,6 +153,13 @@ image: images/post/story_sprite/icon_201140110.png
 
 #### 獲得呼喚精靈手環
 <table>
+    <thead>
+        <tr>
+            <td>持有者</td>
+            <td>保管者</td>
+            <td>秘密道具</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
         <td><img src= "/images/post/story_sprite/icon_201041010.png"></td>
@@ -163,15 +178,15 @@ image: images/post/story_sprite/icon_201140110.png
 
 ![大雄牧場](/images/post/map/10000.png)
 + 前置劇情：[巨木第10話 銀白之雷](../doraemon-story-00#第10話-銀白之雷)（`10000010`）
-+ 觸發時間條件
++ 觸發時間條件📆
     + 開始時間：每日`19:00`
     + 結束時間：每日`24:00`
 + 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
-+ NPC好感度總和條件
++ NPC好感度💝總和條件
 <table>
     <thead>
         <tr>
-            <td>合計8♥</td>
+            <td>合計8❤️</td>
         </tr>
     </thead>
     <tr>

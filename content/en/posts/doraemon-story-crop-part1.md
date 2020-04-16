@@ -88,13 +88,80 @@ public CropModel(int id, int quality)
 $$作物品質分=（種子品質等級-2）\times{作物品質轉換率}$$
 $$作物品質轉換率=\dfrac {最大品質分}{最大品質等級}=\dfrac {500}{10}=50$$
 ### 播種品質轉換量化表
-| **種子品質★** | **★0.5** | **★1** | **★1.5** | **★2** | **★2.5** | **★3** | **★3.5** | **★4** | **★4.5** | **★5** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 種子品質等級 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 作物品質分 | 0 | 0 | 50 | 100 | 150 | 200 | 250 | 300 | 350 | 400 |
-| 作物品質★ | ★0.5 | ★0.5 | ★1 | ★1.5 | ★2 | ★2.5 | ★3 | ★3.5 | ★4 | ★4.5 |
+<table>
+    <thead>
+        <tr>
+            <td>種子品質⭐️</td>
+            <td>種子品質等級</td>
+            <td>作物品質分</td>
+            <td>作物品質⭐️</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>⭐️0.5</td>
+            <td>1</td>
+            <td>0</td>
+            <td>⭐️0.5</td>
+        </tr>
+        <tr>
+            <td>⭐️1</td>
+            <td>2</td>
+            <td>0</td>
+            <td>⭐️0.5</td>
+        </tr>
+        <tr>
+            <td>⭐️1.5</td>
+            <td>3</td>
+            <td>50</td>
+            <td>⭐️1</td>
+        </tr>
+        <tr>
+            <td>⭐️2</td>
+            <td>4</td>
+            <td>100</td>
+            <td>⭐️1.5</td>
+        </tr>
+        <tr>
+            <td>⭐️2.5</td>
+            <td>5</td>
+            <td>150</td>
+            <td>⭐️2</td>
+        </tr>
+        <tr>
+            <td>⭐️3</td>
+            <td>6</td>
+            <td>200</td>
+            <td>⭐️2.5</td>
+        </tr>
+        <tr>
+            <td>⭐️3.5</td>
+            <td>7</td>
+            <td>250</td>
+            <td>⭐️3</td>
+        </tr>
+        <tr>
+            <td>⭐️4</td>
+            <td>8</td>
+            <td>300</td>
+            <td>⭐️3.5</td>
+        </tr>
+        <tr>
+            <td>⭐️4.5</td>
+            <td>9</td>
+            <td>350</td>
+            <td>⭐️4</td>
+        </tr>
+        <tr>
+            <td>⭐️5</td>
+            <td>10</td>
+            <td>400</td>
+            <td>⭐️4.5</td>
+        </tr>
+    </tbody>
+</table>
 
-所以`種子`播種後品質就會直接先降1級，相當於品質★降0.5★。
+所以`種子`播種後品質就會直接先降1級，相當於品質⭐️降0.5⭐️。
 
 ### 作物收成品質轉換公式
 作物的品質等級（`CropModel.Quality`）讀取子：
@@ -110,7 +177,75 @@ public int Quality
 作物品質等級轉換公式：
 $$作物品質等級=\dfrac{作物品質分}{作物品質轉換率}+1$$
 ### 收成品質轉換量化表
-| **作物品質分** | **1~49** | **50~99** | **100~149** | **150~199** | **200~249** | **250~299** | **300~349** | **350~399** | **400~449** | **450~500** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 作物品質等級 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 作物品質★ | ★0.5 | ★1 | ★1.5 | ★2 | ★2.5 | ★3 | ★3.5 | ★4 | ★4.5 | ★5 |
+<table>
+    <thead>
+        <tr>
+            <td>品質分下限</td>
+            <td>品質等級</td>
+            <td>品質⭐️</td>
+            <td></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>1</td>
+            <td>⭐️0.5</td>
+            <td><img align="left" width="36px" src= "/images/post/Icon_Star_Half.png"></td>
+        </tr>
+        <tr>
+            <td>50</td>
+            <td>2</td>
+            <td>⭐️1.0</td>
+            <td><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"></td>
+        </tr>
+        <tr>
+            <td>100</td>
+            <td>3</td>
+            <td>⭐️1.5</td>
+            <td><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Half.png"></td>
+        </tr>
+        <tr>
+            <td>150</td>
+            <td>4</td>
+            <td>⭐️2.0</td>
+            <td><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"></td>
+        </tr>
+        <tr>
+            <td>200</td>
+            <td>5</td>
+            <td>⭐️2.5</td>
+            <td><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Half.png"></td>
+        </tr>
+        <tr>
+            <td>250</td>
+            <td>6</td>
+            <td>⭐️3.0</td>
+            <td><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"></td>
+        </tr>
+        <tr>
+            <td>300</td>
+            <td>7</td>
+            <td>⭐️3.5</td>
+            <td><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Half.png"></td>
+        </tr>
+        <tr>
+            <td>350</td>
+            <td>8</td>
+            <td>⭐️4.0</td>
+            <td><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"></td>
+        </tr>
+        <tr>
+            <td>400</td>
+            <td>9</td>
+            <td>⭐️4.5</td>
+            <td><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Half.png"></td>
+        </tr>
+        <tr>
+            <td>450</td>
+            <td>10</td>
+            <td>⭐️5.0</td>
+            <td><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"></td>
+        </tr>
+    </tbody>
+</table>

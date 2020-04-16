@@ -45,6 +45,15 @@ image: images/post/story_sprite/icon_201140010.png
 + 優先度：`0`
 + 前置劇情：[巨木第1話 自由研究和神奇種子](#第1話-自由研究和神奇種子)（`10000001`）
 
+#### 其他支線延伸劇情
++ 支線劇情[小雞商店第0話 要開小雞商店？](../doraemon-story-06#第0話-要開小雞商店)（`20008000`）
++ 支線劇情[動物商店第0話 要開動物商店嗎？](../doraemon-story-07#第0話-要開動物商店嗎)（`20007000`）
++ 支線劇情[雜貨店第0話 要開雜貨店嗎？](../doraemon-story-05#第0話-要開雜貨店嗎)（`20006000`）
++ 支線劇情[料理店第1話 小夫的幫忙](../doraemon-story-03#第1話-小夫的幫忙)（`10001000`）
++ 支線劇情[醫院第1話 靜香的幫忙](../doraemon-story-02#第1話-靜香的幫忙)（`10002000`）
++ 支線劇情[打鐵店第0話 要開打鐵店嗎？](../doraemon-story-04#第0話-要開打鐵店嗎)（`20005000`）
++ 支線劇情[木工店第1話 胖虎的幫忙](../doraemon-story-01#第1話-胖虎的幫忙)（`10003000`）
+
 ### 第3話 大雄的幫忙
 哆啦A夢成為鎮長的助手後，大雄開始進入蘭奇家後方的牧場開始學習經營。
 + 事件ID：`10000003`
@@ -61,8 +70,8 @@ image: images/post/story_sprite/icon_201140010.png
 
 ![萬物鎮西](/images/post/map/11200.png)
 + 前置劇情：[巨木第3話 大雄的幫忙](#第3話-大雄的幫忙)（`10000003`）
-+ 觸發時間條件
-    + 開始時間：第一年春季10日`06:00`
++ 觸發時間條件📆
+    + 開始時間：第1年春季10日`06:00`
     + 結束時間：每日`15:00`
 
 ### 第5話 邂逅女神大人
@@ -70,32 +79,14 @@ image: images/post/story_sprite/icon_201140010.png
 + 事件ID：`10000005`
 + 優先度：`0`
 
+#### 其他支線延伸劇情
++ 支線劇情[蘭奇第1話 蘭奇的手環](../doraemon-story-10/#第1話-蘭奇的手環)（`10004000`）
++ 支線劇情[洞窟第1話 洞窟的岩壁](../doraemon-story-20#第1話-洞窟的岩壁)（`20010001`）
+
 ### 第6話至第9話
-從第6話開始至第9話的4段劇情，必須交給`薇娜`下列任何一樣道具才會觸發，而每樣道具都有取得的`支線`劇情必須先完成：
-<table>
-    <tr>
-        <td>來來貓</td>
-        <td>幻想筆</td>
-        <td>時光電視</td>
-        <td>呼喚精靈手環</td>
-    </tr>
-    <tr>     
-        <td><img src= "/images/post/story_sprite/icon_1002210.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002230.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002110.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002090.png"></td>
-    </tr>
-    <tr>               
-        <td><a href="../doraemon-story-03#第5話-來來貓">料理店第5話<br>來來貓</a></td>
-        <td><a href="../doraemon-story-02#第5話-幻想筆">醫院第5話<br>幻想筆</a></td>
-        <td><a href="../doraemon-story-01#第5話-時光電視">木工店第5話<br>時光電視</a></td>
-        <td><a href="../doraemon-story-10#第4話-呼喚精靈手環">蘭奇第4話<br>呼喚精靈手環</a></td>
-    </tr>
-</table>
+從第6話開始至第9話的4段劇情，必須交給`薇娜`下列任何一樣道具才會觸發，而每樣道具都有取得的`支線`劇情必須先完成才能獲得，道具交給`薇娜`的先後順序並不影響劇情走向，劇情始終依序觸發。
 
-交給`薇娜`其中一樣道具後就會開始第6話的劇情，依序到第9話皆是如此，交出的道具順序不會影響劇情順序。
-
-#### 子事件：給女神來來貓
+#### 給女神來來貓
 + 事件ID：`50000020`
 + 優先度：`4`
 + 觸發地點：`巨木根部`（`11700`）
@@ -111,12 +102,19 @@ image: images/post/story_sprite/icon_201140010.png
 
 + 必要物品：`來來貓`（`1002210`）
 <table>
+    <thead>
+        <tr>
+            <td>來來貓</td>
+            <td>取得途徑</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_1002210.png"></td>
+        <td><a href="../doraemon-story-03#第5話-來來貓">料理店第5話 來來貓</a></td>
     </tr>
 </table>
 
-#### 子事件：給女神幻想筆
+#### 給女神幻想筆
 + 事件ID：`50000021`
 + 優先度：`3`
 + 觸發地點：`巨木根部`（`11700`）
@@ -132,12 +130,19 @@ image: images/post/story_sprite/icon_201140010.png
 
 + 必要物品：`幻想筆`（`1002230`）
 <table>
+    <thead>
+        <tr>
+            <td>幻想筆</td>
+            <td>取得途徑</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_1002230.png"></td>
+        <td><a href="../doraemon-story-02#第5話-幻想筆">醫院第5話 幻想筆</a></td>
     </tr>
 </table>
 
-#### 子事件：給女神時光電視
+#### 給女神時光電視
 + 事件ID：`50000022`
 + 優先度：`2`
 + 觸發地點：`巨木根部`（`11700`）
@@ -153,12 +158,19 @@ image: images/post/story_sprite/icon_201140010.png
 
 + 必要物品：`時光電視`（`1002110`）
 <table>
+    <thead>
+        <tr>
+            <td>時光電視</td>
+            <td>取得途徑</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_1002110.png"></td>
+        <td><a href="../doraemon-story-01#第5話-時光電視">木工店第5話 時光電視</a></td>
     </tr>
 </table>
 
-#### 子事件：給女神呼喚精靈手環
+#### 給女神呼喚精靈手環
 + 事件ID：`50000023`
 + 優先度：`1`
 + 觸發地點：`巨木根部`（`11700`）
@@ -174,8 +186,15 @@ image: images/post/story_sprite/icon_201140010.png
 
 + 必要物品：`呼喚精靈手環`（`1002090`）
 <table>
+    <thead>
+        <tr>
+            <td>呼喚精靈手環</td>
+            <td>取得途徑</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_1002090.png"></td>
+        <td><a href="../doraemon-story-10#第4話-呼喚精靈手環">蘭奇第4話 呼喚精靈手環</a></td>
     </tr>
 </table>
 
@@ -212,10 +231,13 @@ image: images/post/story_sprite/icon_201140010.png
 
 ![萬物鎮西](/images/post/map/11200.png)
 + 前置劇情：[巨木第9話 巨木的問題](#第9話-巨木的問題)（`10000009`）
-+ 觸發時間條件
++ 觸發時間條件📆
     + 開始時間：每日`06:00`
     + 結束時間：每日`15:00`
 + 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
+
+#### 其他支線延伸劇情
++ 支線劇情[蘭奇第5話 夜間漫步](doraemon-story-10/#第5話-夜間漫步)（`10004004`）
 
 ### 第11話 小鎮的未來
 + 事件ID：`10000011`
@@ -224,15 +246,15 @@ image: images/post/story_sprite/icon_201140010.png
 
 ![巨木根部](/images/post/map/11700.png)
 + 前置劇情：[巨木第10話 銀白之雷](#第10話-銀白之雷)（`10000010`）
-+ 觸發時間條件
++ 觸發時間條件📆
     + 開始時間：每日`11:00`
     + 結束時間：每日`16:00`
 + 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
-+ NPC好感度總和條件
++ NPC好感度💝總和條件
 <table>
     <thead>
         <tr>
-            <td>合計12♥</td>
+            <td>合計12❤️</td>
         </tr>
     </thead>
     <tr>
@@ -256,7 +278,7 @@ image: images/post/story_sprite/icon_201140010.png
 
 ![巨木根部](/images/post/map/11700.png)
 + 前置劇情：[巨木第11話 小鎮的未來](#第11話-小鎮的未來)（`10000011`）
-+ 觸發時間條件
++ 觸發時間條件📆
     + 開始時間：每日`06:00`
     + 結束時間：每日`15:00`
 + 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
@@ -269,8 +291,15 @@ image: images/post/story_sprite/icon_201140010.png
 
 + 必要物品：`竹蜻蜓`（`1002000`）
 <table>
+    <thead>
+        <tr>
+            <td>竹蜻蜓</td>
+            <td>取得途徑</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_1002000.png"></td>
+        <td><a href="../doraemon-story-11#第6話-克魯波克魯全體集合">克魯波克魯第6話 克魯波克魯全體集合！</a></td>
     </tr>
 </table>
 

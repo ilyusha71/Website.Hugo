@@ -34,8 +34,8 @@ image: images/post/story_sprite/icon_201140130.png
 + 觸發地點：`冷颼颼山`（`10100`）
 
 ![冷颼颼山](/images/post/map/10100.png)
-+ 觸發時間條件
-    + 開始時間：第一年春季17日`06:00`
++ 觸發時間條件📆
+    + 開始時間：第1年春季17日`06:00`
 + 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
 
 ### 第2話 幫助小狗吧！
@@ -47,8 +47,15 @@ image: images/post/story_sprite/icon_201140130.png
 + 前置劇情：[狗第1話 大岩石與小狗](#第1話-大岩石與小狗)（`40003001`）
 + 必要物品：`超人手套`（`1002130`）
 <table>
+    <thead>
+        <tr>
+            <td>超人手套</td>
+            <td>取得途徑</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_1002130.png"></td>
+        <td><a href="../doraemon-story-09#獲得超人手套">鎮長第2話 獎勵事件：獲得超人手套</a></td>
     </tr>
 </table>
 

@@ -33,11 +33,11 @@ image: images/post/story_sprite/icon_201140210.png
 
 ![洞窟](/images/post/map/11800.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](#第5話-邂逅女神大人)（`10000005`）
-+ NPC好感度總和條件
++ NPC好感度💝總和條件
 <table>
     <thead>
         <tr>
-            <td>合計8♥</td>
+            <td>合計8❤️</td>
         </tr>
     </thead>
     <tr>
@@ -66,11 +66,18 @@ image: images/post/story_sprite/icon_201140210.png
 + 觸發地點：`洞窟`（`11800`）
 
 ![洞窟](/images/post/map/11800.png)
-+ 前置劇情：[洞窟第1話 洞窟的岩壁](../doraemon-story-20#第1話-洞窟的岩壁)（`20010001`）
++ 前置劇情：[洞窟第1話 洞窟的岩壁](#第1話-洞窟的岩壁)（`20010001`）
 + 必要物品：`穿透環`（`1002270`）
 <table>
+    <thead>
+        <tr>
+            <td>穿透環</td>
+            <td>取得途徑</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_1002270.png"></td>
+        <td><a href="../doraemon-story-19#第4話-秘密夥伴">秘密道具第4話 秘密夥伴</a></td>
     </tr>
 </table>
 

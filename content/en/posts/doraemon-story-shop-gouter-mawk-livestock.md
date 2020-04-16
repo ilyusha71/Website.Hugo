@@ -71,6 +71,36 @@ image: images/post/story_sprite/icon_301120000.png
 + 物品定義類：`Item`
     + 動物鈴販售解鎖：`CanSaleBell(int item_id)`
 
+## 動物商店
++ 營業時間
+    + 星期日：9點~12點，13點~16點
+    + 星期一：9點~12點，13點~16點
+    + 星期二：9點~12點，13點~16點
+    + 星期四：9點~12點，13點~16點
+    + 星期六：9點~12點，13點~16點
++ 公休日
+    + 星期三
+    + 星期五
+
+### 主要角色
+<table>
+    <tr>
+        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041110.png"></td>
+        <td>布魯</td>
+        <td>菈姆的爺爺</td>
+    </tr>
+    <tr>
+        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041120.png"></td>
+        <td>優</td>
+        <td>菈姆的奶奶</td>
+    </tr>
+    <tr>
+        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041130.png"></td>
+        <td>菈姆</td>
+        <td>布魯的孫女</td>
+    </tr>
+</table>
+
 ## 動物商店商品資料
 + [動物](#動物)：2種
 + [工具](#工具)：3種

@@ -69,6 +69,36 @@ image: images/post/story_sprite/icon_301080200.png
 + 物品定義類：`Item`
     + 動物鈴販售解鎖：`CanSaleBell(int item_id)`
 
+## 小雞商店
++ 營業時間
+    + 星期日：9點~15點
+    + 星期一：9點~15點
+    + 星期三：9點~15點
+    + 星期四：9點~15點
+    + 星期六：9點~15點
++ 公休日
+    + 星期二
+    + 星期五
+
+### 主要角色
+<table>
+    <tr>
+        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041080.png"></td>
+        <td>赫蓮</td>
+        <td>肯的媽媽</td>
+    </tr>
+    <tr>
+        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041090.png"></td>
+        <td>奇克</td>
+        <td>肯的哥哥</td>
+    </tr>
+    <tr>
+        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041100.png"></td>
+        <td>肯</td>
+        <td>奇克的弟弟</td>
+    </tr>
+</table>
+
 ## 小雞商店商品資料
 + [動物](#動物)：1種
 + [動物餵食](#動物餵食)：2種

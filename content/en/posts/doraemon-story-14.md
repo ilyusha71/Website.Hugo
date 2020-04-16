@@ -35,18 +35,19 @@ image: images/post/story_sprite/icon_201140150.png
     + `鎮長家`門口（`212.4`,`3.42`,`-131.8`）
 
 ![鎮長家門口](/images/post/map/11300-05.png)
-+ 觸發時間條件
++ 觸發時間條件📆
     + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
-+ NPC好感度條件：`哆啦A夢`（`101`）
++ NPC好感度💝條件：`哆啦A夢`（`101`）
 <table>
-    <tr>
-        <td>哆啦A夢</td>
-    </tr>
+    <thead>
+        <tr>
+            <td align="center">哆啦A夢</td>
+            <td align="center">好感度💝</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_201041010.png"></td>
-    </tr>
-    <tr>
         <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
     </tr>
 </table>
@@ -59,14 +60,17 @@ image: images/post/story_sprite/icon_201140150.png
 
 ![方尖碑](/images/post/map/11500-01.png)
 + 前置劇情：[貓第1話 為了討得歡心](#第1話-為了討得歡心)（`40002001`）
-+ 觸發時間條件
++ 觸發時間條件📆
     + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
-+ 寵物情感度條件：`咪咪`（`102`）
++ 寵物情感度💗條件：`咪咪`（`102`）
 <table>
-    <tr>
-        <td>咪咪</td>
-    </tr>
+    <thead>
+        <tr>
+            <td align="center">咪咪</td>
+            <td align="center">情感度💗</td>
+        </tr>
+    </thead>
     <tr>
         <td><img src= "/images/post/story_sprite/icon_201042010.png"></td>
         <td><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Full.png"></td>

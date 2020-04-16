@@ -33,16 +33,16 @@ image: images/post/story_sprite/icon_3400111.png
             <td>物品ID</td>
             <td></td>
             <td>農產品名稱</td>
-            <td>0.5★</td>
-            <td>1.0★</td>
-            <td>1.5★</td>
-            <td>2.0★</td>
-            <td>2.5★</td>
-            <td>3.0★</td>
-            <td>3.5★</td>
-            <td>4.0★</td>
-            <td>4.5★</td>
-            <td>5.0★</td>
+            <td>⭐️0.5</td>
+            <td>⭐️1.0</td>
+            <td>⭐️1.5</td>
+            <td>⭐️2.0</td>
+            <td>⭐️2.5</td>
+            <td>⭐️3.0</td>
+            <td>⭐️3.5</td>
+            <td>⭐️4.0</td>
+            <td>⭐️4.5</td>
+            <td>⭐️5.0</td>
         </tr>
     </thead>
     <tbody>
@@ -146,16 +146,16 @@ image: images/post/story_sprite/icon_3400111.png
             <td>物品ID</td>
             <td></td>
             <td>農產品名稱</td>
-            <td>0.5★</td>
-            <td>1.0★</td>
-            <td>1.5★</td>
-            <td>2.0★</td>
-            <td>2.5★</td>
-            <td>3.0★</td>
-            <td>3.5★</td>
-            <td>4.0★</td>
-            <td>4.5★</td>
-            <td>5.0★</td>
+            <td>⭐️0.5</td>
+            <td>⭐️1.0</td>
+            <td>⭐️1.5</td>
+            <td>⭐️2.0</td>
+            <td>⭐️2.5</td>
+            <td>⭐️3.0</td>
+            <td>⭐️3.5</td>
+            <td>⭐️4.0</td>
+            <td>⭐️4.5</td>
+            <td>⭐️5.0</td>
         </tr>
     </thead>
     <tbody>
@@ -229,16 +229,16 @@ image: images/post/story_sprite/icon_3400111.png
             <td>物品ID</td>
             <td></td>
             <td>農產品名稱</td>
-            <td>0.5★</td>
-            <td>1.0★</td>
-            <td>1.5★</td>
-            <td>2.0★</td>
-            <td>2.5★</td>
-            <td>3.0★</td>
-            <td>3.5★</td>
-            <td>4.0★</td>
-            <td>4.5★</td>
-            <td>5.0★</td>
+            <td>⭐️0.5</td>
+            <td>⭐️1.0</td>
+            <td>⭐️1.5</td>
+            <td>⭐️2.0</td>
+            <td>⭐️2.5</td>
+            <td>⭐️3.0</td>
+            <td>⭐️3.5</td>
+            <td>⭐️4.0</td>
+            <td>⭐️4.5</td>
+            <td>⭐️5.0</td>
         </tr>
     </thead>
     <tbody>

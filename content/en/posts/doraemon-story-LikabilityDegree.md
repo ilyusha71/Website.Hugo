@@ -15,6 +15,94 @@ categories:
 - 哆啦A夢
 image: images/feature-dora/icon_201100013.png
 ---
+## 好感度與情感度
++ [好感度💝](../doraemon-story-likabilitydegree/)分為`10級`，以不同顏色的❤️表示，主要表示NPC對大雄的好感程度。
+    + 好感度💝的增加主要來自`送禮🎁`。
++ [情感度💗](../doraemon-story-affectiondegree/)分為`20級`，以半顆與整顆❤️表示，主要表示牧場動物與大雄的情感程度。
+    + 情感度💗的增加主要來自大雄在牧場的`照顧`。
+
+### 好感值🥰
+好感值🥰是好感度💝的數值化，上限值為`10000`。
+好感值🥰對好感度💝為`非線性成長`。
+
+#### 好感度量化表
+好感度💝對應的好感值🥰範圍在`鎮民`與`野生動物`之間存在差異。
+<table>
+    <thead>
+        <tr>
+            <td colspan="2">好感值🥰下限</td>
+            <td rowspan="2">好感度💝</td>
+            <td rowspan="2">❤️</td>
+        </tr>        
+        <tr>
+            <td>鎮民</td>
+            <td>野生動物</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>0</td>
+            <td>0</td>
+            <td>1</td>
+            <td><img src= "/images/post/story_sprite/icon_201060010.png"></td>
+        </tr>
+        <tr>
+            <td>100</td>
+            <td>100</td>
+            <td>2</td>
+            <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        </tr>
+        <tr>
+            <td>400</td>
+            <td>200</td>
+            <td>3</td>
+            <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        </tr>
+        <tr>
+            <td>900</td>
+            <td>400</td>
+            <td>4</td>
+            <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+        </tr>
+        <tr>
+            <td>1700</td>
+            <td>700</td>
+            <td>5</td>
+            <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        </tr>
+        <tr>
+            <td>2800</td>
+            <td>1100</td>
+            <td>6</td>
+            <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
+        </tr>
+        <tr>
+            <td>4200</td>
+            <td>1700</td>
+            <td>7</td>
+            <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
+        </tr>
+        <tr>
+            <td>5900</td>
+            <td>2600</td>
+            <td>8</td>
+            <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
+        </tr>
+        <tr>
+            <td>7900</td>
+            <td>3800</td>
+            <td>9</td>
+            <td><img src= "/images/post/story_sprite/icon_201060090.png"></td>
+        </tr>
+        <tr>
+            <td>10000</td>
+            <td>5000</td>
+            <td>10</td>
+            <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
+        </tr>
+    </tbody>
+</table>
+
 ## 關注
 [銅鑼燒實驗牧場](https://www.facebook.com/dorayakifarm/?modal=admin_todo_tour)
 [伊琉沙/ PC實測/哆啦A夢牧場物語](https://docs.google.com/spreadsheets/d/1DjAbwpy9XUwY5iAoWFtHbHDwEne82c33R1dH83Qb7eY/)

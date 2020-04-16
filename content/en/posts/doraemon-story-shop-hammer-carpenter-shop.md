@@ -17,7 +17,8 @@ categories:
 - 商店
 image: images/post/story_sprite/icon_301140100.png
 ---
-<mark>最後更新：2020/04/15</mark>
+<mark>最後更新：2020/04/16</mark>
+
 ## 木工店MOD資料庫
 + 工藝商品模板類：`CraftShopItemDataModel`，商店上架的商品實例。
     + 商品ID：`Id`
@@ -37,6 +38,31 @@ image: images/post/story_sprite/icon_301140100.png
 ### 販售條件
 + 牧場工作狀態：`FarmWorkState`
     + 建築擴建條件：`CraftShopItemDataModel[] GetBuildingShopItemDatas()`
+
+## 木工店
++ 營業時間
+    + 星期日：10點~12點，16點~20點
+    + 星期一：10點~12點，16點~20點
+    + 星期三：10點~12點，16點~20點
+    + 星期四：10點~12點，16點~20點
+    + 星期六：10點~12點，16點~20點
++ 公休日
+    + 星期二
+    + 星期六
+
+### 主要角色
+<table>
+    <tr>
+        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041140.png"></td>
+        <td>潘特</td>
+        <td>木工店老闆</td>
+    </tr>
+    <tr>
+        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041030.png"></td>
+        <td>胖虎</td>
+        <td>木工店打工仔</td>
+    </tr>
+</table>
 
 ## 木工店商品資料
 + [建築](#建築)：11種
@@ -117,8 +143,9 @@ image: images/post/story_sprite/icon_301140100.png
 + `寬闊的家`擴建完成
     + 可使用`廚房`
     + 可使用`冰箱`
-+ `巨大的家`擴建完成
++ [巨大的家擴建完成](../doraemon-story-1/#巨大的家擴建完成)（`10120201`）
     + `木工店`解鎖[建造](#建造)項目：`溫室`（1/1條件）
+    + `天氣箱`取得條件：[鎮長第2話 獎勵事件：獲得天氣箱](../doraemon-story-09#獲得天氣箱)
 
 #### 擴建動物小屋
 <table>
@@ -350,5 +377,6 @@ image: images/post/story_sprite/icon_301140100.png
     + `木工店`解鎖[擴建](#擴建動物小屋)項目：`寬闊的動物小屋`（1/1條件）
 + `雞小屋的筒倉`擴建完成：
     + `木工店`解鎖[擴建](#擴建雞小屋)項目：`寬闊的雞小屋`（1/1條件）
-+ `馬小屋`擴建完成
++ [馬小屋擴建完成](../doraemon-story-1/#馬小屋擴建完成)（`10124101`）
+    + 支線劇情[馬第1話 寄養小馬！](../doraemon-story-13/#第1話-寄養小馬)（`40001001`）
 + `溫室`擴建完成

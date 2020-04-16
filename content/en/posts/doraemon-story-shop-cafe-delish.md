@@ -107,7 +107,7 @@ image: images/post/story_sprite/icon_301230000.png
     <tr>
         <td><img width= "100px" src= "/images/post/story_sprite/icon_201041230.png"></td>
         <td>萊斯特</td>
-        <td>托蘭的丈夫</td>
+        <td>嚼嚼餐廳廚師</td>
     </tr>
     <tr>
         <td><img width= "100px" src= "/images/post/story_sprite/icon_201041240.png"></td>

@@ -265,10 +265,11 @@ image: images/post/story_sprite/icon_301010600.png
 
 ## 登場道具
 
-## 好感度與情感度
-+ [NPC好感度](../doraemon-story-crop-part1)
-+ [野生動物好感度](../doraemon-story-crop-part1)
-+ [大雄牧場動物情感度](../doraemon-story-crop-part1)
+## NPC與動物
++ [動物](../doraemon-story-animal)
++ [NPC喜好物](../doraemon-story-npc-presents)
++ [NPC好感度](../doraemon-story-likabilitydegree)
++ [牧場動物情感度](../doraemon-story-affectiondegree)
 
 ## 表格資料
 + 作物成長
