@@ -30,7 +30,7 @@ image: images/post/story_sprite/icon_201140190.png
 ### 第1話 
 + 事件ID：`40007001`
 + 優先度：`3`
-+ 觸發地點：`萬物鎮西`（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
 
 ![萬物鎮西](/images/post/map/11200.png)
 + 觸發時間條件📆
@@ -59,7 +59,7 @@ image: images/post/story_sprite/icon_201140190.png
 ### 第2話 
 + 事件ID：`40007002`
 + 優先度：`3`
-+ 觸發地點：`樵之森`（`10600`）
++ 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
 
 ![樵之森](/images/post/map/10600.png)
 + 前置劇情：[松鼠第1話 ](#第1話-)（`40007001`）

@@ -30,7 +30,7 @@ image: images/post/story_sprite/icon_201140140.png
 ### 第1話 寄養小馬！
 + 事件ID：`40001001`
 + 優先度：`3`
-+ 觸發地點：`萬物鎮西`（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
 
 ![萬物鎮西](/images/post/map/11200.png)
 + 前置劇情：[馬小屋建造完成](../doraemon-story-1/#馬小屋建造完成)（`10124101`）

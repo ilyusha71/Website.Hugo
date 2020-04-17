@@ -30,7 +30,7 @@ image: images/post/story_sprite/icon_201140170.png
 ### 第1話 
 + 事件ID：`40004001`
 + 優先度：`3`
-+ 觸發地點：`大雄牧場`（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
 
 ![大雄牧場](/images/post/map/10000.png)
 + 觸發時間條件📆

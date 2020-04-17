@@ -128,7 +128,7 @@ image: images/post/story_sprite/icon_201140200.png
 ### 第5話 發明家布拉斯！？
 + 事件ID：`30003001`
 + 優先度：`2`
-+ 觸發地點：`大雄牧場`（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
 
 ![大雄牧場](/images/post/map/10000.png)
 + 觸發時間條件📆
