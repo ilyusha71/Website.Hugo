@@ -14,7 +14,7 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_301001000.png
+image: images/post/Season_of_Story/Sprite/icon_301001000.png
 libraries:
 - katex
 ---

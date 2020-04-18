@@ -14,7 +14,7 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201173001.png
+image: images/post/Season_of_Story/Sprite/icon_201173001.png
 libraries:
 - katex
 ---
@@ -45,30 +45,30 @@ libraries:
     </thead>
     <tr>
         <td>100</td>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031170.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031170.png"></td>
         <td>狗</td>
         <td>1.5</td>
         <td>銅鑼汪（自定義名字）<br>大雄救回來的小狗</td>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041200.png"></td>
-        <td><img height= "128px" src= "/images/post/story_sprite/icon_201173002.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
+        <td><img height= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201173002.png"></td>
     </tr>
     <tr>
         <td>101</td>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031160.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031160.png"></td>
         <td>馬</td>
         <td>1.8</td>
         <td>狂草尼馬（自定義名字）<br>大雄收養的小馬</td>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041130.png"></td>
-        <td><img height= "128px" src= "/images/post/story_sprite/icon_201173000.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041130.png"></td>
+        <td><img height= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201173000.png"></td>
     </tr>
     <tr>
         <td>102</td>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031180.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031180.png"></td>
         <td>貓</td>
         <td>1.5</td>
         <td>咪咪<br>經常來大雄牧場的貓</td>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041010.png"></td>
-        <td><img height= "128px" src= "/images/post/story_sprite/icon_201173001.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041010.png"></td>
+        <td><img height= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201173001.png"></td>
     </tr>
 </table>
 
@@ -83,35 +83,35 @@ libraries:
         </tr>
     </thead>
     <tr>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031100.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031100.png"></td>
         <td>牛</td>
         <td>動物商店購買</td>
-        <td rowspan="2"><img height= "128px" src= "/images/post/story_sprite/icon_201174001.png"></td>
+        <td rowspan="2"><img height= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201174001.png"></td>
     </tr>
     <tr>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031110.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031110.png"></td>
         <td>小牛崽兒</td>
         <td>經由牛種子使牛懷孕誕生</td>
     </tr>
     <tr>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031120.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031120.png"></td>
         <td>羊</td>
         <td>動物商店購買</td>
-        <td rowspan="2"><img height= "128px" src= "/images/post/story_sprite/icon_201174101.png"></td>
+        <td rowspan="2"><img height= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201174101.png"></td>
     </tr>
     <tr>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031130.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031130.png"></td>
         <td>小羊崽兒</td>
         <td>經由羊種子使羊懷孕誕生</td>
     </tr>
     <tr>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031140.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031140.png"></td>
         <td>雞</td>
         <td>小雞商店購買</td>
-        <td rowspan="2"><img height= "128px" src= "/images/post/story_sprite/icon_201174201.png"></td>
+        <td rowspan="2"><img height= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201174201.png"></td>
     </tr>
     <tr>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031150.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031150.png"></td>
         <td>小雞崽兒</td>
         <td>雞蛋孵化</td>
     </tr>
@@ -129,31 +129,31 @@ libraries:
         </tr>
     </thead>
     <tr>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031210.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031210.png"></td>
         <td>熊</td>
         <td>滾滾森林</td>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041040.png"></td>
-        <td><img height= "128px" src= "/images/post/story_sprite/icon_201173004.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
+        <td><img height= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201173004.png"></td>
     </tr>
     <tr>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031220.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031220.png"></td>
         <td>兔子</td>
         <td>巨木根部</td>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041070.png"></td>
-        <td><img height= "128px" src= "/images/post/story_sprite/icon_201173005.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041070.png"></td>
+        <td><img height= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201173005.png"></td>
     </tr>
     <tr>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031190.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031190.png"></td>
         <td>松鼠</td>
         <td>樵之森</td>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img height= "128px" src= "/images/post/story_sprite/icon_201173006.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img height= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201173006.png"></td>
     </tr>
     <tr>
-        <td><img width= "128px" src= "/images/post/story_sprite/icon_201031200.png"></td>
+        <td><img width= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201031200.png"></td>
         <td>小猴子</td>
         <td>滴答湖</td>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041020.png"></td>
-        <td><img height= "128px" src= "/images/post/story_sprite/icon_201173003.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041020.png"></td>
+        <td><img height= "128px" src= "/images/post/Season_of_Story/Sprite/icon_201173003.png"></td>
     </tr>
 </table>

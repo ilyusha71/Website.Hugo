@@ -15,7 +15,7 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_6000100.png
+image: images/post/Season_of_Story/Sprite/icon_6000100.png
 ---
 ## 出貨價格資料
 + [物品MOD資料庫](../doraemon-story-item-part1#物品MOD資料庫)
@@ -48,7 +48,7 @@ image: images/post/story_sprite/icon_6000100.png
     <tbody>
         <tr>
             <td>6000133</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000133.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000133.png"></td>
             <td>高卡薩斯南洋大兜蟲</td>
             <td>240</td>
             <td>272</td>
@@ -63,7 +63,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000134</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000134.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000134.png"></td>
             <td>赫克力士長戟大兜蟲</td>
             <td>240</td>
             <td>272</td>
@@ -78,7 +78,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000135</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000135.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000135.png"></td>
             <td>日本大鍬形蟲</td>
             <td>240</td>
             <td>272</td>
@@ -93,7 +93,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000122</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000122.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000122.png"></td>
             <td>紅頸鳳蝶</td>
             <td>160</td>
             <td>181</td>
@@ -108,7 +108,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000126</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000126.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000126.png"></td>
             <td>閃蝶</td>
             <td>160</td>
             <td>181</td>
@@ -123,7 +123,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000136</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000136.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000136.png"></td>
             <td>鋸鍬形蟲</td>
             <td>160</td>
             <td>181</td>
@@ -138,7 +138,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000137</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000137.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000137.png"></td>
             <td>扁鍬形蟲</td>
             <td>160</td>
             <td>181</td>
@@ -153,7 +153,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000138</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000138.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000138.png"></td>
             <td>高砂深山鍬形蟲</td>
             <td>160</td>
             <td>181</td>
@@ -168,7 +168,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000159</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000159.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000159.png"></td>
             <td>亞歷珊卓皇后鳥翼蝶</td>
             <td>160</td>
             <td>181</td>
@@ -183,7 +183,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000103</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000103.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000103.png"></td>
             <td>鳳蝶</td>
             <td>80</td>
             <td>91</td>
@@ -198,7 +198,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000104</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000104.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000104.png"></td>
             <td>烏鴉鳳蝶</td>
             <td>80</td>
             <td>91</td>
@@ -213,7 +213,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000107</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000107.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000107.png"></td>
             <td>黃鉤蛺蝶</td>
             <td>80</td>
             <td>91</td>
@@ -228,7 +228,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000123</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000123.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000123.png"></td>
             <td>螢火蟲</td>
             <td>80</td>
             <td>91</td>
@@ -243,7 +243,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000127</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000127.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000127.png"></td>
             <td>大水青蛾</td>
             <td>80</td>
             <td>91</td>
@@ -258,7 +258,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000132</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000132.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000132.png"></td>
             <td>獨角仙</td>
             <td>80</td>
             <td>91</td>
@@ -273,7 +273,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000157</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000157.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000157.png"></td>
             <td>弱水斑蛺蝶</td>
             <td>80</td>
             <td>91</td>
@@ -288,7 +288,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000158</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000158.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000158.png"></td>
             <td>大白斑蝶</td>
             <td>80</td>
             <td>91</td>
@@ -303,7 +303,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000160</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000160.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000160.png"></td>
             <td>日本天蠶</td>
             <td>80</td>
             <td>91</td>
@@ -318,7 +318,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000100</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000100.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000100.png"></td>
             <td>斑緣點粉蝶</td>
             <td>40</td>
             <td>46</td>
@@ -333,7 +333,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000101</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000101.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000101.png"></td>
             <td>白粉蝶</td>
             <td>40</td>
             <td>46</td>
@@ -348,7 +348,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000102</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000102.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000102.png"></td>
             <td>蜜蜂</td>
             <td>40</td>
             <td>46</td>
@@ -363,7 +363,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000105</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000105.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000105.png"></td>
             <td>中華劍角蝗</td>
             <td>40</td>
             <td>46</td>
@@ -378,7 +378,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000106</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000106.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000106.png"></td>
             <td>斑蝗</td>
             <td>40</td>
             <td>46</td>
@@ -393,7 +393,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000108</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000108.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000108.png"></td>
             <td>螻蛄</td>
             <td>40</td>
             <td>46</td>
@@ -408,7 +408,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000109</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000109.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000109.png"></td>
             <td>七星瓢蟲</td>
             <td>40</td>
             <td>46</td>
@@ -423,7 +423,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000110</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000110.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000110.png"></td>
             <td>黃色瓢蟲</td>
             <td>40</td>
             <td>46</td>
@@ -438,7 +438,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000120</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000120.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000120.png"></td>
             <td>螳螂</td>
             <td>40</td>
             <td>46</td>
@@ -453,7 +453,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000121</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000121.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000121.png"></td>
             <td>飛蝗</td>
             <td>40</td>
             <td>46</td>
@@ -468,7 +468,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000124</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000124.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000124.png"></td>
             <td>綠胸晏蜓</td>
             <td>40</td>
             <td>46</td>
@@ -483,7 +483,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000125</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000125.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000125.png"></td>
             <td>無霸勾蜓</td>
             <td>40</td>
             <td>46</td>
@@ -498,7 +498,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000128</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000128.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000128.png"></td>
             <td>日本油蟬</td>
             <td>40</td>
             <td>46</td>
@@ -513,7 +513,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000129</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000129.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000129.png"></td>
             <td>日本暮蟬</td>
             <td>40</td>
             <td>46</td>
@@ -528,7 +528,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000130</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000130.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000130.png"></td>
             <td>斑透翅蟬</td>
             <td>40</td>
             <td>46</td>
@@ -543,7 +543,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000131</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000131.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000131.png"></td>
             <td>寒蟬</td>
             <td>40</td>
             <td>46</td>
@@ -558,7 +558,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000153</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000153.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000153.png"></td>
             <td>蝗蟲</td>
             <td>40</td>
             <td>46</td>
@@ -573,7 +573,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000154</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000154.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000154.png"></td>
             <td>鈴蟲</td>
             <td>40</td>
             <td>46</td>
@@ -588,7 +588,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000155</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000155.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000155.png"></td>
             <td>寬翅紡織娘</td>
             <td>40</td>
             <td>46</td>
@@ -603,7 +603,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000156</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000156.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000156.png"></td>
             <td>蟋蟀</td>
             <td>40</td>
             <td>46</td>
@@ -618,7 +618,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000161</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000161.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000161.png"></td>
             <td>艷金龜</td>
             <td>40</td>
             <td>46</td>
@@ -633,7 +633,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000162</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000162.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000162.png"></td>
             <td>吉丁蟲</td>
             <td>40</td>
             <td>46</td>
@@ -648,7 +648,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000180</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000180.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000180.png"></td>
             <td>鼠婦</td>
             <td>20</td>
             <td>23</td>
@@ -663,7 +663,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000181</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000181.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000181.png"></td>
             <td>奇異海蟑螂</td>
             <td>20</td>
             <td>23</td>
@@ -678,7 +678,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000182</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000182.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000182.png"></td>
             <td>蜈蚣</td>
             <td>20</td>
             <td>23</td>
@@ -693,7 +693,7 @@ image: images/post/story_sprite/icon_6000100.png
         </tr>
         <tr>
             <td>6000183</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_6000183.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_6000183.png"></td>
             <td>螞蟻</td>
             <td>20</td>
             <td>23</td>

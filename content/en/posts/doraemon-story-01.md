@@ -14,17 +14,17 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140020.png
+image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ---
-![木工店劇情線](/images/post/story_texture2d/EventImage_2100.png)
+![木工店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2100.png)
 ## 木工店
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
         <td>01</td>
-        <td align="center"><a href="../doraemon-story-01"><img src= "/images/post/story_sprite/icon_201140020.png">木工店</a></td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041140.png">潘特</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041030.png">胖虎</td>
+        <td align="center"><a href="../doraemon-story-01"><img src= "/images/post/Season_of_Story/Sprite/icon_201140020.png">木工店</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041140.png">潘特</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041030.png">胖虎</td>
     </tr>
 </table>
 
@@ -47,7 +47,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發地點：[青青廣場](../doraemon-story-map#青青廣場)（`11500`）
     + 往`萬物鎮東`方向的`方尖碑`附近（`28`,`0`,`-150.3`）
 
-![方尖碑](/images/post/map/11500-01.png)
+![方尖碑](/images/post/Season_of_Story/Map/11500-01.png)
 + 前置劇情：[蘭奇第2話 壞掉的手環](../doraemon-story-10#第2話-壞掉的手環)（`10004001`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -66,12 +66,12 @@ image: images/post/story_sprite/icon_201140020.png
         <td>潘特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060010.png"></td>
     </tr>
 </table>
 
@@ -80,7 +80,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 優先度：`4`
 + 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
 
-![萬物鎮西](/images/post/map/11200.png)
+![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：[木工店第2話 寡言的木匠](#第2話-寡言的木匠)（`10003001`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -98,10 +98,10 @@ image: images/post/story_sprite/icon_201140020.png
         <td>帕絲琪</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041060.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
     </tr>
 </table>
 
@@ -111,7 +111,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發地點：[青青廣場](../doraemon-story-map#青青廣場)（`11500`）
     + 往`萬物鎮東`方向的`方尖碑`附近（`28`,`0`,`-150.3`）
 
-![方尖碑](/images/post/map/11500-01.png)
+![方尖碑](/images/post/Season_of_Story/Map/11500-01.png)
 + 前置劇情：[木工店第3話 關於徒弟](#第3話-關於徒弟)（`10003002`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -130,12 +130,12 @@ image: images/post/story_sprite/icon_201140020.png
         <td>潘特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
     </tr>
 </table>
 
@@ -145,7 +145,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 優先度：`4`
 + 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
 
-![樵之森](/images/post/map/10600.png)
+![樵之森](/images/post/Season_of_Story/Map/10600.png)
 + 前置劇情：[木工店第4話 在哪裡？](#第4話-在哪裡)（`10003003`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -164,12 +164,12 @@ image: images/post/story_sprite/icon_201140020.png
         <td>潘特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060040.png"></td>
     </tr>
 </table>
 
@@ -185,9 +185,9 @@ image: images/post/story_sprite/icon_201140020.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002110.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002110.png"></td>
     </tr>
 </table>
 
@@ -200,7 +200,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 優先度：`3`
 + 觸發地點：[木工店 咚吭噹](../doraemon-story-map#木工店-咚吭噹)（`20400`）
 
-![木工店](/images/post/map/20400.png)
+![木工店](/images/post/Season_of_Story/Map/20400.png)
 + 前置劇情：[木工店第5話 時光電視](#第5話-時光電視)（`10003004`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -218,12 +218,12 @@ image: images/post/story_sprite/icon_201140020.png
         <td>潘特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
@@ -232,7 +232,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 優先度：`3`
 + 觸發地點：[木工店 咚吭噹](../doraemon-story-map#木工店-咚吭噹)（`20400`）
 
-![木工店](/images/post/map/20400.png)
+![木工店](/images/post/Season_of_Story/Map/20400.png)
 + 前置劇情：[木工店第6話 以前的徒弟](#第6話-以前的徒弟)（`20002001`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -251,14 +251,14 @@ image: images/post/story_sprite/icon_201140020.png
         <td>潘特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041180.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041150.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041180.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
@@ -268,7 +268,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + `醫院`門口（`199.8`,`0`,`-193.9`）
 
-![醫院門口](/images/post/map/11300-209.png)
+![醫院門口](/images/post/Season_of_Story/Map/11300-209.png)
 + 前置劇情：[木工店第7話 溺愛子女大賽](#第7話-溺愛子女大賽)（`20002002`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -285,10 +285,10 @@ image: images/post/story_sprite/icon_201140020.png
         <td>席菲</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041250.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041250.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
@@ -297,7 +297,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 優先度：`3`
 + 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
 
-![樵之森](/images/post/map/10600.png)
+![樵之森](/images/post/Season_of_Story/Map/10600.png)
 + 前置劇情：[木工店第8話 木工店親子](#第8話-木工店親子)（`20002003`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -315,12 +315,12 @@ image: images/post/story_sprite/icon_201140020.png
         <td>席菲</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041250.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041250.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060050.png"></td>
     </tr>
 </table>
 
@@ -329,7 +329,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 優先度：`3`
 + 觸發地點：[鎮長先生的家](../doraemon-story-map#鎮長先生的家)（`20000`）
 
-![鎮長先生家](/images/post/map/20000.png)
+![鎮長先生家](/images/post/Season_of_Story/Map/20000.png)
 + 前置劇情：[木工店第9話 說服作戰](#第9話-說服作戰)（`20002004`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -347,12 +347,12 @@ image: images/post/story_sprite/icon_201140020.png
         <td>亞緬</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060050.png"></td>
     </tr>
 </table>
 
@@ -362,7 +362,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + `噴水池`前階梯（`181.6`,`0`,`-131.2`）
 
-![噴水池](/images/post/map/11300-01.png)
+![噴水池](/images/post/Season_of_Story/Map/11300-01.png)
 + 前置劇情：[木工店第10話 父母心](#第10話-父母心)（`20002005`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -382,14 +382,14 @@ image: images/post/story_sprite/icon_201140020.png
         <td>潘特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041080.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041170.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041170.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060070.png"></td>
     </tr>
 </table>
 
@@ -398,7 +398,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 優先度：`3`
 + 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
 
-![樵之森](/images/post/map/10600.png)
+![樵之森](/images/post/Season_of_Story/Map/10600.png)
 + 前置劇情：[木工店第11話 謠言](#第11話-謠言)（`20002006`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -418,14 +418,14 @@ image: images/post/story_sprite/icon_201140020.png
         <td>席菲</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041250.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041250.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060070.png"></td>
     </tr>
 </table>
 
@@ -434,7 +434,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 優先度：`3`
 + 觸發地點：[席菲小姐的釣具店](../doraemon-story-map#席菲小姐的釣具店)（`21300`）
 
-![釣具店](/images/post/map/21300.png)
+![釣具店](/images/post/Season_of_Story/Map/21300.png)
 + 前置劇情：[木工店第12話 去河邊玩大作戰](#第12話-去河邊玩大作戰)（`20002007`）
     + 間隔天數：`2天`
 + NPC好感度💝總和條件
@@ -449,12 +449,12 @@ image: images/post/story_sprite/icon_201140020.png
         <td>潘特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060080.png"></td>
     </tr>
 </table>
 
@@ -463,7 +463,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 優先度：`3`
 + 觸發地點：[木工店 咚吭噹](../doraemon-story-map#木工店-咚吭噹)（`20400`）
 
-![木工店](/images/post/map/20400.png)
+![木工店](/images/post/Season_of_Story/Map/20400.png)
 + 前置劇情：[木工店第13話 那天的事](#第13話-那天的事)（`20002008`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -481,12 +481,12 @@ image: images/post/story_sprite/icon_201140020.png
         <td>潘特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060080.png"></td>
     </tr>
 </table>
 
@@ -495,7 +495,7 @@ image: images/post/story_sprite/icon_201140020.png
 + 優先度：`3`
 + 觸發地點：[木工店 咚吭噹](../doraemon-story-map#木工店-咚吭噹)（`20400`）
 
-![木工店](/images/post/map/20400.png)
+![木工店](/images/post/Season_of_Story/Map/20400.png)
 + 前置劇情：[木工店第14話 席菲的信](#第14話-席菲的信)（`20002009`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -514,15 +514,15 @@ image: images/post/story_sprite/icon_201140020.png
         <td>席菲</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041250.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041250.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060100.png"></td>
     </tr>
 </table>
 
-![結局](/images/post/story_texture2d/EventImage_2100.png)
+![結局](/images/post/Season_of_Story/Texture2D/EventImage_2100.png)

@@ -14,15 +14,15 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140200.png
+image: images/post/Season_of_Story/Sprite/icon_201140200.png
 ---
-![秘密道具劇情線](/images/post/story_sprite/icon_1002260.png)
+![秘密道具劇情線](/images/post/Season_of_Story/Sprite/icon_1002260.png)
 ## 秘密道具
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
         <td>19</td>
-        <td align="center"><a href="../doraemon-story-19"><img src= "/images/post/story_sprite/icon_201140200.png">秘密道具</a></td>
+        <td align="center"><a href="../doraemon-story-19"><img src= "/images/post/Season_of_Story/Sprite/icon_201140200.png">秘密道具</a></td>
     </tr>
 </table>
 
@@ -31,7 +31,7 @@ image: images/post/story_sprite/icon_201140200.png
 + 優先度：`2`
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
 
-![萬物鎮東](/images/post/map/11300.png)
+![萬物鎮東](/images/post/Season_of_Story/Map/11300.png)
 + 觸發時間條件📆
     + 開始時間：第1年夏季1日`06:00`
     + 結束時間：每日`19:00`
@@ -51,8 +51,8 @@ image: images/post/story_sprite/icon_201140200.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041140.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_4001003.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_4001003.png"></td>
         <td>礦坑N層挖取、打鐵店購買</td>
     </tr>
 </table>
@@ -67,9 +67,9 @@ image: images/post/story_sprite/icon_201140200.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041000.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002120.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041000.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002120.png"></td>
     </tr>
 </table>
 
@@ -82,7 +82,7 @@ image: images/post/story_sprite/icon_201140200.png
 + 優先度：`2`
 + 觸發地點：`濤濤海濱`（`10800`）
 
-![濤濤海濱](/images/post/map/10800.png)
+![濤濤海濱](/images/post/Season_of_Story/Map/10800.png)
 + 前置劇情：[洞窟第1話 洞窟的岩壁](../doraemon-story-20#第1話-洞窟的岩壁)（`20010001`）
 
 ### 第4話 秘密夥伴
@@ -100,8 +100,8 @@ image: images/post/story_sprite/icon_201140200.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041100.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_5000127.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_5000127.png"></td>
         <td>濤濤海濱、濤濤海岬釣取</td>
     </tr>
 </table>
@@ -116,9 +116,9 @@ image: images/post/story_sprite/icon_201140200.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041100.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041000.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002270.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041000.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002270.png"></td>
     </tr>
 </table>
 
@@ -130,7 +130,7 @@ image: images/post/story_sprite/icon_201140200.png
 + 優先度：`2`
 + 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
 
-![大雄牧場](/images/post/map/10000.png)
+![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 觸發時間條件📆
     + 開始時間：第1年秋季1日`06:00`
     + 結束時間：每日`12:00`
@@ -145,9 +145,9 @@ image: images/post/story_sprite/icon_201140200.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041150.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002200.png"></td>
     </tr>
 </table>
 
@@ -160,13 +160,13 @@ image: images/post/story_sprite/icon_201140200.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_1001005.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1001015.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1001025.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1001035.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1001045.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1001055.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1001065.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1001005.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1001015.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1001025.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1001035.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1001045.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1001055.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1001065.png"></td>
     </tr>
     <tr>
         <td align="center">輕輕鬆鬆<br>鋤頭</td>
@@ -183,8 +183,8 @@ image: images/post/story_sprite/icon_201140200.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201080090.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201080100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201080090.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201080100.png"></td>
     </tr>
     <tr>
         <td>種子機</td>
@@ -204,7 +204,7 @@ image: images/post/story_sprite/icon_201140200.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_4001020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_4001020.png"></td>
         <td>透過地底釣竿取得</td>
     </tr>
 </table>

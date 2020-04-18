@@ -14,16 +14,16 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140090.png
+image: images/post/Season_of_Story/Sprite/icon_201140090.png
 ---
-![釣具店劇情線](/images/post/story_texture2d/EventImage_2100.png)
+![釣具店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2100.png)
 ## 釣具店
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
         <td>08</td>
-        <td align="center"><a href="../doraemon-story-08"><img src= "/images/post/story_sprite/icon_201140090.png">釣具店</a></td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041250.png">席菲</td>
+        <td align="center"><a href="../doraemon-story-08"><img src= "/images/post/Season_of_Story/Sprite/icon_201140090.png">釣具店</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041250.png">席菲</td>
     </tr>
 </table>
 
@@ -32,5 +32,5 @@ image: images/post/story_sprite/icon_201140090.png
 + 優先度：`4`
 + 觸發地點：[席菲小姐的釣具店](../doraemon-story-map#席菲小姐的釣具店)（`21300`）
 
-![釣具店](/images/post/map/21300.png)
+![釣具店](/images/post/Season_of_Story/Map/21300.png)
 + 前置劇情：[巨木第2話 暴風雨後的小鎮](../doraemon-story-00#第2話-暴風雨後的小鎮)（`10000002`）

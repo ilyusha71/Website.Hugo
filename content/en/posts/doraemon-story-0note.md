@@ -14,7 +14,7 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140020.png
+image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ---
 ## 大雄家 10000
 `20014006` 鎮長劇情線 前置`50000060`（自動） `10120201`（自動）

@@ -14,17 +14,17 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140130.png
+image: images/post/Season_of_Story/Sprite/icon_201140130.png
 ---
-![狗劇情線](/images/post/story_texture2d/EventImage_3002.png)
+![狗劇情線](/images/post/Season_of_Story/Texture2D/EventImage_3002.png)
 ## 狗
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
          <td>12</td>
-         <td><img src= "/images/post/story_sprite/icon_201140130.png"></td>
+         <td><img src= "/images/post/Season_of_Story/Sprite/icon_201140130.png"></td>
          <td><a href="../doraemon-story-12">狗</a></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201042000.png"></td>
+         <td><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_201042000.png"></td>
     </tr>
 </table>
 
@@ -33,7 +33,7 @@ image: images/post/story_sprite/icon_201140130.png
 + 優先度：`3`
 + 觸發地點：`冷颼颼山`（`10100`）
 
-![冷颼颼山](/images/post/map/10100.png)
+![冷颼颼山](/images/post/Season_of_Story/Map/10100.png)
 + 觸發時間條件📆
     + 開始時間：第1年春季17日`06:00`
 + 天氣條件：`遇上暴風雨、下雨、下雪不觸發`
@@ -43,7 +43,7 @@ image: images/post/story_sprite/icon_201140130.png
 + 優先度：`3`
 + 觸發地點：`冷颼颼山`（`10100`）
 
-![冷颼颼山](/images/post/map/10100.png)
+![冷颼颼山](/images/post/Season_of_Story/Map/10100.png)
 + 前置劇情：[狗第1話 大岩石與小狗](#第1話-大岩石與小狗)（`40003001`）
 + 必要物品：`超人手套`（`1002130`）
 <table>
@@ -54,9 +54,9 @@ image: images/post/story_sprite/icon_201140130.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_1002130.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002130.png"></td>
         <td><a href="../doraemon-story-09#獲得超人手套">鎮長第2話 獎勵事件：獲得超人手套</a></td>
     </tr>
 </table>
 
-![結局](/images/post/story_texture2d/EventImage_3002.png)
+![結局](/images/post/Season_of_Story/Texture2D/EventImage_3002.png)

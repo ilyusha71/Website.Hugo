@@ -14,7 +14,7 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201171503.png
+image: images/post/Season_of_Story/Sprite/icon_201171503.png
 ---
 ### 黃金品質原料取得條件
 ```C#
@@ -42,12 +42,12 @@ public class AnimalModel : INullableModel
         </tr>
     </thead>
     <tr>
-        <td rowspan="2"><img width="137px" src= "/images/post/story_sprite/icon_201031140.png"></td>
+        <td rowspan="2"><img width="137px" src= "/images/post/Season_of_Story/Sprite/icon_201031140.png"></td>
         <td align="center"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><br>情感度達到♥10</td>
-        <td rowspan="2" align="center"><img width="72px" src= "/images/post/story_sprite/icon_3200102.png">黃金雞蛋</td>
+        <td rowspan="2" align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3200102.png">黃金雞蛋</td>
     </tr>
     <tr>
-        <td align="center"><img src= "/images/post/story_sprite/Icon_Crown_01.png">贏得養雞競賽</td>
+        <td align="center"><img src= "/images/post/Season_of_Story/Sprite/Icon_Crown_01.png">贏得養雞競賽</td>
     </tr>
         <thead>
         <tr>
@@ -57,12 +57,12 @@ public class AnimalModel : INullableModel
         </tr>
     </thead>
     <tr>
-        <td rowspan="2"><img width="137px" src= "/images/post/story_sprite/icon_201031100.png"></td>
+        <td rowspan="2"><img width="137px" src= "/images/post/Season_of_Story/Sprite/icon_201031100.png"></td>
         <td align="center"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><br>情感度達到♥10</td>
-        <td rowspan="2" align="center"><img width="72px" src= "/images/post/story_sprite/icon_3200103.png">黃金牛奶</td>
+        <td rowspan="2" align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3200103.png">黃金牛奶</td>
     </tr>
     <tr>
-        <td align="center"><img src= "/images/post/story_sprite/Icon_Crown_01.png">贏得飼牛競賽</td>
+        <td align="center"><img src= "/images/post/Season_of_Story/Sprite/Icon_Crown_01.png">贏得飼牛競賽</td>
     </tr>
         <thead>
         <tr>
@@ -72,12 +72,12 @@ public class AnimalModel : INullableModel
         </tr>
     </thead>
     <tr>
-        <td rowspan="2"><img width="137px" src= "/images/post/story_sprite/icon_201031120.png"></td>
+        <td rowspan="2"><img width="137px" src= "/images/post/Season_of_Story/Sprite/icon_201031120.png"></td>
         <td align="center"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><br>情感度達到♥10</td>
-        <td rowspan="2" align="center"><img width="72px" src= "/images/post/story_sprite/icon_4100102.png">黃金羊毛</td>
+        <td rowspan="2" align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_4100102.png">黃金羊毛</td>
     </tr>
     <tr>
-        <td align="center"><img src= "/images/post/story_sprite/Icon_Crown_01.png">贏得飼羊競賽</td>
+        <td align="center"><img src= "/images/post/Season_of_Story/Sprite/Icon_Crown_01.png">贏得飼羊競賽</td>
     </tr>
 </table>
 
@@ -94,10 +94,10 @@ public class AnimalModel : INullableModel
         </tr>
     </thead>
     <tr>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_3400111.png">黃金美乃滋</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_9000101.png">打蛋器</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_3200102.png">黃金雞蛋</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_3400102.png">油</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3400111.png">黃金美乃滋</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_9000101.png">打蛋器</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3200102.png">黃金雞蛋</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3400102.png">油</td>
     </tr>
 </table>
 
@@ -111,18 +111,18 @@ public class AnimalModel : INullableModel
         </tr>
     </thead>
     <tr>
-        <td align="center" valign="bottom"><img width="72px" src= "/images/post/story_sprite/icon_3400109.png">黃金起司</td>        
-        <td align="center" valign="bottom"><img width="137px" src= "/images/post/story_sprite/icon_201080120.png">起司機</td>
-        <td align="center" valign="bottom"><img width="72px" src= "/images/post/story_sprite/icon_3200103.png">黃金牛奶</td>
+        <td align="center" valign="bottom"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3400109.png">黃金起司</td>        
+        <td align="center" valign="bottom"><img width="137px" src= "/images/post/Season_of_Story/Sprite/icon_201080120.png">起司機</td>
+        <td align="center" valign="bottom"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3200103.png">黃金牛奶</td>
     </tr>
     <tr>
-        <td align="center" valign="bottom"><img width="72px" src= "/images/post/story_sprite/icon_3400110.png">黃金優格</td>        
-        <td align="center" valign="bottom"><img width="137px" src= "/images/post/story_sprite/icon_201080130.png">優格機</td>
-        <td align="center" valign="bottom"><img width="72px" src= "/images/post/story_sprite/icon_3200103.png">黃金牛奶</td>
+        <td align="center" valign="bottom"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3400110.png">黃金優格</td>        
+        <td align="center" valign="bottom"><img width="137px" src= "/images/post/Season_of_Story/Sprite/icon_201080130.png">優格機</td>
+        <td align="center" valign="bottom"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3200103.png">黃金牛奶</td>
     </tr>
     <tr>
-        <td align="center" valign="bottom"><img width="72px" src= "/images/post/story_sprite/icon_4100103.png">黃金毛線</td>        
-        <td align="center" valign="bottom"><img width="137px" src= "/images/post/story_sprite/icon_201080140.png">毛線機</td>
-        <td align="center" valign="bottom"><img width="72px" src= "/images/post/story_sprite/icon_4100102.png">黃金羊毛</td>
+        <td align="center" valign="bottom"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_4100103.png">黃金毛線</td>        
+        <td align="center" valign="bottom"><img width="137px" src= "/images/post/Season_of_Story/Sprite/icon_201080140.png">毛線機</td>
+        <td align="center" valign="bottom"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_4100102.png">黃金羊毛</td>
     </tr>
 </table>

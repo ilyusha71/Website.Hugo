@@ -14,15 +14,15 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140210.png
+image: images/post/Season_of_Story/Sprite/icon_201140210.png
 ---
-![洞窟劇情線](/images/post/story_texture2d/EventImage_2300.png)
+![洞窟劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2300.png)
 ## 洞窟
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
         <td>20</td>
-        <td align="center"><a href="../doraemon-story-20"><img src= "/images/post/story_sprite/icon_201140210.png">洞窟</a></td>
+        <td align="center"><a href="../doraemon-story-20"><img src= "/images/post/Season_of_Story/Sprite/icon_201140210.png">洞窟</a></td>
     </tr>
 </table>
 
@@ -31,7 +31,7 @@ image: images/post/story_sprite/icon_201140210.png
 + 優先度：`3`
 + 觸發地點：`洞窟`（`11800`）
 
-![洞窟](/images/post/map/11800.png)
+![洞窟](/images/post/Season_of_Story/Map/11800.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](#第5話-邂逅女神大人)（`10000005`）
 + NPC好感度💝總和條件
 <table>
@@ -47,16 +47,16 @@ image: images/post/story_sprite/icon_201140210.png
         <td>小夫</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041010.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
     </tr>
 </table>
 
@@ -65,7 +65,7 @@ image: images/post/story_sprite/icon_201140210.png
 + 優先度：`3`
 + 觸發地點：`洞窟`（`11800`）
 
-![洞窟](/images/post/map/11800.png)
+![洞窟](/images/post/Season_of_Story/Map/11800.png)
 + 前置劇情：[洞窟第1話 洞窟的岩壁](#第1話-洞窟的岩壁)（`20010001`）
 + 必要物品：`穿透環`（`1002270`）
 <table>
@@ -76,7 +76,7 @@ image: images/post/story_sprite/icon_201140210.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_1002270.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002270.png"></td>
         <td><a href="../doraemon-story-19#第4話-秘密夥伴">秘密道具第4話 秘密夥伴</a></td>
     </tr>
 </table>

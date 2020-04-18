@@ -14,7 +14,7 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_1103001.png
+image: images/post/Season_of_Story/Sprite/icon_1103001.png
 libraries:
 - katex
 ---
@@ -26,14 +26,14 @@ libraries:
 ## 肥料的品質
 <table>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_1103000.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1103000.png"></td>
         <td>肥料</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">20</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
     </tr>  
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_1103001.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1103001.png"></td>
         <td>高級肥料</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">40</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
     </tr>  
 </table>
 

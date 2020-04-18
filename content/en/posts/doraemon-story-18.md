@@ -14,16 +14,16 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140190.png
+image: images/post/Season_of_Story/Sprite/icon_201140190.png
 ---
-![松鼠劇情線](/images/post/story_texture2d/EventImage_3006.png)
+![松鼠劇情線](/images/post/Season_of_Story/Texture2D/EventImage_3006.png)
 ## 松鼠
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
         <td>18</td>
-        <td align="center"><a href="../doraemon-story-18"><img src= "/images/post/story_sprite/icon_201140190.png">松鼠</a></td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201046030.png"></td>
+        <td align="center"><a href="../doraemon-story-18"><img src= "/images/post/Season_of_Story/Sprite/icon_201140190.png">松鼠</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201046030.png"></td>
     </tr>
 </table>
 
@@ -32,7 +32,7 @@ image: images/post/story_sprite/icon_201140190.png
 + 優先度：`3`
 + 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
 
-![萬物鎮西](/images/post/map/11200.png)
+![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 觸發時間條件📆
     + 開始時間：
         + 每年`春季1日`
@@ -51,8 +51,8 @@ image: images/post/story_sprite/icon_201140190.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ image: images/post/story_sprite/icon_201140190.png
 + 優先度：`3`
 + 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
 
-![樵之森](/images/post/map/10600.png)
+![樵之森](/images/post/Season_of_Story/Map/10600.png)
 + 前置劇情：[松鼠第1話 ](#第1話-)（`40007001`）
 + 觸發時間條件📆
     + 開始時間：
@@ -81,9 +81,9 @@ image: images/post/story_sprite/icon_201140190.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201046030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201046030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
-![結局](/images/post/story_texture2d/EventImage_3006.png)
+![結局](/images/post/Season_of_Story/Texture2D/EventImage_3006.png)

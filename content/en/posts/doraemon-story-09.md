@@ -14,16 +14,16 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140100.png
+image: images/post/Season_of_Story/Sprite/icon_201140100.png
 ---
-![鎮長劇情線](/images/post/story_texture2d/EventImage_2500.png)
+![鎮長劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2500.png)
 ## 鎮長
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
         <td>09</td>
-        <td align="center"><a href="../doraemon-story-09"><img src= "/images/post/story_sprite/icon_201140100.png">鎮長</a></td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041200.png">亞緬</td>
+        <td align="center"><a href="../doraemon-story-09"><img src= "/images/post/Season_of_Story/Sprite/icon_201140100.png">鎮長</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041200.png">亞緬</td>
     </tr>
 </table>
 
@@ -32,7 +32,7 @@ image: images/post/story_sprite/icon_201140100.png
 + 優先度：`3`
 + 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
 
-![萬物鎮西](/images/post/map/11200.png)
+![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：看完佈告欄引導教學（`81001004`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -52,14 +52,14 @@ image: images/post/story_sprite/icon_201140100.png
         <td>菈姆</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041190.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041190.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041130.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
     </tr>
 </table>
 
@@ -69,7 +69,7 @@ image: images/post/story_sprite/icon_201140100.png
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + `鎮長家`門口（`213.1`,`3.3`,`-131.9`）
 
-![鎮長家門口](/images/post/map/11300-05.png)
+![鎮長家門口](/images/post/Season_of_Story/Map/11300-05.png)
 + 前置劇情：[鎮長第1話 忙碌的孩子們](#第1話-忙碌的孩子們)（`20004001`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -86,10 +86,10 @@ image: images/post/story_sprite/icon_201140100.png
         <td>亞緬</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
     </tr>
 </table>
 
@@ -111,9 +111,9 @@ image: images/post/story_sprite/icon_201140100.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041000.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002130.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041000.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002130.png"></td>
     </tr>
 </table>
 
@@ -135,9 +135,9 @@ image: images/post/story_sprite/icon_201140100.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041010.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002030.png"></td>
     </tr>
 </table>
 
@@ -156,7 +156,7 @@ image: images/post/story_sprite/icon_201140100.png
 + 優先度：`2`
 + 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
 
-![大雄牧場](/images/post/map/10000.png)
+![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 前置劇情：
     + <mark>未知</mark>（`50000060`）
     + [巨大的家擴建完成](../doraemon-story-1/#巨大的家擴建完成)（`10120201`）
@@ -169,9 +169,9 @@ image: images/post/story_sprite/icon_201140100.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041000.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002190.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041000.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002190.png"></td>
     </tr>
 </table>
 
@@ -194,9 +194,9 @@ image: images/post/story_sprite/icon_201140100.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041010.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002010.png"></td>
     </tr>
 </table>
 
@@ -210,7 +210,7 @@ image: images/post/story_sprite/icon_201140100.png
 + 優先度：`3`
 + 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
 
-![萬物鎮西](/images/post/map/11200.png)
+![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：[鎮長第2話 被搶走了！](#第2話-被搶走了)（`20004002`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -229,12 +229,12 @@ image: images/post/story_sprite/icon_201140100.png
         <td>亞緬</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041050.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
@@ -244,7 +244,7 @@ image: images/post/story_sprite/icon_201140100.png
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + `鎮長家`門口（`213.1`,`3.3`,`-131.9`）
 
-![鎮長家門口](/images/post/map/11300-05.png)
+![鎮長家門口](/images/post/Season_of_Story/Map/11300-05.png)
 + 前置劇情：[鎮長第3話 給蘭奇的禮物](#第3話-給蘭奇的禮物)（`20004003`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -262,12 +262,12 @@ image: images/post/story_sprite/icon_201140100.png
         <td>亞緬</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041010.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
@@ -276,7 +276,7 @@ image: images/post/story_sprite/icon_201140100.png
 + 優先度：`3`
 + 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
 
-![萬物鎮西](/images/post/map/11200.png)
+![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：[鎮長第4話 鎮長先生的工作是？](#第4話-鎮長先生的工作是)（`20004004`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -294,12 +294,12 @@ image: images/post/story_sprite/icon_201140100.png
         <td>亞緬</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041130.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060070.png"></td>
     </tr>
 </table>
 
@@ -308,7 +308,7 @@ image: images/post/story_sprite/icon_201140100.png
 + 優先度：`3`
 + 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
 
-![大雄牧場](/images/post/map/10000.png)
+![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 前置劇情：[鎮長第5話 給菈姆的禮物](#第5話-給菈姆的禮物)（`20004005`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -326,12 +326,12 @@ image: images/post/story_sprite/icon_201140100.png
         <td>帕絲琪</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041060.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
     </tr>
 </table>
 
@@ -340,7 +340,7 @@ image: images/post/story_sprite/icon_201140100.png
 + 優先度：`3`
 + 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
 
-![大雄牧場](/images/post/map/10000.png)
+![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 前置劇情：[鎮長第6話 來自過去的信](#第5話-來自過去的信)（`20004006`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -357,10 +357,10 @@ image: images/post/story_sprite/icon_201140100.png
         <td>亞緬</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060090.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060090.png"></td>
     </tr>
 </table>
 
@@ -369,7 +369,7 @@ image: images/post/story_sprite/icon_201140100.png
 + 優先度：`3`
 + 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
 
-![大雄牧場](/images/post/map/10000.png)
+![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 前置劇情：
     + [鎮長第7話 屬於孩子們的日子](#第7話-屬於孩子們的日子)（`20004007`）
     + [獲得人類火車套裝組 ](#獲得人類火車套裝組)（`20014004`）
@@ -387,10 +387,10 @@ image: images/post/story_sprite/icon_201140100.png
         <td>亞緬</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041200.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041200.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060100.png"></td>
     </tr>
 </table>
 
@@ -403,9 +403,9 @@ image: images/post/story_sprite/icon_201140100.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_1002190.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002190.png"></td>
         <td><a href="../doraemon-story-09#獲得天氣箱">鎮長第2話 獎勵事件：獲得天氣箱</a></td>
     </tr>
 </table>
 
-![結局](/images/post/story_texture2d/EventImage_2500.png)
+![結局](/images/post/Season_of_Story/Texture2D/EventImage_2500.png)

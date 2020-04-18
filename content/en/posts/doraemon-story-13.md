@@ -14,16 +14,16 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140140.png
+image: images/post/Season_of_Story/Sprite/icon_201140140.png
 ---
-![馬劇情線](/images/post/story_texture2d/EventImage_3000.png)
+![馬劇情線](/images/post/Season_of_Story/Texture2D/EventImage_3000.png)
 ## 馬
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
         <td>13</td>
-        <td align="center"><a href="../doraemon-story-13"><img src= "/images/post/story_sprite/icon_201140140.png">馬</a></td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201042020.png">狂草尼馬</td>
+        <td align="center"><a href="../doraemon-story-13"><img src= "/images/post/Season_of_Story/Sprite/icon_201140140.png">馬</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201042020.png">狂草尼馬</td>
     </tr>
 </table>
 
@@ -32,7 +32,7 @@ image: images/post/story_sprite/icon_201140140.png
 + 優先度：`3`
 + 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
 
-![萬物鎮西](/images/post/map/11200.png)
+![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：[馬小屋建造完成](../doraemon-story-1/#馬小屋建造完成)（`10124101`）
 + 觸發時間條件📆
     + 開始時間：每日`06:00`
@@ -45,7 +45,7 @@ image: images/post/story_sprite/icon_201140140.png
 + 優先度：`3`
 + 觸發地點：`馬小屋`（`12400`）
 
-![馬小屋](/images/post/map/12400.png)
+![馬小屋](/images/post/Season_of_Story/Map/12400.png)
 + 前置劇情：[馬第1話 寄養小馬！](#第1話-寄養小馬)（`40001001`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -60,7 +60,7 @@ image: images/post/story_sprite/icon_201140140.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201042020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201042020.png"></td>
         <td><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Half.png"></td>
     </tr>
 </table>
@@ -72,7 +72,7 @@ image: images/post/story_sprite/icon_201140140.png
 + 優先度：`3`
 + 觸發地點：`馬小屋`（`12400`）
 
-![馬小屋](/images/post/map/12400.png)
+![馬小屋](/images/post/Season_of_Story/Map/12400.png)
 + 前置劇情：[馬第2話 小馬與我](#第2話-小馬與我)（`40001002`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -87,7 +87,7 @@ image: images/post/story_sprite/icon_201140140.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201042020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201042020.png"></td>
         <td><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Half.png"></td>
     </tr>
 </table>
@@ -105,4 +105,4 @@ image: images/post/story_sprite/icon_201140140.png
 
 {{< youtube Ggl8g9q0avY >}}
 
-![結局](/images/post/story_texture2d/EventImage_3000.png)
+![結局](/images/post/Season_of_Story/Texture2D/EventImage_3000.png)

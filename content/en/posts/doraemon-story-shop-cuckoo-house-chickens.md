@@ -15,7 +15,7 @@ series:
 categories:
 - 哆啦A夢
 - 商店
-image: images/post/story_sprite/icon_301080200.png
+image: images/post/Season_of_Story/Sprite/icon_301080200.png
 ---
 ## 遊戲資源
 + 以下圖示儲存在Sprite資料夾下，對應檔名為`icon_` + `mItemId`+`.png`，`mItemId`可透過`ItemData.text`取得。
@@ -83,17 +83,17 @@ image: images/post/story_sprite/icon_301080200.png
 ### 主要角色
 <table>
     <tr>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041080.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041080.png"></td>
         <td>赫蓮</td>
         <td>肯的媽媽</td>
     </tr>
     <tr>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041090.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041090.png"></td>
         <td>奇克</td>
         <td>肯的哥哥</td>
     </tr>
     <tr>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041100.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041100.png"></td>
         <td>肯</td>
         <td>奇克的弟弟</td>
     </tr>
@@ -119,9 +119,9 @@ image: images/post/story_sprite/icon_301080200.png
         <tr>
             <td>900102</td>
             <td>114</td>
-            <td><img width= "96px" src= "/images/post/story_sprite/icon_201031140.png"></td>
+            <td><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031140.png"></td>
             <td>雞</td>
-            <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">2000</td>
+            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2000</td>
         </tr>
     </tbody>
 </table>
@@ -141,16 +141,16 @@ image: images/post/story_sprite/icon_301080200.png
         <tr>
             <td>100104</td>
             <td>1101010</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_1101010.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101010.png"></td>
             <td>雞飼料</td>
-            <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">10</td>
+            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">10</td>
         </tr>
         <tr>
             <td>100106</td>
             <td>1101050</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_1101050.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101050.png"></td>
             <td>動物用點心</td>
-            <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">20</td>
+            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
         </tr>
     </tbody>
 </table>
@@ -177,9 +177,9 @@ image: images/post/story_sprite/icon_301080200.png
         <tr>
             <td>100111</td>
             <td>1001152</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_1001152.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001152.png"></td>
             <td>雞鈴</td>
-            <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">5000</td>
+            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
             <td>搖鈴後，雞會往大雄的位置移動。<br>持續8分鐘。</td>
         </tr>
     </tbody>
@@ -200,8 +200,8 @@ image: images/post/story_sprite/icon_301080200.png
         </tr>
     </thead>
     <tr>
-        <td rowspan="2"><img src= "/images/post/story_sprite/icon_201080031.png"></td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_1001152.png"></td>
+        <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080031.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001152.png"></td>
     </tr>
     <tr>
         <td>+ <a href="../doraemon-story-shop-hammer-carpenter-shop#擴建雞小屋">寬闊的雞小屋</a><br>擴建完成後才會在小雞商店上架。</td>

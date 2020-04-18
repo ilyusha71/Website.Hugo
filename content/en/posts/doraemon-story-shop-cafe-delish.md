@@ -18,7 +18,7 @@ series:
 categories:
 - 哆啦A夢
 - 商店
-image: images/post/story_sprite/icon_301230000.png
+image: images/post/Season_of_Story/Sprite/icon_301230000.png
 ---
 ## 遊戲資源
 + 以下圖示儲存在Sprite資料夾下，對應檔名為`icon_` + `mItemId`+`.png`，`mItemId`可透過`ItemData.text`取得。
@@ -105,17 +105,17 @@ image: images/post/story_sprite/icon_301230000.png
 ### 主要角色
 <table>
     <tr>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041230.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
         <td>萊斯特</td>
         <td>嚼嚼餐廳廚師</td>
     </tr>
     <tr>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041240.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041240.png"></td>
         <td>托蘭</td>
         <td>萊斯特的妻子</td>
     </tr>
     <tr>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041040.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
         <td>小夫</td>
         <td>餐廳打工仔</td>
     </tr>
@@ -158,7 +158,7 @@ image: images/post/story_sprite/icon_301230000.png
     <tbody>
         <tr>
             <td>400100</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_9000100.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_9000100.png"></td>
             <td>鍋具組</td>
             <td>9800</td>
             <td>四季</td>
@@ -166,7 +166,7 @@ image: images/post/story_sprite/icon_301230000.png
         </tr>
         <tr>
             <td>400101</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_9000101.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_9000101.png"></td>
             <td>打蛋器</td>
             <td>2450</td>
             <td>四季</td>
@@ -174,7 +174,7 @@ image: images/post/story_sprite/icon_301230000.png
         </tr>
         <tr>
             <td>400102</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_9000102.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_9000102.png"></td>
             <td>烤箱</td>
             <td>3850</td>
             <td>四季</td>
@@ -182,7 +182,7 @@ image: images/post/story_sprite/icon_301230000.png
         </tr>
         <tr>
             <td>400103</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_9000103.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_9000103.png"></td>
             <td>擀麵棍</td>
             <td>2100</td>
             <td>四季</td>
@@ -190,7 +190,7 @@ image: images/post/story_sprite/icon_301230000.png
         </tr>
         <tr>
             <td>400104</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_9000104.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_9000104.png"></td>
             <td>平底鍋</td>
             <td>6300</td>
             <td>四季</td>

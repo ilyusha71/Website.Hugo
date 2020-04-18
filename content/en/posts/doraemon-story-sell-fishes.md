@@ -15,7 +15,7 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_5000187.png
+image: images/post/Season_of_Story/Sprite/icon_5000187.png
 ---
 ## 出貨價格資料
 + [物品MOD資料庫](../doraemon-story-item-part1#物品MOD資料庫)
@@ -48,7 +48,7 @@ image: images/post/story_sprite/icon_5000187.png
     <tbody>
         <tr>
             <td>5000190</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000190.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000190.png"></td>
             <td>大尾魚</td>
             <td>2440</td>
             <td>2758</td>
@@ -63,7 +63,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000187</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000187.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png"></td>
             <td>皇帶魚</td>
             <td>2360</td>
             <td>2667</td>
@@ -78,7 +78,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000188</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000188.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000188.png"></td>
             <td>皺鰓鯊</td>
             <td>2290</td>
             <td>2588</td>
@@ -93,7 +93,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000189</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000189.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000189.png"></td>
             <td>巨狗脂鯉</td>
             <td>2210</td>
             <td>2498</td>
@@ -108,7 +108,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000162</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000162.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000162.png"></td>
             <td>螃蟹</td>
             <td>1340</td>
             <td>1515</td>
@@ -123,7 +123,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000165</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000165.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000165.png"></td>
             <td>鮪魚</td>
             <td>1070</td>
             <td>1210</td>
@@ -138,7 +138,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000163</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000163.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000163.png"></td>
             <td>燈籠魚</td>
             <td>790</td>
             <td>893</td>
@@ -153,7 +153,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000127</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000127.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000127.png"></td>
             <td>旗魚</td>
             <td>730</td>
             <td>825</td>
@@ -168,7 +168,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000126</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000126.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000126.png"></td>
             <td>鯊魚</td>
             <td>680</td>
             <td>769</td>
@@ -183,7 +183,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000143</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000143.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000143.png"></td>
             <td>骨舌魚</td>
             <td>640</td>
             <td>724</td>
@@ -198,7 +198,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000101</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000101.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000101.png"></td>
             <td></td>
             <td>570</td>
             <td>645</td>
@@ -213,7 +213,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000167</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000167.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000167.png"></td>
             <td>鰤魚</td>
             <td>560</td>
             <td>633</td>
@@ -228,7 +228,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000123</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000123.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000123.png"></td>
             <td></td>
             <td>510</td>
             <td>577</td>
@@ -243,7 +243,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000124</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000124.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000124.png"></td>
             <td>食人魚</td>
             <td>390</td>
             <td>441</td>
@@ -258,7 +258,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000104</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000104.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000104.png"></td>
             <td>鯛魚</td>
             <td>370</td>
             <td>419</td>
@@ -273,7 +273,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000125</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000125.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000125.png"></td>
             <td>鱉</td>
             <td>350</td>
             <td>396</td>
@@ -288,7 +288,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000166</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000166.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000166.png"></td>
             <td>蝦</td>
             <td>190</td>
             <td>215</td>
@@ -303,7 +303,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000186</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000186.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000186.png"></td>
             <td>比目魚</td>
             <td>160</td>
             <td>181</td>
@@ -318,7 +318,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000161</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000161.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000161.png"></td>
             <td>河豚</td>
             <td>150</td>
             <td>170</td>
@@ -333,7 +333,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000102</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000102.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000102.png"></td>
             <td>泥鰍</td>
             <td>140</td>
             <td>159</td>
@@ -348,7 +348,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000103</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000103.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000103.png"></td>
             <td>花鯰</td>
             <td>140</td>
             <td>159</td>
@@ -363,7 +363,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000129</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000129.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000129.png"></td>
             <td>沙鮻</td>
             <td>120</td>
             <td>136</td>
@@ -378,7 +378,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000146</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000146.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000146.png"></td>
             <td>白帶魚</td>
             <td>120</td>
             <td>136</td>
@@ -393,7 +393,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000105</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000105.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000105.png"></td>
             <td>剝皮魚</td>
             <td>110</td>
             <td>125</td>
@@ -408,7 +408,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000122</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000122.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000122.png"></td>
             <td>鱧魚</td>
             <td>110</td>
             <td>125</td>
@@ -423,7 +423,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000142</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000142.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000142.png"></td>
             <td>香魚</td>
             <td>110</td>
             <td>125</td>
@@ -438,7 +438,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000144</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000144.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000144.png"></td>
             <td>鰹魚</td>
             <td>110</td>
             <td>125</td>
@@ -453,7 +453,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000164</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000164.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000164.png"></td>
             <td>海天使</td>
             <td>110</td>
             <td>125</td>
@@ -468,7 +468,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000140</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000140.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000140.png"></td>
             <td>鮭魚</td>
             <td>100</td>
             <td>113</td>
@@ -483,7 +483,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000141</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000141.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000141.png"></td>
             <td>虹鱒</td>
             <td>60</td>
             <td>68</td>
@@ -498,7 +498,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000145</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000145.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000145.png"></td>
             <td>鯖魚</td>
             <td>60</td>
             <td>68</td>
@@ -513,7 +513,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000100</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000100.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000100.png"></td>
             <td>俠女鱒</td>
             <td>50</td>
             <td>57</td>
@@ -528,7 +528,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000181</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000181.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000181.png"></td>
             <td>鯽魚</td>
             <td>50</td>
             <td>57</td>
@@ -543,7 +543,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000182</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000182.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000182.png"></td>
             <td>章魚</td>
             <td>50</td>
             <td>57</td>
@@ -558,7 +558,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000180</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000180.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000180.png"></td>
             <td>鯉魚</td>
             <td>40</td>
             <td>46</td>
@@ -573,7 +573,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000106</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000106.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000106.png"></td>
             <td>烏賊</td>
             <td>30</td>
             <td>34</td>
@@ -588,7 +588,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000121</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000121.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000121.png"></td>
             <td>小龍蝦</td>
             <td>30</td>
             <td>34</td>
@@ -603,7 +603,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000128</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000128.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000128.png"></td>
             <td>沙丁魚</td>
             <td>30</td>
             <td>34</td>
@@ -618,7 +618,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000183</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000183.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000183.png"></td>
             <td>金魚</td>
             <td>30</td>
             <td>34</td>
@@ -633,7 +633,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000184</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000184.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000184.png"></td>
             <td>日本花鱸</td>
             <td>30</td>
             <td>34</td>
@@ -648,7 +648,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000185</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000185.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000185.png"></td>
             <td>竹莢魚</td>
             <td>30</td>
             <td>34</td>
@@ -663,7 +663,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000120</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000120.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000120.png"></td>
             <td>青鱂魚</td>
             <td>20</td>
             <td>23</td>
@@ -678,7 +678,7 @@ image: images/post/story_sprite/icon_5000187.png
         </tr>
         <tr>
             <td>5000160</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_5000160.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_5000160.png"></td>
             <td>西太公魚</td>
             <td>20</td>
             <td>23</td>

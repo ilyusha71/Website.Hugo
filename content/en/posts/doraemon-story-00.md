@@ -14,18 +14,18 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140010.png
+image: images/post/Season_of_Story/Sprite/icon_201140010.png
 ---
-![巨木劇情線](/images/post/story_texture2d/EventImage_2800.png)
+![巨木劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2800.png)
 ## 巨木
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
         <td>00</td>
-        <td align="center"><a href="../doraemon-story-00"><img src= "/images/post/story_sprite/icon_201140010.png">巨木</a></td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041000.png">大雄</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041010.png">哆啦A夢</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041070.png">薇娜</td>
+        <td align="center"><a href="../doraemon-story-00"><img src= "/images/post/Season_of_Story/Sprite/icon_201140010.png">巨木</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041000.png">大雄</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041010.png">哆啦A夢</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041070.png">薇娜</td>
     </tr>
 </table>
 
@@ -34,9 +34,9 @@ image: images/post/story_sprite/icon_201140010.png
 + 事件ID：`10000001`
 + 優先度：`0`
 
-![劇情](/images/post/story_texture2d/EventImage_1000.png)
-![劇情](/images/post/story_texture2d/EventImage_1001.png)
-![劇情](/images/post/story_texture2d/EventImage_1002.png)
+![劇情](/images/post/Season_of_Story/Texture2D/EventImage_1000.png)
+![劇情](/images/post/Season_of_Story/Texture2D/EventImage_1001.png)
+![劇情](/images/post/Season_of_Story/Texture2D/EventImage_1002.png)
 {{< youtube fCLsLwLKxMU >}}
 
 ### 第2話 暴風雨後的小鎮
@@ -68,7 +68,7 @@ image: images/post/story_sprite/icon_201140010.png
 + 優先度：`0`
 + 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
 
-![萬物鎮西](/images/post/map/11200.png)
+![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：[巨木第3話 大雄的幫忙](#第3話-大雄的幫忙)（`10000003`）
 + 觸發時間條件📆
     + 開始時間：第1年春季10日`06:00`
@@ -91,12 +91,12 @@ image: images/post/story_sprite/icon_201140010.png
 + 優先度：`4`
 + 觸發地點：`巨木根部`（`11700`）
 
-![巨木根部](/images/post/map/11700.png)
+![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](#第5話-邂逅女神大人)（`10000005`）
 + NPC：`薇娜`（`107`）
 <table>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041070.png"></td>
     </tr>
 </table>
 
@@ -109,7 +109,7 @@ image: images/post/story_sprite/icon_201140010.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_1002210.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002210.png"></td>
         <td><a href="../doraemon-story-03#第5話-來來貓">料理店第5話 來來貓</a></td>
     </tr>
 </table>
@@ -119,12 +119,12 @@ image: images/post/story_sprite/icon_201140010.png
 + 優先度：`3`
 + 觸發地點：`巨木根部`（`11700`）
 
-![巨木根部](/images/post/map/11700.png)
+![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](#第5話-邂逅女神大人)（`10000005`）
 + NPC：`薇娜`（`107`）
 <table>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041070.png"></td>
     </tr>
 </table>
 
@@ -137,7 +137,7 @@ image: images/post/story_sprite/icon_201140010.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_1002230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002230.png"></td>
         <td><a href="../doraemon-story-02#第5話-幻想筆">醫院第5話 幻想筆</a></td>
     </tr>
 </table>
@@ -147,12 +147,12 @@ image: images/post/story_sprite/icon_201140010.png
 + 優先度：`2`
 + 觸發地點：`巨木根部`（`11700`）
 
-![巨木根部](/images/post/map/11700.png)
+![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](#第5話-邂逅女神大人)（`10000005`）
 + NPC：`薇娜`（`107`）
 <table>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041070.png"></td>
     </tr>
 </table>
 
@@ -165,7 +165,7 @@ image: images/post/story_sprite/icon_201140010.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_1002110.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002110.png"></td>
         <td><a href="../doraemon-story-01#第5話-時光電視">木工店第5話 時光電視</a></td>
     </tr>
 </table>
@@ -175,12 +175,12 @@ image: images/post/story_sprite/icon_201140010.png
 + 優先度：`1`
 + 觸發地點：`巨木根部`（`11700`）
 
-![巨木根部](/images/post/map/11700.png)
+![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](#第5話-邂逅女神大人)（`10000005`）
 + NPC：`薇娜`（`107`）
 <table>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041070.png"></td>
     </tr>
 </table>
 
@@ -193,7 +193,7 @@ image: images/post/story_sprite/icon_201140010.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_1002090.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002090.png"></td>
         <td><a href="../doraemon-story-10#第4話-呼喚精靈手環">蘭奇第4話 呼喚精靈手環</a></td>
     </tr>
 </table>
@@ -219,17 +219,17 @@ image: images/post/story_sprite/icon_201140010.png
 + 優先度：`0`
 + 前置劇情：[巨木第8話 各自的自由研究](#第8話-各自的自由研究)（`10000008`）
 
-![劇情](/images/post/story_texture2d/EventImage_1010.png)
-![劇情](/images/post/story_texture2d/EventImage_1011.png)
-![劇情](/images/post/story_texture2d/EventImage_1012.png)
-![劇情](/images/post/story_texture2d/EventImage_1013.png)
+![劇情](/images/post/Season_of_Story/Texture2D/EventImage_1010.png)
+![劇情](/images/post/Season_of_Story/Texture2D/EventImage_1011.png)
+![劇情](/images/post/Season_of_Story/Texture2D/EventImage_1012.png)
+![劇情](/images/post/Season_of_Story/Texture2D/EventImage_1013.png)
 
 ### 第10話 銀白之雷
 + 事件ID：`10000010`
 + 優先度：`0`
 + 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
 
-![萬物鎮西](/images/post/map/11200.png)
+![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：[巨木第9話 巨木的問題](#第9話-巨木的問題)（`10000009`）
 + 觸發時間條件📆
     + 開始時間：每日`06:00`
@@ -244,7 +244,7 @@ image: images/post/story_sprite/icon_201140010.png
 + 優先度：`0`
 + 觸發地點：`巨木根部`（`11700`）
 
-![巨木根部](/images/post/map/11700.png)
+![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第10話 銀白之雷](#第10話-銀白之雷)（`10000010`）
 + 觸發時間條件📆
     + 開始時間：每日`11:00`
@@ -262,12 +262,12 @@ image: images/post/story_sprite/icon_201140010.png
         <td>帕絲琪</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041050.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041060.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
@@ -276,7 +276,7 @@ image: images/post/story_sprite/icon_201140010.png
 + 優先度：`0`
 + 觸發地點：`巨木根部`（`11700`）
 
-![巨木根部](/images/post/map/11700.png)
+![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第11話 小鎮的未來](#第11話-小鎮的未來)（`10000011`）
 + 觸發時間條件📆
     + 開始時間：每日`06:00`
@@ -285,7 +285,7 @@ image: images/post/story_sprite/icon_201140010.png
 + NPC：`薇娜`（`107`）
 <table>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041070.png"></td>
     </tr>
 </table>
 
@@ -298,7 +298,7 @@ image: images/post/story_sprite/icon_201140010.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_1002000.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002000.png"></td>
         <td><a href="../doraemon-story-11#第6話-克魯波克魯全體集合">克魯波克魯第6話 克魯波克魯全體集合！</a></td>
     </tr>
 </table>

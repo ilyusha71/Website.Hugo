@@ -16,7 +16,7 @@ series:
 categories:
 - 哆啦A夢
 - 商店
-image: images/post/story_sprite/icon_301170000.png
+image: images/post/Season_of_Story/Sprite/icon_301170000.png
 ---
 ## 遊戲資源
 + 以下圖示儲存在Sprite資料夾下，對應檔名為`icon_` + `mItemId`+`.png`，`mItemId`可透過`ItemData.text`取得。
@@ -82,17 +82,17 @@ image: images/post/story_sprite/icon_301170000.png
 ### 主要角色
 <table>
     <tr>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041170.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041170.png"></td>
         <td>埃蒂</td>
         <td>緹拉兒的媽媽</td>
     </tr>
     <tr>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041180.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041180.png"></td>
         <td>涅萊爾</td>
         <td>緹拉兒的爸爸</td>
     </tr>
     <tr>
-        <td><img width= "100px" src= "/images/post/story_sprite/icon_201041190.png"></td>
+        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041190.png"></td>
         <td>緹拉兒</td>
         <td>埃蒂的女兒</td>
     </tr>
@@ -109,6 +109,7 @@ image: images/post/story_sprite/icon_301170000.png
 + [工具](#工具)：1種
 + [背包](#背包)：2種
 + [DLC](#dlc)：2種
+    + [販售通路特典](#販售通路特典)：9種
 
 ### 作物種子
 #### 春季種子
@@ -125,81 +126,81 @@ image: images/post/story_sprite/icon_301170000.png
     </thead>
     <tr>
         <td>100100</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000100.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png"></td>
         <td>蕪菁種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">30</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30</td>
         <td>春季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100101</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000101.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000101.png"></td>
         <td>馬鈴薯種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">50</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
         <td>春季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100102</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000102.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000102.png"></td>
         <td>高麗菜種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">90</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">90</td>
         <td>春季</td>
         <td></td>
     </tr>
     <tr>
         <td>100103</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000103.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000103.png"></td>
         <td>小黃瓜種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">80</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
         <td>春季</td>
         <td></td>
     </tr>
     <tr>
         <td>100104</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000104.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000104.png"></td>
         <td>草莓種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">150</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">150</td>
         <td>春季</td>
         <td></td>
     </tr>
     <tr>
         <td>100105</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000105.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000105.png"></td>
         <td>白花椰菜種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">80</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
         <td>春季</td>
         <td></td>
     </tr>
     <tr>
         <td>100106</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000106.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000106.png"></td>
         <td>豌豆種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">80</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
         <td>春季</td>
         <td></td>
     </tr>
     <tr>
         <td>100108</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000108.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000108.png"></td>
         <td>瑪格麗特種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">40</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
         <td>春季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100110</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000110.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000110.png"></td>
         <td>彩鐘花種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">70</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">70</td>
         <td>春季</td>
         <td></td>
     </tr>
     <tr>
         <td>100111</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000111.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000111.png"></td>
         <td>康乃馨種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">80</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
         <td>春季</td>
         <td></td>
     </tr>
@@ -225,105 +226,105 @@ image: images/post/story_sprite/icon_301170000.png
     </thead>
     <tr>
         <td>100200</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000200.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000200.png"></td>
         <td>玉米種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">140</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">140</td>
         <td>夏季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100201</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000201.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000201.png"></td>
         <td>洋蔥種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">30</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30</td>
         <td>夏季</td>
         <td></td>
     </tr>
     <tr>
         <td>100202</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000202.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000202.png"></td>
         <td>南瓜種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">20</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
         <td>夏季</td>
         <td></td>
     </tr>
     <tr>
         <td>100203</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000203.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000203.png"></td>
         <td>西瓜種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">40</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
         <td>夏季</td>
         <td></td>
     </tr>
     <tr>
         <td>100204</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000204.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000204.png"></td>
         <td>番茄種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">110</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">110</td>
         <td>夏季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100205</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000205.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000205.png"></td>
         <td>哈密瓜種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">140</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">140</td>
         <td>夏季</td>
         <td></td>
     </tr>
     <tr>
         <td>100206</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000206.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000206.png"></td>
         <td>鳳梨種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">100</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">100</td>
         <td>夏季</td>
         <td></td>
     </tr>
     <tr>
         <td>100207</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000207.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000207.png"></td>
         <td>甜椒種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">80</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
         <td>夏季</td>
         <td></td>
     </tr>
     <tr>
         <td>100210</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000210.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000210.png"></td>
         <td>向日葵種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">80</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
         <td>夏季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100211</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000211.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000211.png"></td>
         <td>牽牛花種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">40</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
         <td>夏季</td>
         <td></td>
     </tr>
     <tr>
         <td>100213</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000213.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000213.png"></td>
         <td>百合花種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">70</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">70</td>
         <td>夏季</td>
         <td></td>
     </tr>
     <tr>
         <td>100214</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000214.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000214.png"></td>
         <td>木槿種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">40</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
         <td>夏季</td>
         <td></td>
     </tr>
     <tr>
         <td>100215</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000215.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000215.png"></td>
         <td>紅玫瑰種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">50</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
         <td>夏季</td>
         <td></td>
     </tr>
@@ -349,65 +350,65 @@ image: images/post/story_sprite/icon_301170000.png
     </thead>
     <tr>
         <td>100300</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000300.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000300.png"></td>
         <td>牛蒡種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">50</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
         <td>秋季</td>
         <td></td>
     </tr>
     <tr>
         <td>100301</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000301.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000301.png"></td>
         <td>胡蘿蔔種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">80</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
         <td>秋季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100302</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000302.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000302.png"></td>
         <td>地瓜種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">40</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
         <td>秋季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100303</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000303.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000303.png"></td>
         <td>菠菜種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">30</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30</td>
         <td>秋季</td>
         <td></td>
     </tr>
     <tr>
         <td>100304</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000304.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000304.png"></td>
         <td>茄子種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">70</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">70</td>
         <td>秋季</td>
         <td></td>
     </tr>
     <tr>
         <td>100305</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000305.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000305.png"></td>
         <td>青椒種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">90</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">90</td>
         <td>秋季</td>
         <td></td>
     </tr>
     <tr>
         <td>100306</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000306.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000306.png"></td>
         <td>撫子花種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">50</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
         <td>秋季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100307</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000307.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000307.png"></td>
         <td>非洲菊種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">90</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">90</td>
         <td>秋季</td>
         <td></td>
     </tr>
@@ -433,33 +434,33 @@ image: images/post/story_sprite/icon_301170000.png
     </thead>
     <tr>
         <td>100400</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000400.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000400.png"></td>
         <td>白蘿蔔種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">20</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
         <td>冬季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100401</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000401.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000401.png"></td>
         <td>白菜種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">80</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
         <td>冬季</td>
         <td></td>
     </tr>
     <tr>
         <td>100402</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000402.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000402.png"></td>
         <td>花椰菜種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">60</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">60</td>
         <td>冬季</td>
         <td></td>
     </tr>
     <tr>
         <td>100404</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000404.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000404.png"></td>
         <td>雪花蓮種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">50</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
         <td>冬季</td>
         <td>✔</td>
     </tr>
@@ -485,17 +486,17 @@ image: images/post/story_sprite/icon_301170000.png
     </thead>
     <tr>
         <td>100500</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_1101000.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101000.png"></td>
         <td>牧草種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">30</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30</td>
         <td>四季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100501</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_2000501.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000501.png"></td>
         <td>小麥種子</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">50</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
         <td>四季</td>
         <td>✔</td>
     </tr>
@@ -521,17 +522,17 @@ image: images/post/story_sprite/icon_301170000.png
     </thead>
     <tr>
         <td>100500</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_1103000.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png"></td>
         <td>肥料</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">20</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
         <td>四季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>100501</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_1103001.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png"></td>
         <td>高級肥料</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">40</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
         <td>四季</td>
         <td>✔</td>
     </tr>
@@ -557,9 +558,9 @@ image: images/post/story_sprite/icon_301170000.png
     </thead>
     <tr>
         <td>200000</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_1001140.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001140.png"></td>
         <td>捕蟲網</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">2000</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2000</td>
         <td>四季</td>
         <td>✔</td>
     </tr>
@@ -586,7 +587,7 @@ image: images/post/story_sprite/icon_301170000.png
     </thead>
     <tr>
         <td>---</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_1003000.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003000.png"></td>
         <td>背包</td>
         <td>初始裝備</td>
         <td>---</td>
@@ -595,18 +596,18 @@ image: images/post/story_sprite/icon_301170000.png
     </tr>
     <tr>
         <td>200100</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_1003001.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003001.png"></td>
         <td>大背包</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">6000</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6000</td>
         <td>四季</td>
         <td>✔</td>
         <td>16</td>
     </tr>
     <tr>
         <td>200101</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_1003002.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003002.png"></td>
         <td>巨大背包</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">12000</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">12000</td>
         <td>四季</td>
         <td>✔</td>
         <td>24</td>
@@ -633,17 +634,17 @@ image: images/post/story_sprite/icon_301170000.png
     </thead>
     <tr>
         <td>300004</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_1106004.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106004.png"></td>
         <td>春季蔬菜組</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">0</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">0</td>
         <td>四季</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>300100</td>
-        <td><img width= "64px" src= "/images/post/story_sprite/icon_1106009.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106009.png"></td>
         <td>亞緬的預訂品</td>
-        <td><img align="left" src= "/images/post/story_sprite/Icon_Money_01.png">0</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">0</td>
         <td>四季</td>
         <td>✔</td>
     </tr>
@@ -661,3 +662,95 @@ image: images/post/story_sprite/icon_301170000.png
     + 購買後觸發鎮長`亞緬`的劇情
     + 大雄不管選`看看`或`不看`都能獲得哆啦A夢銅像
     + 哆啦A夢之後都會給`疲勞膏`與`瞬間成長劑`各五個
+
+#### 販售通路特典
+<table>
+    <thead>
+        <tr>
+            <td></td>
+            <td>販售通路</td>
+            <td>DLC名稱</td>
+            <td colspan="4">包含4種作物各20個</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106000.png"></td>
+        <td><a href="https://px.a8.net/svt/ejp?a8mat=260BSV+4A7AGI+249K+BWGDT&a8ejpredirect=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07Q5S3V7K%2F%3Ftag%3Da8-affi-230778-22">Amazon限定特典</a></td>
+        <td>四季の野菜セット</td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000103.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000207.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000301.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000400.png"></td>
+    </tr>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106001.png"></td>
+        <td><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3370357&pid=884946262&vc_url=https%3A%2F%2Fshop.tsutaya.co.jp%2Fgame%2Fproduct%2F4573173355346%2F">TSUTAYA限定特典</a></td>
+        <td>似たもの野菜セット</td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000207.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000305.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000105.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000402.png"></td>
+    </tr>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106005.png"></td>
+         <td><a href="https://www.hmv.co.jp/artist_Game-Soft-Nintendo-Switch_000000000697023/item_%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93-%E3%81%AE%E3%81%B3%E5%A4%AA%E3%81%AE%E7%89%A7%E5%A0%B4%E7%89%A9%E8%AA%9E%E2%89%AALoppi%E3%83%BBHMV%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8%EF%BC%9A%E3%80%8C%E6%83%85%E7%86%B1%E3%81%AE%E8%8A%B1%E3%82%BB%E3%83%83%E3%83%88%EF%BC%81%E3%80%8D%E3%81%8C%E3%82%82%E3%82%89%E3%81%88%E3%82%8B%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%95%AA%E5%8F%B7%E4%BB%98%E3%81%8D%E2%89%AB_9745429">Loppi・HMV限定特典</a></td>
+        <td>情熱の花セット</td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000111.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000214.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000215.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000306.png"></td>
+    </tr>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106002.png"></td>
+         <td><a href="https://shop.asobistore.jp/products/detail/142983-00-00-00">アソビストア限定特典</a></td>
+         <td>根野菜セット</td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000301.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000300.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000400.png"></td>
+    </tr>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106003.png"></td>
+         <td><a href="https://shops.aeonsquare.net/shop/g/gA117-4573173355346/">イオン限定特典</a></td>
+        <td>スウィーツセット</td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000104.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000205.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000206.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000302.png"></td>
+    </tr>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106007.png"></td>
+         <td><a href="https://www.edion.com/detail.html?_rt=MMyVfIKHgqereCFbZOK3StFrI1Y7oV2xmFVmNpfS4M&p_cd=00060720061&_keyword=%E3%81%AE%E3%81%B3%E5%A4%AA%E3%81%AE%E7%89%A7%E5%A0%B4%E7%89%A9%E8%AA%9E">エディオングループ限定特典</a></td>
+        <td>四季の花セット</td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000108.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000211.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000307.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000404.png"></td>
+    </tr>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106006.png"></td>
+         <td><a href="https://ec.geo-online.co.jp/shop/g/g515202101/">ゲオ限定特典</a></td>
+        <td>夏だよ！夏休みセット</td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000204.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000203.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000206.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000210.png"></td>
+    </tr>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106004.png"></td>
+        <td><a href="https://hb.afl.rakuten.co.jp/hgc/11c49697.0ea04bab.11c49698.18f813bb/_RTtool10000000?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4573173355346-54-40562-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F12360441%2F&link_type=text&ut=eyJwYWdlIjoidG9vbCIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjQwMHg0MDAiLCJuYW0iOjAsIm5hbXAiOiJyaWdodCIsImNvbSI6MCwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjF9">ジョーシン限定特典</a></td>
+        <td>春だよ！牧場だセット</td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000101.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000102.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000104.png"></td>
+    </tr>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106008.png"></td>
+        <td>ヤマダ電機</td>
+        <td>まん丸な野菜セット</td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000204.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000102.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000202.png"></td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000203.png"></td>
+</table>

@@ -15,7 +15,7 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_3000501.png
+image: images/post/Season_of_Story/Sprite/icon_3000501.png
 ---
 ## 相關分析
 + [【哆啦A夢牧場物語】作物播種與收成的品質計算](../doraemon-story-crop-part1)
@@ -60,7 +60,7 @@ image: images/post/story_sprite/icon_3000501.png
     <tbody>
         <tr>
             <td>3000100</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000100.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000100.png"></td>
             <td>蕪菁</td>
             <td>110</td>
             <td>125</td>
@@ -75,7 +75,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000101</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000101.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000101.png"></td>
             <td>馬鈴薯</td>
             <td>210</td>
             <td>238</td>
@@ -90,7 +90,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000102</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000102.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000102.png"></td>
             <td>高麗菜</td>
             <td>410</td>
             <td>464</td>
@@ -105,7 +105,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000103</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000103.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000103.png"></td>
             <td>小黃瓜</td>
             <td>120</td>
             <td>136</td>
@@ -120,7 +120,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000104</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000104.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000104.png"></td>
             <td>草莓</td>
             <td>240</td>
             <td>272</td>
@@ -135,7 +135,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000105</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000105.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000105.png"></td>
             <td>白花椰菜</td>
             <td>360</td>
             <td>407</td>
@@ -150,7 +150,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000106</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000106.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000106.png"></td>
             <td>豌豆</td>
             <td>130</td>
             <td>147</td>
@@ -165,7 +165,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000108</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000108.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000108.png"></td>
             <td>瑪格麗特</td>
             <td>170</td>
             <td>193</td>
@@ -180,7 +180,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000110</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000110.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000110.png"></td>
             <td>彩鐘花</td>
             <td>320</td>
             <td>362</td>
@@ -195,7 +195,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000111</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000111.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000111.png"></td>
             <td>康乃馨</td>
             <td>360</td>
             <td>407</td>
@@ -233,7 +233,7 @@ image: images/post/story_sprite/icon_3000501.png
     <tbody>
         <tr>
             <td>3000200</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000200.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000200.png"></td>
             <td>玉米</td>
             <td>220</td>
             <td>249</td>
@@ -248,7 +248,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000201</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000201.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000201.png"></td>
             <td>洋蔥</td>
             <td>140</td>
             <td>159</td>
@@ -263,7 +263,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000202</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000202.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000202.png"></td>
             <td>南瓜</td>
             <td>90</td>
             <td>102</td>
@@ -278,7 +278,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000203</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000203.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000203.png"></td>
             <td>西瓜</td>
             <td>170</td>
             <td>193</td>
@@ -293,7 +293,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000204</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000204.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000204.png"></td>
             <td>番茄</td>
             <td>180</td>
             <td>204</td>
@@ -308,7 +308,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000205</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000205.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png"></td>
             <td>哈密瓜</td>
             <td>660</td>
             <td>746</td>
@@ -323,7 +323,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000206</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000206.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000206.png"></td>
             <td>鳳梨</td>
             <td>250</td>
             <td>283</td>
@@ -338,7 +338,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000207</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000207.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000207.png"></td>
             <td>甜椒</td>
             <td>130</td>
             <td>147</td>
@@ -353,7 +353,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000210</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000210.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000210.png"></td>
             <td>向日葵</td>
             <td>360</td>
             <td>407</td>
@@ -368,7 +368,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000211</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000211.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000211.png"></td>
             <td>牽牛花</td>
             <td>170</td>
             <td>193</td>
@@ -383,7 +383,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000213</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000213.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000213.png"></td>
             <td>百合花</td>
             <td>320</td>
             <td>362</td>
@@ -398,7 +398,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000214</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000214.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000214.png"></td>
             <td>木槿</td>
             <td>170</td>
             <td>193</td>
@@ -413,7 +413,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000215</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000215.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000215.png"></td>
             <td>紅玫瑰</td>
             <td>240</td>
             <td>272</td>
@@ -451,7 +451,7 @@ image: images/post/story_sprite/icon_3000501.png
     <tbody>
         <tr>
             <td>3000300</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000300.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000300.png"></td>
             <td>牛蒡</td>
             <td>240</td>
             <td>272</td>
@@ -466,7 +466,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000301</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000301.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000301.png"></td>
             <td>胡蘿蔔</td>
             <td>360</td>
             <td>407</td>
@@ -481,7 +481,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000302</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000302.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000302.png"></td>
             <td>地瓜</td>
             <td>60</td>
             <td>68</td>
@@ -496,7 +496,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000303</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000303.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000303.png"></td>
             <td>菠菜</td>
             <td>110</td>
             <td>125</td>
@@ -511,7 +511,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000304</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000304.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000304.png"></td>
             <td>茄子</td>
             <td>320</td>
             <td>362</td>
@@ -526,7 +526,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000305</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000305.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000305.png"></td>
             <td>青椒</td>
             <td>140</td>
             <td>159</td>
@@ -541,7 +541,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000306</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000306.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000306.png"></td>
             <td>撫子花</td>
             <td>210</td>
             <td>238</td>
@@ -556,7 +556,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000307</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000307.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000307.png"></td>
             <td>非洲菊</td>
             <td>450</td>
             <td>509</td>
@@ -594,7 +594,7 @@ image: images/post/story_sprite/icon_3000501.png
     <tbody>
         <tr>
             <td>3000400</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000400.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000400.png"></td>
             <td>白蘿蔔</td>
             <td>90</td>
             <td>102</td>
@@ -609,7 +609,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000401</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000401.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000401.png"></td>
             <td>白菜</td>
             <td>360</td>
             <td>407</td>
@@ -624,7 +624,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000402</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000402.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000402.png"></td>
             <td>花椰菜</td>
             <td>90</td>
             <td>102</td>
@@ -639,7 +639,7 @@ image: images/post/story_sprite/icon_3000501.png
         </tr>
         <tr>
             <td>3000404</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000404.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000404.png"></td>
             <td>雪花蓮</td>
             <td>240</td>
             <td>272</td>
@@ -677,7 +677,7 @@ image: images/post/story_sprite/icon_3000501.png
     <tbody>
         <tr>
             <td>3000501</td>
-            <td><img width= "64px" src= "/images/post/story_sprite/icon_3000501.png"></td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000501.png"></td>
             <td>小麥</td>
             <td>50</td>
             <td>57</td>

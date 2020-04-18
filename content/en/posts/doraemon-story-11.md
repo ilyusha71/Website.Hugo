@@ -14,19 +14,19 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140120.png
+image: images/post/Season_of_Story/Sprite/icon_201140120.png
 ---
-![克魯波克魯劇情線](/images/post/story_texture2d/EventImage_1001.png)
+![克魯波克魯劇情線](/images/post/Season_of_Story/Texture2D/EventImage_1001.png)
 ## 克魯波克魯
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
         <td>11</td>
-        <td align="center"><a href="../doraemon-story-11"><img src= "/images/post/story_sprite/icon_201140120.png">克魯波克魯</a></td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041260.png">婭卡</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041270.png">羅伊茲米</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041280.png">多羅米</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041290.png">琪倫</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041300.png">奇薩拉姆</td>
+        <td align="center"><a href="../doraemon-story-11"><img src= "/images/post/Season_of_Story/Sprite/icon_201140120.png">克魯波克魯</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041260.png">婭卡</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041270.png">羅伊茲米</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041280.png">多羅米</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041290.png">琪倫</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041300.png">奇薩拉姆</td>
 </table>
 
 ### 第1話 邂逅克魯波克魯
@@ -34,7 +34,7 @@ image: images/post/story_sprite/icon_201140120.png
 + 優先度：`4`
 + 觸發地點：`滾滾森林`（`10500`）
 
-![滾滾森林](/images/post/map/10500.png)
+![滾滾森林](/images/post/Season_of_Story/Map/10500.png)
 + 前置劇情：[雜貨店第5話 涅萊爾的心情](#第5話-涅萊爾的心情)（`20006005`）
 + 觸發時間條件📆
     + 開始時間：每日`06:00`
@@ -49,8 +49,8 @@ image: images/post/story_sprite/icon_201140120.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041010.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
     </tr>
 </table>
 
@@ -59,14 +59,14 @@ image: images/post/story_sprite/icon_201140120.png
 + 優先度：`4`
 + 觸發地點：[鎮長先生的家](../doraemon-story-map#鎮長先生的家)（`20000`）
 
-![鎮長先生家](/images/post/map/20000.png)
+![鎮長先生家](/images/post/Season_of_Story/Map/20000.png)
 + 前置劇情：[克魯波克魯第1話 邂逅克魯波克魯](#第1話-邂逅克魯波克魯)（`10005000`）
 
 #### 奇薩拉姆藏在哪裡？
 + [克魯波克魯躲喵喵地點](#奇薩拉姆)
 <table>
     <tr>
-        <td><img width="100px" src= "/images/post/story_sprite/icon_301300000.png"></td>
+        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301300000.png"></td>
     </tr>
 </table>
 
@@ -75,14 +75,14 @@ image: images/post/story_sprite/icon_201140120.png
 + 優先度：`4`
 + 觸發地點：[雜貨店 小玩意兒](../doraemon-story-map#雜貨店-小玩意兒)（`20700`）
 
-![雜貨店](/images/post/map/20700.png)
+![雜貨店](/images/post/Season_of_Story/Map/20700.png)
 + 前置劇情：[克魯波克魯第1話 邂逅克魯波克魯](#第1話-邂逅克魯波克魯)（`10005000`）
 
 #### 琪倫藏在哪裡？
 + [克魯波克魯躲喵喵地點](#琪倫)
 <table>
     <tr>
-        <td><img width="100px" src= "/images/post/story_sprite/icon_301290000.png"></td>
+        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301290000.png"></td>
     </tr>
 </table>
 
@@ -91,14 +91,14 @@ image: images/post/story_sprite/icon_201140120.png
 + 優先度：`4`
 + 觸發地點：[席菲小姐的釣具店](../doraemon-story-map#席菲小姐的釣具店)（`21300`）
 
-![釣具店](/images/post/map/21300.png)
+![釣具店](/images/post/Season_of_Story/Map/21300.png)
 + 前置劇情：[克魯波克魯第1話 邂逅克魯波克魯](#第1話-邂逅克魯波克魯)（`10005000`）
 
 #### 羅伊茲米藏在哪裡？
 + [克魯波克魯躲喵喵地點](#羅伊茲米)
 <table>
     <tr>
-        <td><img width="100px" src= "/images/post/story_sprite/icon_301270000.png"></td>
+        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301270000.png"></td>
     </tr>
 </table>
 
@@ -107,14 +107,14 @@ image: images/post/story_sprite/icon_201140120.png
 + 優先度：`4`
 + 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
 
-![料理店](/images/post/map/21200.png)
+![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[克魯波克魯第1話 邂逅克魯波克魯](#第1話-邂逅克魯波克魯)（`10005000`）
 
 #### 多羅米藏在哪裡？
 + [克魯波克魯躲喵喵地點](#多羅米)
 <table>
     <tr>
-        <td><img width="100px" src= "/images/post/story_sprite/icon_301280000.png"></td>
+        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301280000.png"></td>
     </tr>
 </table>
 
@@ -123,7 +123,7 @@ image: images/post/story_sprite/icon_201140120.png
 + 優先度：`4`
 + 觸發地點：`滾滾森林樹洞`（`21400`）
 
-![滾滾森林樹洞](/images/post/map/21400.png)
+![滾滾森林樹洞](/images/post/Season_of_Story/Map/21400.png)
 + 前置劇情：
     + [克魯波克魯第2話 找到奇薩拉姆了！](#第2話-找到奇薩拉姆了)（`10005001`）
     + [克魯波克魯第3話 找到琪倫了！](#第3話-找到琪倫了)（`10005002`）
@@ -136,9 +136,9 @@ image: images/post/story_sprite/icon_201140120.png
 + 優先度：`245646546546464654646`
 <table>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041244464600.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041010.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002000.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041244464600.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002000.png"></td>
     </tr>
 </table>
 

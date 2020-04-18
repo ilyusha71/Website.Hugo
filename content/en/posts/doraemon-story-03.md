@@ -14,18 +14,18 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140040.png
+image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ---
-![料理店劇情線](/images/post/story_texture2d/EventImage_2200.png)
+![料理店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2200.png)
 ## 料理店
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
         <td>03</td>
-        <td align="center"><a href="../doraemon-story-03"><img src= "/images/post/story_sprite/icon_201140040.png">料理店</a></td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041230.png">萊斯特</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041240.png">托蘭</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041040.png">靜香</td>
+        <td align="center"><a href="../doraemon-story-03"><img src= "/images/post/Season_of_Story/Sprite/icon_201140040.png">料理店</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041230.png">萊斯特</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041240.png">托蘭</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041040.png">靜香</td>
     </tr>
 </table>
 
@@ -34,7 +34,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 優先度：`4`
 + 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
 
-![料理店](/images/post/map/21200.png)
+![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[巨木第2話 暴風雨後的小鎮](../doraemon-story-00#第2話-暴風雨後的小鎮)（`10000002`）
 
 ### 第2話 料理店的實驗
@@ -42,7 +42,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 優先度：`4`
 + 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
 
-![料理店](/images/post/map/21200.png)
+![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[蘭奇第2話 壞掉的手環](../doraemon-story-10#第2話-壞掉的手環)（`10004001`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -60,12 +60,12 @@ image: images/post/story_sprite/icon_201140040.png
         <td>萊斯特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041040.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060010.png"></td>
     </tr>
 </table>
 
@@ -74,7 +74,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 優先度：`4`
 + 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
 
-![料理店](/images/post/map/21200.png)
+![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第2話 料理店的實驗](#第2話-料理店的實驗)（`10001001`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -92,12 +92,12 @@ image: images/post/story_sprite/icon_201140040.png
         <td>托蘭</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041240.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041240.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
     </tr>
 </table>
 
@@ -107,7 +107,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + `噴水池`前階梯（`181.6`,`0`,`-131.2`）
 
-![噴水池](/images/post/map/11300-01.png)
+![噴水池](/images/post/Season_of_Story/Map/11300-01.png)
 + 前置劇情：[料理店第3話 無人的料理店](#第3話-無人的料理店)（`10001002`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -126,12 +126,12 @@ image: images/post/story_sprite/icon_201140040.png
         <td>萊斯特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041040.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
     </tr>
 </table>
 
@@ -142,7 +142,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + `料理店`門口（`191.2`,`1.6`,`-155.5`）
 
-![料理店門口](/images/post/map/11300-212.png)
+![料理店門口](/images/post/Season_of_Story/Map/11300-212.png)
 + 前置劇情：[料理店第4話 興隆的料理店](#第4話-興隆的料理店)（`10001003`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -161,12 +161,12 @@ image: images/post/story_sprite/icon_201140040.png
         <td>托蘭</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041040.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041240.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041240.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060040.png"></td>
     </tr>
 </table>
 
@@ -180,9 +180,9 @@ image: images/post/story_sprite/icon_201140040.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041240.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041010.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_1002210.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041240.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1002210.png"></td>
     </tr>
 </table>
 
@@ -195,7 +195,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 優先度：`3`
 + 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
 
-![料理店](/images/post/map/21200.png)
+![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第5話 來來貓](#第5話-來來貓)（`10001004`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -213,12 +213,12 @@ image: images/post/story_sprite/icon_201140040.png
         <td>洛克德</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041210.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041210.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060040.png"></td>
     </tr>
 </table>
 
@@ -228,7 +228,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + `料理店`旁階梯（`190`,`0`,`-168.2`）
 
-![料理店旁階梯](/images/post/map/11300-04.png)
+![料理店旁階梯](/images/post/Season_of_Story/Map/11300-04.png)
 + 前置劇情：[料理店第6話 偷吃](#第6話-偷吃)（`20001001`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -249,16 +249,16 @@ image: images/post/story_sprite/icon_201140040.png
         <td>萊斯特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041190.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041130.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041050.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041190.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041130.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060040.png"></td>
     </tr>
 </table>
 
@@ -268,7 +268,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + `噴水池`前階梯（`181.6`,`0`,`-131.2`）
 
-![噴水池](/images/post/map/11300-01.png)
+![噴水池](/images/post/Season_of_Story/Map/11300-01.png)
 + 前置劇情：[料理店第7話 料理店家家酒](#第7話-料理店家家酒)（`20001002`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -287,14 +287,14 @@ image: images/post/story_sprite/icon_201140040.png
         <td>托蘭</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041080.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041170.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041240.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041170.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041240.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060040.png"></td>
     </tr>
 </table>
 
@@ -303,7 +303,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 優先度：`3`
 + 觸發地點：[洛克德先生的醫院](../doraemon-story-map#洛克德先生的醫院)（`20900`）
 
-![洛克德醫院](/images/post/map/20900.png)
+![洛克德醫院](/images/post/Season_of_Story/Map/20900.png)
 + 前置劇情：[料理店第8話 小鎮的七個神秘事件](#第8話-小鎮的七個神秘事件)（`20001003`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -321,12 +321,12 @@ image: images/post/story_sprite/icon_201140040.png
         <td>萊斯特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041040.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
@@ -335,7 +335,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 優先度：`3`
 + 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
 
-![料理店](/images/post/map/21200.png)
+![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第9話 健康檢查](#第9話-健康檢查)（`20001004`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -353,12 +353,12 @@ image: images/post/story_sprite/icon_201140040.png
         <td>洛克德</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041210.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041210.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060040.png"></td>
     </tr>
 </table>
 
@@ -367,7 +367,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 優先度：`3`
 + 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
 
-![料理店](/images/post/map/21200.png)
+![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第10話 找到了！](#第10話-找到了)（`20001005`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -386,14 +386,14 @@ image: images/post/story_sprite/icon_201140040.png
         <td>托蘭</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041040.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041240.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041240.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060050.png"></td>
     </tr>
 </table>
 
@@ -402,7 +402,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 優先度：`3`
 + 觸發地點：[洛克德先生的醫院](../doraemon-story-map#洛克德先生的醫院)（`20900`）
 
-![洛克德醫院](/images/post/map/20900.png)
+![洛克德醫院](/images/post/Season_of_Story/Map/20900.png)
 + 前置劇情：[料理店第11話 萊斯特倒下了](#第11話-萊斯特倒下了)（`20001006`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -419,10 +419,10 @@ image: images/post/story_sprite/icon_201140040.png
         <td>萊斯特</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060070.png"></td>
     </tr>
 </table>
 
@@ -431,7 +431,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 優先度：`3`
 + 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
 
-![料理店](/images/post/map/21200.png)
+![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第12話 對不起。](#第12話-對不起)（`20001007`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -451,14 +451,14 @@ image: images/post/story_sprite/icon_201140040.png
         <td>托蘭</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041040.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041240.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041240.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060080.png"></td>
     </tr>
 </table>
 
@@ -467,7 +467,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 優先度：`3`
 + 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
 
-![料理店](/images/post/map/21200.png)
+![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第13話 世界上最好吃的食物](#第13話-世界上最好吃的食物)（`20001008`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -486,14 +486,14 @@ image: images/post/story_sprite/icon_201140040.png
         <td>托蘭</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041040.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041240.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041240.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060090.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060090.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060090.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060090.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060090.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060090.png"></td>
     </tr>
 </table>
 
@@ -503,7 +503,7 @@ image: images/post/story_sprite/icon_201140040.png
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + `料理店`門口（`191.2`,`1.6`,`-155.5`）
 
-![料理店門口](/images/post/map/11300-212.png)
+![料理店門口](/images/post/Season_of_Story/Map/11300-212.png)
 + 前置劇情：[料理店第14話 結婚紀念日](#第14話-結婚紀念日)（`20001009`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -522,15 +522,15 @@ image: images/post/story_sprite/icon_201140040.png
         <td>托蘭</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041040.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041230.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041240.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041240.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060100.png"></td>
     </tr>
 </table>
 
-![結局](/images/post/story_texture2d/EventImage_2200.png)
+![結局](/images/post/Season_of_Story/Texture2D/EventImage_2200.png)

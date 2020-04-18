@@ -14,17 +14,17 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140150.png
+image: images/post/Season_of_Story/Sprite/icon_201140150.png
 ---
-![貓劇情線](/images/post/story_texture2d/EventImage_3001.png)
+![貓劇情線](/images/post/Season_of_Story/Texture2D/EventImage_3001.png)
 ## 貓
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
          <td>14</td>
-         <td><img src= "/images/post/story_sprite/icon_201140150.png"></td>
+         <td><img src= "/images/post/Season_of_Story/Sprite/icon_201140150.png"></td>
          <td><a href="../doraemon-story-14">貓</a></td>
-         <td><img width="64px" src= "/images/post/story_sprite/icon_201042010.png"></td>
+         <td><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_201042010.png"></td>
     </tr>
 </table>
 
@@ -34,7 +34,7 @@ image: images/post/story_sprite/icon_201140150.png
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + `鎮長家`門口（`212.4`,`3.42`,`-131.8`）
 
-![鎮長家門口](/images/post/map/11300-05.png)
+![鎮長家門口](/images/post/Season_of_Story/Map/11300-05.png)
 + 觸發時間條件📆
     + 開始時間：每日`12:00`
     + 結束時間：每日`16:00`
@@ -47,8 +47,8 @@ image: images/post/story_sprite/icon_201140150.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041010.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
     </tr>
 </table>
 
@@ -58,7 +58,7 @@ image: images/post/story_sprite/icon_201140150.png
 + 觸發地點：[青青廣場](../doraemon-story-map#青青廣場)（`11500`）
     + 往`萬物鎮東`方向的`方尖碑`附近（`28`,`0`,`-150.3`）
 
-![方尖碑](/images/post/map/11500-01.png)
+![方尖碑](/images/post/Season_of_Story/Map/11500-01.png)
 + 前置劇情：[貓第1話 為了討得歡心](#第1話-為了討得歡心)（`40002001`）
 + 觸發時間條件📆
     + 開始時間：每日`12:00`
@@ -72,9 +72,9 @@ image: images/post/story_sprite/icon_201140150.png
         </tr>
     </thead>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201042010.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201042010.png"></td>
         <td><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Full.png"><img align="left" src= "/images/post/Icon_Heart_Full.png"></td>
     </tr>
 </table>
 
-![結局](/images/post/story_texture2d/EventImage_3001.png)
+![結局](/images/post/Season_of_Story/Texture2D/EventImage_3001.png)

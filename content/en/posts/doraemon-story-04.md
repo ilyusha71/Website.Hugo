@@ -14,17 +14,17 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/icon_201140050.png
+image: images/post/Season_of_Story/Sprite/icon_201140050.png
 ---
-![打鐵店劇情線](/images/post/story_texture2d/EventImage_2300.png)
+![打鐵店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2300.png)
 ## 打鐵店
 [全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
     <tr>
         <td>04</td>
-        <td align="center"><a href="../doraemon-story-04"><img src= "/images/post/story_sprite/icon_201140050.png">打鐵店</a></td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041150.png">斯米克</td>
-        <td align="center"><img width="72px" src= "/images/post/story_sprite/icon_201041160.png">布拉斯</td>
+        <td align="center"><a href="../doraemon-story-04"><img src= "/images/post/Season_of_Story/Sprite/icon_201140050.png">打鐵店</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041150.png">斯米克</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041160.png">布拉斯</td>
     </tr>
 </table>
 
@@ -33,7 +33,7 @@ image: images/post/story_sprite/icon_201140050.png
 + 優先度：`4`
 + 觸發地點：[打鐵店 鏗鏘鐺](../doraemon-story-map#打鐵店-鏗鏘鐺)（`21100`）
 
-![打鐵店](/images/post/map/21100.png)
+![打鐵店](/images/post/Season_of_Story/Map/21100.png)
 + 前置劇情：[巨木第2話 暴風雨後的小鎮](../doraemon-story-00#第2話-暴風雨後的小鎮)（`10000002`）
 
 ### 第1話 親子吵架
@@ -41,7 +41,7 @@ image: images/post/story_sprite/icon_201140050.png
 + 優先度：`3`
 + 觸發地點：[打鐵店 鏗鏘鐺](../doraemon-story-map#打鐵店-鏗鏘鐺)（`21100`）
 
-![打鐵店](/images/post/map/21100.png)
+![打鐵店](/images/post/Season_of_Story/Map/21100.png)
 + 前置劇情：看完佈告欄引導教學（`81001004`）
 + 觸發時間條件📆
     + 開始時間：每日`10:00`
@@ -58,12 +58,12 @@ image: images/post/story_sprite/icon_201140050.png
         <td>布拉斯</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041150.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041160.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060020.png"></td>
     </tr>
 </table>
 
@@ -72,7 +72,7 @@ image: images/post/story_sprite/icon_201140050.png
 + 優先度：`3`
 + 觸發地點：[動物商店 古騰摩克](../doraemon-story-map#動物商店-古騰摩克)（`20500`）
 
-![動物商店](/images/post/map/20500.png)
+![動物商店](/images/post/Season_of_Story/Map/20500.png)
 + 前置劇情：[打鐵店第1話 親子吵架](#第1話-親子吵架)（`20005001`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -89,10 +89,10 @@ image: images/post/story_sprite/icon_201140050.png
         <td>布拉斯</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041160.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060030.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
     </tr>
 </table>
 
@@ -101,7 +101,7 @@ image: images/post/story_sprite/icon_201140050.png
 + 優先度：`3`
 + 觸發地點：[打鐵店 鏗鏘鐺](../doraemon-story-map#打鐵店-鏗鏘鐺)（`21100`）
 
-![打鐵店](/images/post/map/21100.png)
+![打鐵店](/images/post/Season_of_Story/Map/21100.png)
 + 前置劇情：[打鐵店第2話 要找工作嗎？——動物商店篇](#第2話-要找工作嗎動物商店篇)（`20005002`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -118,10 +118,10 @@ image: images/post/story_sprite/icon_201140050.png
         <td>斯米克</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041150.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060040.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060040.png"></td>
     </tr>
 </table>
 
@@ -130,7 +130,7 @@ image: images/post/story_sprite/icon_201140050.png
 + 優先度：`3`
 + 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
 
-![料理店](/images/post/map/21200.png)
+![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[打鐵店第3話 動物和布拉斯](#第3話-動物和布拉斯)（`20005003`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -147,10 +147,10 @@ image: images/post/story_sprite/icon_201140050.png
         <td>布拉斯</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041160.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
@@ -159,7 +159,7 @@ image: images/post/story_sprite/icon_201140050.png
 + 優先度：`3`
 + 觸發地點：[打鐵店 鏗鏘鐺](../doraemon-story-map#打鐵店-鏗鏘鐺)（`21100`）
 
-![打鐵店](/images/post/map/21100.png)
+![打鐵店](/images/post/Season_of_Story/Map/21100.png)
 + 前置劇情：[打鐵店第4話 要找工作嗎？——料理店篇](#第4話-要找工作嗎料理店篇)（`20005004`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -176,10 +176,10 @@ image: images/post/story_sprite/icon_201140050.png
         <td>斯米克</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041150.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060060.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060060.png"></td>
     </tr>
 </table>
 
@@ -188,7 +188,7 @@ image: images/post/story_sprite/icon_201140050.png
 + 優先度：`3`
 + 觸發地點：[打鐵店 鏗鏘鐺](../doraemon-story-map#打鐵店-鏗鏘鐺)（`21100`）
 
-![打鐵店](/images/post/map/21100.png)
+![打鐵店](/images/post/Season_of_Story/Map/21100.png)
 + 前置劇情：[打鐵店第5話 廚藝差是遺傳？](#第5話-廚藝差是遺傳)（`20005005`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -205,10 +205,10 @@ image: images/post/story_sprite/icon_201140050.png
         <td>布拉斯</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041160.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060050.png"></td>
     </tr>
 </table>
 
@@ -218,7 +218,7 @@ image: images/post/story_sprite/icon_201140050.png
 + 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
     + <mark>未知位置</mark>（`171.9`,`0`,`-129.8`）
 
-![萬物鎮東](/images/post/map/11300.png)
+![萬物鎮東](/images/post/Season_of_Story/Map/11300.png)
 + 前置劇情：[打鐵店第6話 布拉斯的寶物](#第6話-布拉斯的寶物)（`20005006`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -236,12 +236,12 @@ image: images/post/story_sprite/icon_201140050.png
         <td>布拉斯</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041150.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041160.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060050.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060070.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060050.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060070.png"></td>
     </tr>
 </table>
 
@@ -250,7 +250,7 @@ image: images/post/story_sprite/icon_201140050.png
 + 優先度：`3`
 + 觸發地點：[打鐵店 鏗鏘鐺](../doraemon-story-map#打鐵店-鏗鏘鐺)（`21100`）
 
-![打鐵店](/images/post/map/21100.png)
+![打鐵店](/images/post/Season_of_Story/Map/21100.png)
 + 前置劇情：[打鐵店第7話 和好如初？](#第7話-和好如初)（`20005007`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -268,12 +268,12 @@ image: images/post/story_sprite/icon_201140050.png
         <td>布拉斯</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041150.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041160.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060080.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060080.png"></td>
     </tr>
 </table>
 
@@ -290,7 +290,7 @@ image: images/post/story_sprite/icon_201140050.png
 + 優先度：`3`
 + 觸發地點：[打鐵店 鏗鏘鐺](../doraemon-story-map#打鐵店-鏗鏘鐺)（`21100`）
 
-![打鐵店](/images/post/map/21100.png)
+![打鐵店](/images/post/Season_of_Story/Map/21100.png)
 + 前置劇情：[打鐵店第8話分支劇情 去追布拉斯](#分支劇情去追布拉斯)（`20005100`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -308,12 +308,12 @@ image: images/post/story_sprite/icon_201140050.png
         <td>布拉斯</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041150.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041160.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060090.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060090.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060090.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060090.png"></td>
     </tr>
 </table>
 
@@ -322,7 +322,7 @@ image: images/post/story_sprite/icon_201140050.png
 + 優先度：`3`
 + 觸發地點：[打鐵店 鏗鏘鐺](../doraemon-story-map#打鐵店-鏗鏘鐺)（`21100`）
 
-![打鐵店](/images/post/map/21100.png)
+![打鐵店](/images/post/Season_of_Story/Map/21100.png)
 + 前置劇情：[打鐵店第8話分支劇情 和斯米克先生搭話](#分支劇情和斯米克先生搭話)（`20005200`）
     + 間隔天數：`2天`
 + 觸發時間條件📆
@@ -340,13 +340,13 @@ image: images/post/story_sprite/icon_201140050.png
         <td>布拉斯</td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201041150.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201041160.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041150.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201041160.png"></td>
     </tr>
     <tr>
-        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
-        <td><img src= "/images/post/story_sprite/icon_201060100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060100.png"></td>
+        <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060100.png"></td>
     </tr>
 </table>
 
-![結局](/images/post/story_texture2d/EventImage_2300.png)
+![結局](/images/post/Season_of_Story/Texture2D/EventImage_2300.png)

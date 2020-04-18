@@ -14,7 +14,7 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/story_sprite/Crop_90110405.png
+image: images/post/Season_of_Story/Sprite/Crop_90110405.png
 libraries:
 - katex
 ---
@@ -103,12 +103,12 @@ public void GrowStep()
         <td>第6階段</td>
     </tr>
 　<tr>
-    　<td><img src= "/images/post/story_sprite/Crop_90110400.png"></td>
-    　<td><img src= "/images/post/story_sprite/Crop_90110401.png"></td>
-    　<td><img src= "/images/post/story_sprite/Crop_90110402.png"></td>
-    　<td><img src= "/images/post/story_sprite/Crop_90110403.png"></td>
-    　<td><img src= "/images/post/story_sprite/Crop_90110404.png"></td>
-    　<td><img src= "/images/post/story_sprite/Crop_90110405.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110400.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110401.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110403.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110404.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png"></td>
 　</tr>
 　<tr>
         <td>2天</td>
@@ -147,12 +147,12 @@ public void GrowStep()
         <td>第6階段</td>
     </tr>
 　<tr>
-    　<td><img src= "/images/post/story_sprite/Crop_90120600.png"></td>
-    　<td><img src= "/images/post/story_sprite/Crop_90120601.png"></td>
-    　<td><img src= "/images/post/story_sprite/Crop_90120602.png"></td>
-    　<td><img src= "/images/post/story_sprite/Crop_90120603.png"></td>
-    　<td><img src= "/images/post/story_sprite/Crop_90120604.png"></td>
-    　<td><img src= "/images/post/story_sprite/Crop_90120605.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120600.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120601.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120602.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120603.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120604.png"></td>
+    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120605.png"></td>
 　</tr>
 　<tr>
         <td>1天</td>

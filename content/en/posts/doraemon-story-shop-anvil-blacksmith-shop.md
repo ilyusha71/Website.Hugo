@@ -16,5 +16,5 @@ series:
 categories:
 - 哆啦A夢
 - 商店
-image: images/post/story_sprite/icon_301170000.png
+image: images/post/Season_of_Story/Sprite/icon_301170000.png
 ---
