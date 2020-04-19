@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】動物商店劇情線"
+title: "動物商店劇情線"
 date: 2020-04-14T22:00:42+08:00
 description: "布魯、優與菈姆的劇情發展"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![動物商店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2700.png)
 ## 動物商店
 [全劇情線索引](../doraemon-story-index/#劇情線)
@@ -32,7 +34,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ### 第0話 要開動物商店嗎？
 + 事件ID：`20007000`
 + 優先度：`4`
-+ 觸發地點：[動物商店 古騰摩克](../doraemon-story-map#動物商店-古騰摩克)（`20500`）
++ 觸發地點：[動物商店 古騰摩克](../doraemon-story-map-11200-west-natura/#動物商店-古騰摩克)（`20500`）
 
 ![動物商店](/images/post/Season_of_Story/Map/20500.png)
 + 前置劇情：[巨木第2話 暴風雨後的小鎮](../doraemon-story-00#第2話-暴風雨後的小鎮)（`10000002`）
@@ -40,7 +42,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ### 第1話 菈姆被襲擊了！？
 + 事件ID：`20007001`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
     + `動物商店`門口（`197.7`,`0`,`-12.1`）
 
 ![動物商店門口](/images/post/Season_of_Story/Map/11200-205.png)
@@ -76,7 +78,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ### 第2話 和動物聊聊
 + 事件ID：`20007002`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
     + `動物商店`門口（`197.7`,`0`,`-12.1`）
 
 ![動物商店門口](/images/post/Season_of_Story/Map/11200-205.png)
@@ -107,7 +109,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ### 第3話 牛奶沒了！
 + 事件ID：`20007003`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
     + `動物商店`門口（`197.7`,`0`,`-12.1`）
 
 ![動物商店門口](/images/post/Season_of_Story/Map/11200-205.png)
@@ -144,7 +146,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ### 第4話 菈姆的動物語講座
 + 事件ID：`20007004`
 + 優先度：`3`
-+ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map-10000-nobita-farm)（`10000`）
 
 ![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 前置劇情：[動物商店第3話 牛奶沒了！](#第3話-牛奶沒了)（`20007003`）
@@ -180,7 +182,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ### 第5話 迷路的小羊
 + 事件ID：`20007005`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
     + `動物商店`門口（`197.7`,`0`,`-12.1`）
 
 ![動物商店門口](/images/post/Season_of_Story/Map/11200-205.png)
@@ -211,7 +213,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ### 第6話 菈姆的擔憂
 + 事件ID：`20007006`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
     + `動物商店`門口（`197.7`,`0`,`-12.1`）
 
 ![動物商店門口](/images/post/Season_of_Story/Map/11200-205.png)
@@ -244,7 +246,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ### 第7話 失蹤的菈姆
 + 事件ID：`20007007`
 + 優先度：`3`
-+ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map-10000-nobita-farm)（`10000`）
 
 ![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 前置劇情：
@@ -281,7 +283,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ### 第8話 羊群
 + 事件ID：`20007008`
 + 優先度：`3`
-+ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map-10000-nobita-farm)（`10000`）
 
 ![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 前置劇情：[動物商店第7話 失蹤的菈姆](#第7話-失蹤的菈姆)（`20007007`）
@@ -317,7 +319,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ### 第9話 往羊群的方向
 + 事件ID：`20007009`
 + 優先度：`3`
-+ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map-10000-nobita-farm)（`10000`）
 
 ![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 前置劇情：[動物商店第8話 羊群](#第8話-羊群)（`20007008`）
@@ -353,7 +355,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140080.png
 ### 第10話 大家都在喔
 + 事件ID：`20007010`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
     + `動物商店`門口（`197.7`,`0`,`-12.1`）
 
 ![動物商店門口](/images/post/Season_of_Story/Map/11200-205.png)

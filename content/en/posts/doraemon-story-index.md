@@ -182,74 +182,124 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
 
 ## 商店販售
 <table>
-    <tr>
-        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301080200.png"></td>
-        <td><a href="../doraemon-story-shop-cuckoo-house-chickens">小雞商店 咕咕之家</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-cuckoo-house-chickens#動物"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_201031140.png">動物</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-cuckoo-house-chickens#動物餵食"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101010.png">動物餵食</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-cuckoo-house-chickens#動物鈴"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001152.png">動物鈴</a></td>
-    </tr>
-    <tr>
-        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301120000.png"></td>
-        <td><a href="../doraemon-story-shop-gouter-mawk-livestock">動物商店 古騰摩克</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-gouter-mawk-livestock#動物"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_201031100.png">動物</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-gouter-mawk-livestock#工具"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001110.png">工具</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-gouter-mawk-livestock#動物餵食"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101000.png">動物餵食</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-gouter-mawk-livestock#動物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101030.png">動物種子</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-gouter-mawk-livestock#動物鈴"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png">動物鈴</a></td>
-    </tr>
-    <tr>
-        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301170000.png"></td>
-        <td><a href="../doraemon-story-shop-knick-knacks-gen-store">雜貨店 小玩意兒</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-knick-knacks-gen-store#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png">作物種子</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-knick-knacks-gen-store#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png">肥料</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-knick-knacks-gen-store#工具"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001140.png">工具</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-knick-knacks-gen-store#背包"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1003001.png">背包</a></td>
-         <td align="center" valign="middle"><a href="../doraemon-story-shop-knick-knacks-gen-store#dlc"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1106004.png">DLC</a></td>
-    </tr>
-    <tr>
-        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301230000.png"></td>
-        <td><a href="../doraemon-story-shop-cafe-delish">料理店 嚼嚼</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-cafe-delish-recipes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_9200147.png">食譜</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-cafe-delish-meals"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300147.png">料理</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-cafe-delish-produce"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3400101.png">農產品</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-cafe-delish#調理器具"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_9000100.png">調理器具</a></td>
-    </tr>
-    <tr>
-        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301210200.png"></td>
-        <td><a href="../">洛克德醫院</a></td>
-        <td align="center" valign="middle"><a href="../#補充飲品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104100.png">補充飲品</a></td>
-        <td align="center" valign="middle"><a href="../#特製飲品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104140.png">特製飲品</a></td>
-        <td align="center" valign="middle"><a href="../#藥品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101020.png">藥品</a></td>
-    </tr>
-    <tr>
-        <td><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_301150200.png"></td>
-        <td><a href="../">打鐵店 鏗鏘鐺</a></td>
-        <td align="center" valign="middle"><a href="../#工具升級"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104100.png">工具升級</a></td>
-        <td align="center" valign="middle"><a href="../#礦石"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_4001001.png">礦石</a></td>
-        <td align="center" valign="middle"><a href="../#機器"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_201080090.png">機器</a></td>
-    </tr>
-    <tr>
-        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301250100.png"></td>
-        <td><a href="../">席菲的釣具店</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-cafe-delish-meals"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1102000.png">魚餌</a></td>
-    </tr>
-    <tr>
-        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301140100.png"></td>
-        <td><a href="../doraemon-story-shop-hammer-carpenter-shop">木工店 咚吭噹</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-hammer-carpenter-shop#建築"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_201080012.png">建築</a></td>
-    </tr>
-    <tr>
-        <td><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_301300000.png"></td>
-        <td><a href="../">克魯波克魯</a></td>
+    <thead>
+        <tr>
+            <td colspan="10">小雞商店 咕咕之家</td>
+        </tr>
+    </thead>
+    <tr>        
+        <td><a href="../doraemon-story-shop-20200-cuckoo-house-chickens"><img width="100px" src= "/images/post/Season_of_Story/Building/20200.png"></a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20200-cuckoo-house-chickens/#動物"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_201031140.png">動物</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20200-cuckoo-house-chickens/#動物餵食"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101010.png">動物餵食</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20200-cuckoo-house-chickens/#動物鈴"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001152.png">動物鈴</a></td>
     </tr>
 </table>
-
-
-
-
-## 地理
-
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">動物商店 古騰摩克</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><a href="../doraemon-story-shop-20500-gouter-mawk-livestock"><img width="100px" src= "/images/post/Season_of_Story/Building/20500.png"></a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20500-gouter-mawk-livestock/#動物"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_201031100.png">動物</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20500-gouter-mawk-livestock/#工具"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001110.png">工具</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20500-gouter-mawk-livestock/#動物餵食"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101000.png">動物餵食</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20500-gouter-mawk-livestock/#動物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101030.png">動物種子</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png">動物鈴</a></td>
+    </tr>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">雜貨店 小玩意兒</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><a href="../doraemon-story-shop-20700-knick-knacks-general-store"><img width="100px" src= "/images/post/Season_of_Story/Building/20700.png"></a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png">作物種子</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png">肥料</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#工具"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001140.png">工具</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#背包"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1003001.png">背包</a></td>
+         <td align="center" valign="middle"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#dlc"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1106004.png">DLC</a></td>
+    </tr>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">料理店 嚼嚼</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><a href="../doraemon-story-shop-21200-cafe-delish"><img width="100px" src= "/images/post/Season_of_Story/Building/21200.png"></a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-21200-cafe-delish-recipes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_9200147.png">食譜</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-21200-cafe-delish-meals"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300147.png">料理</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-21200-cafe-delish-produce"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3400101.png">農產品</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-21200-cafe-delish/#調理器具"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_9000100.png">調理器具</a></td>
+    </tr>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">洛克德先生的醫院</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><a href="../doraemon-story-shop-20900-regis-clinic"><img width="100px" src= "/images/post/Season_of_Story/Building/20900.png"></a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20900-regis-clinic/#補充飲品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104100.png">補充飲品</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20900-regis-clinic/#特製飲品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104140.png">特製飲品</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20900-regis-clinic/#藥品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101020.png">藥品</a></td>
+    </tr>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">打鐵店 鏗鏘鐺</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><a href="../doraemon-story-shop-21100-anvil-blacksmith-shop"><img width="100px" src= "/images/post/Season_of_Story/Building/21100.png"></a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001001.png">升級工具</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_4001001.png">礦石</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_201080090.png">機器</a></td>
+    </tr>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">席菲小姐的釣具店</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><a href="../doraemon-story-shop-21300-sandy-tackle-shop"><img width="100px" src= "/images/post/Season_of_Story/Building/21300.png"></a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-21300-sandy-tackle-shop/#魚餌"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1102000.png">魚餌</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-21300-sandy-tackle-shop/#魚拓"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_goods_21300.png">魚拓</a></td>
+    </tr>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">木工店 咚吭噹</td>
+        </tr>
+    </thead>
+    <tr>        
+        <td><a href="../doraemon-story-shop-20400-hammer-carpenter-shop"><img width="100px" src= "/images/post/Season_of_Story/Building/20400.png"></a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#建築"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_201080012.png">建築</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#家中物品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7022030.png">家中的物品</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#牧場物品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7066000.png">牧場的物品</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#資材"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">資材</a></td>
+    </tr>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">克魯波克魯家</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><a href="../"><img width="100px" src= "/images/post/Season_of_Story/Building/10500-21400.png"></a></td>
+    </tr>
+</table>
 
 ## 出貨價格
 <table>

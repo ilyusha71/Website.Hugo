@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】克魯波克魯劇情線"
+title: "克魯波克魯劇情線"
 date: 2020-04-11T23:58:37+08:00
 description: "克魯波克魯的劇情發展"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140120.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![克魯波克魯劇情線](/images/post/Season_of_Story/Texture2D/EventImage_1001.png)
 ## 克魯波克魯
 [全劇情線索引](../doraemon-story-index/#劇情線)
@@ -57,7 +59,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140120.png
 ### 第2話 找到奇薩拉姆了！
 + 事件ID：`10005001`
 + 優先度：`4`
-+ 觸發地點：[鎮長先生的家](../doraemon-story-map#鎮長先生的家)（`20000`）
++ 觸發地點：[鎮長先生的家](../doraemon-story-map-11300-east-natura/#鎮長先生的家)（`20000`）
 
 ![鎮長先生家](/images/post/Season_of_Story/Map/20000.png)
 + 前置劇情：[克魯波克魯第1話 邂逅克魯波克魯](#第1話-邂逅克魯波克魯)（`10005000`）
@@ -73,7 +75,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140120.png
 ### 第3話 找到琪倫了！
 + 事件ID：`10005002`
 + 優先度：`4`
-+ 觸發地點：[雜貨店 小玩意兒](../doraemon-story-map#雜貨店-小玩意兒)（`20700`）
++ 觸發地點：[雜貨店 小玩意兒](../doraemon-story-map-11300-east-natura/#雜貨店-小玩意兒)（`20700`）
 
 ![雜貨店](/images/post/Season_of_Story/Map/20700.png)
 + 前置劇情：[克魯波克魯第1話 邂逅克魯波克魯](#第1話-邂逅克魯波克魯)（`10005000`）
@@ -89,7 +91,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140120.png
 ### 第4話 找到羅伊茲米了！
 + 事件ID：`10005003`
 + 優先度：`4`
-+ 觸發地點：[席菲小姐的釣具店](../doraemon-story-map#席菲小姐的釣具店)（`21300`）
++ 觸發地點：[席菲小姐的釣具店](../doraemon-story-map-10900-zazan-cape/#席菲小姐的釣具店)（`21300`）
 
 ![釣具店](/images/post/Season_of_Story/Map/21300.png)
 + 前置劇情：[克魯波克魯第1話 邂逅克魯波克魯](#第1話-邂逅克魯波克魯)（`10005000`）
@@ -105,7 +107,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140120.png
 ### 第5話 找到多羅米了！
 + 事件ID：`10005004`
 + 優先度：`4`
-+ 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
++ 觸發地點：[料理店 嚼嚼](../doraemon-story-map-11300-east-natura/#料理店-嚼嚼)（`21200`）
 
 ![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[克魯波克魯第1話 邂逅克魯波克魯](#第1話-邂逅克魯波克魯)（`10005000`）

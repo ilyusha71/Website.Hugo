@@ -31,7 +31,7 @@ public class AnimalModel : INullableModel
 ```
 根據上列代碼，要收穫黃金品質的`雞蛋`、`牛奶`與`羊毛`必須滿足下列兩項條件：
 + 參與同類`動物競賽`獲得`冠軍`。
-+ 動物`情感度`達到20，亦即♥10。
++ 動物`情感度`達到20，亦即❤️10。
 
 <table>
     <thead>
@@ -43,7 +43,7 @@ public class AnimalModel : INullableModel
     </thead>
     <tr>
         <td rowspan="2"><img width="137px" src= "/images/post/Season_of_Story/Sprite/icon_201031140.png"></td>
-        <td align="center"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><br>情感度達到♥10</td>
+        <td align="center"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><br>情感度達到❤️10</td>
         <td rowspan="2" align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3200102.png">黃金雞蛋</td>
     </tr>
     <tr>
@@ -58,7 +58,7 @@ public class AnimalModel : INullableModel
     </thead>
     <tr>
         <td rowspan="2"><img width="137px" src= "/images/post/Season_of_Story/Sprite/icon_201031100.png"></td>
-        <td align="center"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><br>情感度達到♥10</td>
+        <td align="center"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><br>情感度達到❤️10</td>
         <td rowspan="2" align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3200103.png">黃金牛奶</td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ public class AnimalModel : INullableModel
     </thead>
     <tr>
         <td rowspan="2"><img width="137px" src= "/images/post/Season_of_Story/Sprite/icon_201031120.png"></td>
-        <td align="center"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><br>情感度達到♥10</td>
+        <td align="center"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><br>情感度達到❤️10</td>
         <td rowspan="2" align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_4100102.png">黃金羊毛</td>
     </tr>
     <tr>

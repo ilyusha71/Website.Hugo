@@ -23,7 +23,7 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
 
 ### 釣魚教學
 + 事件ID：`81100001`
-+ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map-10000-nobita-farm)（`10000`）
 
 ![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 觸發時間條件📆
@@ -36,14 +36,14 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
 
 ### 捕蟲教學
 + 事件ID：`81160003` 必要物品 捕蟲網 // 購買捕蟲網後 離開雜貨店觸發 肯的捕蟲教學
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
 
 ![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 
 
 ## 第二年販售種子上架
 + 事件ID：`81160002`
-+ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map-10000-nobita-farm)（`10000`）
 
 ![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 觸發時間條件📆
@@ -126,7 +126,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
 + 擴建完成事件ID：`10120201`
 + 優先度：`100`
 + 解鎖項目：
-    + [木工店](../doraemon-story-shop-hammer-carpenter-shop)解鎖[建造](../doraemon-story-shop-hammer-carpenter-shop#建造)項目
+    + [木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)解鎖[建造](../doraemon-story-shop-20400-hammer-carpenter-shop/#建造)項目
         +`溫室`
     + 支線劇情[鎮長第2話 獎勵事件：獲得天氣箱](../doraemon-story-09#獲得天氣箱)
 
@@ -150,7 +150,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
 + 解鎖項目：
     + 可飼養的牛羊從`5頭`增加至`10頭`。
     + 牛羊可在動物小屋`生產`幼崽。
-    + [動物商店](../doraemon-story-shop-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-gouter-mawk-livestock/#動物鈴)販售項目：
+    + [動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)販售項目：
         + `牛鈴`
         + `羊鈴`
 
@@ -174,9 +174,9 @@ public static bool CheckBuildableMaker(int parent_building_id)
 + 解鎖項目：
     + 可飼養的牛羊從`10頭`增加至`20頭`。
     + 牛羊生產區從`1處`增加至`2處`。
-    + [動物商店](../doraemon-story-shop-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-gouter-mawk-livestock/#動物鈴)販售項目：
+    + [動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)販售項目：
         + `引導鈴`（1/2條件）
-    + [打鐵店](../doraemon-story-shop-anvil-blacksmith-shop)解鎖[機器](../doraemon-story-shop-anvil-blacksmith-shop#機器)販售項目：
+    + [打鐵店](../doraemon-story-shop-21100-anvil-blacksmith-shop)解鎖[機器](../doraemon-story-shop-21100-anvil-blacksmith-shop#機器)販售項目：
         + `優格機`
         + `起士機`
         + `毛線機`
@@ -201,7 +201,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
 + 解鎖項目：
     + 可飼養的雞從`5頭`增加至`10頭`。
     + 雞可在雞小屋`孵蛋`。
-    + [小雞商店](../doraemon-story-shop-cuckoo-house-chickens)解鎖[動物鈴](../doraemon-story-shop-cuckoo-house-chickens/#動物鈴)販售項目：
+    + [小雞商店](../doraemon-story-shop-20200-cuckoo-house-chickens)解鎖[動物鈴](../doraemon-story-shop-20200-cuckoo-house-chickens/#動物鈴)販售項目：
         + `雞鈴`
 
 ### 巨大的雞小屋擴建
@@ -224,9 +224,9 @@ public static bool CheckBuildableMaker(int parent_building_id)
 + 解鎖項目：
     + 可飼養的雞從`10頭`增加至`20頭`。
     + 雞孵蛋區從`1處`增加至`2處`。
-    + [動物商店](../doraemon-story-shop-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-gouter-mawk-livestock/#動物鈴)販售項目：
+    + [動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)販售項目：
         + `引導鈴`（1/2條件）
-    + [打鐵店](../doraemon-story-shop-anvil-blacksmith-shop)解鎖[機器](../doraemon-story-shop-anvil-blacksmith-shop#機器)販售項目：
+    + [打鐵店](../doraemon-story-shop-21100-anvil-blacksmith-shop)解鎖[機器](../doraemon-story-shop-21100-anvil-blacksmith-shop#機器)販售項目：
         + `美乃滋機`
 
 ### 溫室建造
@@ -286,7 +286,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
 + 擴建完成事件ID：`10125101`
 + 優先度：`100`
 + 解鎖項目：
-    + [木工店](../doraemon-story-shop-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-hammer-carpenter-shop#擴建雞小屋)項目：
+    + [木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋)項目：
         + `寬闊的雞小屋`
 
 ### 動物小屋的筒倉建造
@@ -307,7 +307,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
 + 擴建完成事件ID：`10126101`
 + 優先度：`100`
 + 解鎖項目：
-    + [木工店](../doraemon-story-shop-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-hammer-carpenter-shop#擴建動物小屋)項目：
+    + [木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋)項目：
         + `寬闊的動物小屋`
 
 ### 資材儲放屋建造
@@ -332,7 +332,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
 ## 日常事件
 ### 老人聊天
 + 事件ID：`70020001`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
 
 ![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 天氣條件：`遇上暴風雨、下雨、下雪不觸發`

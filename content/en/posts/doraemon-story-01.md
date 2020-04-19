@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】木工店劇情線"
+title: "木工店劇情線"
 date: 2020-04-11T23:28:27+08:00
 description: "胖虎與潘特的劇情發展，還有幻想筆！"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![木工店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2100.png)
 ## 木工店
 [全劇情線索引](../doraemon-story-index/#劇情線)
@@ -44,7 +46,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第2話 寡言的木匠
 + 事件ID：`10003001`
 + 優先度：`4`
-+ 觸發地點：[青青廣場](../doraemon-story-map#青青廣場)（`11500`）
++ 觸發地點：[青青廣場](../doraemon-story-map-11500-harappa-square)（`11500`）
     + 往`萬物鎮東`方向的`方尖碑`附近（`28`,`0`,`-150.3`）
 
 ![方尖碑](/images/post/Season_of_Story/Map/11500-01.png)
@@ -78,7 +80,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第3話 關於徒弟
 + 事件ID：`10003002`
 + 優先度：`4`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
 
 ![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：[木工店第2話 寡言的木匠](#第2話-寡言的木匠)（`10003001`）
@@ -108,7 +110,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第4話 在哪裡？
 + 事件ID：`10003003`
 + 優先度：`4`
-+ 觸發地點：[青青廣場](../doraemon-story-map#青青廣場)（`11500`）
++ 觸發地點：[青青廣場](../doraemon-story-map-11500-harappa-square)（`11500`）
     + 往`萬物鎮東`方向的`方尖碑`附近（`28`,`0`,`-150.3`）
 
 ![方尖碑](/images/post/Season_of_Story/Map/11500-01.png)
@@ -198,7 +200,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第6話 以前的徒弟
 + 事件ID：`20002001`
 + 優先度：`3`
-+ 觸發地點：[木工店 咚吭噹](../doraemon-story-map#木工店-咚吭噹)（`20400`）
++ 觸發地點：[木工店 咚吭噹](../doraemon-story-map-10600-lumberjack-forest#木工店-咚吭噹)（`20400`）
 
 ![木工店](/images/post/Season_of_Story/Map/20400.png)
 + 前置劇情：[木工店第5話 時光電視](#第5話-時光電視)（`10003004`）
@@ -230,7 +232,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第7話 溺愛子女大賽
 + 事件ID：`20002002`
 + 優先度：`3`
-+ 觸發地點：[木工店 咚吭噹](../doraemon-story-map#木工店-咚吭噹)（`20400`）
++ 觸發地點：[木工店 咚吭噹](../doraemon-story-map-10600-lumberjack-forest#木工店-咚吭噹)（`20400`）
 
 ![木工店](/images/post/Season_of_Story/Map/20400.png)
 + 前置劇情：[木工店第6話 以前的徒弟](#第6話-以前的徒弟)（`20002001`）
@@ -265,7 +267,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第8話 木工店親子
 + 事件ID：`20002003`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
     + `醫院`門口（`199.8`,`0`,`-193.9`）
 
 ![醫院門口](/images/post/Season_of_Story/Map/11300-209.png)
@@ -327,7 +329,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第10話 父母心
 + 事件ID：`20002005`
 + 優先度：`3`
-+ 觸發地點：[鎮長先生的家](../doraemon-story-map#鎮長先生的家)（`20000`）
++ 觸發地點：[鎮長先生的家](../doraemon-story-map-11300-east-natura/#鎮長先生的家)（`20000`）
 
 ![鎮長先生家](/images/post/Season_of_Story/Map/20000.png)
 + 前置劇情：[木工店第9話 說服作戰](#第9話-說服作戰)（`20002004`）
@@ -359,7 +361,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第11話 謠言
 + 事件ID：`20002006`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
     + `噴水池`前階梯（`181.6`,`0`,`-131.2`）
 
 ![噴水池](/images/post/Season_of_Story/Map/11300-01.png)
@@ -432,7 +434,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第13話 那天的事
 + 事件ID：`20002008`
 + 優先度：`3`
-+ 觸發地點：[席菲小姐的釣具店](../doraemon-story-map#席菲小姐的釣具店)（`21300`）
++ 觸發地點：[席菲小姐的釣具店](../doraemon-story-map-10900-zazan-cape/#席菲小姐的釣具店)（`21300`）
 
 ![釣具店](/images/post/Season_of_Story/Map/21300.png)
 + 前置劇情：[木工店第12話 去河邊玩大作戰](#第12話-去河邊玩大作戰)（`20002007`）
@@ -461,7 +463,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第14話 席菲的信
 + 事件ID：`20002009`
 + 優先度：`3`
-+ 觸發地點：[木工店 咚吭噹](../doraemon-story-map#木工店-咚吭噹)（`20400`）
++ 觸發地點：[木工店 咚吭噹](../doraemon-story-map-10600-lumberjack-forest#木工店-咚吭噹)（`20400`）
 
 ![木工店](/images/post/Season_of_Story/Map/20400.png)
 + 前置劇情：[木工店第13話 那天的事](#第13話-那天的事)（`20002008`）
@@ -493,7 +495,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第15話 久違的對話
 + 事件ID：`20002010`
 + 優先度：`3`
-+ 觸發地點：[木工店 咚吭噹](../doraemon-story-map#木工店-咚吭噹)（`20400`）
++ 觸發地點：[木工店 咚吭噹](../doraemon-story-map-10600-lumberjack-forest#木工店-咚吭噹)（`20400`）
 
 ![木工店](/images/post/Season_of_Story/Map/20400.png)
 + 前置劇情：[木工店第14話 席菲的信](#第14話-席菲的信)（`20002009`）

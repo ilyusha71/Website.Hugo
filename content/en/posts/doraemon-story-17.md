@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】兔子劇情線"
+title: "兔子劇情線"
 date: 2020-04-15T18:17:30+08:00
 description: "兔子的劇情發展"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140180.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![兔子劇情線](/images/post/Season_of_Story/Texture2D/EventImage_3005.png)
 ## 兔子
 [全劇情線索引](../doraemon-story-index/#劇情線)

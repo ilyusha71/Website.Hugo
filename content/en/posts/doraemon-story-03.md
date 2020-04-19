@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】料理店劇情線"
+title: "料理店劇情線"
 date: 2020-04-11T23:49:02+08:00
 description: "小夫、萊斯特與托蘭的劇情發展，還有來來貓！"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![料理店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2200.png)
 ## 料理店
 [全劇情線索引](../doraemon-story-index/#劇情線)
@@ -32,7 +34,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第1話 小夫的幫忙
 + 事件ID：`10001000`
 + 優先度：`4`
-+ 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
++ 觸發地點：[料理店 嚼嚼](../doraemon-story-map-11300-east-natura/#料理店-嚼嚼)（`21200`）
 
 ![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[巨木第2話 暴風雨後的小鎮](../doraemon-story-00#第2話-暴風雨後的小鎮)（`10000002`）
@@ -40,7 +42,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第2話 料理店的實驗
 + 事件ID：`10001001`
 + 優先度：`4`
-+ 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
++ 觸發地點：[料理店 嚼嚼](../doraemon-story-map-11300-east-natura/#料理店-嚼嚼)（`21200`）
 
 ![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[蘭奇第2話 壞掉的手環](../doraemon-story-10#第2話-壞掉的手環)（`10004001`）
@@ -72,7 +74,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第3話 無人的料理店
 + 事件ID：`10001002`
 + 優先度：`4`
-+ 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
++ 觸發地點：[料理店 嚼嚼](../doraemon-story-map-11300-east-natura/#料理店-嚼嚼)（`21200`）
 
 ![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第2話 料理店的實驗](#第2話-料理店的實驗)（`10001001`）
@@ -104,7 +106,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第4話 興隆的料理店
 + 事件ID：`10001003`
 + 優先度：`4`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
     + `噴水池`前階梯（`181.6`,`0`,`-131.2`）
 
 ![噴水池](/images/post/Season_of_Story/Map/11300-01.png)
@@ -139,7 +141,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 `來來貓`，簡體中文為`招揽客人的猫`
 + 事件ID：`10001004`
 + 優先度：`4`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
     + `料理店`門口（`191.2`,`1.6`,`-155.5`）
 
 ![料理店門口](/images/post/Season_of_Story/Map/11300-212.png)
@@ -193,7 +195,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第6話 偷吃
 + 事件ID：`20001001`
 + 優先度：`3`
-+ 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
++ 觸發地點：[料理店 嚼嚼](../doraemon-story-map-11300-east-natura/#料理店-嚼嚼)（`21200`）
 
 ![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第5話 來來貓](#第5話-來來貓)（`10001004`）
@@ -225,7 +227,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第7話 料理店家家酒
 + 事件ID：`20001002`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
     + `料理店`旁階梯（`190`,`0`,`-168.2`）
 
 ![料理店旁階梯](/images/post/Season_of_Story/Map/11300-04.png)
@@ -265,7 +267,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第8話 小鎮的七個神秘事件
 + 事件ID：`20001003`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
     + `噴水池`前階梯（`181.6`,`0`,`-131.2`）
 
 ![噴水池](/images/post/Season_of_Story/Map/11300-01.png)
@@ -301,7 +303,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第9話 健康檢查
 + 事件ID：`20001004`
 + 優先度：`3`
-+ 觸發地點：[洛克德先生的醫院](../doraemon-story-map#洛克德先生的醫院)（`20900`）
++ 觸發地點：[洛克德先生的醫院](../doraemon-story-map-11300-east-natura/#洛克德先生的醫院)（`20900`）
 
 ![洛克德醫院](/images/post/Season_of_Story/Map/20900.png)
 + 前置劇情：[料理店第8話 小鎮的七個神秘事件](#第8話-小鎮的七個神秘事件)（`20001003`）
@@ -333,7 +335,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第10話 找到了！
 + 事件ID：`20001005`
 + 優先度：`3`
-+ 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
++ 觸發地點：[料理店 嚼嚼](../doraemon-story-map-11300-east-natura/#料理店-嚼嚼)（`21200`）
 
 ![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第9話 健康檢查](#第9話-健康檢查)（`20001004`）
@@ -365,7 +367,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第11話 萊斯特倒下了
 + 事件ID：`20001006`
 + 優先度：`3`
-+ 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
++ 觸發地點：[料理店 嚼嚼](../doraemon-story-map-11300-east-natura/#料理店-嚼嚼)（`21200`）
 
 ![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第10話 找到了！](#第10話-找到了)（`20001005`）
@@ -400,7 +402,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第12話 對不起。
 + 事件ID：`20001007`
 + 優先度：`3`
-+ 觸發地點：[洛克德先生的醫院](../doraemon-story-map#洛克德先生的醫院)（`20900`）
++ 觸發地點：[洛克德先生的醫院](../doraemon-story-map-11300-east-natura/#洛克德先生的醫院)（`20900`）
 
 ![洛克德醫院](/images/post/Season_of_Story/Map/20900.png)
 + 前置劇情：[料理店第11話 萊斯特倒下了](#第11話-萊斯特倒下了)（`20001006`）
@@ -429,7 +431,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第13話 世界上最好吃的食物
 + 事件ID：`20001008`
 + 優先度：`3`
-+ 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
++ 觸發地點：[料理店 嚼嚼](../doraemon-story-map-11300-east-natura/#料理店-嚼嚼)（`21200`）
 
 ![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第12話 對不起。](#第12話-對不起)（`20001007`）
@@ -465,7 +467,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第14話 結婚紀念日
 + 事件ID：`20001009`
 + 優先度：`3`
-+ 觸發地點：[料理店 嚼嚼](../doraemon-story-map#料理店-嚼嚼)（`21200`）
++ 觸發地點：[料理店 嚼嚼](../doraemon-story-map-11300-east-natura/#料理店-嚼嚼)（`21200`）
 
 ![料理店](/images/post/Season_of_Story/Map/21200.png)
 + 前置劇情：[料理店第13話 世界上最好吃的食物](#第13話-世界上最好吃的食物)（`20001008`）
@@ -500,7 +502,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140040.png
 ### 第15話 永遠興隆的料理店
 + 事件ID：`20001010`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
     + `料理店`門口（`191.2`,`1.6`,`-155.5`）
 
 ![料理店門口](/images/post/Season_of_Story/Map/11300-212.png)

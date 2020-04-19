@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】雜貨店劇情線"
+title: "雜貨店劇情線"
 date: 2020-04-14T19:55:22+08:00
 description: "涅萊爾、埃蒂與緹拉兒的劇情發展"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![雜貨店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2600.png)
 ## 雜貨店
 [全劇情線索引](../doraemon-story-index/#劇情線)
@@ -32,7 +34,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ### 第0話 要開雜貨店嗎？
 + 事件ID：`20006000`
 + 優先度：`4`
-+ 觸發地點：[雜貨店 小玩意兒](../doraemon-story-map#雜貨店-小玩意兒)（`20700`）
++ 觸發地點：[雜貨店 小玩意兒](../doraemon-story-map-11300-east-natura/#雜貨店-小玩意兒)（`20700`）
 
 ![雜貨店](/images/post/Season_of_Story/Map/20700.png)
 + 前置劇情：[巨木第2話 暴風雨後的小鎮](../doraemon-story-00#第2話-暴風雨後的小鎮)（`10000002`）
@@ -40,7 +42,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ### 第1話 克魯波克魯是？
 + 事件ID：`20006001`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
     + `雜貨店`門口（`194.5`,`1.6`,`-128.2`）
 
 ![雜貨店門口](/images/post/Season_of_Story/Map/11300-207.png)
@@ -75,7 +77,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ### 第2話 勤勞的埃蒂小姐
 + 事件ID：`20006002`
 + 優先度：`3`
-+ 觸發地點：[雜貨店 小玩意兒](../doraemon-story-map#雜貨店-小玩意兒)（`20700`）
++ 觸發地點：[雜貨店 小玩意兒](../doraemon-story-map-11300-east-natura/#雜貨店-小玩意兒)（`20700`）
 
 ![雜貨店](/images/post/Season_of_Story/Map/20700.png)
 + 前置劇情：[雜貨店第1話 克魯波克魯是？](#第1話-克魯波克魯是)（`20006001`）
@@ -107,7 +109,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ### 第3話 尋找克魯波克魯
 + 事件ID：`20006003`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
 
 ![萬物鎮東](/images/post/Season_of_Story/Map/11300.png)
 + 前置劇情：[雜貨店第2話 勤勞的埃蒂小姐](#第2話-勤勞的埃蒂小姐)（`20006002`）
@@ -171,7 +173,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ### 第5話 涅萊爾的心情
 + 事件ID：`20006005`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
 
 ![萬物鎮東](/images/post/Season_of_Story/Map/11300.png)
 + 前置劇情：[雜貨店第4話 緹拉兒的心情](#第4話-緹拉兒的心情)（`20006004`）
@@ -203,7 +205,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ### 第6話 埃蒂的心情
 + 事件ID：`20006006`
 + 優先度：`3`
-+ 觸發地點：[雜貨店 小玩意兒](../doraemon-story-map#雜貨店-小玩意兒)（`20700`）
++ 觸發地點：[雜貨店 小玩意兒](../doraemon-story-map-11300-east-natura/#雜貨店-小玩意兒)（`20700`）
 
 ![雜貨店](/images/post/Season_of_Story/Map/20700.png)
 + 前置劇情：[雜貨店第5話 涅萊爾的心情](#第5話-涅萊爾的心情)（`20006005`）
@@ -232,7 +234,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ### 第7話 兒童會議
 + 事件ID：`20006007`
 + 優先度：`3`
-+ 觸發地點：[青青廣場](../doraemon-story-map#青青廣場)（`11500`）
++ 觸發地點：[青青廣場](../doraemon-story-map-11500-harappa-square)（`11500`）
     + 往`萬物鎮東`方向的`方尖碑`附近（`28`,`0`,`-150.3`）
 
 ![方尖碑](/images/post/Season_of_Story/Map/11500-01.png)
@@ -265,7 +267,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ### 第8話 幫忙雜貨店
 + 事件ID：`20006008`
 + 優先度：`3`
-+ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map-10000-nobita-farm)（`10000`）
 
 ![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 前置劇情：[雜貨店第7話 兒童會議](#第7話-兒童會議)（`20006007`）
@@ -298,7 +300,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ### 第9話 關於傾訴
 + 事件ID：`20006009`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
     + `雜貨店`門口（`194.5`,`1.6`,`-128.2`）
 
 ![雜貨店門口](/images/post/Season_of_Story/Map/11300-207.png)
@@ -335,7 +337,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ### 第10話 感情好的親子
 + 事件ID：`20006010`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
     + `雜貨店`門口（`194.5`,`1.6`,`-128.2`）
 
 ![雜貨店門口](/images/post/Season_of_Story/Map/11300-207.png)

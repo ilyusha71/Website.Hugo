@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】狗劇情線"
+title: "狗劇情線"
 date: 2020-04-11T23:58:37+08:00
 description: "小狗、大雄與哆啦A夢的劇情發展"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140130.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![狗劇情線](/images/post/Season_of_Story/Texture2D/EventImage_3002.png)
 ## 狗
 [全劇情線索引](../doraemon-story-index/#劇情線)

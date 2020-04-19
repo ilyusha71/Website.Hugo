@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】秘密道具劇情線"
+title: "秘密道具劇情線"
 date: 2020-04-14T02:29:07+08:00
 description: "秘密道具的相關劇情"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140200.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![秘密道具劇情線](/images/post/Season_of_Story/Sprite/icon_1002260.png)
 ## 秘密道具
 [全劇情線索引](../doraemon-story-index/#劇情線)
@@ -29,7 +31,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140200.png
 ### 第1話 用門改變裝潢！？
 + 事件ID：`30001001`
 + 優先度：`2`
-+ 觸發地點：[萬物鎮東](../doraemon-story-map#萬物鎮東)（`11300`）
++ 觸發地點：[萬物鎮東](../doraemon-story-map-11300-east-natura)（`11300`）
 
 ![萬物鎮東](/images/post/Season_of_Story/Map/11300.png)
 + 觸發時間條件📆
@@ -128,7 +130,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140200.png
 ### 第5話 發明家布拉斯！？
 + 事件ID：`30003001`
 + 優先度：`2`
-+ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map-10000-nobita-farm)（`10000`）
 
 ![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 觸發時間條件📆

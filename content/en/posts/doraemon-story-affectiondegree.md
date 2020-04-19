@@ -52,121 +52,121 @@ $$若非，情感度💗=\dfrac{情感值😸}{情感轉換率}+1$$
         <tr>
             <td>0</td>
             <td>1</td>
-            <td>♥0.5</td>
+            <td>❤️0.5</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Half.png"></td>
         </tr>
         <tr>
             <td>50</td>
             <td>2</td>
-            <td>♥1</td>
+            <td>❤️1</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"></td>
         </tr>
         <tr>
             <td>100</td>
             <td>3</td>
-            <td>♥1.5</td>
+            <td>❤️1.5</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Half.png"></td>
         </tr>
         <tr>
             <td>150</td>
             <td>4</td>
-            <td>♥2</td>
+            <td>❤️2</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"></td>
         </tr>
         <tr>
             <td>200</td>
             <td>5</td>
-            <td>♥2.5</td>
+            <td>❤️2.5</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Half.png"></td>
         </tr>
         <tr>
             <td>250</td>
             <td>6</td>
-            <td>♥3</td>
+            <td>❤️3</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"></td>
         </tr>
         <tr>
             <td>300</td>
             <td>7</td>
-            <td>♥3.5</td>
+            <td>❤️3.5</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Half.png"></td>
         </tr>
         <tr>
             <td>350</td>
             <td>8</td>
-            <td>♥4</td>
+            <td>❤️4</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"></td>
         </tr>
         <tr>
             <td>400</td>
             <td>9</td>
-            <td>♥4.5</td>
+            <td>❤️4.5</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Half.png"></td>
         </tr>
         <tr>
             <td>450</td>
             <td>10</td>
-            <td>♥5</td>
+            <td>❤️5</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"></td>
         </tr>
         <tr>
             <td>500</td>
             <td>11</td>
-            <td>♥5.5</td>
+            <td>❤️5.5</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Half.png"></td>
         </tr>
         <tr>
             <td>550</td>
             <td>12</td>
-            <td>♥6</td>
+            <td>❤️6</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"></td>
         </tr>
         <tr>
             <td>600</td>
             <td>13</td>
-            <td>♥6.5</td>
+            <td>❤️6.5</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Half.png"></td>
         </tr>
         <tr>
             <td>650</td>
             <td>14</td>
-            <td>♥7</td>
+            <td>❤️7</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"></td>
         </tr>
         <tr>
             <td>700</td>
             <td>15</td>
-            <td>♥7.5</td>
+            <td>❤️7.5</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Half.png"></td>
         </tr>
         <tr>
             <td>750</td>
             <td>16</td>
-            <td>♥8</td>
+            <td>❤️8</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"></td>
         </tr>
         <tr>
             <td>800</td>
             <td>17</td>
-            <td>♥8.5</td>
+            <td>❤️8.5</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Half.png"></td>
         </tr>
         <tr>
             <td>850</td>
             <td>18</td>
-            <td>♥9</td>
+            <td>❤️9</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"></td>
         </tr>
         <tr>
             <td>900</td>
             <td>19</td>
-            <td>♥9.5</td>
+            <td>❤️9.5</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Half.png"></td>
         </tr>
         <tr>
             <td>950</td>
             <td>20</td>
-            <td>♥10</td>
+            <td>❤️10</td>
             <td><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"><img  align="left" src= "/images/post/Icon_Heart_Full.png"></td>
         </tr>
     </tbody>

@@ -1,7 +1,7 @@
 ---
-title: "【哆啦A夢牧場物語】雜貨店 小玩意兒"
+title: "雜貨店 小玩意兒"
 date: 2020-04-04T19:00:26+08:00
-description: 雜貨店販售商品大全
+description: 雜貨店販售資料大全
 draft: false
 hideToc: false
 enableToc: false
@@ -9,96 +9,82 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
-- MOD
 - 作物
+- 工具
+- MOD
 series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
 - 商店
-image: images/post/Season_of_Story/Sprite/icon_301170000.png
+image: images/post/Season_of_Story/Building/20700.png
 ---
-## 遊戲資源
-+ 以下圖示儲存在Sprite資料夾下，對應檔名為`icon_` + `mItemId`+`.png`，`mItemId`可透過`ItemData.text`取得。
-+ 以下參數為TextAsset資料夾下`VarietyShopData.text`的轉換的部分資料。
+<mark>最後更新：2020/04/18</mark>
 
-## 雜貨店MOD資料庫
-+ 雜貨店資料檔：`VarietyShopData.text`
-+ 雜貨店資料類：`CVarietyShopData`
-    + 雜貨店資料結構：`SVarietyShopData`
-        + 商品ID：`mVarietyId`
-        + 物品ID：`mItemId`
-        + 價格：`mPrice`
-        + 販售季節：`mSeason`
-            + 雜貨店只會販售當季的種子。
-        + 首年販售：`mIsFirstYear`
-            + 非首年販售的商品會在第二年春季開始販售。
-        + DLC索引：`mDLCIndex`
-+ 商店功能集成介面：`ShopMasterCollection`
-    + 商店模版設定：`Setup()`
-    + 取得雜貨店所有商品資料的方法：`GetAllVarietyShopDatas()`
-    + 取得雜貨店首年販售商品資料的方法：`GetFirstYearVarietyShopDatas()`
-+ 商店主模板類：`ShopMasterModel`
-    + 商品ID：`Id` = `CVarietyShopData.SVarietyShopData.mVarietyId`
-    + 物品ID：`ItemId` = `CVarietyShopData.SVarietyShopData.mItemId`
-    + 販售價格：`Price` = `CVarietyShopData.SVarietyShopData.mPrice`
-    + 販售季節：`Season` = `CVarietyShopData.SVarietyShopData.mSeason`
-    + DLC索引：`DLCIndex` = `CVarietyShopData.SVarietyShopData.mDLCIndex`
-    + 事件ID：`EventId` = -1
-+ 商品模板類：`ShopItemDataModel`，商店上架的商品實例。
-    + 商品ID：`Id` = `ShopMasterModel.Id`
-    + 物品ID：`ItemId` = `ShopMasterModel.ItemId`
-    + 商品名稱：`Name` = `ItemModel.Name`
-    + 商品描述：`Description` = `ItemModel.Description`
-    + 商品價格：`Price` = `ShopMasterModel.Price`
-    + 圖集ID：`AtlasId` = `ItemMasterModel.AtlasId`
-    + 圖片ID：`SpriteId` = `ItemModel.Id`
-    + 是否為物品模板：`IsItemModel`
-    + 是否為單一物品：`IsSingleItem`
-    + 只能購買一次：`CanBuyOnce`
-    + 是否需要庫存空間：`IsNeedToEmptyInventory`
+## 雜貨店 小玩意兒
++ General Store / Knick Knacks GenStore
 
-### 調用狀態
-+ 牧場工作狀態：`FarmWorkState`
-    1. `BeginCallback(ICommandHolderObject collided_obj, ICommand stacked_command)`
-    2. `CreateWorkResponse()`
-    3. `AddVarietyShopResponse(ResponseModel root, NpcModel npc)`
-    4. `CreateVarietyShopResponse(NpcModel npc, int season, string choice_text)`
-    5. `GetVarietyShopItemDatas(int season)`
-        + `ShopMasterCollection.GetAllVarietyShopDatas()`
-        + `ShopMasterCollection.GetFirstYearVarietyShopDatas()`
-
-## 雜貨店
-+ 營業時間
-    + 星期日：15點~20點
-    + 星期一：15點~20點
-    + 星期二：15點~20點
-    + 星期三：15點~20點
-    + 星期五：15點~20點
-    + 星期六：15點~20點
-+ 公休日
-    + 星期四
+![雜貨店位置](/images/post/Season_of_Story/Map/20700.png)
 
 ### 主要角色
 <table>
+    <thead>
+        <tr>
+            <td>埃蒂</td>
+            <td>涅萊爾</td>
+            <td>緹拉兒</td>
+        </tr>
+    </thead>
     <tr>
         <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041170.png"></td>
-        <td>埃蒂</td>
-        <td>緹拉兒的媽媽</td>
-    </tr>
-    <tr>
         <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041180.png"></td>
-        <td>涅萊爾</td>
-        <td>緹拉兒的爸爸</td>
-    </tr>
-    <tr>
         <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041190.png"></td>
-        <td>緹拉兒</td>
-        <td>埃蒂的女兒</td>
     </tr>
 </table>
 
-## 雜貨店商品資料
+### 營業時間
+<table>
+    <thead>
+        <tr>
+            <td>營業時間</td>
+            <td>下午</td>
+            <td></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>星期日</td>
+            <td>15點~20點</td>
+            <td rowspan="10"><img src= "/images/post/Season_of_Story/Scene/20700-opening-time.png"></td>
+        </tr>
+        <tr>
+            <td>星期一</td>
+            <td>15點~20點</td>
+        </tr>
+        <tr>
+            <td>星期二</td>
+            <td>15點~20點</td>
+        </tr>
+        <tr>
+            <td>星期三</td>
+            <td>15點~20點</td>
+        </tr>        
+        <tr>
+            <td>星期四</td>
+            <td colspan="2">公休日</td>
+        </tr>
+        <tr>
+            <td>星期五</td>
+            <td>15點~20點</td>
+        </tr>
+        <tr>
+            <td>星期六</td>
+            <td>15點~20點</td>
+        </tr>
+     </tbody>
+</table>
+
+## 販售資料
 + [作物種子](#作物種子)：37種
     + [春季種子](#春季種子)：10種
     + [夏季種子](#夏季種子)：13種
@@ -117,6 +103,7 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
     <thead>
         <tr>
             <td>商品ID</td>
+            <td>物品ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -207,10 +194,10 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
 </table>
 
 + 商品特性：
-    + 是否為物品實體：✔。
-    + 是否為單一物品：✘。
-    + 只能購買一次：✘。
-    + 是否需要庫存空間：✔。
+    + 是否為物品實體：✔
+    + 是否為單一物品：✘
+    + 只能購買一次：✘
+    + 是否需要庫存空間：✔
 
 #### 夏季種子
 <table>
@@ -331,10 +318,10 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
 </table>
 
 + 商品特性：
-    + 是否為物品實體：✔。
-    + 是否為單一物品：✘。
-    + 只能購買一次：✘。
-    + 是否需要庫存空間：✔。
+    + 是否為物品實體：✔
+    + 是否為單一物品：✘
+    + 只能購買一次：✘
+    + 是否需要庫存空間：✔
 
 #### 秋季種子
 <table>
@@ -415,10 +402,10 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
 </table>
 
 + 商品特性：
-    + 是否為物品實體：✔。
-    + 是否為單一物品：✘。
-    + 只能購買一次：✘。
-    + 是否需要庫存空間：✔。
+    + 是否為物品實體：✔
+    + 是否為單一物品：✘
+    + 只能購買一次：✘
+    + 是否需要庫存空間：✔
 
 #### 冬季種子
 <table>
@@ -467,10 +454,10 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
 </table>
 
 + 商品特性：
-    + 是否為物品實體：✔。
-    + 是否為單一物品：✘。
-    + 只能購買一次：✘。
-    + 是否需要庫存空間：✔。
+    + 是否為物品實體：✔
+    + 是否為單一物品：✘
+    + 只能購買一次：✘
+    + 是否需要庫存空間：✔
 
 #### 四季種子
 <table>
@@ -503,16 +490,17 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
 </table>
 
 + 商品特性：
-    + 是否為物品實體：✔。
-    + 是否為單一物品：✘。
-    + 只能購買一次：✘。
-    + 是否需要庫存空間：✔。
+    + 是否為物品實體：✔
+    + 是否為單一物品：✘
+    + 只能購買一次：✘
+    + 是否需要庫存空間：✔
 
 ### 肥料
 <table>
     <thead>
         <tr>
             <td>商品ID</td>
+            <td>物品ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -522,6 +510,7 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
     </thead>
     <tr>
         <td>100500</td>
+        <td>1103000</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png"></td>
         <td>肥料</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
@@ -530,6 +519,7 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
     </tr>
     <tr>
         <td>100501</td>
+        <td>1103001</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png"></td>
         <td>高級肥料</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
@@ -539,16 +529,17 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
 </table>
 
 + 商品特性：
-    + 是否為物品實體：✔。
-    + 是否為單一物品：✘。
-    + 只能購買一次：✘。
-    + 是否需要庫存空間：✔。
+    + 是否為物品實體：✔
+    + 是否為單一物品：✘
+    + 只能購買一次：✘
+    + 是否需要庫存空間：✔
 
 ### 工具
 <table>
     <thead>
         <tr>
             <td>商品ID</td>
+            <td>物品ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -558,6 +549,7 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
     </thead>
     <tr>
         <td>200000</td>
+        <td>1001140</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001140.png"></td>
         <td>捕蟲網</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2000</td>
@@ -567,16 +559,20 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
 </table>
 
 + 商品特性：
-    + 是否為物品實體：✔。
-    + 是否為單一物品：✔。
-    + 只能購買一次：✔。
-    + 是否需要庫存空間：✔。
+    + 是否為物品實體：✔
+    + 是否為單一物品：✔
+    + 只能購買一次：✔
+    + 是否需要庫存空間：✔
+
+#### 解鎖項目
++ 教學劇情[捕蟲教學](../doraemon-story-1/#捕蟲教學)（`81100001`）
 
 ### 背包
 <table>
     <thead>
         <tr>
             <td>商品ID</td>
+            <td>物品ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -587,6 +583,7 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
     </thead>
     <tr>
         <td>---</td>
+        <td>1003000</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003000.png"></td>
         <td>背包</td>
         <td>初始裝備</td>
@@ -596,6 +593,7 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
     </tr>
     <tr>
         <td>200100</td>
+        <td>1003001</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003001.png"></td>
         <td>大背包</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6000</td>
@@ -605,6 +603,7 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
     </tr>
     <tr>
         <td>200101</td>
+        <td>1003002</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003002.png"></td>
         <td>巨大背包</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">12000</td>
@@ -615,16 +614,17 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
 </table>
 
 + 商品特性：
-    + 是否為物品實體：✘。
-    + 是否為單一物品：✔。
-    + 只能購買一次：✔。
-    + 是否需要庫存空間：✘。
+    + 是否為物品實體：✘
+    + 是否為單一物品：✔
+    + 只能購買一次：✔
+    + 是否需要庫存空間：✘
 
 ### DLC
 <table>
     <thead>
         <tr>
             <td>商品ID</td>
+            <td>物品ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -634,6 +634,7 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
     </thead>
     <tr>
         <td>300004</td>
+        <td>1106004</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106004.png"></td>
         <td>春季蔬菜組</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">0</td>
@@ -642,6 +643,7 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
     </tr>
     <tr>
         <td>300100</td>
+        <td>1106009</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106009.png"></td>
         <td>亞緬的預訂品</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">0</td>
@@ -651,10 +653,10 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
 </table>
 
 + 商品特性：
-    + 是否為物品實體：✘。
-    + 是否為單一物品：✔。
-    + 只能購買一次：✔。
-    + 是否需要庫存空間：✘。
+    + 是否為物品實體：✘
+    + 是否為單一物品：✔
+    + 只能購買一次：✔
+    + 是否需要庫存空間：✘
 + 春季蔬菜組
     + 這是歐林先生幫忙準備的種子組。有`蕪菁`、`馬鈴薯`、`高麗菜`、`草莓`等4種植物種子
     + 購買後去找`緹拉兒`領取，種子各有20個。
@@ -754,3 +756,53 @@ image: images/post/Season_of_Story/Sprite/icon_301170000.png
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000202.png"></td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000203.png"></td>
 </table>
+
+## 雜貨店MOD資料庫
++ 雜貨店資料檔：`VarietyShopData.text`
++ 雜貨店資料類：`CVarietyShopData`
+    + 雜貨店資料結構：`SVarietyShopData`
+        + 商品ID：`mVarietyId`
+        + 物品ID：`mItemId`
+        + 價格：`mPrice`
+        + 販售季節：`mSeason`
+            + 雜貨店只會販售當季的種子。
+        + 首年販售：`mIsFirstYear`
+            + 非首年販售的商品會在第二年春季開始販售。
+        + DLC索引：`mDLCIndex`
++ 商店功能集成介面：`ShopMasterCollection`
+    + 商店模版設定：`Setup()`
+    + 取得雜貨店所有商品資料的方法：`GetAllVarietyShopDatas()`
+    + 取得雜貨店首年販售商品資料的方法：`GetFirstYearVarietyShopDatas()`
+
+### 商店模板
++ 商店主模板類：`ShopMasterModel`，[作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)、[肥料](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)、[工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)、[背包](../doraemon-story-shop-20700-knick-knacks-general-store/#背包)、[DLC](../doraemon-story-shop-20700-knick-knacks-general-store/#dlc)。
+    + 商品ID：`Id` = `CVarietyShopData.SVarietyShopData.mVarietyId`
+    + 物品ID：`ItemId` = `CVarietyShopData.SVarietyShopData.mItemId`
+    + 販售價格：`Price` = `CVarietyShopData.SVarietyShopData.mPrice`
+    + 販售季節：`Season` = `CVarietyShopData.SVarietyShopData.mSeason`
+    + DLC索引：`DLCIndex` = `CVarietyShopData.SVarietyShopData.mDLCIndex`
+    + 事件ID：`EventId` = -1
+
+### 商品模板
++ 商品模板類：`ShopItemDataModel`，商店上架的商品實例。
+    + 商品ID：`Id` = `ShopMasterModel.Id`
+    + 物品ID：`ItemId` = `ShopMasterModel.ItemId`
+    + 商品名稱：`Name` = `ItemModel.Name`
+    + 商品描述：`Description` = `ItemModel.Description`
+    + 商品價格：`Price` = `ShopMasterModel.Price`
+    + 圖集ID：`AtlasId` = `ItemMasterModel.AtlasId`
+    + 圖片ID：`SpriteId` = `ItemModel.Id`
+    + 是否為物品模板：`IsItemModel`
+    + 是否為單一物品：`IsSingleItem`
+    + 只能購買一次：`CanBuyOnce`
+    + 是否需要庫存空間：`IsNeedToEmptyInventory`
+    + 
+### 調用狀態
++ 牧場工作狀態：`FarmWorkState`
+    1. `BeginCallback(ICommandHolderObject collided_obj, ICommand stacked_command)`
+    2. `CreateWorkResponse()`
+    3. `AddVarietyShopResponse(ResponseModel root, NpcModel npc)`
+    4. `CreateVarietyShopResponse(NpcModel npc, int season, string choice_text)`
+    5. `GetVarietyShopItemDatas(int season)`
+        + `ShopMasterCollection.GetAllVarietyShopDatas()`
+        + `ShopMasterCollection.GetFirstYearVarietyShopDatas()`

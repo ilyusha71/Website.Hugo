@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】馬劇情線"
+title: "馬劇情線"
 date: 2020-04-15T18:13:30+08:00
 description: "馬的劇情發展"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140140.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![馬劇情線](/images/post/Season_of_Story/Texture2D/EventImage_3000.png)
 ## 馬
 [全劇情線索引](../doraemon-story-index/#劇情線)
@@ -30,7 +32,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140140.png
 ### 第1話 寄養小馬！
 + 事件ID：`40001001`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
 
 ![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：[馬小屋建造完成](../doraemon-story-1/#馬小屋建造完成)（`10124101`）

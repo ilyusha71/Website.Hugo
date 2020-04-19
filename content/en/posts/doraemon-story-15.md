@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】熊劇情線"
+title: "熊劇情線"
 date: 2020-04-15T18:15:30+08:00
 description: "熊的劇情發展"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140160.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![熊劇情線](/images/post/Season_of_Story/Texture2D/EventImage_3004.png)
 ## 熊
 [全劇情線索引](../doraemon-story-index/#劇情線)
@@ -30,7 +32,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140160.png
 ### 第1話 採集蘋果
 + 事件ID：`40005001`
 + 優先度：`3`
-+ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map-10000-nobita-farm)（`10000`）
 
 ![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 觸發時間條件📆
@@ -61,7 +63,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140160.png
 ### 第2話 溫柔的熊
 + 事件ID：`40005002`
 + 優先度：`3`
-+ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map-10000-nobita-farm)（`10000`）
 
 ![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 前置劇情：[熊第1話 採集蘋果](#第1話-採集蘋果)（`40005001`）

@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】小雞商店劇情線"
+title: "小雞商店劇情線"
 date: 2020-04-14T21:53:29+08:00
 description: "赫蓮、奇克與肯的劇情發展"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![小雞商店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2400.png)
 ## 小雞商店
 [全劇情線索引](../doraemon-story-index/#劇情線)
@@ -32,7 +34,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ### 第0話 要開小雞商店？
 + 事件ID：`20008000`
 + 優先度：`4`
-+ 觸發地點：[小雞商店 咕咕之家](../doraemon-story-map#小雞商店-咕咕之家)（`20200`）
++ 觸發地點：[小雞商店 咕咕之家](../doraemon-story-map-11200-west-natura/#小雞商店-咕咕之家)（`20200`）
 
 ![小雞商店](/images/post/Season_of_Story/Map/20200.png)
 + 前置劇情：[巨木第2話 暴風雨後的小鎮](../doraemon-story-00#第2話-暴風雨後的小鎮)（`10000002`）
@@ -111,7 +113,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ### 第3話 怕蟲的哥哥
 + 事件ID：`20008003`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
 
 ![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：
@@ -146,7 +148,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ### 第4話 習慣蟲子吧
 + 事件ID：`20008004`
 + 優先度：`3`
-+ 觸發地點：[小雞商店 咕咕之家](../doraemon-story-map#小雞商店-咕咕之家)（`20200`）
++ 觸發地點：[小雞商店 咕咕之家](../doraemon-story-map-11200-west-natura/#小雞商店-咕咕之家)（`20200`）
 
 ![小雞商店](/images/post/Season_of_Story/Map/20200.png)
 + 前置劇情：[小雞商店第3話 怕蟲的哥哥](#第3話-怕蟲的哥哥)（`20008003`）
@@ -175,7 +177,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ### 第5話 最後手段
 + 事件ID：`20008005`
 + 優先度：`3`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
 
 ![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：[小雞商店第4話 習慣蟲子吧](#第4話-習慣蟲子吧)（`20008004`）
@@ -225,7 +227,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ### 第6話 心地善良的哥哥
 + 事件ID：`20008006`
 + 優先度：`3`
-+ 觸發地點：[嘩啦河](../doraemon-story-map#嘩啦河)（`10400`）
++ 觸發地點：[嘩啦河](../doraemon-story-map-10400-plash-river)（`10400`）
 
 ![嘩啦河](/images/post/Season_of_Story/Map/10400.png)
 + 前置劇情：[小雞商店第5話 最後手段](#第5話-最後手段)（`20008005`）
@@ -299,7 +301,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ### 第8話 奇克的決心
 + 事件ID：`20008008`
 + 優先度：`3`
-+ 觸發地點：[小雞商店 咕咕之家](../doraemon-story-map#小雞商店-咕咕之家)（`20200`）
++ 觸發地點：[小雞商店 咕咕之家](../doraemon-story-map-11200-west-natura/#小雞商店-咕咕之家)（`20200`）
 
 ![小雞商店](/images/post/Season_of_Story/Map/20200.png)
 + 前置劇情：[小雞商店第7話 耍詐](#第7話-耍詐)（`20008007`）
@@ -336,7 +338,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ### 第9話 瓢蟲特訓
 + 事件ID：`20008009`
 + 優先度：`3`
-+ 觸發地點：[小雞商店 咕咕之家](../doraemon-story-map#小雞商店-咕咕之家)（`20200`）
++ 觸發地點：[小雞商店 咕咕之家](../doraemon-story-map-11200-west-natura/#小雞商店-咕咕之家)（`20200`）
 
 ![小雞商店](/images/post/Season_of_Story/Map/20200.png)
 + 前置劇情：[小雞商店第8話 奇克的決心](#第8話-奇克的決心)（`20008008`）
@@ -370,7 +372,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ### 第10話 奇克VS肯
 + 事件ID：`20008010`
 + 優先度：`3`
-+ 觸發地點：[青青廣場](../doraemon-story-map#青青廣場)（`11500`）
++ 觸發地點：[青青廣場](../doraemon-story-map-11500-harappa-square)（`11500`）
     + 往`萬物鎮東`方向的`方尖碑`附近（`28`,`0`,`-150.3`）
 
 ![方尖碑](/images/post/Season_of_Story/Map/11500-01.png)

@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】巨木劇情線"
+title: "巨木劇情線"
 date: 2020-04-11T23:26:33+08:00
 description: "大雄與哆啦A夢等人的主線劇情發展"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140010.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![巨木劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2800.png)
 ## 巨木
 [全劇情線索引](../doraemon-story-index/#劇情線)
@@ -66,7 +68,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140010.png
 ### 第4話 女神大人的傳說
 + 事件ID：`10000004`
 + 優先度：`0`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
 
 ![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：[巨木第3話 大雄的幫忙](#第3話-大雄的幫忙)（`10000003`）
@@ -227,7 +229,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140010.png
 ### 第10話 銀白之雷
 + 事件ID：`10000010`
 + 優先度：`0`
-+ 觸發地點：[萬物鎮西](../doraemon-story-map#萬物鎮西)（`11200`）
++ 觸發地點：[萬物鎮西](../doraemon-story-map-11200-west-natura)（`11200`）
 
 ![萬物鎮西](/images/post/Season_of_Story/Map/11200.png)
 + 前置劇情：[巨木第9話 巨木的問題](#第9話-巨木的問題)（`10000009`）

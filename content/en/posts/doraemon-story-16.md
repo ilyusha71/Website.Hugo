@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】猴子劇情線"
+title: "猴子劇情線"
 date: 2020-04-15T18:16:30+08:00
 description: "猴子的劇情發展"
 draft: false
@@ -16,6 +16,8 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140170.png
 ---
+<mark>最後更新：2020/04/19</mark>
+
 ![猴子劇情線](/images/post/Season_of_Story/Texture2D/EventImage_3003.png)
 ## 猴子
 [全劇情線索引](../doraemon-story-index/#劇情線)
@@ -30,7 +32,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140170.png
 ### 第1話 
 + 事件ID：`40004001`
 + 優先度：`3`
-+ 觸發地點：[大雄牧場](../doraemon-story-map#大雄牧場)（`10000`）
++ 觸發地點：[大雄牧場](../doraemon-story-map-10000-nobita-farm)（`10000`）
 
 ![大雄牧場](/images/post/Season_of_Story/Map/10000.png)
 + 觸發時間條件📆

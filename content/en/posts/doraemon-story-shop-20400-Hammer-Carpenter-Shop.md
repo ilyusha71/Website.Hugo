@@ -1,7 +1,7 @@
 ---
-title: "【哆啦A夢牧場物語】木工店 咚吭噹"
+title: "木工店 咚吭噹"
 date: 2020-04-15T23:00:44+08:00
-description: 木工店販售商品大全
+description: 木工店販售資料大全
 draft: false
 hideToc: false
 enableToc: false
@@ -9,69 +9,93 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
+- 建築
 - MOD
 series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
 - 商店
-image: images/post/Season_of_Story/Sprite/icon_301140100.png
+image: images/post/Season_of_Story/Building/20400.png
 ---
-<mark>最後更新：2020/04/16</mark>
+<mark>最後更新：2020/04/18</mark>
 
-## 木工店MOD資料庫
-+ 工藝商品模板類：`CraftShopItemDataModel`，商店上架的商品實例。
-    + 商品ID：`Id`
-    + 商品類型：`ItemType`
-    + 物品ID：`ItemId`
-    + 商品等級：`ItemLevel`
-    + 商品名稱：`Name`
-    + 商品描述：`Description`
-    + 附加文字：`AppendText`
-    + 商品價格：`Price`
-    + 圖集ID：`AtlasId`
-    + 圖片ID：`SpriteId`
-    + 所需材料：`MaterialItems`
-    + 分類：`Category`
-    + 是否需要庫存空間：`IsNeedToEmptyInventory`
-### 調用狀態
-### 販售條件
-+ 牧場工作狀態：`FarmWorkState`
-    + 建築擴建條件：`CraftShopItemDataModel[] GetBuildingShopItemDatas()`
+## 木工店 咚吭噹
++ Carpenter / Hammer - Carpenter Shop
 
-## 木工店
-+ 營業時間
-    + 星期日：10點~12點，16點~20點
-    + 星期一：10點~12點，16點~20點
-    + 星期三：10點~12點，16點~20點
-    + 星期四：10點~12點，16點~20點
-    + 星期六：10點~12點，16點~20點
-+ 公休日
-    + 星期二
-    + 星期六
+![木工店位置](/images/post/Season_of_Story/Map/20400.png)
 
 ### 主要角色
 <table>
+    <thead>
+        <tr>
+            <td>潘特</td>
+            <td>胖虎</td>
+        </tr>
+    </thead>
     <tr>
         <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
-        <td>潘特</td>
-        <td>木工店老闆</td>
-    </tr>
-    <tr>
         <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
-        <td>胖虎</td>
-        <td>木工店打工仔</td>
     </tr>
 </table>
 
-## 木工店商品資料
-+ [建築](#建築)：11種
-    + [擴建大雄的家](#擴建大雄的家)：2種
-    + [擴建動物小屋](#擴建動物小屋)：2種
-    + [擴建雞小屋](#擴建雞小屋)：2種
-    + [建造](#建造)：5種
-+ [材料](#材料)：種
-+ [裝飾](../doraemon-story-shop-hammer-carpenter-shop-Deco)：種
+### 營業時間
+<table>
+    <thead>
+        <tr>
+            <td>營業時間</td>
+            <td>上午</td>
+            <td>下午</td>
+            <td></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>星期日</td>
+            <td>10點~12點</td>
+            <td>16點~20點</td>
+            <td rowspan="10"><img src= "/images/post/Season_of_Story/Scene/20400-opening-time.png"></td>
+        </tr>
+        <tr>
+            <td>星期一</td>
+            <td>10點~12點</td>
+            <td>16點~20點</td>
+        </tr>
+        <tr>
+            <td>星期二</td>
+            <td colspan="2">公休日</td>
+        </tr>
+        <tr>
+            <td>星期三</td>
+            <td>10點~12點</td>
+            <td>16點~20點</td>
+        </tr>        
+        <tr>
+            <td>星期四</td>
+            <td>10點~12點</td>
+            <td>16點~20點</td>
+        </tr>
+        <tr>
+            <td>星期五</td>
+            <td>10點~12點</td>
+            <td>16點~20點</td>
+        </tr>
+        <tr>
+            <td>星期六</td>
+            <td colspan="2">公休日</td>
+        </tr>
+     </tbody>
+</table>
+
+## 販售資料
++ [建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)：11種
+    + [擴建大雄的家](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建大雄的家)：2種
+    + [擴建動物小屋](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋)：2種
+    + [擴建雞小屋](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋)：2種
+    + [建造](../doraemon-story-shop-20400-hammer-carpenter-shop/#建造)：5種
++ [家中的物品](#材料)：種
++ [牧場的物品](#材料)：種
++ [資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)：4種
 
 ### 建築
 木工店進行建築的擴建或建造過程有下列條件：
@@ -92,7 +116,7 @@ image: images/post/Season_of_Story/Sprite/icon_301140100.png
             <td>材料3</td>
             <td>材料4</td>
             <td>材料5</td>
-            <td>販售價格</td>
+            <td>建造價格</td>
             <td>工程天數</td>
         </tr>
     </thead>
@@ -144,7 +168,7 @@ image: images/post/Season_of_Story/Sprite/icon_301140100.png
     + 可使用`廚房`
     + 可使用`冰箱`
 + [巨大的家擴建完成](../doraemon-story-1/#巨大的家擴建)（`10120201`）
-    + [木工店](../doraemon-story-shop-hammer-carpenter-shop)解鎖[建造](../doraemon-story-shop-hammer-carpenter-shop#建造)項目
+    + [木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)解鎖[建造](../doraemon-story-shop-20400-hammer-carpenter-shop/#建造)項目
         +`溫室`
     + 支線劇情[鎮長第2話 獎勵事件：獲得天氣箱](../doraemon-story-09#獲得天氣箱)
 
@@ -161,7 +185,7 @@ image: images/post/Season_of_Story/Sprite/icon_301140100.png
             <td>材料3</td>
             <td>材料4</td>
             <td>材料5</td>
-            <td>販售價格</td>
+            <td>建造價格</td>
             <td>工程天數</td>
         </tr>
     </thead>
@@ -212,15 +236,15 @@ image: images/post/Season_of_Story/Sprite/icon_301140100.png
 + [寬闊的動物小屋擴建完成](../doraemon-story-1/#寬闊的動物小屋擴建)（`10121101`）
     + 可飼養的牛羊從`5頭`增加至`10頭`。
     + 牛羊可在動物小屋`生產`幼崽。
-    + [動物商店](../doraemon-story-shop-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-gouter-mawk-livestock/#動物鈴)販售項目：
+    + [動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)販售項目：
         + `牛鈴`
         + `羊鈴`
 + [巨大的動物小屋擴建完成](../doraemon-story-1/#巨大的動物小屋擴建)（`10121201`）
     + 可飼養的牛羊從`10頭`增加至`20頭`。
     + 牛羊生產區從`1處`增加至`2處`。
-    + [動物商店](../doraemon-story-shop-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-gouter-mawk-livestock/#動物鈴)販售項目：
+    + [動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)販售項目：
         + `引導鈴`（1/2條件）
-    + [打鐵店](../doraemon-story-shop-anvil-blacksmith-shop)解鎖[機器](../doraemon-story-shop-anvil-blacksmith-shop#機器)販售項目：
+    + [打鐵店](../doraemon-story-shop-21100-anvil-blacksmith-shop)解鎖[機器](../doraemon-story-shop-21100-anvil-blacksmith-shop#機器)販售項目：
         + `優格機`
         + `起士機`
         + `毛線機`
@@ -238,7 +262,7 @@ image: images/post/Season_of_Story/Sprite/icon_301140100.png
             <td>材料3</td>
             <td>材料4</td>
             <td>材料5</td>
-            <td>販售價格</td>
+            <td>建造價格</td>
             <td>工程天數</td>
         </tr>
     </thead>
@@ -289,14 +313,14 @@ image: images/post/Season_of_Story/Sprite/icon_301140100.png
 + [寬闊的雞小屋擴建完成](../doraemon-story-1/#寬闊的雞小屋擴建)（`10122101`）
     + 可飼養的雞從`5頭`增加至`10頭`。
     + 雞可在雞小屋`孵蛋`。
-    + [小雞商店](../doraemon-story-shop-cuckoo-house-chickens)解鎖[動物鈴](../doraemon-story-shop-cuckoo-house-chickens/#動物鈴)販售項目：
+    + [小雞商店](../doraemon-story-shop-20200-cuckoo-house-chickens)解鎖[動物鈴](../doraemon-story-shop-20200-cuckoo-house-chickens/#動物鈴)販售項目：
         + `雞鈴`
 + [巨大的雞小屋擴建完成](../doraemon-story-1/#巨大的雞小屋擴建)（`10122201`）
     + 可飼養的雞從`10頭`增加至`20頭`。
     + 雞孵蛋區從`1處`增加至`2處`。
-    + [動物商店](../doraemon-story-shop-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-gouter-mawk-livestock/#動物鈴)販售項目：
+    + [動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock)解鎖[動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)販售項目：
         + `引導鈴`（1/2條件）
-    + [打鐵店](../doraemon-story-shop-anvil-blacksmith-shop)解鎖[機器](../doraemon-story-shop-anvil-blacksmith-shop#機器)販售項目：
+    + [打鐵店](../doraemon-story-shop-21100-anvil-blacksmith-shop)解鎖[機器](../doraemon-story-shop-21100-anvil-blacksmith-shop#機器)販售項目：
         + `美乃滋機`
 
 #### 建造
@@ -312,7 +336,7 @@ image: images/post/Season_of_Story/Sprite/icon_301140100.png
             <td>材料3</td>
             <td>材料4</td>
             <td>材料5</td>
-            <td>販售價格</td>
+            <td>建造價格</td>
             <td>工程天數</td>
         </tr>
     </thead>
@@ -387,11 +411,104 @@ image: images/post/Season_of_Story/Sprite/icon_301140100.png
 
 ##### 解鎖項目
 + [動物小屋的筒倉建造完成](../doraemon-story-1/#動物小屋的筒倉建造)（`10126101`）
-    + [木工店](../doraemon-story-shop-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-hammer-carpenter-shop#擴建動物小屋)項目：
+    + [木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋)項目：
         + `寬闊的動物小屋`
 + [雞小屋的筒倉建造完成](../doraemon-story-1/#雞小屋的筒倉建造)（`10125101`）
-    + [木工店](../doraemon-story-shop-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-hammer-carpenter-shop#擴建雞小屋)項目：
+    + [木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋)項目：
         + `寬闊的雞小屋`
 + [馬小屋建造完成](../doraemon-story-1/#馬小屋建造)（`10124101`）
     + 支線劇情[馬第1話 寄養小馬！](../doraemon-story-13/#第1話-寄養小馬)（`40001001`）
 + [溫室建造完成](../doraemon-story-1/#溫室建造)（`10123101`）
+
+### 資材
+<table>
+    <thead>
+        <tr>
+            <td>商品ID</td>
+            <td>物品ID</td>
+            <td></td>
+            <td>商品名稱</td>
+            <td>建造價格</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>100100</td>
+            <td>7110000</td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png"></td>
+            <td>軟質木材</td>
+            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">200</td>
+        </tr>
+        <tr>
+            <td>100101</td>
+            <td>7110010</td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png"></td>
+            <td>普通木材</td>
+            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">320</td>
+        </tr>
+        <tr>
+            <td>100102</td>
+            <td>7110020</td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png"></td>
+            <td>硬質木材</td>
+            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">480</td>
+        </tr>
+        <tr>
+            <td>100103</td>
+            <td>7111010</td>
+            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7111010.png"></td>
+            <td>石材</td>
+            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
+        </tr>
+    </tbody>
+</table>
+
++ 商品特性：
+    + 是否為物品實體：✔
+    + 是否為單一物品：✘
+    + 只能購買一次：✘
+    + 是否需要庫存空間：✔
+
+## 資料庫
++ 工藝商品模板類：`CraftShopItemDataModel`，商店上架的商品實例。
+    + 商品ID：`Id`
+    + 商品類型：`ItemType`
+    + 物品ID：`ItemId`
+    + 商品等級：`ItemLevel`
+    + 商品名稱：`Name`
+    + 商品描述：`Description`
+    + 附加文字：`AppendText`
+    + 商品價格：`Price`
+    + 圖集ID：`AtlasId`
+    + 圖片ID：`SpriteId`
+    + 所需材料：`MaterialItems`
+    + 分類：`Category`
+    + 是否需要庫存空間：`IsNeedToEmptyInventory`
+
+### 商店模板
++ 商店主模板類：`ShopMasterModel`，[資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)。
+    + 商品ID：`Id` = `CMaterialShopData.SMaterialShopData .mId`
+    + 物品ID：`ItemId` = `CMaterialShopData.SMaterialShopData.mItemId`
+    + 建造價格：`Price` = `CMaterialShopData.SMaterialShopData.mPrice`
+    + 販售季節：`Season` =  `CMaterialShopData.SMaterialShopData.Season`
+    + DLC索引：`DLCIndex` = -1
+    + 事件ID：`EventId` = -1
+
+### 商品模板
++ 商品模板類：`ShopItemDataModel`，商店上架的商品實例。
+    + 商品ID：`Id` = `ShopMasterModel.Id`
+    + 物品ID：`ItemId` = `ShopMasterModel.ItemId`
+    + 商品名稱：`Name` = `ItemModel.Name`
+    + 商品描述：`Description` = `ItemModel.Description`
+    + 商品價格：`Price` = `ShopMasterModel.Price`
+    + 圖集ID：`AtlasId` = `ItemMasterModel.AtlasId`
+    + 圖片ID：`SpriteId` = `ItemModel.Id`
+    + 是否為物品模板：`IsItemModel`
+    + 是否為單一物品：`IsSingleItem`
+    + 只能購買一次：`CanBuyOnce`
+    + 是否需要庫存空間：`IsNeedToEmptyInventory`
+
+### 調用狀態
+### 販售條件
++ 牧場工作狀態：`FarmWorkState`
+    + 建築擴建條件：`CraftShopItemDataModel[] GetBuildingShopItemDatas()`
