@@ -31,7 +31,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140210.png
 ### 第1話 洞窟的岩壁
 + 事件ID：`20010001`
 + 優先度：`3`
-+ 觸發地點：`洞窟`（`11800`）
++ 觸發地點：[洞窟](../doraemon-story-map-11800-cave)（`11800`）
 
 ![洞窟](/images/post/Season_of_Story/Map/11800.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](#第5話-邂逅女神大人)（`10000005`）
@@ -65,7 +65,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140210.png
 ### 第2話 壁畫房間
 + 事件ID：`20010002`
 + 優先度：`3`
-+ 觸發地點：`洞窟`（`11800`）
++ 觸發地點：[洞窟](../doraemon-story-map-11800-cave)（`11800`）
 
 ![洞窟](/images/post/Season_of_Story/Map/11800.png)
 + 前置劇情：[洞窟第1話 洞窟的岩壁](#第1話-洞窟的岩壁)（`20010001`）

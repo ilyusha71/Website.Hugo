@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】冷颼颼山"
+title: "冷颼颼山"
 date: 2020-04-18T19:30:12+08:00
 description: 冷颼颼山地理環境大全
 draft: false
@@ -18,6 +18,7 @@ image: images/post/Season_of_Story/Scene/10100.png
 ---
 ## 冷颼颼山
 + Mount Whistle
+
 ![冷颼颼山地區範圍](/images/post/Season_of_Story/Map/10100.png)
 <table>
     <thead>

@@ -19,26 +19,25 @@ categories:
 - 商店
 image: images/post/Season_of_Story/Building/20700.png
 ---
-<mark>最後更新：2020/04/18</mark>
+<mark>最後更新：2020/04/20</mark>
 
 ## 雜貨店 小玩意兒
 + General Store / Knick Knacks GenStore
 
+### 地理
++ [萬物鎮東](../doraemon-story-map-11300-east-natura)
+    + [雜貨店](../doraemon-story-map-11300-east-natura/#雜貨店)
+
 ![雜貨店位置](/images/post/Season_of_Story/Map/20700.png)
 
-### 主要角色
+### 劇情發展
 <table>
-    <thead>
-        <tr>
-            <td>埃蒂</td>
-            <td>涅萊爾</td>
-            <td>緹拉兒</td>
-        </tr>
-    </thead>
     <tr>
-        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041170.png"></td>
-        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041180.png"></td>
-        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041190.png"></td>
+        <td>05</td>
+        <td align="center"><a href="../doraemon-story-05"><img src= "/images/post/Season_of_Story/Sprite/icon_201140030.png">雜貨店</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041170.png">涅萊爾</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041180.png">埃蒂</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041190.png">緹拉兒</td>
     </tr>
 </table>
 
@@ -85,19 +84,24 @@ image: images/post/Season_of_Story/Building/20700.png
 </table>
 
 ## 販售資料
-+ [作物種子](#作物種子)：37種
-    + [春季種子](#春季種子)：10種
-    + [夏季種子](#夏季種子)：13種
-    + [秋季種子](#秋季種子)：8種
-    + [冬季種子](#冬季種子)：4種
-    + [四季種子](#四季種子)：2種
-+ [肥料](#肥料)：2種
-+ [工具](#工具)：1種
-+ [背包](#背包)：2種
-+ [DLC](#dlc)：2種
++ [作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)：37種
+    + [春季種子](../doraemon-story-shop-20700-knick-knacks-general-store/#春季種子)：10種
+    + [夏季種子](../doraemon-story-shop-20700-knick-knacks-general-store/#夏季種子)：13種
+    + [秋季種子](../doraemon-story-shop-20700-knick-knacks-general-store/#秋季種子)：8種
+    + [冬季種子](../doraemon-story-shop-20700-knick-knacks-general-store/#冬季種子)：4種
+    + [四季種子](../doraemon-story-shop-20700-knick-knacks-general-store/#四季種子)：2種
++ [肥料](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)：2種
++ [工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)：1種
++ [背包](../doraemon-story-shop-20700-knick-knacks-general-store/#背包)：2種
++ [DLC](../doraemon-story-shop-20700-knick-knacks-general-store/#dlc)：2種
     + [販售通路特典](#販售通路特典)：9種
 
 ### 作物種子
++ 雜貨店販售只販售當季的作物種子。
++ 非`首年販售`的作物種子要等到`第2年`開始才會販售，第2年春季1日`哆啦A夢`會到家`提醒`大雄。
++ [溫室建造完成](../doraemon-story-1/#溫室建造)（`10123101`）
+    + [雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)開始同時販售全季節[作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)。
+
 #### 春季種子
 <table>
     <thead>
@@ -757,52 +761,36 @@ image: images/post/Season_of_Story/Building/20700.png
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000203.png"></td>
 </table>
 
-## 雜貨店MOD資料庫
-+ 雜貨店資料檔：`VarietyShopData.text`
-+ 雜貨店資料類：`CVarietyShopData`
-    + 雜貨店資料結構：`SVarietyShopData`
-        + 商品ID：`mVarietyId`
-        + 物品ID：`mItemId`
-        + 價格：`mPrice`
-        + 販售季節：`mSeason`
-            + 雜貨店只會販售當季的種子。
-        + 首年販售：`mIsFirstYear`
-            + 非首年販售的商品會在第二年春季開始販售。
-        + DLC索引：`mDLCIndex`
-+ 商店功能集成介面：`ShopMasterCollection`
-    + 商店模版設定：`Setup()`
-    + 取得雜貨店所有商品資料的方法：`GetAllVarietyShopDatas()`
-    + 取得雜貨店首年販售商品資料的方法：`GetFirstYearVarietyShopDatas()`
+## MOD資料庫
+### 調用方法
++ 增加[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)響應方法：<br>`FarmWorkState.AddVarietyShopResponse(ResponseModel, NpcModel) : void @0600134A`
++ 建立[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)響應方法：<br>`CreateVarietyShopResponse(NpcModel npc, int season, string choice_text)`<mark>修正</mark>
+    + 取得[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#販售資料)商品資料：<br>`FarmWorkState.GetVarietyShopItemDatas(int) : ShopItemDataModel[] @0600134B`
+
+### 商店功能集成介面
++ 取得[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#販售資料)商店所有資料：<br>`ShopMasterCollection.GetAllVarietyShopDatas()`<mark>修正</mark>
++ 取得[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#販售資料)商店`首年販售`資料：<br>`ShopMasterCollection.GetFirstYearVarietyShopDatas()`<mark>修正</mark>
 
 ### 商店模板
-+ 商店主模板類：`ShopMasterModel`，[作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)、[肥料](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)、[工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)、[背包](../doraemon-story-shop-20700-knick-knacks-general-store/#背包)、[DLC](../doraemon-story-shop-20700-knick-knacks-general-store/#dlc)。
-    + 商品ID：`Id` = `CVarietyShopData.SVarietyShopData.mVarietyId`
-    + 物品ID：`ItemId` = `CVarietyShopData.SVarietyShopData.mItemId`
-    + 販售價格：`Price` = `CVarietyShopData.SVarietyShopData.mPrice`
-    + 販售季節：`Season` = `CVarietyShopData.SVarietyShopData.mSeason`
-    + DLC索引：`DLCIndex` = `CVarietyShopData.SVarietyShopData.mDLCIndex`
-    + 事件ID：`EventId` = -1
++ 商店主模板類：`ShopMasterModel`
+    + [作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)商店
+    + [肥料](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)商店
+    + [工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)商店
+    + [背包](../doraemon-story-shop-20700-knick-knacks-general-store/#背包)商店
+    + [DLC](../doraemon-story-shop-20700-knick-knacks-general-store/#dlc)商店
+
+### 商店資料
++ 雜貨店商品資料類：`CVarietyShopData`
+    + [作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)
+    + [肥料](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)
+    + [工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)
+    + [背包](../doraemon-story-shop-20700-knick-knacks-general-store/#背包)
+    + [DLC](../doraemon-story-shop-20700-knick-knacks-general-store/#dlc)
 
 ### 商品模板
-+ 商品模板類：`ShopItemDataModel`，商店上架的商品實例。
-    + 商品ID：`Id` = `ShopMasterModel.Id`
-    + 物品ID：`ItemId` = `ShopMasterModel.ItemId`
-    + 商品名稱：`Name` = `ItemModel.Name`
-    + 商品描述：`Description` = `ItemModel.Description`
-    + 商品價格：`Price` = `ShopMasterModel.Price`
-    + 圖集ID：`AtlasId` = `ItemMasterModel.AtlasId`
-    + 圖片ID：`SpriteId` = `ItemModel.Id`
-    + 是否為物品模板：`IsItemModel`
-    + 是否為單一物品：`IsSingleItem`
-    + 只能購買一次：`CanBuyOnce`
-    + 是否需要庫存空間：`IsNeedToEmptyInventory`
-    + 
-### 調用狀態
-+ 牧場工作狀態：`FarmWorkState`
-    1. `BeginCallback(ICommandHolderObject collided_obj, ICommand stacked_command)`
-    2. `CreateWorkResponse()`
-    3. `AddVarietyShopResponse(ResponseModel root, NpcModel npc)`
-    4. `CreateVarietyShopResponse(NpcModel npc, int season, string choice_text)`
-    5. `GetVarietyShopItemDatas(int season)`
-        + `ShopMasterCollection.GetAllVarietyShopDatas()`
-        + `ShopMasterCollection.GetFirstYearVarietyShopDatas()`
++ 商品模板類：`ShopItemDataModel`
+    + [作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)
+    + [肥料](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)
+    + [工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)
+    + [背包](../doraemon-story-shop-20700-knick-knacks-general-store/#背包)
+    + [DLC](../doraemon-story-shop-20700-knick-knacks-general-store/#dlc)

@@ -145,7 +145,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 `時光電視`，簡體中文為`时间电视`
 + 事件ID：`10003004`
 + 優先度：`4`
-+ 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
++ 觸發地點：[樵之森](../doraemon-story-map-10600-lumberjack-forest)（`10600`）
 
 ![樵之森](/images/post/Season_of_Story/Map/10600.png)
 + 前置劇情：[木工店第4話 在哪裡？](#第4話-在哪裡)（`10003003`）
@@ -297,7 +297,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第9話 說服作戰
 + 事件ID：`20002004`
 + 優先度：`3`
-+ 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
++ 觸發地點：[樵之森](../doraemon-story-map-10600-lumberjack-forest)（`10600`）
 
 ![樵之森](/images/post/Season_of_Story/Map/10600.png)
 + 前置劇情：[木工店第8話 木工店親子](#第8話-木工店親子)（`20002003`）
@@ -398,7 +398,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140020.png
 ### 第12話 去河邊玩大作戰
 + 事件ID：`20002007`
 + 優先度：`3`
-+ 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
++ 觸發地點：[樵之森](../doraemon-story-map-10600-lumberjack-forest)（`10600`）
 
 ![樵之森](/images/post/Season_of_Story/Map/10600.png)
 + 前置劇情：[木工店第11話 謠言](#第11話-謠言)（`20002006`）

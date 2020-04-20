@@ -82,7 +82,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140200.png
 ### 第3話 秘密基地
 + 事件ID：`30002001`
 + 優先度：`2`
-+ 觸發地點：`濤濤海濱`（`10800`）
++ 觸發地點：[濤濤海濱](../doraemon-story-map-10800-zazan-beach)（`10800`）
 
 ![濤濤海濱](/images/post/Season_of_Story/Map/10800.png)
 + 前置劇情：[洞窟第1話 洞窟的岩壁](../doraemon-story-20#第1話-洞窟的岩壁)（`20010001`）

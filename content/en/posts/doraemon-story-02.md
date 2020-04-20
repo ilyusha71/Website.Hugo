@@ -448,7 +448,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140060.png
 ### 第13話 誠實電波
 + 事件ID：`20003008`
 + 優先度：`3`
-+ 觸發地點：[瑟露娜小姐家](../doraemon-story-map#瑟露娜小姐家)（`21000`）
++ 觸發地點：[瑟露娜小姐家](../doraemon-story-map-11300-east-natura/#瑟露娜小姐家)（`21000`）
 
 ![瑟露娜小姐家](/images/post/Season_of_Story/Map/21000.png)
 + 前置劇情：[醫院第12話 為了你](#第12話-為了你)（`20003007`）

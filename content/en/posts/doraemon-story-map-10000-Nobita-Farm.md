@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】大雄牧場"
+title: "大雄牧場"
 date: 2020-04-18T19:00:12+08:00
 description: 大雄牧場地理環境大全
 draft: false

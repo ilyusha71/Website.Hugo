@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】萬物鎮西"
+title: "萬物鎮西"
 date: 2020-04-17T22:28:12+08:00
 description: 萬物鎮西地理環境大全
 draft: false
@@ -18,6 +18,7 @@ image: images/post/Season_of_Story/Scene/11200.png
 ---
 ## 萬物鎮西
 + West Natura
+
 ![萬物鎮西地區範圍](/images/post/Season_of_Story/Map/11200.png)
 <table>
     <thead>

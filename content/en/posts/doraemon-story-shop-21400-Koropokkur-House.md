@@ -44,19 +44,57 @@ image: images/post/Season_of_Story/Building/10500-21400.png
 
 ## MOD資料庫
 ### 調用方法
-+ 增加[克魯波克魯商店](../doraemon-story-shop-21400-koropokkur-house)響應方法：`FarmWorkState.AddFishingTackleShopResponse(ResponseModel, NpcModel) : void @0600135C`
-    + 取得[克魯波克魯商品](../doraemon-story-shop-21400-koropokkur-house/#販售資料)資料：`FarmWorkState.GetFishingTackleShopItemDatas() : ShopItemDataModel[] @0600135D`
++ 增加[克魯波克魯商店](../doraemon-story-shop-21400-koropokkur-house)響應方法：`FarmWorkState.AddKorobokkurShopResponse(ResponseModel, NpcModel, int) : void @0600135A`
+    + 取得[克魯波克魯商店商品](../doraemon-story-shop-21400-koropokkur-house/#販售資料)資料：`FarmWorkState.GetKorobokkurShopItemDatas() : ShopItemDataModel[] @0600135B`
 
 ### 商店功能集成介面
-+ 取得[克魯波克魯商店](../doraemon-story-shop-21400-koropokkur-house/#販售資料)資料：`ShopMasterCollection.GetAllFishingTackleShopDatas() : ShopMasterModel[] @06002BEC`
++ 取得[克魯波克魯商店](../doraemon-story-shop-21400-koropokkur-house/#販售資料)資料：
 
 ### 商店模板
 + 商店主模板類：`ShopMasterModel`
     + [克魯波克魯商店](../doraemon-story-shop-21400-koropokkur-house/#販售資料)
 
 ### 商店資料
-+ [克魯波克魯商店](../doraemon-story-shop-21400-koropokkur-house/#販售資料)資料類：`CFishingTackleShopData`
++ [克魯波克魯商店](../doraemon-story-shop-21400-koropokkur-house/#販售資料)資料類：
 
 ### 商品模板
 + 商品模板類：`ShopItemDataModel`
     + [克魯波克魯商品](../doraemon-story-shop-21400-koropokkur-house/#販售資料)
+
+
+
+
+
+### MOD
+
+FarmWorkState.AddBlackSmithResponse(ResponseModel, NpcModel) : void @06001354
+FarmWorkState.AddCattleAndSheepShopResponse(ResponseModel, NpcModel, Transform) : void @0600134E
+FarmWorkState.AddChickenShopResponse(ResponseModel, NpcModel, Transform) : void @0600134D
+FarmWorkState.AddCookingShopResponse(ResponseModel, NpcModel) : void @06001358
+FarmWorkState.AddCraftShopResponse(ResponseModel, NpcModel) : void @0600134F
+FarmWorkState.AddFishingTackleShopResponse(ResponseModel, NpcModel) : void @0600135C
+FarmWorkState.AddHospitalShopResponse(ResponseModel, NpcModel) : void @0600135E
+FarmWorkState.AddKorobokkurShopResponse(ResponseModel, NpcModel, int) : void @0600135A
+FarmWorkState.AddVarietyShopResponse(ResponseModel, NpcModel) : void @0600134A
+
+FarmWorkState.ConvertAnimalShopItemDatas(ShopMasterModel[]) : ShopItemDataModel[] @06001348
+FarmWorkState.GetBuildingShopItemDatas() : CraftShopItemDataModel[] @06001350
+FarmWorkState.GetCookingToolShopItemDatas() : ShopItemDataModel[] @06001359
+FarmWorkState.GetFishingTackleShopItemDatas() : ShopItemDataModel[] @0600135D
+FarmWorkState.GetFurnitureShopItemDatas(bool) : CraftShopItemDataModel[] @06001351
+FarmWorkState.GetHospitalShopItemDatas() : ShopItemDataModel[] @0600135F
+FarmWorkState.GetKorobokkurShopItemDatas() : ShopItemDataModel[] @0600135B
+FarmWorkState.GetMakerShopItemDatas() : CraftShopItemDataModel[] @06001357
+FarmWorkState.GetMaterialShopItemDatas() : ShopItemDataModel[] @06001352
+FarmWorkState.GetMineralShopItemDatas() : ShopItemDataModel[] @06001356
+FarmWorkState.GetUpgradeToolShopItemDatas() : CraftShopItemDataModel[] @06001355
+FarmWorkState.GetVarietyShopItemDatas(int) : ShopItemDataModel[] @0600134B
+
+
+
+FarmModel.GetRestaurantShopCookingRecipeItems() : ShopItemDataModel[] @06002E1B
+FarmModel.GetRestaurantShopCropItems() : ShopItemDataModel[] @06002E1D
+FarmModel.GetRestaurantShopDishItems() : ShopItemDataModel[] @06002E1C
+
+
+

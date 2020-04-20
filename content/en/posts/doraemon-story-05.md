@@ -141,7 +141,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ### 第4話 緹拉兒的心情
 + 事件ID：`20006004`
 + 優先度：`3`
-+ 觸發地點：[埃蒂小姐家](../doraemon-story-map#埃蒂小姐家)（`20800`）
++ 觸發地點：[埃蒂小姐家](../doraemon-story-map-11300-east-natura/#埃蒂小姐家)（`20800`）
 
 ![埃蒂小姐家](/images/post/Season_of_Story/Map/20800.png)
 + 前置劇情：[雜貨店第3話 尋找克魯波克魯](#第3話-尋找克魯波克魯)（`20006003`）

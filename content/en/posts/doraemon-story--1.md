@@ -100,6 +100,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
     </tr>
 </table>
 
++ [擴建大雄的家](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建大雄的家)
 + 擴建開始事件ID：`10120100`
 + 擴建完成事件ID：`10120101`
 + 優先度：`100`
@@ -122,6 +123,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
     </tr>
 </table>
 
++ [擴建大雄的家](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建大雄的家)
 + 擴建開始事件ID：`10120200`
 + 擴建完成事件ID：`10120201`
 + 優先度：`100`
@@ -144,6 +146,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
     </tr>
 </table>
 
++ [擴建動物小屋](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋)
 + 擴建開始事件ID：`10121100`
 + 擴建完成事件ID：`10121101`
 + 優先度：`100`
@@ -168,6 +171,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
     </tr>
 </table>
 
++ [擴建動物小屋](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋)
 + 擴建開始事件ID：`10121200`
 + 擴建完成事件ID：`10121201`
 + 優先度：`100`
@@ -195,6 +199,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
     </tr>
 </table>
 
++ [擴建雞小屋](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋)
 + 擴建開始事件ID：`10122100`
 + 擴建完成事件ID：`10122101`
 + 優先度：`100`
@@ -218,6 +223,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
     </tr>
 </table>
 
++ [擴建雞小屋](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋)
 + 擴建開始事件ID：`10122200`
 + 擴建完成事件ID：`10122201`
 + 優先度：`100`
@@ -243,10 +249,12 @@ public static bool CheckBuildableMaker(int parent_building_id)
     </tr>
 </table>
 
-+ 擴建開始事件ID：`10123100`
-+ 擴建完成事件ID：`10123100`
++ 溫室[建造](../doraemon-story-shop-20400-hammer-carpenter-shop/#建造)
++ 建造開始事件ID：`10123100`
++ 建造完成事件ID：`10123100`
 + 優先度：`100`
 + 解鎖項目：
+    + [雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)開始同時販售全季節[作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)。
 
 ### 馬小屋建造
 <table>
@@ -262,8 +270,9 @@ public static bool CheckBuildableMaker(int parent_building_id)
     </tr>
 </table>
 
-+ 擴建開始事件ID：`10124100`
-+ 擴建完成事件ID：`10124101`
++ 馬小屋[建造](../doraemon-story-shop-20400-hammer-carpenter-shop/#建造)
++ 建造開始事件ID：`10124100`
++ 建造完成事件ID：`10124101`
 + 優先度：`100`
 + 解鎖項目：
     + 支線劇情[馬第1話 寄養小馬！](../doraemon-story-13/#第1話-寄養小馬)（`40001001`）
@@ -282,12 +291,13 @@ public static bool CheckBuildableMaker(int parent_building_id)
     </tr>
 </table>
 
-+ 擴建開始事件ID：`10125100`
-+ 擴建完成事件ID：`10125101`
++ 雞小屋的筒倉[建造](../doraemon-story-shop-20400-hammer-carpenter-shop/#建造)
++ 建造開始事件ID：`10125100`
++ 建造完成事件ID：`10125101`
 + 優先度：`100`
 + 解鎖項目：
     + [木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋)項目：
-        + `寬闊的雞小屋`
+        + `巨大的雞小屋`
 
 ### 動物小屋的筒倉建造
 <table>
@@ -303,12 +313,13 @@ public static bool CheckBuildableMaker(int parent_building_id)
     </tr>
 </table>
 
-+ 擴建開始事件ID：`10126100`
-+ 擴建完成事件ID：`10126101`
++ 動物小屋的筒倉[建造](../doraemon-story-shop-20400-hammer-carpenter-shop/#建造)
++ 建造開始事件ID：`10126100`
++ 建造完成事件ID：`10126101`
 + 優先度：`100`
 + 解鎖項目：
     + [木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋)項目：
-        + `寬闊的動物小屋`
+        + `巨大的動物小屋`
 
 ### 資材儲放屋建造
 <table>
@@ -324,10 +335,10 @@ public static bool CheckBuildableMaker(int parent_building_id)
     </tr>
 </table>
 
-+ 擴建開始事件ID：`10129100`
-+ 擴建完成事件ID：`10129101`
++ 資材儲放屋[建造](../doraemon-story-shop-20400-hammer-carpenter-shop/#建造)
++ 建造開始事件ID：`10129100`
++ 建造完成事件ID：`10129101`
 + 優先度：`100`
-+ 解鎖項目：
 
 ## 日常事件
 ### 老人聊天

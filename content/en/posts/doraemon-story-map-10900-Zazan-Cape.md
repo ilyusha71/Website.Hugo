@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】濤濤海岬"
+title: "濤濤海岬"
 date: 2020-04-18T13:28:12+08:00
 description: 濤濤海岬地理環境大全
 draft: false
@@ -18,6 +18,7 @@ image: images/post/Season_of_Story/Scene/10900.png
 ---
 ## 濤濤海岬
 + Zazan Cape
+
 ![濤濤海岬地區範圍](/images/post/Season_of_Story/Map/10900.png)
 <table>
     <thead>

@@ -42,7 +42,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ### 第1話 捕蟲高手
 + 事件ID：`20008001`
 + 優先度：`3`
-+ 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
++ 觸發地點：[樵之森](../doraemon-story-map-10600-lumberjack-forest)（`10600`）
 
 ![樵之森](/images/post/Season_of_Story/Map/10600.png)
 + 前置劇情：看完佈告欄引導教學（`81001004`）
@@ -77,7 +77,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ### 第2話 肯的房間
 + 事件ID：`20008002`
 + 優先度：`3`
-+ 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
++ 觸發地點：[樵之森](../doraemon-story-map-10600-lumberjack-forest)（`10600`）
 
 ![樵之森](/images/post/Season_of_Story/Map/10600.png)
 + 前置劇情：[小雞商店第1話 捕蟲高手](#第1話-捕蟲高手)（`20008001`）
@@ -264,7 +264,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ### 第7話 耍詐
 + 事件ID：`20008007`
 + 優先度：`3`
-+ 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
++ 觸發地點：[樵之森](../doraemon-story-map-10600-lumberjack-forest)（`10600`）
 
 ![樵之森](/images/post/Season_of_Story/Map/10600.png)
 + 前置劇情：[小雞商店第6話 心地善良的哥哥](#第6話-心地善良的哥哥)（`20008006`）

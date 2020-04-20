@@ -34,7 +34,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140120.png
 ### 第1話 邂逅克魯波克魯
 + 事件ID：`10005000`
 + 優先度：`4`
-+ 觸發地點：`滾滾森林`（`10500`）
++ 觸發地點：[滾滾森林](../doraemon-story-map-10500-rolin-forest)（`10500`）
 
 ![滾滾森林](/images/post/Season_of_Story/Map/10500.png)
 + 前置劇情：[雜貨店第5話 涅萊爾的心情](#第5話-涅萊爾的心情)（`20006005`）
@@ -123,7 +123,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140120.png
 ### 第6話 克魯波克魯全體集合！
 + 事件ID：`10005005`
 + 優先度：`4`
-+ 觸發地點：`滾滾森林樹洞`（`21400`）
++ 觸發地點：[克魯波克魯家](../doraemon-story-map-10500-rolin-forest/#克魯波克魯家)（`21400`）
 
 ![滾滾森林樹洞](/images/post/Season_of_Story/Map/21400.png)
 + 前置劇情：

@@ -18,26 +18,25 @@ categories:
 - 商店
 image: images/post/Season_of_Story/Building/20500.png
 ---
-<mark>最後更新：2020/04/18</mark>
+<mark>最後更新：2020/04/20</mark>
 
 ## 動物商店 古騰摩克
 + Cattle Shop / Gouter Mawk Livestock
 
+### 地理
++ [萬物鎮西](../doraemon-story-map-11200-west-natura)
+    + [動物商店](../doraemon-story-map-11200-west-natura/#動物商店)
+
 ![動物商店位置](/images/post/Season_of_Story/Map/20500.png)
 
-### 主要角色
+### 劇情發展
 <table>
-    <thead>
-        <tr>
-            <td>優</td>
-            <td>布魯</td>
-            <td>菈姆</td>
-        </tr>
-    </thead>
     <tr>
-        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041120.png"></td>
-        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041110.png"></td>
-        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041130.png"></td>
+        <td>07</td>
+        <td align="center"><a href="../doraemon-story-07"><img src= "/images/post/Season_of_Story/Sprite/icon_201140080.png">動物商店</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041110.png">布魯</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041120.png">優</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041130.png">菈姆</td>
     </tr>
 </table>
 
@@ -89,12 +88,12 @@ image: images/post/Season_of_Story/Building/20500.png
      </tbody>
 </table>
 
-## 動物商店商品資料
-+ [動物](#動物)：2種
-+ [工具](#工具)：3種
-+ [動物餵食](#動物餵食)：2種
-+ [動物種子](#動物種子)：2種
-+ [動物鈴](#動物鈴)：2種
+## 販售資料
++ [動物](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物)：2種
++ [工具](../doraemon-story-shop-20500-gouter-mawk-livestock/#工具)：3種
++ [動物餵食](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物餵食)：2種
++ [動物種子](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物種子)：2種
++ [動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)：2種
 
 ### 動物
 <table>
@@ -294,93 +293,75 @@ image: images/post/Season_of_Story/Building/20500.png
     + 是否需要庫存空間：✔
 
 #### 動物鈴解鎖條件
++ [寬闊的動物小屋擴建完成](../doraemon-story-1/#寬闊的動物小屋擴建)（`10121101`）
 <table>
     <thead>
-        <tr>
-            <td>寬闊的動物小屋</td>
+        <tr>            
             <td>牛鈴</td>
             <td>羊鈴</td>
+            <td>寬闊的動物小屋</td>
         </tr>
     </thead>
-    <tr>
-        <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
+    <tr>        
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png"></td>
         <td><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png"></td>
+        <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
     </tr>
     <tr>
-        <td colspan="2">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">寬闊的動物小屋</a><br>擴建完成後才會在動物商店上架。</td>
+        <td colspan="2">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建寬闊的動物小屋</a></td>
     </tr>
 </table>
+
++ [巨大的動物小屋擴建完成](../doraemon-story-1/#巨大的動物小屋擴建)（`10121201`）
++ [巨大的雞小屋擴建完成](../doraemon-story-1/#巨大的雞小屋擴建)（`10122201`）
 <table>
     <thead>
         <tr>
-            <td>巨大的動物小屋</td>
-            <td>巨大的雞小屋</td>
             <td>引導鈴</td>
+            <td>巨大的動物小屋</td>
+            <td>巨大的雞小屋</td>            
         </tr>
     </thead>
     <tr>
+        <td><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
         <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
         <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
-        <td><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
     </tr>
     <tr>
-        <td>+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">巨大的動物小屋</a><br>+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋">巨大的雞小屋</a><br>擴建完成後才會在動物商店上架。</td>
+        <td>+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建巨大的動物小屋</a><br>+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋">擴建巨大的雞小屋</a></td>
     </tr>
 </table>
 
 ## MOD資料庫
-+ 動物商店資料檔：`CattleAndSheepShopData.text`
-+ 動物商店資料類：`CCattleAndSheepShopData`
-    + 動物商店資料結構：`SCattleAndSheepShopData`
-        + 商品ID：`mId`
-        + 物品ID：`mItemId`
-        + 價格：`mPrice`
-        + 是否陳列：`mIsDisplay`
-            + 只有商品會陳列在商店的上架列表中。
-+ 商店功能集成介面：`ShopMasterCollection`
-    + 商店模版設定：`Setup()`
-    + 取得動物商店所有不陳列資料的方法：`GetAllNotDisplayCattleAndSheepShopDatas()`
-        + 動物販售。
-    + 取得動物商店所有陳列資料的方法：`GetAllDisplayCattleAndSheepShopDatas()`
-        + 商品販售。
+### 調用方法
++ 增加[動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock)商店響應方法：<br>`FarmWorkState.AddCattleAndSheepShopResponse(ResponseModel, NpcModel, Transform) : void @0600134E`
+    + 取得[動物](../doraemon-story-shop-20500-gouter-mawk-livestock/#販售資料)商品`轉換`資料：<br>`FarmWorkState.ConvertAnimalShopItemDatas(ShopMasterModel[]) : ShopItemDataModel[] @06001348`
+
+### 商店功能集成介面
++ 取得[動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock/#販售資料)所有`非陳列`資料：<br>`GetAllNotDisplayCattleAndSheepShopDatas()`<mark>修正</mark>
++ 取得[動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock/#販售資料)所有`陳列`資料：<br>`GetAllDisplayCattleAndSheepShopDatas()`<mark>修正</mark>
 
 ### 商店模板
-+ 商店主模板類：`ShopMasterModel`，[工具](../doraemon-story-shop-20500-gouter-mawk-livestock/#工具)、[動物餵食](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物餵食)、[動物種子](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物種子)、[動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)。
-    + 商品ID：`Id` = `CCattleAndSheepShopData.SChickenShopData.mId`
-    + 物品ID：`ItemId` = `CCattleAndSheepShopData.SChickenShopData.mItemId`
-    + 販售價格：`Price` = `CCattleAndSheepShopData.SChickenShopData.mPrice`
-    + 販售季節：`Season` = -1
-    + DLC索引：`DLCIndex` = -1
-    + 事件ID：`EventId` = -1
++ 商店主模板類：`ShopMasterModel`
+    + [工具](../doraemon-story-shop-20500-gouter-mawk-livestock/#工具)商店
+    + [動物餵食](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物餵食)商店
+    + [動物種子](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物種子)商店
+    + [動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)商店
+
+### 商店資料
++ 動物商店資料類：`CCattleAndSheepShopData`
+    + [工具](../doraemon-story-shop-20500-gouter-mawk-livestock/#工具)
+    + [動物餵食](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物餵食)
+    + [動物種子](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物種子)
+    + [動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)
 
 ### 商品模板
-+ 商品模板類：`ShopItemDataModel`，商店上架的商品實例。
-    + 商品ID：`Id` = `ShopMasterModel.Id`
-    + 物品ID：`ItemId` = `ShopMasterModel.ItemId`
-    + 商品名稱：`Name` = `ItemModel.Name`
-    + 商品描述：`Description` = `ItemModel.Description`
-    + 商品價格：`Price` = `ShopMasterModel.Price`
-    + 圖集ID：`AtlasId` = `ItemMasterModel.AtlasId`
-    + 圖片ID：`SpriteId` = `ItemModel.Id`
-    + 是否為物品模板：`IsItemModel`
-    + 是否為單一物品：`IsSingleItem`
-    + 只能購買一次：`CanBuyOnce`
-    + 是否需要庫存空間：`IsNeedToEmptyInventory`
++ 商品模板類：`ShopItemDataModel`
+    + [工具](../doraemon-story-shop-20500-gouter-mawk-livestock/#工具)
+    + [動物餵食](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物餵食)
+    + [動物種子](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物種子)
+    + [動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)
 
 ### 指令類
 + 吸引搖鈴指令類：`RingTheAttractBellCommand`
 + 引導搖鈴指令類：`RingTheLeadBellCommand`
-
-### 調用狀態
-+ 牧場工作狀態：`FarmWorkState`
-    1. `BeginCallback(ICommandHolderObject collided_obj, ICommand stacked_command)`
-    2. `CreateWorkResponse()`
-    3. `AddCattleAndSheepShopResponse(ResponseModel root, NpcModel npc, Transform talker_node)`
-        + `ShopMasterCollection.GetAllNotDisplayCattleAndSheepShopDatas()`
-        + `ConvertAnimalShopItemDatas(ShopMasterModel[] animal_shop_datas)`
-        + `ShopMasterCollection.GetAllDisplayCattleAndSheepShopDatas()`
-
-### 販售條件
-+ 物品定義類：`Item`
-    + 動物鈴販售解鎖：`CanSaleBell(int item_id)`

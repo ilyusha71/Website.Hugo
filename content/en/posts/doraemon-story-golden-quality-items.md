@@ -111,6 +111,11 @@ public class AnimalModel : INullableModel
         </tr>
     </thead>
     <tr>
+        <td align="center" valign="bottom"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3400111.png">黃金美乃滋</td>        
+        <td align="center" valign="bottom"><img width="137px" src= "/images/post/Season_of_Story/Sprite/icon_201080110.png">美乃滋機</td>
+        <td align="center" valign="bottom"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3200102.png">黃金雞蛋</td>
+    </tr>
+    <tr>
         <td align="center" valign="bottom"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3400109.png">黃金起司</td>        
         <td align="center" valign="bottom"><img width="137px" src= "/images/post/Season_of_Story/Sprite/icon_201080120.png">起司機</td>
         <td align="center" valign="bottom"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_3200103.png">黃金牛奶</td>

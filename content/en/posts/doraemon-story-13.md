@@ -45,7 +45,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140140.png
 ### 第2話 小馬與我
 + 事件ID：`40001002`
 + 優先度：`3`
-+ 觸發地點：`馬小屋`（`12400`）
++ 觸發地點：[馬小屋](../doraemon-story-map-10000-nobita-farm/#馬小屋)（`12400`）
 
 ![馬小屋](/images/post/Season_of_Story/Map/12400.png)
 + 前置劇情：[馬第1話 寄養小馬！](#第1話-寄養小馬)（`40001001`）
@@ -72,7 +72,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140140.png
 ### 第3話 把小馬還來！
 + 事件ID：`40001003`
 + 優先度：`3`
-+ 觸發地點：`馬小屋`（`12400`）
++ 觸發地點：[馬小屋](../doraemon-story-map-10000-nobita-farm/#馬小屋)（`12400`）
 
 ![馬小屋](/images/post/Season_of_Story/Map/12400.png)
 + 前置劇情：[馬第2話 小馬與我](#第2話-小馬與我)（`40001002`）

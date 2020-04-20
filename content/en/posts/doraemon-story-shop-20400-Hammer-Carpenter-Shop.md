@@ -18,24 +18,24 @@ categories:
 - 商店
 image: images/post/Season_of_Story/Building/20400.png
 ---
-<mark>最後更新：2020/04/18</mark>
+<mark>最後更新：2020/04/20</mark>
 
 ## 木工店 咚吭噹
 + Carpenter / Hammer - Carpenter Shop
 
+### 地理
++ [樵之森](../doraemon-story-map-10600-lumberjack-forest)
+    + [木工店](../doraemon-story-map-10600-lumberjack-forest/#木工店)
+
 ![木工店位置](/images/post/Season_of_Story/Map/20400.png)
 
-### 主要角色
+### 劇情發展
 <table>
-    <thead>
-        <tr>
-            <td>潘特</td>
-            <td>胖虎</td>
-        </tr>
-    </thead>
     <tr>
-        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041140.png"></td>
-        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041030.png"></td>
+        <td>01</td>
+        <td align="center"><a href="../doraemon-story-01"><img src= "/images/post/Season_of_Story/Sprite/icon_201140020.png">木工店</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041140.png">潘特</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041030.png">胖虎</td>
     </tr>
 </table>
 
@@ -93,8 +93,9 @@ image: images/post/Season_of_Story/Building/20400.png
     + [擴建動物小屋](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋)：2種
     + [擴建雞小屋](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋)：2種
     + [建造](../doraemon-story-shop-20400-hammer-carpenter-shop/#建造)：5種
-+ [家中的物品](#材料)：種
-+ [牧場的物品](#材料)：種
++ [家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)：種
+    + [家中的物品](#材料)：種
+    + [牧場的物品](#材料)：種
 + [資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)：4種
 
 ### 建築
@@ -204,7 +205,7 @@ image: images/post/Season_of_Story/Building/20400.png
             <td>---</td>
         </tr>
         <tr>
-            <td>100103.</td>
+            <td>100103</td>
             <td>12110</td>
             <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
             <td>寬闊的動物小屋</td>
@@ -412,14 +413,14 @@ image: images/post/Season_of_Story/Building/20400.png
 ##### 解鎖項目
 + [動物小屋的筒倉建造完成](../doraemon-story-1/#動物小屋的筒倉建造)（`10126101`）
     + [木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋)項目：
-        + `寬闊的動物小屋`
+        + `巨大的動物小屋`
 + [雞小屋的筒倉建造完成](../doraemon-story-1/#雞小屋的筒倉建造)（`10125101`）
     + [木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)解鎖[擴建](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋)項目：
-        + `寬闊的雞小屋`
+        + `巨大的雞小屋`
 + [馬小屋建造完成](../doraemon-story-1/#馬小屋建造)（`10124101`）
     + 支線劇情[馬第1話 寄養小馬！](../doraemon-story-13/#第1話-寄養小馬)（`40001001`）
 + [溫室建造完成](../doraemon-story-1/#溫室建造)（`10123101`）
-
+    + [雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)開始同時販售全季節[作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)。
 ### 資材
 <table>
     <thead>
@@ -469,46 +470,36 @@ image: images/post/Season_of_Story/Building/20400.png
     + 只能購買一次：✘
     + 是否需要庫存空間：✔
 
-## 資料庫
-+ 工藝商品模板類：`CraftShopItemDataModel`，商店上架的商品實例。
-    + 商品ID：`Id`
-    + 商品類型：`ItemType`
-    + 物品ID：`ItemId`
-    + 商品等級：`ItemLevel`
-    + 商品名稱：`Name`
-    + 商品描述：`Description`
-    + 附加文字：`AppendText`
-    + 商品價格：`Price`
-    + 圖集ID：`AtlasId`
-    + 圖片ID：`SpriteId`
-    + 所需材料：`MaterialItems`
-    + 分類：`Category`
-    + 是否需要庫存空間：`IsNeedToEmptyInventory`
+## MOD資料庫
+### 調用方法
++ 增加[木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)商店響應方法：<br>`FarmWorkState.AddCraftShopResponse(ResponseModel, NpcModel) : void @0600134F`
+    + 取得[建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)商品資料：<br>`FarmWorkState.GetBuildingShopItemDatas() : CraftShopItemDataModel[] @06001350`
+    + 取得[家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)商品資料：<br>`FarmWorkState.GetFurnitureShopItemDatas(bool) : CraftShopItemDataModel[] @06001351`
+    + 取得[資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)商品資料：<br>`FarmWorkState.GetMaterialShopItemDatas() : ShopItemDataModel[] @06001352`
+
+### 商店功能集成介面
++ 取得[建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)商店資料：<br>
++ 取得[家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)商店資料：<br>
++ 取得[資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)商店資料：<br>
 
 ### 商店模板
-+ 商店主模板類：`ShopMasterModel`，[資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)。
-    + 商品ID：`Id` = `CMaterialShopData.SMaterialShopData .mId`
-    + 物品ID：`ItemId` = `CMaterialShopData.SMaterialShopData.mItemId`
-    + 建造價格：`Price` = `CMaterialShopData.SMaterialShopData.mPrice`
-    + 販售季節：`Season` =  `CMaterialShopData.SMaterialShopData.Season`
-    + DLC索引：`DLCIndex` = -1
-    + 事件ID：`EventId` = -1
++ XXXXXXXXXXXX商店主模板類：``
+    + [建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)商店
+    + [家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)商店
++ 商店主模板類：`ShopMasterModel`
+    + [資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)商店
+
+### 商店資料
++ 建築商品類：``
+    + [建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)
++ 家具商品類：``
+    + [家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)
++ 資材商品類：``
+    + [資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)
 
 ### 商品模板
-+ 商品模板類：`ShopItemDataModel`，商店上架的商品實例。
-    + 商品ID：`Id` = `ShopMasterModel.Id`
-    + 物品ID：`ItemId` = `ShopMasterModel.ItemId`
-    + 商品名稱：`Name` = `ItemModel.Name`
-    + 商品描述：`Description` = `ItemModel.Description`
-    + 商品價格：`Price` = `ShopMasterModel.Price`
-    + 圖集ID：`AtlasId` = `ItemMasterModel.AtlasId`
-    + 圖片ID：`SpriteId` = `ItemModel.Id`
-    + 是否為物品模板：`IsItemModel`
-    + 是否為單一物品：`IsSingleItem`
-    + 只能購買一次：`CanBuyOnce`
-    + 是否需要庫存空間：`IsNeedToEmptyInventory`
-
-### 調用狀態
-### 販售條件
-+ 牧場工作狀態：`FarmWorkState`
-    + 建築擴建條件：`CraftShopItemDataModel[] GetBuildingShopItemDatas()`
++ 工藝商品模板類：`CraftShopItemDataModel`
+    + [建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)
+    + [家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)
++ 商品模板類：`ShopItemDataModel`
+    + [資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)

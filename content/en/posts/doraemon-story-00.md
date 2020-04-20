@@ -91,7 +91,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140010.png
 #### 給女神來來貓
 + 事件ID：`50000020`
 + 優先度：`4`
-+ 觸發地點：`巨木根部`（`11700`）
++ 觸發地點：[巨木根部](../doraemon-story-map-11700-big-tree-root)（`11700`）
 
 ![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](#第5話-邂逅女神大人)（`10000005`）
@@ -119,7 +119,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140010.png
 #### 給女神幻想筆
 + 事件ID：`50000021`
 + 優先度：`3`
-+ 觸發地點：`巨木根部`（`11700`）
++ 觸發地點：[巨木根部](../doraemon-story-map-11700-big-tree-root)（`11700`）
 
 ![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](#第5話-邂逅女神大人)（`10000005`）
@@ -147,7 +147,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140010.png
 #### 給女神時光電視
 + 事件ID：`50000022`
 + 優先度：`2`
-+ 觸發地點：`巨木根部`（`11700`）
++ 觸發地點：[巨木根部](../doraemon-story-map-11700-big-tree-root)（`11700`）
 
 ![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](#第5話-邂逅女神大人)（`10000005`）
@@ -175,7 +175,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140010.png
 #### 給女神呼喚精靈手環
 + 事件ID：`50000023`
 + 優先度：`1`
-+ 觸發地點：`巨木根部`（`11700`）
++ 觸發地點：[巨木根部](../doraemon-story-map-11700-big-tree-root)（`11700`）
 
 ![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第5話 邂逅女神大人](#第5話-邂逅女神大人)（`10000005`）
@@ -244,7 +244,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140010.png
 ### 第11話 小鎮的未來
 + 事件ID：`10000011`
 + 優先度：`0`
-+ 觸發地點：`巨木根部`（`11700`）
++ 觸發地點：[巨木根部](../doraemon-story-map-11700-big-tree-root)（`11700`）
 
 ![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第10話 銀白之雷](#第10話-銀白之雷)（`10000010`）
@@ -276,7 +276,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140010.png
 ### 第12話 大暴風雨與親子
 + 事件ID：`10000012`
 + 優先度：`0`
-+ 觸發地點：`巨木根部`（`11700`）
++ 觸發地點：[巨木根部](../doraemon-story-map-11700-big-tree-root)（`11700`）
 
 ![巨木根部](/images/post/Season_of_Story/Map/11700.png)
 + 前置劇情：[巨木第11話 小鎮的未來](#第11話-小鎮的未來)（`10000011`）

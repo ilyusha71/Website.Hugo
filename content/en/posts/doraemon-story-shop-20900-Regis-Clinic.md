@@ -246,22 +246,31 @@ image: images/post/Season_of_Story/Building/20900.png
 
 ## MOD資料庫
 ### 調用方法
-+ 增加[醫院](../doraemon-story-shop-20900-regis-clinic)響應方法：`FarmWorkState.AddHospitalShopResponse(ResponseModel, NpcModel) : void @0600135E`
-    + 取得[醫院商品](../doraemon-story-shop-20900-regis-clinic/#販售資料)資料：`FarmWorkState.GetHospitalShopItemDatas() : ShopItemDataModel[] @0600135F`
++ 增加[醫院](../doraemon-story-shop-20900-regis-clinic)商店響應方法：<br>`FarmWorkState.AddHospitalShopResponse(ResponseModel, NpcModel) : void @0600135E`
+    + 取得[醫院](../doraemon-story-shop-20900-regis-clinic/#販售資料)商品資料：<br>`FarmWorkState.GetHospitalShopItemDatas() : ShopItemDataModel[] @0600135F`
 
 ### 商店功能集成介面
-+ 取得[醫院](../doraemon-story-shop-20900-regis-clinic/#販售資料)資料：
++ 取得[醫院](../doraemon-story-shop-20900-regis-clinic/#販售資料)商店資料：<br>
     + `ShopMasterCollection.GetHospitalShopData(int) : HospitalShopMasterModel @06002BEF`
++ 取得[醫院](../doraemon-story-shop-20900-regis-clinic/#販售資料)商店`日常販售`資料：<br>
     + `ShopMasterCollection.GetDailySaleHospitalShopDatas() : Dictionary<int, List<HospitalShopMasterModel>> @06002BEE`
++ 取得[醫院](../doraemon-story-shop-20900-regis-clinic/#販售資料)商店`非日常販售`資料：<br>
     + `ShopMasterCollection.GetNotDailySaleHospitalShopDatas() : HospitalShopMasterModel[] @06002BED`
 
 ### 商店模板
-+ 商店主模板類：`HospitalShopMasterModel`
-    + [醫院](../doraemon-story-shop-20900-regis-clinic/#販售資料)
++ 醫院商店主模板類：`HospitalShopMasterModel`
+    + [補充飲品](../doraemon-story-shop-20900-regis-clinic/#補充飲品)商店
+    + [特製飲品](../doraemon-story-shop-20900-regis-clinic/#特製飲品)商店
+    + [藥品](../doraemon-story-shop-20900-regis-clinic/#藥品)商店
 
 ### 商店資料
-+ [醫院](../doraemon-story-shop-20900-regis-clinic/#販售資料)資料類：`CHospitalShopData`
++ 醫院商店資料類：`CHospitalShopData`
+    + [補充飲品](../doraemon-story-shop-20900-regis-clinic/#補充飲品)
+    + [特製飲品](../doraemon-story-shop-20900-regis-clinic/#特製飲品)
+    + [藥品](../doraemon-story-shop-20900-regis-clinic/#藥品)
 
 ### 商品模板
 + 商品模板類：`ShopItemDataModel`
-    + [醫院商品](../doraemon-story-shop-20900-regis-clinic/#販售資料)
+    + [補充飲品](../doraemon-story-shop-20900-regis-clinic/#補充飲品)
+    + [特製飲品](../doraemon-story-shop-20900-regis-clinic/#特製飲品)
+    + [藥品](../doraemon-story-shop-20900-regis-clinic/#藥品)

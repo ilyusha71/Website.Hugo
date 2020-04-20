@@ -20,26 +20,25 @@ categories:
 - 商店
 image: images/post/Season_of_Story/Building/21200.png
 ---
-<mark>最後更新：2020/04/18</mark>
+<mark>最後更新：2020/04/20</mark>
 
 ## 料理店 嚼嚼餐廳
 + Cafe Delish
 
+### 地理
++ [萬物鎮東](../doraemon-story-map-11300-east-natura)
+    + [料理店](../doraemon-story-map-11300-east-natura/#料理店)
+
 ![料理店位置](/images/post/Season_of_Story/Map/21200.png)
 
-### 主要角色
+### 劇情發展
 <table>
-    <thead>
-        <tr>
-            <td>萊斯特</td>
-            <td>托蘭</td>
-            <td>小夫</td>
-        </tr>
-    </thead>
     <tr>
-        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041230.png"></td>
-        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041240.png"></td>
-        <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201041040.png"></td>
+        <td>03</td>
+        <td align="center"><a href="../doraemon-story-03"><img src= "/images/post/Season_of_Story/Sprite/icon_201140040.png">料理店</a></td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041230.png">萊斯特</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041240.png">托蘭</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041040.png">小夫</td>
     </tr>
 </table>
 
@@ -169,73 +168,40 @@ image: images/post/Season_of_Story/Building/21200.png
     </tbody>
 </table>
 
-## 料理店MOD資料庫
-+ 料理店資料檔：`RestaurantShopData.text`
-+ 料理店資料類：`CRestaurantShopData`
-    + 料理店資料結構：`SRestaurantShopData`
-        + 商品ID：`mId`
-        + 物品ID：`mItemId`
-        + 價格：`mPrice`
-        + 季節：`mSeason`
-            + 料理店販售的食譜、料理、農產品會因季節變化而改變。
-        + 權重：`mWeight`
-            + 影響商品上架的機率。
-+ 商店功能集成介面：`ShopMasterCollection`
-    + 商店模版設定：`Setup()`
-    + 取得料理店當季食譜的資料：`GetGroupedBySeasonCookingRecipeShopDatas(int season)`
-    + 取得料理店當季料理的資料：`GetGroupedBySeasonDishShopDatas(int season)`
-    + 取得料理店當季作物的資料：`GetGroupedBySeasonCropShopDatas(int season)`
-    + 取得料理店所有調理器具的資料：`GetAllCookingToolShopDatas()`
-    + 取得料理店的資料：`GetRestaurantShopData(int id)`
-+ 料理店主模板類：`RestaurantShopMasterModel`，此類專用於`食譜販售`、`料理販售`與`農產品販售`。
-    + 商品ID：`Id` = `CRestaurantShopData.SChickenShopData.mId`
-    + 物品ID：`ItemId` = `CRestaurantShopData.SChickenShopData.mItemId`
-    + 販售價格：`Price` = `CRestaurantShopData.SChickenShopData.mPrice`
-    + 販售季節：`Season` = `CRestaurantShopData.SChickenShopData.mSeason`
-    + 販售權重：`Weight` = `CRestaurantShopData.SChickenShopData.mWeight`
-+ 料理店模板類：`RestaurantShopDataModel`
-    + 食譜資料：`CookingRecipeShopItems`，商店上架的食譜實例。
-    + 料理資料：`DishShopItems`，商店上架的料理實例。
-    + 農產品資料：`CropShopItems`，商店上架的農產品實例。
-    + 上架抽選方法：`GetLotteryRestaurantShopMasterDatas`
-    + 食譜上架方法：`UpdateCookingRecipeShopItemDatas(bool is_refresh_data, int season)`
-    + 料理上架方法：`UpdateDishShopItemDatas(bool is_refresh_data, int season)`
-    + 農產品上架方法：`UpdateCropShopItemDatas(bool is_refresh_data, int season)`
+## MOD資料庫
+### 調用方法
++ 增加[料理店](../doraemon-story-shop-21200-cafe-delish)商店響應方法：<br>`FarmWorkState.AddCookingShopResponse(ResponseModel, NpcModel) : void @06001358`
+    + 取得料理店[食譜](../doraemon-story-shop-21200-cafe-delish-recipes)商品資料：<br>`FarmModel.GetRestaurantShopCookingRecipeItems() : ShopItemDataModel[] @06002E1B`
+    + 取得料理店[料理](../doraemon-story-shop-21200-cafe-delish-meals)商品資料：<br>`FarmModel.GetRestaurantShopDishItems() : ShopItemDataModel[] @06002E1C`
+    + 取得料理店[農產品](../doraemon-story-shop-21200-cafe-delish-produce)商品資料：<br>`FarmModel.GetRestaurantShopCropItems() : ShopItemDataModel[] @06002E1D`
+    + 取得[調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)商品資料：<br>`FarmWorkState.GetCookingToolShopItemDatas() : ShopItemDataModel[] @06001359`
+
+### 商店功能集成介面
++ 取得[料理店](../doraemon-story-shop-21200-cafe-delish#販售資料)商店資料：<br>`GetRestaurantShopData(int id)`<mark>修正</mark>
++ 取得[食譜](../doraemon-story-shop-21200-cafe-delish-recipes)商店`當季`資料：<br>`GetGroupedBySeasonCookingRecipeShopDatas(int season)`<mark>修正</mark>
++ 取得[料理](../doraemon-story-shop-21200-cafe-delish-meals)商店`當季`資料：<br>`GetGroupedBySeasonDishShopDatas(int season)`<mark>修正</mark>
++ 取得[農產品](../doraemon-story-shop-21200-cafe-delish-produce)商店`當季`資料：<br>`GetGroupedBySeasonCropShopDatas(int season)`<mark>修正</mark>
++ 取得[調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)商店所有資料：<br>`GetAllCookingToolShopDatas()`<mark>修正</mark>
 
 ### 商店模板
-+ 商店主模板類：`ShopMasterModel`，[調理器具商店](doraemon-story-shop-21200-cafe-delish#調理器具)。
-    + 商品ID：`Id` = `CRestaurantShopData.SChickenShopData.mId`
-    + 物品ID：`ItemId` = `CRestaurantShopData.SChickenShopData.mItemId`
-    + 販售價格：`Price` = `CRestaurantShopData.SChickenShopData.mPrice`
-    + 販售季節：`Season` = `CRestaurantShopData.SChickenShopData.mSeason`
-    + DLC索引：`DLCIndex` = -1
-    + 事件ID：`EventId` = -1
++ 料理店商店主模板類：`RestaurantShopMasterModel`
++ 料理店商店資料模板類：`RestaurantShopDataModel`
+    + [食譜](../doraemon-story-shop-21200-cafe-delish-recipes)商店
+    + [料理](../doraemon-story-shop-21200-cafe-delish-meals)商店
+    + [農產品](../doraemon-story-shop-21200-cafe-delish-produce)商店
++ 商店主模板類：`ShopMasterModel`
+    + [調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)商店
+
+### 商店資料
++ 料理店商店資料類：`CRestaurantShopData`
+    + [食譜](../doraemon-story-shop-21200-cafe-delish-recipes)
+    + [料理](../doraemon-story-shop-21200-cafe-delish-meals)
+    + [農產品](../doraemon-story-shop-21200-cafe-delish-produce)
+    + [調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)
 
 ### 商品模板
-+ 商品模板類：`ShopItemDataModel`，商店上架的商品實例。
-    + 商品ID：`Id` = `ShopMasterModel.Id`
-    + 物品ID：`ItemId` = `ShopMasterModel.ItemId`
-    + 商品名稱：`Name` = `ItemModel.Name`
-    + 商品描述：`Description` = `ItemModel.Description`
-    + 商品價格：`Price` = `ShopMasterModel.Price`
-    + 圖集ID：`AtlasId` = `ItemMasterModel.AtlasId`
-    + 圖片ID：`SpriteId` = `ItemModel.Id`
-    + 是否為物品模板：`IsItemModel`
-    + 是否為單一物品：`IsSingleItem`
-    + 只能購買一次：`CanBuyOnce`
-    + 是否需要庫存空間：`IsNeedToEmptyInventory`
-
-### 調用狀態
-+ 牧場工作狀態：`FarmWorkState`
-    1. `BeginCallback(ICommandHolderObject collided_obj, ICommand stacked_command)`
-    2. `CreateWorkResponse()`
-    3. `AddCookingShopResponse(ResponseModel root, NpcModel npc)`
-        + `FarmModel.UpdateRestaurantShopData(TimeModel time)`
-            + `RestaurantShopDataModel.UpdateShopDatas(TimeModel time)`
-            + 食譜：`RestaurantShopDataModel.UpdateCookingRecipeShopItemDatas(bool is_refresh_data, int season)`
-                + `ShopMasterCollection.GetGroupedBySeasonCookingRecipeShopDatas(int season)`
-            + 料理：`RestaurantShopDataModel.UpdateDishShopItemDatas(bool is_refresh_data, int season)`
-                + `ShopMasterCollection.GetGroupedBySeasonDishShopDatas(int season)`
-            + 農產品：`RestaurantShopDataModel.UpdateCropShopItemDatas(bool is_refresh_data, int season)`
-                + `ShopMasterCollection.GetGroupedBySeasonCropShopDatas(int season)`
-        + `GetCookingToolShopItemDatas()`
++ 商品模板類：`ShopItemDataModel`
+    + [食譜](../doraemon-story-shop-21200-cafe-delish-recipes)
+    + [料理](../doraemon-story-shop-21200-cafe-delish-meals)
+    + [農產品](../doraemon-story-shop-21200-cafe-delish-produce)
+    + [調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)

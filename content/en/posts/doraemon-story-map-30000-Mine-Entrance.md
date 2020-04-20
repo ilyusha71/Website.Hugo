@@ -1,7 +1,7 @@
 ---
-title: "青青廣場"
-date: 2020-04-17T23:14:12+08:00
-description: 青青廣場地理環境大全
+title: "採礦場"
+date: 2020-04-20T19:30:12+08:00
+description: 採礦場地理環境大全
 draft: false
 hideToc: false
 enableToc: true
@@ -14,12 +14,12 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/Season_of_Story/Scene/11500.png
+image: images/post/Season_of_Story/Scene/30000.png
 ---
-## 青青廣場
-+ Harappa Square
+## 採礦場 入口
++ Mine
 
-![青青廣場地區範圍](/images/post/Season_of_Story/Map/11500.png)
+![採礦場地區範圍](/images/post/Season_of_Story/Map/30000.png)
 <table>
     <thead>
         <tr>
@@ -29,8 +29,11 @@ image: images/post/Season_of_Story/Scene/11500.png
         </tr>
     </thead>
     <tr>
-            <td>63</td>
-            <td>11500</td>
-            <td>1511500000</td>
+            <td>40</td>
+            <td>30000</td>
+            <td>1530000000</td>
     </tr>
 </table>
+
+### 地底湖
++ 地圖ID：`99900`

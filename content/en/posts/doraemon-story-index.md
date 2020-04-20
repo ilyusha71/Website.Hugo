@@ -20,13 +20,13 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
 ![小地圖](/images/post/Season_of_Story/Map/minimap.png)
 <div align="center"><table>
     <tr>
-        <td width= "120px" align="center"><a href="../doraemon-story-map-10100-mount-whistle">冷颼颼山頂</a></td>
-        <td width= "120px" align="center"><a href="#巨木根部">巨木根部</a></td>
-        <td width= "120px" align="center"><a href="#採礦場 入口">採礦場 入口</a></td>
+        <td width= "120px" align="center"><a href="../doraemon-story-map-11600-mt.-whistle-peak">冷颼颼山頂</a></td>
+        <td width= "120px" align="center"><a href="../doraemon-story-map-11700-big-tree-root">巨木根部</a></td>
+        <td width= "120px" align="center"><a href="../doraemon-story-map-30000-mine-entrance">採礦場 入口</a></td>
         <td width= "360px" align="center" colspan="3"></td>
     </tr>
     <tr>
-        <td width= "120px" align="center"><a href="#冷颼颼山">冷颼颼山</a></td>
+        <td width= "120px" align="center"><a href="../doraemon-story-map-10100-mount-whistle">冷颼颼山</a></td>
         <td width= "240px" align="center" colspan="2"><a href="../doraemon-story-map-10300-swoosh-falls">嘩嘩瀑布</a></td>
         <td width= "120px" align="center"><a href="../doraemon-story-map-11200-west-natura">萬物鎮西</a></td>
         <td width= "240px" align="center" colspan="2"><a href="../doraemon-story-map-11300-east-natura">萬物鎮東</a></td>
@@ -43,7 +43,7 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
         <td width= "120px" align="center"><a href="../doraemon-story-map-10700-lake-drench">滴答湖</a></td>
     </tr>
     <tr>
-        <td width= "120px" align="center"><a href="#洞窟">洞窟</a></td>
+        <td width= "120px" align="center"><a href="../doraemon-story-map-11800-cave">洞窟</a></td>
         <td width= "360px" align="center" colspan="3"><a href="../doraemon-story-map-10800-zazan-beach">濤濤海濱</a></td>
         <td width= "240px" align="center" colspan="2"><a href="../doraemon-story-map-10900-zazan-cape">濤濤海岬</a></td>
     </tr>
@@ -82,7 +82,7 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
         <td align="center"><a href="../doraemon-story-03"><img src= "/images/post/Season_of_Story/Sprite/icon_201140040.png">料理店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041230.png">萊斯特</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041240.png">托蘭</td>
-        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041040.png">靜香</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041040.png">小夫</td>
     </tr>
     <tr>
         <td>04</td>

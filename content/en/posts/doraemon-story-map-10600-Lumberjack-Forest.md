@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】樵之森"
+title: "樵之森"
 date: 2020-04-18T11:28:12+08:00
 description: 樵之森地理環境大全
 draft: false
@@ -18,6 +18,7 @@ image: images/post/Season_of_Story/Scene/10600.png
 ---
 ## 樵之森
 + Lumberjack Forest
+
 ![樵之森地區範圍](/images/post/Season_of_Story/Map/10600.png)
 <table>
     <thead>

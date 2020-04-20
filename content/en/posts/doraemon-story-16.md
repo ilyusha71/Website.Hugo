@@ -61,7 +61,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140170.png
 ### 第2話 
 + 事件ID：`40004002`
 + 優先度：`3`
-+ 觸發地點：`滴答湖`（`10700`）
++ 觸發地點：[滴答湖](../doraemon-story-map-10700-lake-drench)（`10700`）
 
 ![滴答湖](/images/post/Season_of_Story/Map/10700.png)
 + 前置劇情：[猴子第1話 ](#第1話-)（`40004001`）

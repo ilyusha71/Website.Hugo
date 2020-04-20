@@ -19,7 +19,7 @@ categories:
 image: images/post/Season_of_Story/Building/21300.png
 ---
 <mark>最後更新：2020/04/20</mark>
-doraemon-story-map-10900-zazan-cape/
+
 ## 席菲小姐的釣具店
 + Tackle Shop / Sandy's Tackle Shop
 
@@ -86,7 +86,7 @@ doraemon-story-map-10900-zazan-cape/
 </table>
 
 ## 販售資料
-+ [魚餌](../doraemon-story-shop-21300-sandy-tackle-shop/#販售資料)：2種
++ [魚餌](../doraemon-story-shop-21300-sandy-tackle-shop/#魚餌)：2種
 
 ### 魚餌
 <table>
@@ -153,19 +153,20 @@ doraemon-story-map-10900-zazan-cape/
 
 ## MOD資料庫
 ### 調用方法
-+ 增加[釣具店](../doraemon-story-shop-21300-sandy-tackle-shop)響應方法：`FarmWorkState.AddFishingTackleShopResponse(ResponseModel, NpcModel) : void @0600135C`
-    + 取得[釣具商品](../doraemon-story-shop-21300-sandy-tackle-shop/#販售資料)資料：`FarmWorkState.GetFishingTackleShopItemDatas() : ShopItemDataModel[] @0600135D`
++ 增加[釣具店](../doraemon-story-shop-21300-sandy-tackle-shop)商店響應方法：<br>`FarmWorkState.AddFishingTackleShopResponse(ResponseModel, NpcModel) : void @0600135C`
+    + 取得[釣具店](../doraemon-story-shop-21300-sandy-tackle-shop/#販售資料)商品資料：<br>`FarmWorkState.GetFishingTackleShopItemDatas() : ShopItemDataModel[] @0600135D`
 
 ### 商店功能集成介面
-+ 取得[釣具商店](../doraemon-story-shop-21300-sandy-tackle-shop/#販售資料)資料：`ShopMasterCollection.GetAllFishingTackleShopDatas() : ShopMasterModel[] @06002BEC`
++ 取得[釣具店](../doraemon-story-shop-21300-sandy-tackle-shop/#販售資料)商店所有資料：<br>`ShopMasterCollection.GetAllFishingTackleShopDatas() : ShopMasterModel[] @06002BEC`
 
 ### 商店模板
 + 商店主模板類：`ShopMasterModel`
-    + [釣具商店](../doraemon-story-shop-21300-sandy-tackle-shop/#販售資料)
+    + [魚餌](../doraemon-story-shop-21300-sandy-tackle-shop/#魚餌)商店
 
 ### 商店資料
-+ [釣具商店](../doraemon-story-shop-21300-sandy-tackle-shop/#販售資料)資料類：`CFishingTackleShopData`
++ 釣具店商店資料類：`CFishingTackleShopData`
+    + [魚餌](../doraemon-story-shop-21300-sandy-tackle-shop/#魚餌)
 
 ### 商品模板
 + 商品模板類：`ShopItemDataModel`
-    + [釣具商品](../doraemon-story-shop-21300-sandy-tackle-shop/#販售資料)
+    + [魚餌](../doraemon-story-shop-21300-sandy-tackle-shop/#魚餌)

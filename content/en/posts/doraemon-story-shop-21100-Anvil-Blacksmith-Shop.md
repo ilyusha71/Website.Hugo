@@ -465,11 +465,11 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
     </thead>
     <tr>
-        <td>10010030</td>
-        <td>1001003</td>
-        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001003.png"></td>
+        <td>10010040</td>
+        <td>1001004</td>
+        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001004.png"></td>
         <td>金鋤頭</td>
-        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001002.png"></td>
+        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001003.png"></td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png">80</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">60</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">50</td>
@@ -477,11 +477,11 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010130</td>
-        <td>1001013</td>
-        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001013.png"></td>
+        <td>10010140</td>
+        <td>1001014</td>
+        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001014.png"></td>
         <td>金槌子</td>
-        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001012.png"></td>
+        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001013.png"></td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png">80</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">60</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">50</td>
@@ -489,11 +489,11 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010230</td>
-        <td>1001023</td>
-        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001023.png"></td>
+        <td>10010240</td>
+        <td>1001024</td>
+        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001024.png"></td>
         <td>金製澆水壺</td>
-        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001022.png"></td>
+        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001023.png"></td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png">80</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">60</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">50</td>
@@ -501,11 +501,11 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010330</td>
-        <td>1001032</td>
-        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001033.png"></td>
+        <td>10010340</td>
+        <td>1001034</td>
+        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001034.png"></td>
         <td>金鐮刀</td>
-        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001032.png"></td>
+        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001033.png"></td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png">80</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">60</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">50</td>
@@ -513,11 +513,11 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010430</td>
-        <td>1001043</td>
-        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001043.png"></td>
+        <td>10010440</td>
+        <td>1001044</td>
+        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001044.png"></td>
         <td>金斧頭</td>
-        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001042.png"></td>
+        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001043.png"></td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png">80</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">60</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">50</td>
@@ -525,11 +525,11 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010530</td>
-        <td>1001053</td>
-        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001053.png"></td>
+        <td>10010540</td>
+        <td>1001054</td>
+        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001054.png"></td>
         <td>金製十字鎬</td>
-        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001052.png"></td>
+        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001053.png"></td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png">80</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">60</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">50</td>
@@ -537,11 +537,11 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010630</td>
-        <td>1001063</td>
-        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001063.png"></td>
+        <td>10010640</td>
+        <td>1001064</td>
+        <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001064.png"></td>
         <td>金釣竿</td>
-        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001062.png"></td>
+        <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001063.png"></td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png">80</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">60</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">50</td>
@@ -884,28 +884,31 @@ image: images/post/Season_of_Story/Building/21100.png
 
 ## MOD資料庫
 ### 調用方法
-+ 增加[打鐵店](../doraemon-story-shop-21100-anvil-blacksmith-shop)響應方法：`FarmWorkState.AddBlackSmithResponse(ResponseModel, NpcModel) : void @06001354`
-    + 取得[升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)資料：`FarmWorkState.GetUpgradeToolShopItemDatas() : CraftShopItemDataModel[] @06001355`
-    + 取得[礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)資料：`FarmWorkState.GetMineralShopItemDatas() : ShopItemDataModel[] @06001356`
-    + 取得[機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)資料：`FarmWorkState.GetMakerShopItemDatas() : CraftShopItemDataModel[] @06001357`
++ 增加[打鐵店](../doraemon-story-shop-21100-anvil-blacksmith-shop)商店響應方法：<br>`FarmWorkState.AddBlackSmithResponse(ResponseModel, NpcModel) : void @06001354`
+    + 取得[升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)商品資料：<br>`FarmWorkState.GetUpgradeToolShopItemDatas() : CraftShopItemDataModel[] @06001355`
+    + 取得[礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)商品資料：<br>`FarmWorkState.GetMineralShopItemDatas() : ShopItemDataModel[] @06001356`
+    + 取得[機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)商品資料：<br>`FarmWorkState.GetMakerShopItemDatas() : CraftShopItemDataModel[] @06001357`
 
 ### 商店功能集成介面
-+ 取得[升級工具商店](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)資料：`ShopMasterCollection.GetAllUpgradeToolShopDatas() : UpgradeToolShopMasterModel[] @06002BDD`
-+ 取得[礦石商店](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)資料：`ShopMasterCollection.GetMineralShopDatas(int) : ShopMasterModel[] @06002BDE`
-+ 取得[機器商店](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)資料：`ShopMasterCollection.GetAllMakerShopDatas() : MakerShopMasterModel[] @06002BDF`
++ 取得[升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)商店所有資料：<br>`ShopMasterCollection.GetAllUpgradeToolShopDatas() : UpgradeToolShopMasterModel[] @06002BDD`
++ 取得[礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)商店資料：<br>`ShopMasterCollection.GetMineralShopDatas(int) : ShopMasterModel[] @06002BDE`
++ 取得[機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)商店所有資料：<br>`ShopMasterCollection.GetAllMakerShopDatas() : MakerShopMasterModel[] @06002BDF`
 
 ### 商店模板
 + 升級工具商店主模板類：`UpgradeToolShopMasterModel`
-    + [升級工具商店](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)
+    + [升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)商店
 + 商店主模板類：`ShopMasterModel`
-    + [礦石商店](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)
+    + [礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)商店
 + 機器商店主模板類：`MakerShopMasterModel`
-    + [機器商店](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)
+    + [機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)商店
 
 ### 商店資料
-+ [升級工具商店](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)資料類：`CUpgradeToolShopData`
-+ [礦石商店](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)資料類：`CMineralShopData`
-+ [機器商店](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)資料類：`CMakerShopData`
++ 升級工具商店資料類：`CUpgradeToolShopData`
+    + [升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)
++ 礦石商店資料類：`CMineralShopData`
+    + [礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)
++ 機器商店資料類：`CMakerShopData`
+    + [機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)
 
 ### 商品模板
 + 工藝商品模板類：`CraftShopItemDataModel`
@@ -913,4 +916,3 @@ image: images/post/Season_of_Story/Building/21100.png
     + [機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)
 + 商品模板類：`ShopItemDataModel`
     + [礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)
-

@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】濤濤海濱"
+title: "濤濤海濱"
 date: 2020-04-18T12:28:12+08:00
 description: 濤濤海濱地理環境大全
 draft: false
@@ -18,6 +18,7 @@ image: images/post/Season_of_Story/Scene/10800.png
 ---
 ## 濤濤海濱
 + Zazan Beach
+
 ![濤濤海濱地區範圍](/images/post/Season_of_Story/Map/10800.png)
 <table>
     <thead>

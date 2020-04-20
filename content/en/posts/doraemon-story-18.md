@@ -61,7 +61,7 @@ image: images/post/Season_of_Story/Sprite/icon_201140190.png
 ### 第2話 
 + 事件ID：`40007002`
 + 優先度：`3`
-+ 觸發地點：[樵之森](../doraemon-story-map#樵之森)（`10600`）
++ 觸發地點：[樵之森](../doraemon-story-map-10600-lumberjack-forest)（`10600`）
 
 ![樵之森](/images/post/Season_of_Story/Map/10600.png)
 + 前置劇情：[松鼠第1話 ](#第1話-)（`40007001`）
