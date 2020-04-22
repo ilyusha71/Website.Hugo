@@ -763,24 +763,23 @@ image: images/post/Season_of_Story/Building/20700.png
 
 ## MOD資料庫
 ### 調用方法
-+ 增加[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)響應方法：<br>`FarmWorkState.AddVarietyShopResponse(ResponseModel, NpcModel) : void @0600134A`
-+ 建立[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)響應方法：<br>`CreateVarietyShopResponse(NpcModel npc, int season, string choice_text)`<mark>修正</mark>
-    + 取得[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#販售資料)商品資料：<br>`FarmWorkState.GetVarietyShopItemDatas(int) : ShopItemDataModel[] @0600134B`
++ 增加[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)商店介面的響應方法：<br>`FarmWorkState.AddVarietyShopResponse(ResponseModel, NpcModel) : void @0600134A`
+    + 建立[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#販售資料)商店介面的響應方法：<br>`FarmWorkState.CreateVarietyShopResponse(NpcModel, int, string) : ResponseModel @0600134C`
+        + 取得[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#販售資料)商品資料：<br>`FarmWorkState.GetVarietyShopItemDatas(int) : ShopItemDataModel[] @0600134B`
+            + [取得所有雜貨店的商店資料](../doraemon-story-shop-20700-knick-knacks-general-store/#取得所有雜貨店的商店資料)
+            + [取得雜貨店首年販售的商店資料](../doraemon-story-shop-20700-knick-knacks-general-store/#取得雜貨店首年販售的商店資料)
 
-### 商店功能集成介面
-+ 取得[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#販售資料)商店所有資料：<br>`ShopMasterCollection.GetAllVarietyShopDatas()`<mark>修正</mark>
-+ 取得[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#販售資料)商店`首年販售`資料：<br>`ShopMasterCollection.GetFirstYearVarietyShopDatas()`<mark>修正</mark>
+### 商店集成介面
++ `ShopMasterCollection.Setup() : void @06002BF0`
+
+#### 取得所有雜貨店的商店資料
++ 取得[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#販售資料)商店所有資料：<br>`ShopMasterCollection.GetAllVarietyShopDatas() : ShopMasterModel[] @06002BEA`
+
+#### 取得雜貨店首年販售的商店資料
++ 取得[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#販售資料)商店`首年販售`資料：<br>`ShopMasterCollection.GetFirstYearVarietyShopDatas() : ShopMasterModel[] @06002BEB`
 
 ### 商店模板
 + 商店主模板類：`ShopMasterModel`
-    + [作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)商店
-    + [肥料](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)商店
-    + [工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)商店
-    + [背包](../doraemon-story-shop-20700-knick-knacks-general-store/#背包)商店
-    + [DLC](../doraemon-story-shop-20700-knick-knacks-general-store/#dlc)商店
-
-### 商店資料
-+ 雜貨店商品資料類：`CVarietyShopData`
     + [作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)
     + [肥料](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)
     + [工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)
@@ -789,6 +788,14 @@ image: images/post/Season_of_Story/Building/20700.png
 
 ### 商品模板
 + 商品模板類：`ShopItemDataModel`
+    + [作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)
+    + [肥料](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)
+    + [工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)
+    + [背包](../doraemon-story-shop-20700-knick-knacks-general-store/#背包)
+    + [DLC](../doraemon-story-shop-20700-knick-knacks-general-store/#dlc)
+
+### 商店資料
++ 雜貨店商品資料類：`CVarietyShopData`
     + [作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)
     + [肥料](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)
     + [工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)

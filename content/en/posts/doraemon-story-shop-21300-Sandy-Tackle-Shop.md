@@ -153,20 +153,24 @@ image: images/post/Season_of_Story/Building/21300.png
 
 ## MOD資料庫
 ### 調用方法
-+ 增加[釣具店](../doraemon-story-shop-21300-sandy-tackle-shop)商店響應方法：<br>`FarmWorkState.AddFishingTackleShopResponse(ResponseModel, NpcModel) : void @0600135C`
++ 增加[釣具店](../doraemon-story-shop-21300-sandy-tackle-shop)商店介面的響應方法：<br>`FarmWorkState.AddFishingTackleShopResponse(ResponseModel, NpcModel) : void @0600135C`
     + 取得[釣具店](../doraemon-story-shop-21300-sandy-tackle-shop/#販售資料)商品資料：<br>`FarmWorkState.GetFishingTackleShopItemDatas() : ShopItemDataModel[] @0600135D`
+        + [取得所有釣具店的商店資料](../doraemon-story-shop-21300-sandy-tackle-shop/#取得所有釣具店的商店資料)
 
-### 商店功能集成介面
-+ 取得[釣具店](../doraemon-story-shop-21300-sandy-tackle-shop/#販售資料)商店所有資料：<br>`ShopMasterCollection.GetAllFishingTackleShopDatas() : ShopMasterModel[] @06002BEC`
+### 商店集成介面
++ `ShopMasterCollection.Setup() : void @06002BF0`
+
+#### 取得所有釣具店的商店資料
++ 取得所有[釣具店](../doraemon-story-shop-21300-sandy-tackle-shop/#販售資料)的商店資料：<br>`ShopMasterCollection.GetAllFishingTackleShopDatas() : ShopMasterModel[] @06002BEC`
 
 ### 商店模板
 + 商店主模板類：`ShopMasterModel`
-    + [魚餌](../doraemon-story-shop-21300-sandy-tackle-shop/#魚餌)商店
-
-### 商店資料
-+ 釣具店商店資料類：`CFishingTackleShopData`
     + [魚餌](../doraemon-story-shop-21300-sandy-tackle-shop/#魚餌)
 
 ### 商品模板
 + 商品模板類：`ShopItemDataModel`
+    + [魚餌](../doraemon-story-shop-21300-sandy-tackle-shop/#魚餌)
+
+### 商店資料
++ 釣具店商店資料類：`CFishingTackleShopData`
     + [魚餌](../doraemon-story-shop-21300-sandy-tackle-shop/#魚餌)

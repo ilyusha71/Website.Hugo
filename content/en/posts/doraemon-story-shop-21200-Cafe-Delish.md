@@ -170,30 +170,55 @@ image: images/post/Season_of_Story/Building/21200.png
 
 ## MOD資料庫
 ### 調用方法
-+ 增加[料理店](../doraemon-story-shop-21200-cafe-delish)商店響應方法：<br>`FarmWorkState.AddCookingShopResponse(ResponseModel, NpcModel) : void @06001358`
++ 增加[料理店](../doraemon-story-shop-21200-cafe-delish)商店介面的響應方法：<br>`FarmWorkState.AddCookingShopResponse(ResponseModel, NpcModel) : void @06001358`
+    + 更新[料理店](../doraemon-story-shop-21200-cafe-delish/#販售資料)商店資料：<br>`FarmModel.UpdateRestaurantShopData(TimeModel) : void @06002E1A`
+        + 更新商店資料：<br>`RestaurantShopDataModel.UpdateShopDatas(TimeModel) : void @060032AE`
+            + 更新[食譜](../doraemon-story-shop-21200-cafe-delish-recipes)商品資料：<br>`RestaurantShopDataModel.UpdateCookingRecipeShopItemDatas(bool, int) : void @060032B0`
+                + [取得特定季節食譜的商店資料](../doraemon-story-shop-21200-cafe-delish/#取得特定季節食譜的商店資料)
+                + [取得料理店抽選的商店資料](../doraemon-story-shop-21200-cafe-delish/#取得料理店抽選的商店資料)
+                + [取得料理店的商店資料](../doraemon-story-shop-21200-cafe-delish/#取得料理店的商店資料)
+            + 更新[料理](../doraemon-story-shop-21200-cafe-delish-meals)商品資料：<br>`RestaurantShopDataModel.UpdateDishShopItemDatas(bool, int) : void @060032B1`
+                + [取得特定季節料理的商店資料](../doraemon-story-shop-21200-cafe-delish/#取得特定季節料理的商店資料)
+                + [取得料理店抽選的商店資料](../doraemon-story-shop-21200-cafe-delish/#取得料理店抽選的商店資料)
+                + [取得料理店的商店資料](../doraemon-story-shop-21200-cafe-delish/#取得料理店的商店資料)
+            + 更新[農產品](../doraemon-story-shop-21200-cafe-delish-produce)商品資料：<br>`RestaurantShopDataModel.UpdateCropShopItemDatas(bool, int) : void @060032B2`
+                + [取得特定季節農產品的商店資料](../doraemon-story-shop-21200-cafe-delish/#取得特定季節農產品的商店資料)
+                + [取得料理店抽選的商店資料](../doraemon-story-shop-21200-cafe-delish/#取得料理店抽選的商店資料)
+                + [取得料理店的商店資料](../doraemon-story-shop-21200-cafe-delish/#取得料理店的商店資料)
     + 取得料理店[食譜](../doraemon-story-shop-21200-cafe-delish-recipes)商品資料：<br>`FarmModel.GetRestaurantShopCookingRecipeItems() : ShopItemDataModel[] @06002E1B`
     + 取得料理店[料理](../doraemon-story-shop-21200-cafe-delish-meals)商品資料：<br>`FarmModel.GetRestaurantShopDishItems() : ShopItemDataModel[] @06002E1C`
     + 取得料理店[農產品](../doraemon-story-shop-21200-cafe-delish-produce)商品資料：<br>`FarmModel.GetRestaurantShopCropItems() : ShopItemDataModel[] @06002E1D`
     + 取得[調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)商品資料：<br>`FarmWorkState.GetCookingToolShopItemDatas() : ShopItemDataModel[] @06001359`
+        + [取得調理器具的所有資料](../doraemon-story-shop-21200-cafe-delish/#取得調理器具的所有資料)
 
-### 商店功能集成介面
-+ 取得[料理店](../doraemon-story-shop-21200-cafe-delish#販售資料)商店資料：<br>`GetRestaurantShopData(int id)`<mark>修正</mark>
-+ 取得[食譜](../doraemon-story-shop-21200-cafe-delish-recipes)商店`當季`資料：<br>`GetGroupedBySeasonCookingRecipeShopDatas(int season)`<mark>修正</mark>
-+ 取得[料理](../doraemon-story-shop-21200-cafe-delish-meals)商店`當季`資料：<br>`GetGroupedBySeasonDishShopDatas(int season)`<mark>修正</mark>
-+ 取得[農產品](../doraemon-story-shop-21200-cafe-delish-produce)商店`當季`資料：<br>`GetGroupedBySeasonCropShopDatas(int season)`<mark>修正</mark>
-+ 取得[調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)商店所有資料：<br>`GetAllCookingToolShopDatas()`<mark>修正</mark>
+#### 取得料理店抽選的商店資料
++ 取得[料理店](../doraemon-story-shop-21200-cafe-delish/#販售資料)`抽選`的商店資料：<br>`RestaurantShopDataModel.GetLotteryRestaurantShopMasterDatas(RestaurantShopMasterModel[], int) : RestaurantShopMasterModel[] @060032B3`
+
+
+### 商店集成介面
++ `ShopMasterCollection.Setup() : void @06002BF0`
+
+#### 取得特定季節食譜的商店資料
++ 取得`特定季節`[食譜](../doraemon-story-shop-21200-cafe-delish-recipes)的商店資料：<br>`ShopMasterCollection.GetGroupedBySeasonCookingRecipeShopDatas(int) : RestaurantShopMasterModel[] @06002BE4`
+
+#### 取得特定季節料理的商店資料
++ 取得`特定季節`[料理](../doraemon-story-shop-21200-cafe-delish-meals)的商店資料：<br>`ShopMasterCollection.GetGroupedBySeasonDishShopDatas(int) : RestaurantShopMasterModel[] @06002BE5`
+
+#### 取得特定季節農產品的商店資料
++ 取得`特定季節`[農產品](../doraemon-story-shop-21200-cafe-delish-produce)的商店資料：<br>`ShopMasterCollection.GetGroupedBySeasonCropShopDatas(int) : RestaurantShopMasterModel[] @06002BE6`
+
+#### 取得調理器具的所有資料
++ 取得[調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)的所有資料：<br>`ShopMasterCollection.GetAllCookingToolShopDatas() : RestaurantShopMasterModel[] @06002BE7`
+
+#### 取得料理店的商店資料
++ 取得[料理店](../doraemon-story-shop-21200-cafe-delish/#販售資料)的商店資料：<br>`ShopMasterCollection.GetRestaurantShopData(int) : RestaurantShopMasterModel @06002BE8`
 
 ### 商店模板
-+ 料理店商店主模板類：`RestaurantShopMasterModel`
 + 料理店商店資料模板類：`RestaurantShopDataModel`
-    + [食譜](../doraemon-story-shop-21200-cafe-delish-recipes)商店
-    + [料理](../doraemon-story-shop-21200-cafe-delish-meals)商店
-    + [農產品](../doraemon-story-shop-21200-cafe-delish-produce)商店
-+ 商店主模板類：`ShopMasterModel`
-    + [調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)商店
-
-### 商店資料
-+ 料理店商店資料類：`CRestaurantShopData`
+    + [食譜](../doraemon-story-shop-21200-cafe-delish-recipes)
+    + [料理](../doraemon-story-shop-21200-cafe-delish-meals)
+    + [農產品](../doraemon-story-shop-21200-cafe-delish-produce)
++ 料理店商店主模板類：`RestaurantShopMasterModel`
     + [食譜](../doraemon-story-shop-21200-cafe-delish-recipes)
     + [料理](../doraemon-story-shop-21200-cafe-delish-meals)
     + [農產品](../doraemon-story-shop-21200-cafe-delish-produce)
@@ -201,6 +226,13 @@ image: images/post/Season_of_Story/Building/21200.png
 
 ### 商品模板
 + 商品模板類：`ShopItemDataModel`
+    + [食譜](../doraemon-story-shop-21200-cafe-delish-recipes)
+    + [料理](../doraemon-story-shop-21200-cafe-delish-meals)
+    + [農產品](../doraemon-story-shop-21200-cafe-delish-produce)
+    + [調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)
+
+### 商店資料
++ 料理店商店資料類：`CRestaurantShopData`
     + [食譜](../doraemon-story-shop-21200-cafe-delish-recipes)
     + [料理](../doraemon-story-shop-21200-cafe-delish-meals)
     + [農產品](../doraemon-story-shop-21200-cafe-delish-produce)

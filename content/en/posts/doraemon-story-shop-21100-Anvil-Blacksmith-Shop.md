@@ -884,30 +884,32 @@ image: images/post/Season_of_Story/Building/21100.png
 
 ## MOD資料庫
 ### 調用方法
-+ 增加[打鐵店](../doraemon-story-shop-21100-anvil-blacksmith-shop)商店響應方法：<br>`FarmWorkState.AddBlackSmithResponse(ResponseModel, NpcModel) : void @06001354`
++ 增加[打鐵店](../doraemon-story-shop-21100-anvil-blacksmith-shop)商店介面的響應方法：<br>`FarmWorkState.AddBlackSmithResponse(ResponseModel, NpcModel) : void @06001354`
     + 取得[升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)商品資料：<br>`FarmWorkState.GetUpgradeToolShopItemDatas() : CraftShopItemDataModel[] @06001355`
+        + [取得所有升級工具的商店資料](../doraemon-story-shop-21100-anvil-blacksmith-shop/#取得所有升級工具的商店資料)
     + 取得[礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)商品資料：<br>`FarmWorkState.GetMineralShopItemDatas() : ShopItemDataModel[] @06001356`
+        + [取得礦石的商店資料](../doraemon-story-shop-21100-anvil-blacksmith-shop/#取得礦石的商店資料)
     + 取得[機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)商品資料：<br>`FarmWorkState.GetMakerShopItemDatas() : CraftShopItemDataModel[] @06001357`
+        + [取得所有機器的商店資料](../doraemon-story-shop-21100-anvil-blacksmith-shop/#取得所有機器的商店資料)
 
-### 商店功能集成介面
-+ 取得[升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)商店所有資料：<br>`ShopMasterCollection.GetAllUpgradeToolShopDatas() : UpgradeToolShopMasterModel[] @06002BDD`
-+ 取得[礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)商店資料：<br>`ShopMasterCollection.GetMineralShopDatas(int) : ShopMasterModel[] @06002BDE`
-+ 取得[機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)商店所有資料：<br>`ShopMasterCollection.GetAllMakerShopDatas() : MakerShopMasterModel[] @06002BDF`
+### 商店集成介面
++ `ShopMasterCollection.Setup() : void @06002BF0`
+
+#### 取得所有升級工具的商店資料
++ 取得所有[升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)的商店資料：<br>`ShopMasterCollection.GetAllUpgradeToolShopDatas() : UpgradeToolShopMasterModel[] @06002BDD`
+
+#### 取得礦石的商店資料
++ 取得[礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)的商店資料：<br>`ShopMasterCollection.GetMineralShopDatas(int) : ShopMasterModel[] @06002BDE`
+
+#### 取得所有機器的商店資料
++ 取得所有[機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)的商店資料：<br>`ShopMasterCollection.GetAllMakerShopDatas() : MakerShopMasterModel[] @06002BDF`
 
 ### 商店模板
 + 升級工具商店主模板類：`UpgradeToolShopMasterModel`
-    + [升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)商店
-+ 商店主模板類：`ShopMasterModel`
-    + [礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)商店
-+ 機器商店主模板類：`MakerShopMasterModel`
-    + [機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)商店
-
-### 商店資料
-+ 升級工具商店資料類：`CUpgradeToolShopData`
     + [升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)
-+ 礦石商店資料類：`CMineralShopData`
++ 商店主模板類：`ShopMasterModel`
     + [礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)
-+ 機器商店資料類：`CMakerShopData`
++ 機器商店主模板類：`MakerShopMasterModel`
     + [機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)
 
 ### 商品模板
@@ -916,3 +918,11 @@ image: images/post/Season_of_Story/Building/21100.png
     + [機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)
 + 商品模板類：`ShopItemDataModel`
     + [礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)
+
+### 商店資料
++ 升級工具商店資料類：`CUpgradeToolShopData`
+    + [升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)
++ 礦石商店資料類：`CMineralShopData`
+    + [礦石](../doraemon-story-shop-21100-anvil-blacksmith-shop/#礦石)
++ 機器商店資料類：`CMakerShopData`
+    + [機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)

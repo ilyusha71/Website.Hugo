@@ -334,22 +334,22 @@ image: images/post/Season_of_Story/Building/20500.png
 
 ## MOD資料庫
 ### 調用方法
-+ 增加[動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock)商店響應方法：<br>`FarmWorkState.AddCattleAndSheepShopResponse(ResponseModel, NpcModel, Transform) : void @0600134E`
-    + 取得[動物](../doraemon-story-shop-20500-gouter-mawk-livestock/#販售資料)商品`轉換`資料：<br>`FarmWorkState.ConvertAnimalShopItemDatas(ShopMasterModel[]) : ShopItemDataModel[] @06001348`
++ 增加[動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock)商店介面的響應方法：<br>`FarmWorkState.AddCattleAndSheepShopResponse(ResponseModel, NpcModel, Transform) : void @0600134E`
+    + [取得所有動物商店非陳列的商店資料](../doraemon-story-shop-20500-gouter-mawk-livestock/#取得所有動物商店非陳列的商店資料)
+    + `轉換`[動物](../doraemon-story-shop-20500-gouter-mawk-livestock/#販售資料)商品資料：<br>`FarmWorkState.ConvertAnimalShopItemDatas(ShopMasterModel[]) : ShopItemDataModel[] @06001348`
+    + [取得所有動物商店陳列的商店資料](../doraemon-story-shop-20500-gouter-mawk-livestock/#取得所有動物商店陳列的商店資料)
 
-### 商店功能集成介面
-+ 取得[動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock/#販售資料)所有`非陳列`資料：<br>`GetAllNotDisplayCattleAndSheepShopDatas()`<mark>修正</mark>
-+ 取得[動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock/#販售資料)所有`陳列`資料：<br>`GetAllDisplayCattleAndSheepShopDatas()`<mark>修正</mark>
+### 商店集成介面
++ `ShopMasterCollection.Setup() : void @06002BF0`
+
+#### 取得所有動物商店非陳列的商店資料
++ 取得所有[動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock/#販售資料)`非陳列`的商店資料：<br>`ShopMasterCollection.GetAllNotDisplayCattleAndSheepShopDatas() : ShopMasterModel[] @06002BDC`
+
+#### 取得所有動物商店陳列的商店資料
++ 取得所有[動物商店](../doraemon-story-shop-20500-gouter-mawk-livestock/#販售資料)`陳列`的商店資料：<br>`ShopMasterCollection.GetAllDisplayCattleAndSheepShopDatas() : ShopMasterModel[] @06002BDB`
 
 ### 商店模板
 + 商店主模板類：`ShopMasterModel`
-    + [工具](../doraemon-story-shop-20500-gouter-mawk-livestock/#工具)商店
-    + [動物餵食](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物餵食)商店
-    + [動物種子](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物種子)商店
-    + [動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)商店
-
-### 商店資料
-+ 動物商店資料類：`CCattleAndSheepShopData`
     + [工具](../doraemon-story-shop-20500-gouter-mawk-livestock/#工具)
     + [動物餵食](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物餵食)
     + [動物種子](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物種子)
@@ -357,6 +357,13 @@ image: images/post/Season_of_Story/Building/20500.png
 
 ### 商品模板
 + 商品模板類：`ShopItemDataModel`
+    + [工具](../doraemon-story-shop-20500-gouter-mawk-livestock/#工具)
+    + [動物餵食](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物餵食)
+    + [動物種子](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物種子)
+    + [動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)
+
+### 商店資料
++ 動物商店資料類：`CCattleAndSheepShopData`
     + [工具](../doraemon-story-shop-20500-gouter-mawk-livestock/#工具)
     + [動物餵食](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物餵食)
     + [動物種子](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物種子)

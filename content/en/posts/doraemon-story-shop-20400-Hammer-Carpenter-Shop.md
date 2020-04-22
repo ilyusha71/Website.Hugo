@@ -93,9 +93,40 @@ image: images/post/Season_of_Story/Building/20400.png
     + [擴建動物小屋](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋)：2種
     + [擴建雞小屋](../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋)：2種
     + [建造](../doraemon-story-shop-20400-hammer-carpenter-shop/#建造)：5種
-+ [家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)：種
-    + [家中的物品](#材料)：種
-    + [牧場的物品](#材料)：種
++ [家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)：467種
+    + [家中的物品](#材料)：330種
+        + `室內裝潢`：301種
+            + [簡約系列](../doraemon-story-interior-decorations-1/#簡約系列)：10種
+            + [木紋系列](../doraemon-story-interior-decorations-1/#木紋系列)：30種
+            + [石質系列](../doraemon-story-interior-decorations-1/#石質系列)：30種
+            + [鄉村風系列](../doraemon-story-interior-decorations-1/#鄉村風系列)：30種
+            + [度假風系列](../doraemon-story-interior-decorations-1/#度假風系列)：30種
+            + [樹樁系列](../doraemon-story-interior-decorations-1/#樹樁系列)：30種
+            + [奢華風系列](../doraemon-story-interior-decorations-2/#奢華風系列)：30種
+            + [大雄系列](../doraemon-story-interior-decorations-2/#大雄系列)：6種
+            + [海洋風系列](../doraemon-story-interior-decorations-2/#海洋風系列)：30種
+            + [花系列](../doraemon-story-interior-decorations-2/#花系列)：30種
+            + [軟綿綿系列](../doraemon-story-interior-decorations-2/#軟綿綿系列)：15種
+            + [化石系列](../doraemon-story-interior-decorations-2/#化石系列)：30種
+        + `室內裝飾品`：29種
+            + [玩具](../doraemon-story-interior-decorations-3/#玩具)：9種
+            + [標本](../doraemon-story-interior-decorations-3/#標本)：4種
+            + [日用品](../doraemon-story-interior-decorations-3/#日用品)：16種
+    + [牧場的物品](#材料)：137種
+        + `牧場裝修`：81種
+            + [木質系列](../doraemon-story-decor-1/#木質系列)：15種
+            + [石頭系列](../doraemon-story-decor-1/#石頭系列)：15種
+            + [鐵質系列](../doraemon-story-decor-1/#鐵質系列)：15種
+            + [紅磚系列](../doraemon-story-decor-1/#紅磚系列)：12種
+            + [時尚系列](../doraemon-story-decor-1/#時尚系列)：12種
+            + [可愛系列](../doraemon-story-decor-1/#可愛系列)：12種
+        + `牧場裝飾品`：56種
+            + [養蜂箱](../doraemon-story-decor-2/#養蜂箱)：1種
+            + [牧場物品](../doraemon-story-decor-2/#牧場物品)：4種
+            + [製物系列](../doraemon-story-decor-2/#製物系列)：6種
+            + [牌子](../doraemon-story-decor-2/#牌子)：7種
+            + [作物立牌](../doraemon-story-decor-2/#作物立牌)：37種
+            + [雕像](../doraemon-story-decor-2/#雕像)：1種
 + [資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)：4種
 
 ### 建築
@@ -125,7 +156,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>---</td>
             <td>---</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080010.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080010.png"></td>
             <td>簡陋的家</td>
             <td></td>
             <td></td>
@@ -138,7 +169,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>100100</td>
             <td>12010</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080011.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080011.png"></td>
             <td>寬闊的家</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">48</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">36</td>
@@ -151,7 +182,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>100101</td>
             <td>12020</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080012.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080012.png"></td>
             <td>巨大的家</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">121</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">88</td>
@@ -194,7 +225,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>---</td>
             <td>---</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080020.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080020.png"></td>
             <td>簡陋的動物小屋</td>
             <td></td>
             <td></td>
@@ -207,7 +238,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>100103</td>
             <td>12110</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
             <td>寬闊的動物小屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">60</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">31</td>
@@ -220,7 +251,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>100104</td>
             <td>12120</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
             <td>巨大的動物小屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">121</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">146</td>
@@ -271,7 +302,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>---</td>
             <td>---</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080030.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080030.png"></td>
             <td>簡陋的雞小屋</td>
             <td></td>
             <td></td>
@@ -284,7 +315,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>100105</td>
             <td>12210</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080031.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080031.png"></td>
             <td>寬闊的雞小屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">40</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">31</td>
@@ -297,7 +328,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>100106</td>
             <td>12220</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
             <td>巨大的雞小屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">161</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">110</td>
@@ -345,7 +376,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>100107</td>
             <td>12610</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080050.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080050.png"></td>
             <td>動物小屋的筒倉</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">69</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">48</td>
@@ -358,7 +389,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>100108</td>
             <td>12510</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080060.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080060.png"></td>
             <td>雞小屋的筒倉</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">53</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">55</td>
@@ -371,7 +402,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>100109</td>
             <td>12910</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080080.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080080.png"></td>
             <td>資材儲放屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">48</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">40</td>
@@ -384,7 +415,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>100102</td>
             <td>12410</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080070.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080070.png"></td>
             <td>馬小屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">40</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">31</td>
@@ -397,7 +428,7 @@ image: images/post/Season_of_Story/Building/20400.png
         <tr>
             <td>100110</td>
             <td>12310</td>
-            <td><img align="left" width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080040.png"></td>
+            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080040.png"></td>
             <td>溫室</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">242</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">440</td>
@@ -421,6 +452,116 @@ image: images/post/Season_of_Story/Building/20400.png
     + 支線劇情[馬第1話 寄養小馬！](../doraemon-story-13/#第1話-寄養小馬)（`40001001`）
 + [溫室建造完成](../doraemon-story-1/#溫室建造)（`10123101`）
     + [雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)開始同時販售全季節[作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)。
+
+### 家具
+#### 家中的物品
+##### 室內裝潢
+<table>
+    <thead>
+        <tr>
+            <td>簡約系列</td>
+            <td>木紋系列</td>
+            <td>石質系列</td>
+            <td>鄉村風系列</td>
+            <td>度假風系列</td>
+            <td>樹樁系列</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="../doraemon-story-interior-decorations-1/#簡約系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7010060.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-1/#木紋系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7011060.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-1/#石質系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7012060.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-1/#鄉村風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7013060.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-1/#度假風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7014060.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-1/#樹樁系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7015060.png"></a></td>
+        </tr>
+    <thead>
+        <tr>
+            <td>奢華風系列</td>
+            <td>大雄系列</td>
+            <td>海洋風系列</td>
+            <td>花系列</td>
+            <td>軟綿綿系列</td>
+            <td>化石系列</td>
+        </tr>
+    </thead>
+        <tr>
+            <td><a href="../doraemon-story-interior-decorations-2/#奢華風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7016060.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-2/#大雄系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7017060.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-2/#海洋風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7018060.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-2/#花系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7019060.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-2/#軟綿綿系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7020060.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-2/#化石系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7027060.png"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+##### 室內裝飾品
+<table>
+    <thead>
+        <tr>
+            <td>玩具</td>
+            <td>標本</td>
+            <td>日用品</td>
+        </tr>
+    </thead>
+        <tr>
+            <td><a href="../doraemon-story-interior-decorations-3/#玩具"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7022010.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-3/#標本"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7026000.png"></a></td>
+            <td><a href="../doraemon-story-interior-decorations-3/#日用品"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7028040.png"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+#### 牧場的物品
+##### 牧場裝修
+<table>
+    <thead>
+        <tr>
+            <td>木質系列</td>
+            <td>石頭系列</td>
+            <td>鐵質系列</td>
+            <td>紅磚系列</td>
+            <td>時尚系列</td>
+            <td>可愛系列</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="../doraemon-story-decor-1/#木質系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7053020.png"></a></td>
+            <td><a href="../doraemon-story-decor-1/#石頭系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7054020.png"></a></td>
+            <td><a href="../doraemon-story-decor-1/#鐵質系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7055020.png"></a></td>
+            <td><a href="../doraemon-story-decor-1/#紅磚系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7056020.png"></a></td>
+            <td><a href="../doraemon-story-decor-1/#時尚系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7057020.png"></a></td>
+            <td><a href="../doraemon-story-decor-1/#可愛系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7058020.png"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+##### 牧場裝飾品
+<table>
+    <thead>
+        <tr>
+            <td>養蜂箱</td>
+            <td>牧場物品</td>
+            <td>製物系列</td>
+            <td>牌子</td>
+            <td>作物立牌</td>
+            <td>雕像</td>
+        </tr>
+    </thead>
+        <tr>
+            <td><a href="../doraemon-story-decor-2/#養蜂箱"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7050000.png"></a></td>
+            <td><a href="../doraemon-story-decor-2/#牧場物品"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7052000.png"></a></td>
+            <td><a href="../doraemon-story-decor-2/#製物系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7059000.png"></a></td>
+            <td><a href="../doraemon-story-decor-2/#牌子"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7061060.png"></a></td>
+            <td><a href="../doraemon-story-decor-2/#作物立牌"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7065350.png"></a></td>
+            <td><a href="../doraemon-story-decor-2/#雕像"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7066000.png"></a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### 資材
 <table>
     <thead>
@@ -472,29 +613,33 @@ image: images/post/Season_of_Story/Building/20400.png
 
 ## MOD資料庫
 ### 調用方法
-+ 增加[木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)商店響應方法：<br>`FarmWorkState.AddCraftShopResponse(ResponseModel, NpcModel) : void @0600134F`
++ 增加[木工店](../doraemon-story-shop-20400-hammer-carpenter-shop)商店介面的響應方法：<br>`FarmWorkState.AddCraftShopResponse(ResponseModel, NpcModel) : void @0600134F`
     + 取得[建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)商品資料：<br>`FarmWorkState.GetBuildingShopItemDatas() : CraftShopItemDataModel[] @06001350`
-    + 取得[家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)商品資料：<br>`FarmWorkState.GetFurnitureShopItemDatas(bool) : CraftShopItemDataModel[] @06001351`
+        + [取得所有建築的商店資料](../doraemon-story-shop-20400-hammer-carpenter-shop/#取得所有建築的商店資料)
+    + 建立[家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)商店介面的響應方法：<br>`FarmWorkState.CreateFurnitureShopResponse(ResponseModel, ResponseModel, bool) : ResponseModel @06001353`
+        + 取得[家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)商品資料：<br>`		FarmWorkState.GetFurnitureShopItemDatas(bool) : CraftShopItemDataModel[] @06001351`
+            + [取得家具的商店資料](../doraemon-story-shop-20400-hammer-carpenter-shop/#取得家具的商店資料)
     + 取得[資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)商品資料：<br>`FarmWorkState.GetMaterialShopItemDatas() : ShopItemDataModel[] @06001352`
+        + [取得所有資材的商店資料](../doraemon-story-shop-20400-hammer-carpenter-shop/#取得所有資材的商店資料)
 
-### 商店功能集成介面
-+ 取得[建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)商店資料：<br>
-+ 取得[家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)商店資料：<br>
-+ 取得[資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)商店資料：<br>
+### 
+
+### 商店集成介面
++ `ShopMasterCollection.Setup() : void @06002BF0`
+
+#### 取得所有建築的商店資料
++ 取得所有[建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)的商店資料：<br>`ShopMasterCollection.GetAllBuildingShopDatas() : BuildingShopMasterModel[] @06002BE0`
+#### 取得家具的商店資料
++ 取得[家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)的商店資料：<br>`ShopMasterCollection.GetFurnitureShopDatas(bool) : FurnitureShopMasterModel[] @06002BE2`
+#### 取得所有資材的商店資料
++ 取得所有[資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)的商店資料：<br>`ShopMasterCollection.GetAllMaterialShopDatas() : ShopMasterModel[] @06002BE3`
 
 ### 商店模板
-+ XXXXXXXXXXXX商店主模板類：``
-    + [建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)商店
-    + [家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)商店
-+ 商店主模板類：`ShopMasterModel`
-    + [資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)商店
-
-### 商店資料
-+ 建築商品類：``
++ 建築商店主模板類：`BuildingShopMasterModel`
     + [建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)
-+ 家具商品類：``
++ 家具商店主模板類：`FurnitureShopMasterModel`
     + [家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)
-+ 資材商品類：``
++ 商店主模板類：`ShopMasterModel`
     + [資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)
 
 ### 商品模板
@@ -502,4 +647,12 @@ image: images/post/Season_of_Story/Building/20400.png
     + [建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)
     + [家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)
 + 商品模板類：`ShopItemDataModel`
+    + [資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)
+
+### 商店資料
++ 建築商店資料類：`CBuildingShopData`
+    + [建築](../doraemon-story-shop-20400-hammer-carpenter-shop/#建築)
++ 家具商店資料類：`CFurnitureShopData`
+    + [家具](../doraemon-story-shop-20400-hammer-carpenter-shop/#家具)
++ 資材商店資料類：`CMaterialShopData`
     + [資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)

@@ -400,3 +400,7 @@ public static bool CheckBuildableMaker(int parent_building_id)
         <td><img src= "/images/post/Season_of_Story/Sprite/icon_201060030.png"></td>
     </tr>
 </table>
+
+## 克魯波克魯幫忙事件
+
+`30005001`~`30005011`

@@ -194,25 +194,32 @@ image: images/post/Season_of_Story/Building/20200.png
 
 ## MOD資料庫
 ### 調用方法
-+ 增加[小雞商店](../doraemon-story-shop-20200-cuckoo-house-chickens)商店響應方法：<br>`FarmWorkState.AddChickenShopResponse(ResponseModel, NpcModel, Transform) : void @0600134D`
-    + 取得[動物](../doraemon-story-shop-20200-cuckoo-house-chickens/#販售資料)商品`轉換`資料：<br>`FarmWorkState.ConvertAnimalShopItemDatas(ShopMasterModel[]) : ShopItemDataModel[] @06001348`
++ 增加[小雞商店](../doraemon-story-shop-20200-cuckoo-house-chickens)商店介面的響應方法：<br>`FarmWorkState.AddChickenShopResponse(ResponseModel, NpcModel, Transform) : void @0600134D`
+    + [取得所有小雞商店非陳列的商店資料](../doraemon-story-shop-20200-cuckoo-house-chickens/#取得所有小雞商店非陳列的商店資料)
+    + `轉換`[動物](../doraemon-story-shop-20200-cuckoo-house-chickens/#販售資料)商品資料：<br>`FarmWorkState.ConvertAnimalShopItemDatas(ShopMasterModel[]) : ShopItemDataModel[] @06001348`
+    + [取得所有小雞商店陳列的商店資料](../doraemon-story-shop-20200-cuckoo-house-chickens/#取得所有小雞商店陳列的商店資料)
 
-### 商店功能集成介面
-+ 取得[小雞商店](../doraemon-story-shop-20200-cuckoo-house-chickens/#販售資料)所有`非陳列`資料：<br>`GetAllNotDisplayChickenShopDatas()`<mark>修正</mark>
-+ 取得[小雞商店](../doraemon-story-shop-20200-cuckoo-house-chickens/#販售資料)所有`陳列`資料：<br>`GetAllDisplayChickenShopDatas()`<mark>修正</mark>
+### 商店集成介面
++ `ShopMasterCollection.Setup() : void @06002BF0`
+
+#### 取得所有小雞商店非陳列的商店資料
++ 取得所有[小雞商店](../doraemon-story-shop-20200-cuckoo-house-chickens/#販售資料)`非陳列`的商店資料：<br>`ShopMasterCollection.GetAllNotDisplayChickenShopDatas() : ShopMasterModel[] @06002BDA`
+
+#### 取得所有小雞商店陳列的商店資料
++ 取得所有[小雞商店](../doraemon-story-shop-20200-cuckoo-house-chickens/#販售資料)`陳列`的商店資料：<br>`ShopMasterCollection.GetAllDisplayChickenShopDatas() : ShopMasterModel[] @06002BD9`
 
 ### 商店模板
 + 商店主模板類：`ShopMasterModel`
-    + [動物餵食](../doraemon-story-shop-20200-cuckoo-house-chickens/#動物餵食)商店
-    + [動物鈴](../doraemon-story-shop-20200-cuckoo-house-chickens/#動物鈴)商店
-
-### 商店資料
-+ 小雞商店資料類：`CChickenShopData`
     + [動物餵食](../doraemon-story-shop-20200-cuckoo-house-chickens/#動物餵食)
     + [動物鈴](../doraemon-story-shop-20200-cuckoo-house-chickens/#動物鈴)
 
 ### 商品模板
 + 商品模板類：`ShopItemDataModel`
+    + [動物餵食](../doraemon-story-shop-20200-cuckoo-house-chickens/#動物餵食)
+    + [動物鈴](../doraemon-story-shop-20200-cuckoo-house-chickens/#動物鈴)
+
+### 商店資料
++ 小雞商店資料類：`CChickenShopData`
     + [動物餵食](../doraemon-story-shop-20200-cuckoo-house-chickens/#動物餵食)
     + [動物鈴](../doraemon-story-shop-20200-cuckoo-house-chickens/#動物鈴)
 

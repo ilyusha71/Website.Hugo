@@ -91,3 +91,60 @@ Steam版的哆啦A夢牧場物語安裝目錄應該會是在Steam安裝目錄下
 + [减少钓鱼的等待时间](https://mod.3dmgame.com/mod/146203) by <u>***a_nderw***</u>
 + [用双击快速存取物品](https://mod.3dmgame.com/mod/146222) by <u>***a_nderw***</u>
 + [午睡回复更多的体力](https://mod.3dmgame.com/mod/146238) by <u>***a_nderw***</u>
+
+
+## MOD
++ 商店集成：`ShopMasterCollection`
+
+    + 取得`展示`在`小雞商店`的所有資料：<br>`ShopMasterCollection.GetAllDisplayChickenShopDatas() : ShopMasterModel[] @06002BD9`
+    + 取得`非展示`在`小雞商店`的所有資料：<br>`ShopMasterCollection.GetAllNotDisplayChickenShopDatas() : ShopMasterModel[] @06002BDA`
+
+    + 取得`建築商店`的所有資料：<br>`ShopMasterCollection.GetAllBuildingShopDatas() : BuildingShopMasterModel[] @06002BE0`
+    + 取得`家具商店`的所有資料：<br>`ShopMasterCollection.GetAllFurnitureShopDatas() : FurnitureShopMasterModel[] @06002BE1`
+    + 取得`家具商店`的資料：<br>`ShopMasterCollection.GetFurnitureShopDatas(bool) : FurnitureShopMasterModel[] @06002BE2`
+    + 取得`資材商店`的所有資料：<br>`ShopMasterCollection.GetAllMaterialShopDatas() : ShopMasterModel[] @06002BE3`
+
+    + 取得`展示`在`動物商店`的所有資料：<br>`ShopMasterCollection.GetAllDisplayCattleAndSheepShopDatas() : ShopMasterModel[] @06002BDB`
+    + 取得`非展示`在`動物商店`的所有資料：<br>`ShopMasterCollection.GetAllNotDisplayCattleAndSheepShopDatas() : ShopMasterModel[] @06002BDC`
+
+    + 取得`雜貨店`的所有資料：<br>`ShopMasterCollection.GetAllVarietyShopDatas() : ShopMasterModel[] @06002BEA`
+    + 取得`雜貨店`的`首年販售`資料：<br>`ShopMasterCollection.GetFirstYearVarietyShopDatas() : ShopMasterModel[] @06002BEB`
+
+    + 取得`醫院`的`日常販售`資料：<br>`ShopMasterCollection.GetDailySaleHospitalShopDatas() : Dictionary<int, List<HospitalShopMasterModel>> @06002BEE`
+    + 取得`醫院`的`指定`資料：<br>`ShopMasterCollection.GetHospitalShopData(int) : HospitalShopMasterModel @06002BEF`
+    + 取得`醫院`的`非日常販售`資料：<br>`ShopMasterCollection.GetNotDailySaleHospitalShopDatas() : HospitalShopMasterModel[] @06002BED`
+
+
+
+    + 取得`升級工具商店`的所有資料：<br>`ShopMasterCollection.GetAllUpgradeToolShopDatas() : UpgradeToolShopMasterModel[] @06002BDD`
+    + 取得`礦石商店`的資料：<br>`ShopMasterCollection.GetMineralShopDatas(int) : ShopMasterModel[] @06002BDE`
+    + 取得`機器商店`的所有資料：<br>`ShopMasterCollection.GetAllMakerShopDatas() : MakerShopMasterModel[] @06002BDF`
+
+---
+
+### 調用方法
++ 增加[料理店](../doraemon-story-shop-21200-cafe-delish)商店介面的響應方法：<br>`FarmWorkState.AddCookingShopResponse(ResponseModel, NpcModel) : void @06001358`
+    + 更新[料理店](../doraemon-story-shop-21200-cafe-delish/#販售資料)商店資料：<br>`FarmModel.UpdateRestaurantShopData(TimeModel) : void @06002E1A`
+    + 取得料理店[食譜](../doraemon-story-shop-21200-cafe-delish-recipes)商品資料：<br>`FarmModel.GetRestaurantShopCookingRecipeItems() : ShopItemDataModel[] @06002E1B`
+    + 取得料理店[料理](../doraemon-story-shop-21200-cafe-delish-meals)商品資料：<br>`FarmModel.GetRestaurantShopDishItems() : ShopItemDataModel[] @06002E1C`
+    + 取得料理店[農產品](../doraemon-story-shop-21200-cafe-delish-produce)商品資料：<br>`FarmModel.GetRestaurantShopCropItems() : ShopItemDataModel[] @06002E1D`
+    + 取得[調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)商品資料：<br>`FarmWorkState.GetCookingToolShopItemDatas() : ShopItemDataModel[] @06001359`
+
+### 商店模板
++ 料理店商店主模板類：`RestaurantShopMasterModel`
+    + 取得`料理店`的`商店主模板`資料：<br>`ShopMasterCollection.GetRestaurantShopData(int) : RestaurantShopMasterModel @06002BE8`
+    + 取得`特定季節`的[食譜](../doraemon-story-shop-21200-cafe-delish-recipes)商店資料：<br>`ShopMasterCollection.GetGroupedBySeasonCookingRecipeShopDatas(int) : RestaurantShopMasterModel[] @06002BE4`
+    + 取得`特定季節`的[料理](../doraemon-story-shop-21200-cafe-delish-meals)商店資料：<br>`ShopMasterCollection.GetGroupedBySeasonDishShopDatas(int) : RestaurantShopMasterModel[] @06002BE5`
+    + 取得`特定季節`的[農產品](../doraemon-story-shop-21200-cafe-delish-produce)商店資料：<br>`ShopMasterCollection.GetGroupedBySeasonCropShopDatas(int) : RestaurantShopMasterModel[] @06002BE6`
+    + 取得[調理器具](../doraemon-story-shop-21200-cafe-delish/#調理器具)的所有資料：<br>`ShopMasterCollection.GetAllCookingToolShopDatas() : RestaurantShopMasterModel[] @06002BE7`
++ 料理店商店資料模板類：`RestaurantShopDataModel`
+    + 更新商店資料：<br>`RestaurantShopDataModel.UpdateShopDatas(TimeModel) : void @060032AE`
+        + 更新[食譜](../doraemon-story-shop-21200-cafe-delish-recipes)商品資料：<br>`RestaurantShopDataModel.UpdateCookingRecipeShopItemDatas(bool, int) : void @060032B0`
+        + 更新[料理](../doraemon-story-shop-21200-cafe-delish-meals)商品資料：<br>`RestaurantShopDataModel.UpdateDishShopItemDatas(bool, int) : void @060032B1`
+        + 更新[農產品](../doraemon-story-shop-21200-cafe-delish-produce)商品資料：<br>`RestaurantShopDataModel.UpdateCropShopItemDatas(bool, int) : void @060032B2`
+
+---
+
++ 取得`釣具店`的所有資料：<br>`ShopMasterCollection.GetAllFishingTackleShopDatas() : ShopMasterModel[] @06002BEC`
+
++ 取得`克魯波克魯小店`的所有資料：<br>`ShopMasterCollection.GetAllKorobokkurShopDatas() : ShopMasterModel[] @06002BE9`

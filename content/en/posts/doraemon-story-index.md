@@ -285,19 +285,20 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
     <tr>        
         <td><a href="../doraemon-story-shop-20400-hammer-carpenter-shop"><img width="100px" src= "/images/post/Season_of_Story/Building/20400.png"></a></td>
         <td align="center" valign="middle"><a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#建築"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_201080012.png">建築</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#家中物品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7022030.png">家中的物品</a></td>
-        <td align="center" valign="middle"><a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#牧場物品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7066000.png">牧場的物品</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#家中的物品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7028051.png">家中的物品</a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#牧場的物品"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7052000.png">牧場的物品</a></td>
         <td align="center" valign="middle"><a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#資材"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">資材</a></td>
     </tr>
 </table>
 <table>
     <thead>
         <tr>
-            <td colspan="10">克魯波克魯家</td>
+            <td colspan="10">克魯波克魯小店</td>
         </tr>
     </thead>
     <tr>
-        <td><a href="../"><img width="100px" src= "/images/post/Season_of_Story/Building/10500-21400.png"></a></td>
+        <td><a href="../doraemon-story-shop-21400-koropokkur-shop"><img width="100px" src= "/images/post/Season_of_Story/Building/10500-21400.png"></a></td>
+        <td align="center" valign="middle"><a href="../doraemon-story-shop-21400-koropokkur-shop/#秘密道具"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001066.png">秘密道具</a></td>
     </tr>
 </table>
 
