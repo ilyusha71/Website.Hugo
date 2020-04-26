@@ -94,21 +94,24 @@ image: images/post/Season_of_Story/Building/21100.png
 + [機器](../doraemon-story-shop-21100-anvil-blacksmith-shop/#機器)：6種
 
 ### 升級工具
++ `物品ID`=`1001000`+`ID`
++ `商品ID`=`物品ID`x`10`
+
 #### 初始工具
 <table>
     <thead>
         <tr>
-            <td colspan="10">物品ID</td>
+            <td colspan="10">ID</td>
         </tr>
     </thead>
     <tr>
-        <td align="center">1001000</td>
-        <td align="center">1001010</td>
-        <td align="center">1001020</td>
-        <td align="center">1001030</td>
-        <td align="center">1001040</td>
-        <td align="center">1001050</td>
-        <td align="center">1001060</td>
+        <td align="center">+00</td>
+        <td align="center">+10</td>
+        <td align="center">+20</td>
+        <td align="center">+30</td>
+        <td align="center">+40</td>
+        <td align="center">+50</td>
+        <td align="center">+60</td>
     </tr>
     <thead>
         <tr>
@@ -142,10 +145,9 @@ image: images/post/Season_of_Story/Building/21100.png
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td>Lv.1</td>
-            <td>商品名稱</td>
+            <td>工具名稱</td>
             <td>材料1</td>
             <td>材料2</td>
             <td>材料3</td>
@@ -155,8 +157,7 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
     </thead>
     <tr>
-        <td>10010010</td>
-        <td>1001001</td>
+        <td>+01</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001001.png"></td>
         <td>銅鋤頭</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png"></td>
@@ -167,8 +168,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1600</td>
     </tr>
     <tr>
-        <td>10010110</td>
-        <td>1001011</td>
+        <td>+11</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001011.png"></td>
         <td>銅槌子</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001010.png"></td>
@@ -179,8 +179,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1600</td>
     </tr>
     <tr>
-        <td>10010210</td>
-        <td>1001021</td>
+        <td>+21</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001021.png"></td>
         <td>銅製澆水壺</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001020.png"></td>
@@ -191,8 +190,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1600</td>
     </tr>
     <tr>
-        <td>10010310</td>
-        <td>1001031</td>
+        <td>+31</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001031.png"></td>
         <td>銅鐮刀</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001030.png"></td>
@@ -203,8 +201,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1600</td>
     </tr>
     <tr>
-        <td>10010410</td>
-        <td>1001041</td>
+        <td>+41</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001041.png"></td>
         <td>銅斧頭</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001040.png"></td>
@@ -215,8 +212,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1600</td>
     </tr>
     <tr>
-        <td>10010510</td>
-        <td>1001051</td>
+        <td>+51</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001051.png"></td>
         <td>銅製十字鎬</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001050.png"></td>
@@ -227,8 +223,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1600</td>
     </tr>
     <tr>
-        <td>10010610</td>
-        <td>1001061</td>
+        <td>+61</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001061.png"></td>
         <td>銅釣竿</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001060.png"></td>
@@ -244,10 +239,9 @@ image: images/post/Season_of_Story/Building/21100.png
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td>Lv.2</td>
-            <td>商品名稱</td>
+            <td>工具名稱</td>
             <td>材料1</td>
             <td>材料2</td>
             <td>材料3</td>
@@ -257,8 +251,7 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
     </thead>
     <tr>
-        <td>10010020</td>
-        <td>1001002</td>
+        <td>+02</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001002.png"></td>
         <td>鐵鋤頭</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001001.png"></td>
@@ -269,8 +262,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3100</td>
     </tr>
     <tr>
-        <td>10010120</td>
-        <td>1001012</td>
+        <td>+12</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001012.png"></td>
         <td>鐵槌子</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001011.png"></td>
@@ -281,8 +273,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3100</td>
     </tr>
     <tr>
-        <td>10010220</td>
-        <td>1001022</td>
+        <td>+22</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001022.png"></td>
         <td>鐵製澆水壺</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001021.png"></td>
@@ -293,8 +284,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3100</td>
     </tr>
     <tr>
-        <td>10010320</td>
-        <td>1001032</td>
+        <td>+32</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001032.png"></td>
         <td>鐵鐮刀</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001031.png"></td>
@@ -305,8 +295,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3100</td>
     </tr>
     <tr>
-        <td>10010420</td>
-        <td>1001042</td>
+        <td>+42</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001042.png"></td>
         <td>鐵斧頭</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001041.png"></td>
@@ -317,8 +306,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3100</td>
     </tr>
     <tr>
-        <td>10010520</td>
-        <td>1001052</td>
+        <td>+52</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001052.png"></td>
         <td>鐵製十字鎬</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001051.png"></td>
@@ -329,8 +317,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3100</td>
     </tr>
     <tr>
-        <td>10010620</td>
-        <td>1001062</td>
+        <td>+62</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001062.png"></td>
         <td>鐵釣竿</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001061.png"></td>
@@ -348,10 +335,9 @@ image: images/post/Season_of_Story/Building/21100.png
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td>Lv.3</td>
-            <td>商品名稱</td>
+            <td>工具名稱</td>
             <td>材料1</td>
             <td>材料2</td>
             <td>材料3</td>
@@ -361,8 +347,7 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
     </thead>
     <tr>
-        <td>10010030</td>
-        <td>1001003</td>
+        <td>+03</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001003.png"></td>
         <td>銀鋤頭</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001002.png"></td>
@@ -373,8 +358,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6100</td>
     </tr>
     <tr>
-        <td>10010130</td>
-        <td>1001013</td>
+        <td>+13</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001013.png"></td>
         <td>銀槌子</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001012.png"></td>
@@ -385,8 +369,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6100</td>
     </tr>
     <tr>
-        <td>10010230</td>
-        <td>1001023</td>
+        <td>+23</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001023.png"></td>
         <td>銀製澆水壺</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001022.png"></td>
@@ -397,8 +380,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6100</td>
     </tr>
     <tr>
-        <td>10010330</td>
-        <td>1001032</td>
+        <td>+32</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001033.png"></td>
         <td>銀鐮刀</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001032.png"></td>
@@ -409,8 +391,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6100</td>
     </tr>
     <tr>
-        <td>10010430</td>
-        <td>1001043</td>
+        <td>+43</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001043.png"></td>
         <td>銀斧頭</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001042.png"></td>
@@ -421,8 +402,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6100</td>
     </tr>
     <tr>
-        <td>10010530</td>
-        <td>1001053</td>
+        <td>+53</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001053.png"></td>
         <td>銀製十字鎬</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001052.png"></td>
@@ -433,8 +413,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6100</td>
     </tr>
     <tr>
-        <td>10010630</td>
-        <td>1001063</td>
+        <td>+63</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001063.png"></td>
         <td>銀釣竿</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001062.png"></td>
@@ -452,10 +431,9 @@ image: images/post/Season_of_Story/Building/21100.png
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td>Lv.4</td>
-            <td>商品名稱</td>
+            <td>工具名稱</td>
             <td>材料1</td>
             <td>材料2</td>
             <td>材料3</td>
@@ -465,8 +443,7 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
     </thead>
     <tr>
-        <td>10010040</td>
-        <td>1001004</td>
+        <td>+04</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001004.png"></td>
         <td>金鋤頭</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001003.png"></td>
@@ -477,8 +454,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010140</td>
-        <td>1001014</td>
+        <td>+14</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001014.png"></td>
         <td>金槌子</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001013.png"></td>
@@ -489,8 +465,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010240</td>
-        <td>1001024</td>
+        <td>+24</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001024.png"></td>
         <td>金製澆水壺</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001023.png"></td>
@@ -501,8 +476,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010340</td>
-        <td>1001034</td>
+        <td>+34</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001034.png"></td>
         <td>金鐮刀</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001033.png"></td>
@@ -513,8 +487,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010440</td>
-        <td>1001044</td>
+        <td>+44</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001044.png"></td>
         <td>金斧頭</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001043.png"></td>
@@ -525,8 +498,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010540</td>
-        <td>1001054</td>
+        <td>+54</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001054.png"></td>
         <td>金製十字鎬</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001053.png"></td>
@@ -537,8 +509,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8300</td>
     </tr>
     <tr>
-        <td>10010640</td>
-        <td>1001064</td>
+        <td>+64</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001064.png"></td>
         <td>金釣竿</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001063.png"></td>
@@ -563,10 +534,9 @@ image: images/post/Season_of_Story/Building/21100.png
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td>Lv.5</td>
-            <td>商品名稱</td>
+            <td>工具名稱</td>
             <td>材料1</td>
             <td>材料2</td>
             <td>材料3</td>
@@ -576,8 +546,7 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
     </thead>
     <tr>
-        <td>10010050</td>
-        <td>1001005</td>
+        <td>+05</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png"></td>
         <td>輕輕鬆鬆鋤頭</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001004.png"></td>
@@ -588,8 +557,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">16700</td>
     </tr>
     <tr>
-        <td>10010150</td>
-        <td>1001015</td>
+        <td>+15</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001015.png"></td>
         <td>輕輕鬆鬆槌子</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001014.png"></td>
@@ -600,8 +568,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">16700</td>
     </tr>
     <tr>
-        <td>10010250</td>
-        <td>1001025</td>
+        <td>+25</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png"></td>
         <td>輕輕鬆鬆澆水壺</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001024.png"></td>
@@ -612,8 +579,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">16700</td>
     </tr>
     <tr>
-        <td>10010350</td>
-        <td>1001035</td>
+        <td>+35</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png"></td>
         <td>輕輕鬆鬆鐮刀</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001034.png"></td>
@@ -624,8 +590,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">16700</td>
     </tr>
     <tr>
-        <td>10010450</td>
-        <td>1001045</td>
+        <td>+45</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001045.png"></td>
         <td>輕輕鬆鬆斧頭</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001044.png"></td>
@@ -636,8 +601,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">16700</td>
     </tr>
     <tr>
-        <td>10010550</td>
-        <td>1001055</td>
+        <td>+55</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001055.png"></td>
         <td>輕輕鬆鬆十字鎬</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001054.png"></td>
@@ -648,8 +612,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">16700</td>
     </tr>
     <tr>
-        <td>10010650</td>
-        <td>1001065</td>
+        <td>+65</td>
         <td><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_1001065.png"></td>
         <td>輕輕鬆鬆釣竿</td>
         <td align="center" valign="middle"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001064.png"></td>
@@ -662,11 +625,12 @@ image: images/post/Season_of_Story/Building/21100.png
 </table>
 
 ### 礦石
++ `物品ID`=`4001000`+`ID`
 <table>
     <thead>
         <tr>
             <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -676,7 +640,7 @@ image: images/post/Season_of_Story/Building/21100.png
     <tbody>
         <tr>
             <td>100100</td>
-            <td>4001001</td>
+            <td>+1</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4001001.png"></td>
             <td>銅礦石</td>
             <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">120</td>
@@ -684,7 +648,7 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
         <tr>
             <td>100101</td>
-            <td>4001000</td>
+            <td>+0</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png"></td>
             <td>鐵礦石</td>
             <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">200</td>
@@ -692,7 +656,7 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
         <tr>
             <td>100102</td>
-            <td>4001002</td>
+            <td>+2</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png"></td>
             <td>銀礦石</td>
             <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">320</td>
@@ -700,7 +664,7 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
         <tr>
             <td>100103</td>
-            <td>4001003</td>
+            <td>+3</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png"></td>
             <td>金礦石</td>
             <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">480</td>

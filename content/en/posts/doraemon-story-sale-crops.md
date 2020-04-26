@@ -31,18 +31,19 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
 + `品質等級`超過1的物品，`出貨價格`會根據上一品質等級的出貨價格以`售價倍率`提升並無條件進位至整數。
 
 ### 作物
-作物一共37種，其中牧草收成後的`乾草`不具有品質差異。
-+ [春季作物](#春季作物)：10種
-+ [夏季作物](#夏季作物)：13種
-+ [秋季作物](#秋季作物)：8種
-+ [冬季作物](#冬季作物)：4種
-+ [四季作物](#四季作物)：1種
++ `物品ID`=`3000000`+`ID`
++ `作物種子`一共`37種`，其中牧草收成後的`乾草`不具有品質差異。
+    + [春季作物](#春季作物)：10種
+    + [夏季作物](#夏季作物)：13種
+    + [秋季作物](#秋季作物)：8種
+    + [冬季作物](#冬季作物)：4種
+    + [四季作物](#四季作物)：1種
 
 #### 春季作物
 <table>
     <thead>
         <tr>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
             <td>作物名稱</td>
             <td>⭐️0.5</td>
@@ -59,7 +60,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
     </thead>
     <tbody>
         <tr>
-            <td>3000100</td>
+            <td>+100</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000100.png"></td>
             <td>蕪菁</td>
             <td>110</td>
@@ -74,7 +75,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>338</td>
         </tr>
         <tr>
-            <td>3000101</td>
+            <td>+101</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000101.png"></td>
             <td>馬鈴薯</td>
             <td>210</td>
@@ -89,7 +90,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>637</td>
         </tr>
         <tr>
-            <td>3000102</td>
+            <td>+102</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000102.png"></td>
             <td>高麗菜</td>
             <td>410</td>
@@ -104,7 +105,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>1241</td>
         </tr>
         <tr>
-            <td>3000103</td>
+            <td>+103</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000103.png"></td>
             <td>小黃瓜</td>
             <td>120</td>
@@ -119,7 +120,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>369</td>
         </tr>
         <tr>
-            <td>3000104</td>
+            <td>+104</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000104.png"></td>
             <td>草莓</td>
             <td>240</td>
@@ -134,7 +135,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>732</td>
         </tr>
         <tr>
-            <td>3000105</td>
+            <td>+105</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000105.png"></td>
             <td>白花椰菜</td>
             <td>360</td>
@@ -149,7 +150,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>1086</td>
         </tr>
         <tr>
-            <td>3000106</td>
+            <td>+106</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000106.png"></td>
             <td>豌豆</td>
             <td>130</td>
@@ -164,7 +165,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>397</td>
         </tr>
         <tr>
-            <td>3000108</td>
+            <td>+108</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000108.png"></td>
             <td>瑪格麗特</td>
             <td>170</td>
@@ -179,7 +180,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>520</td>
         </tr>
         <tr>
-            <td>3000110</td>
+            <td>+110</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000110.png"></td>
             <td>彩鐘花</td>
             <td>320</td>
@@ -194,7 +195,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>971</td>
         </tr>
         <tr>
-            <td>3000111</td>
+            <td>+111</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000111.png"></td>
             <td>康乃馨</td>
             <td>360</td>
@@ -215,7 +216,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
 <table>
     <thead>
         <tr>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
             <td>作物名稱</td>
             <td>⭐️0.5</td>
@@ -232,7 +233,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
     </thead>
     <tbody>
         <tr>
-            <td>3000200</td>
+            <td>+200</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000200.png"></td>
             <td>玉米</td>
             <td>220</td>
@@ -247,7 +248,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>668</td>
         </tr>
         <tr>
-            <td>3000201</td>
+            <td>+201</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000201.png"></td>
             <td>洋蔥</td>
             <td>140</td>
@@ -262,7 +263,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>430</td>
         </tr>
         <tr>
-            <td>3000202</td>
+            <td>+202</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000202.png"></td>
             <td>南瓜</td>
             <td>90</td>
@@ -277,7 +278,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>281</td>
         </tr>
         <tr>
-            <td>3000203</td>
+            <td>+203</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000203.png"></td>
             <td>西瓜</td>
             <td>170</td>
@@ -292,7 +293,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>520</td>
         </tr>
         <tr>
-            <td>3000204</td>
+            <td>+204</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000204.png"></td>
             <td>番茄</td>
             <td>180</td>
@@ -307,7 +308,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>550</td>
         </tr>
         <tr>
-            <td>3000205</td>
+            <td>+205</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png"></td>
             <td>哈密瓜</td>
             <td>660</td>
@@ -322,7 +323,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>1989</td>
         </tr>
         <tr>
-            <td>3000206</td>
+            <td>+206</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000206.png"></td>
             <td>鳳梨</td>
             <td>250</td>
@@ -337,7 +338,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>760</td>
         </tr>
         <tr>
-            <td>3000207</td>
+            <td>+207</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000207.png"></td>
             <td>甜椒</td>
             <td>130</td>
@@ -352,7 +353,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>397</td>
         </tr>
         <tr>
-            <td>3000210</td>
+            <td>+210</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000210.png"></td>
             <td>向日葵</td>
             <td>360</td>
@@ -367,7 +368,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>1086</td>
         </tr>
         <tr>
-            <td>3000211</td>
+            <td>+211</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000211.png"></td>
             <td>牽牛花</td>
             <td>170</td>
@@ -382,7 +383,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>520</td>
         </tr>
         <tr>
-            <td>3000213</td>
+            <td>+213</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000213.png"></td>
             <td>百合花</td>
             <td>320</td>
@@ -397,7 +398,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>971</td>
         </tr>
         <tr>
-            <td>3000214</td>
+            <td>+214</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000214.png"></td>
             <td>木槿</td>
             <td>170</td>
@@ -412,7 +413,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>520</td>
         </tr>
         <tr>
-            <td>3000215</td>
+            <td>+215</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000215.png"></td>
             <td>紅玫瑰</td>
             <td>240</td>
@@ -433,7 +434,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
 <table>
     <thead>
         <tr>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
             <td>作物名稱</td>
             <td>⭐️0.5</td>
@@ -450,7 +451,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
     </thead>
     <tbody>
         <tr>
-            <td>3000300</td>
+            <td>+300</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000300.png"></td>
             <td>牛蒡</td>
             <td>240</td>
@@ -465,7 +466,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>732</td>
         </tr>
         <tr>
-            <td>3000301</td>
+            <td>+301</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000301.png"></td>
             <td>胡蘿蔔</td>
             <td>360</td>
@@ -480,7 +481,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>1086</td>
         </tr>
         <tr>
-            <td>3000302</td>
+            <td>+302</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000302.png"></td>
             <td>地瓜</td>
             <td>60</td>
@@ -495,7 +496,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>186</td>
         </tr>
         <tr>
-            <td>3000303</td>
+            <td>+303</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000303.png"></td>
             <td>菠菜</td>
             <td>110</td>
@@ -510,7 +511,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>338</td>
         </tr>
         <tr>
-            <td>3000304</td>
+            <td>+304</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000304.png"></td>
             <td>茄子</td>
             <td>320</td>
@@ -525,7 +526,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>971</td>
         </tr>
         <tr>
-            <td>3000305</td>
+            <td>+305</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000305.png"></td>
             <td>青椒</td>
             <td>140</td>
@@ -540,7 +541,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>430</td>
         </tr>
         <tr>
-            <td>3000306</td>
+            <td>+306</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000306.png"></td>
             <td>撫子花</td>
             <td>210</td>
@@ -555,7 +556,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>637</td>
         </tr>
         <tr>
-            <td>3000307</td>
+            <td>+307</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000307.png"></td>
             <td>非洲菊</td>
             <td>450</td>
@@ -576,7 +577,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
 <table>
     <thead>
         <tr>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
             <td>作物名稱</td>
             <td>⭐️0.5</td>
@@ -593,7 +594,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
     </thead>
     <tbody>
         <tr>
-            <td>3000400</td>
+            <td>+400</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000400.png"></td>
             <td>白蘿蔔</td>
             <td>90</td>
@@ -608,7 +609,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>281</td>
         </tr>
         <tr>
-            <td>3000401</td>
+            <td>+401</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000401.png"></td>
             <td>白菜</td>
             <td>360</td>
@@ -623,7 +624,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>1086</td>
         </tr>
         <tr>
-            <td>3000402</td>
+            <td>+402</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000402.png"></td>
             <td>花椰菜</td>
             <td>90</td>
@@ -638,7 +639,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
             <td>281</td>
         </tr>
         <tr>
-            <td>3000404</td>
+            <td>+404</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000404.png"></td>
             <td>雪花蓮</td>
             <td>240</td>
@@ -659,7 +660,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
 <table>
     <thead>
         <tr>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
             <td>作物名稱</td>
             <td>⭐️0.5</td>
@@ -676,7 +677,7 @@ image: images/post/Season_of_Story/Sprite/icon_3000501.png
     </thead>
     <tbody>
         <tr>
-            <td>3000501</td>
+            <td>+501</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3000501.png"></td>
             <td>小麥</td>
             <td>50</td>

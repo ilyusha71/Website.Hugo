@@ -310,11 +310,11 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
         </tr>
     </thead>
     <tr>        
-        <td align="center"><a href="../doraemon-story-sell-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000100.png">蟲類</a></td>
-        <td align="center"><a href="../doraemon-story-sell-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">魚類</a></td>
-        <td align="center"><a href="../doraemon-story-sell-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000501.png">作物</a></td>
-        <td align="center"><a href="../doraemon-story-sell-meals"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300901.png">料理</a></td>    
-        <td align="center"><a href="../doraemon-story-sell-produce"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3400111.png">農產品</a></td>     
+        <td align="center"><a href="../doraemon-story-sale-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000100.png">蟲類</a></td>
+        <td align="center"><a href="../doraemon-story-sale-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">魚類</a></td>
+        <td align="center"><a href="../doraemon-story-sale-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000501.png">作物</a></td>
+        <td align="center"><a href="../doraemon-story-sale-meals"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300901.png">料理</a></td>    
+        <td align="center"><a href="../doraemon-story-sale-produce"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3400111.png">農產品</a></td>     
     </tr>
     <thead>
         <tr>
@@ -334,7 +334,7 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
         </tr>
     </thead>
     <tr>
-        <td align="center"><a href="../doraemon-story-sell-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101010.png">小雞商店</a></td>
+        <td align="center"><a href="../doraemon-story-sale-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101010.png">小雞商店</a></td>
         <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101040.png">動物商店</a></td>
         <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png">雜貨店</a></td>
         <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3400106.png">料理店</a></td>
@@ -350,6 +350,22 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
     <tr>        
         <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000126.png">蟲類圖鑑</a></td>
         <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">魚類圖鑑</a></td>
+    </tr>
+</table>
+
+## 魚類
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">魚類</td>        
+        </tr>
+    </thead>
+    <tr>        
+        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000121.png">出沒資料</a></td>
+        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">出貨價格</a></td>
+        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000167.png">魚拓</a></td>
+        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000102.png">魚料理</a></td>
+        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000182.png">魚標本</a></td>
     </tr>
 </table>
 
