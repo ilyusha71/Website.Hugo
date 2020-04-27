@@ -92,18 +92,30 @@ image: images/post/Season_of_Story/Building/21300.png
 <table>
     <thead>
         <tr>
-            <td align="center">是否為物品實體</td>
-            <td align="center">是否為單一物品</td>
+            <td align="center" colspan="4">商品特性</td>
+            <td align="center" colspan="3">物品特性</td>
+        </tr>
+        <tr>
+            <td align="center">物品實體</td>
+            <td align="center">單一物品</td>
             <td align="center">只能購買一次</td>
-            <td align="center">是否需要庫存空間</td>
+            <td align="center">需要庫存空間</td>
+            <td align="center">品質差異</td>
+            <td align="center">重要的物品</td>
+            <td align="center">原料</td>
         </tr>
     </thead>
-    <tr>
-        <td align="center">✔</td>
-        <td align="center">✘</td>
-        <td align="center">✘</td>
-        <td align="center">✔</td>
-    </tr>
+    <tbody>
+        <tr>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+        </tr>
+    </tbody>
 </table>
 <table>
     <thead>

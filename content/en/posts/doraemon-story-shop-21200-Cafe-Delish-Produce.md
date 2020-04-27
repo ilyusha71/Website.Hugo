@@ -28,6 +28,35 @@ image: images/post/Season_of_Story/Sprite/icon_3400101.png
 + 若當季作物`不足`5種時，並不會再從全年販售農產品抽選補齊10種，反之亦然。
 
 ## 農產品販售資料
+<table>
+    <thead>
+        <tr>
+            <td align="center" colspan="4">商品特性</td>
+            <td align="center" colspan="3">物品特性</td>
+        </tr>
+        <tr>
+            <td align="center">物品實體</td>
+            <td align="center">單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">需要庫存空間</td>
+            <td align="center">品質差異</td>
+            <td align="center">重要的物品</td>
+            <td align="center">原料</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+            <td align="center">✔</td>
+            <td align="center">✔<br>香辛料、紅豆餡、油、飯糰除外</td>
+            <td align="center">✘</td>
+            <td align="center">✔</td>
+        </tr>
+    </tbody>
+</table>
+
 + 作物：
     + `物品ID`=`3000000`+`作物ID`
     + `商品ID`=`300000`+`作物ID`

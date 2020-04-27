@@ -28,6 +28,28 @@ image: images/post/Season_of_Story/Sprite/icon_9200147.png
 + 若當季販售食譜`不足`5種時，並不會再從全年販售食譜抽選補齊10種，反之亦然。
 
 ## 食譜販售資料
+<table>
+    <thead>
+        <tr>
+            <td align="center" colspan="4">商品特性</td>
+        </tr>
+        <tr>
+            <td align="center">物品實體</td>
+            <td align="center">單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">需要庫存空間</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">✘</td>
+            <td align="center">✔</td>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+        </tr>
+    </tbody>
+</table>
+
 + `物品ID`=`9200000`+`ID`
 + `商品ID`=`100000`+`ID`
 + [食譜](../doraemon-story-shop-21200-cafe-delish-recipes)：89種

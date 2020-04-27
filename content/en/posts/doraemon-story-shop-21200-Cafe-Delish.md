@@ -111,6 +111,35 @@ image: images/post/Season_of_Story/Building/21200.png
 + [調理器具](#調理器具)：5種
 
 ### 調理器具
+<table>
+    <thead>
+        <tr>
+            <td align="center" colspan="4">商品特性</td>
+            <td align="center" colspan="3">物品特性</td>
+        </tr>
+        <tr>
+            <td align="center">物品實體</td>
+            <td align="center">單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">需要庫存空間</td>
+            <td align="center">品質差異</td>
+            <td align="center">重要的物品</td>
+            <td align="center">原料</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">✘</td>
+            <td align="center">✔</td>
+            <td align="center">✔</td>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+        </tr>
+    </tbody>
+</table>
+
 + 調理器具只能購買一次，已擁有的調理器具可以在`廚房`查看。
 
 <table>

@@ -28,6 +28,28 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
 + 注意！<mark>料理購買後將會立即被大雄磕掉</mark>，然後補充體力，並不會保留在背包裡面。
 
 ## 料理販售資料
+<table>
+    <thead>
+        <tr>
+            <td align="center" colspan="4">商品特性</td>
+        </tr>
+        <tr>
+            <td align="center">物品實體</td>
+            <td align="center">單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">需要庫存空間</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">✔</td>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+        </tr>
+    </tbody>
+</table>
+
 + `物品ID`=`3300000`+`ID`
 + `商品ID`=`200000`+`ID`
 + [料理](../doraemon-story-shop-21200-cafe-delish-meals)：86種

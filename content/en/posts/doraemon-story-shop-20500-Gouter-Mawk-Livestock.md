@@ -32,7 +32,7 @@ image: images/post/Season_of_Story/Building/20500.png
 ### 劇情發展
 <table>
     <tr>
-        <td>07</td>
+        <td align="center">07</td>
         <td align="center"><a href="../doraemon-story-07"><img src= "/images/post/Season_of_Story/Sprite/icon_201140080.png">動物商店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041110.png">布魯</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041120.png">優</td>
@@ -44,46 +44,46 @@ image: images/post/Season_of_Story/Building/20500.png
 <table>
     <thead>
         <tr>
-            <td>營業時間</td>
-            <td>上午</td>
-            <td>下午</td>
-            <td></td>
+            <td align="center">營業時間</td>
+            <td align="center">上午</td>
+            <td align="center">下午</td>
+            <td align="center"></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>星期日</td>
-            <td>9點~12點</td>
-            <td>13點~16點</td>
+            <td align="center">星期日</td>
+            <td align="center">9點~12點</td>
+            <td align="center">13點~16點</td>
             <td rowspan="10"><img src= "/images/post/Season_of_Story/Scene/20500-opening-time.png"></td>
         </tr>
         <tr>
-            <td>星期一</td>
-            <td>9點~12點</td>
-            <td>13點~16點</td>
+            <td align="center">星期一</td>
+            <td align="center">9點~12點</td>
+            <td align="center">13點~16點</td>
         </tr>
         <tr>
-            <td>星期二</td>
-            <td>9點~12點</td>
-            <td>13點~16點</td>
+            <td align="center">星期二</td>
+            <td align="center">9點~12點</td>
+            <td align="center">13點~16點</td>
         </tr>
         <tr>
-            <td>星期三</td>
+            <td align="center">星期三</td>
             <td colspan="2">公休日</td>
         </tr>        
         <tr>
-            <td>星期四</td>
-            <td>9點~12點</td>
-            <td>13點~16點</td>
+            <td align="center">星期四</td>
+            <td align="center">9點~12點</td>
+            <td align="center">13點~16點</td>
         </tr>
         <tr>
-            <td>星期五</td>
+            <td align="center">星期五</td>
             <td colspan="2">公休日</td>
         </tr>
         <tr>
-            <td>星期六</td>
-            <td>9點~12點</td>
-            <td>13點~16點</td>
+            <td align="center">星期六</td>
+            <td align="center">9點~12點</td>
+            <td align="center">13點~16點</td>
         </tr>
      </tbody>
 </table>
@@ -99,27 +99,27 @@ image: images/post/Season_of_Story/Building/20500.png
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>動物ID</td>
-            <td></td>
-            <td>動物名稱</td>
-            <td>販售價格</td>
+            <td align="center">商品ID</td>
+            <td align="center">動物ID</td>
+            <td align="center"></td>
+            <td align="center">動物名稱</td>
+            <td align="center">販售價格</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>900100</td>
-            <td>110</td>
-            <td><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031100.png"></td>
-            <td>牛</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6000</td>
+            <td align="center">900100</td>
+            <td align="center">110</td>
+            <td align="center"><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031100.png"></td>
+            <td align="center">牛</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6000</td>
         </tr>
         <tr>
-            <td>900101</td>
-            <td>112</td>
-            <td><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031120.png"></td>
-            <td>羊</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">4000</td>
+            <td align="center">900101</td>
+            <td align="center">112</td>
+            <td align="center"><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031120.png"></td>
+            <td align="center">羊</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">4000</td>
         </tr>
     </tbody>
 </table>
@@ -128,54 +128,72 @@ image: images/post/Season_of_Story/Building/20500.png
 <table>
     <thead>
         <tr>
-            <td align="center">是否為物品實體</td>
-            <td align="center">是否為單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">是否需要庫存空間</td>
+            <td align="center" colspan="4">商品特性</td>
+            <td align="center" colspan="3">物品特性</td>
         </tr>
-    </thead>
-    <tr>
-        <td align="center">✔</td>
-        <td align="center">✔</td>
-        <td align="center">✔</td>
-        <td align="center">✔</td>
-    </tr>
-</table>
-<table>
-    <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
-            <td></td>
-            <td>商品名稱</td>
-            <td>販售價格</td>
-            <td>功能</td>
+            <td align="center">物品實體</td>
+            <td align="center">單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">需要庫存空間</td>
+            <td align="center">品質差異</td>
+            <td align="center">重要的物品</td>
+            <td align="center">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>100100</td>
-            <td>1001110</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001110.png"></td>
-            <td>刷子</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">500</td>
-            <td>用來幫牛、羊與馬刷背</td>
+            <td align="center">✔</td>
+            <td align="center">✔</td>
+            <td align="center">✔</td>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td align="center">商品ID</td>
+            <td align="center">物品ID</td>
+            <td align="center">工具ID</td>
+            <td align="center"></td>
+            <td align="center">商品名稱</td>
+            <td align="center">販售價格</td>
+            <td align="center" colspan="2">功能</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">100100</td>
+            <td align="center">1001110</td>
+            <td align="center">1110</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001110.png"></td>
+            <td align="center">刷子</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">500</td>
+            <td colspan="2">用來幫牛、羊與馬刷背</td>
         </tr>
         <tr>
-            <td>100101</td>
-            <td>1001120</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001120.png"></td>
-            <td>擠乳器</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1000</td>
+            <td align="center">100101</td>
+            <td align="center">1001120</td>
+            <td align="center">1120</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001120.png"></td>
+            <td align="center">擠乳器</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1000</td>
             <td>用來幫成牛擠奶，可以獲得牛奶</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3200101.png"></td>
         </tr>
         <tr>
-            <td>100102</td>
-            <td>1001130</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001130.png"></td>
-            <td>剃毛刀</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1000</td>
+            <td align="center">100102</td>
+            <td align="center">1001130</td>
+            <td align="center">1130</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001130.png"></td>
+            <td align="center">剃毛刀</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1000</td>
             <td>用來幫成羊剪毛，可以獲得羊毛</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4100100.png"></td>
         </tr>
     </tbody>
 </table>
@@ -184,43 +202,55 @@ image: images/post/Season_of_Story/Building/20500.png
 <table>
     <thead>
         <tr>
-            <td align="center">是否為物品實體</td>
-            <td align="center">是否為單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">是否需要庫存空間</td>
+            <td align="center" colspan="4">商品特性</td>
+            <td align="center" colspan="3">物品特性</td>
         </tr>
-    </thead>
-    <tr>
-        <td align="center">✔</td>
-        <td align="center">✘</td>
-        <td align="center">✘</td>
-        <td align="center">✔</td>
-    </tr>
-</table>
-<table>
-    <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
-            <td></td>
-            <td>商品名稱</td>
-            <td>販售價格</td>
+            <td align="center">物品實體</td>
+            <td align="center">單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">需要庫存空間</td>
+            <td align="center">品質差異</td>
+            <td align="center">重要的物品</td>
+            <td align="center">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>100103</td>
-            <td>1101000</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101000.png"></td>
-            <td>乾草</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">10</td>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td align="center">商品ID</td>
+            <td align="center">物品ID</td>
+            <td align="center"></td>
+            <td align="center">商品名稱</td>
+            <td align="center">販售價格</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">100103</td>
+            <td align="center">1101000</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101000.png"></td>
+            <td align="center">乾草</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">10</td>
         </tr>
         <tr>
-            <td>100106</td>
-            <td>1101050</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101050.png"></td>
-            <td>動物用點心</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
+            <td align="center">100108</td>
+            <td align="center">1101050</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101050.png"></td>
+            <td align="center">動物用點心</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
         </tr>
     </tbody>
 </table>
@@ -229,49 +259,61 @@ image: images/post/Season_of_Story/Building/20500.png
 <table>
     <thead>
         <tr>
-            <td align="center">是否為物品實體</td>
-            <td align="center">是否為單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">是否需要庫存空間</td>
+            <td align="center" colspan="4">商品特性</td>
+            <td align="center" colspan="3">物品特性</td>
         </tr>
-    </thead>
-    <tr>
-        <td align="center">✔</td>
-        <td align="center">✘</td>
-        <td align="center">✘</td>
-        <td align="center">✔</td>
-    </tr>
-</table>
-<table>
-    <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
-            <td></td>
-            <td>商品名稱</td>
-            <td>販售價格</td>
-            <td></td>
-            <td>幼崽名稱</td>
+            <td align="center">物品實體</td>
+            <td align="center">單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">需要庫存空間</td>
+            <td align="center">品質差異</td>
+            <td align="center">重要的物品</td>
+            <td align="center">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>100107</td>
-            <td>1101030</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101030.png"></td>
-            <td>牛種子</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3000</td>
-            <td><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031110.png"></td>
-            <td>小牛崽兒</td>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td align="center">商品ID</td>
+            <td align="center">物品ID</td>
+            <td align="center"></td>
+            <td align="center">商品名稱</td>
+            <td align="center">販售價格</td>
+            <td align="center"></td>
+            <td align="center">幼崽名稱</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">100106</td>
+            <td align="center">1101030</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101030.png"></td>
+            <td align="center">牛種子</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3000</td>
+            <td align="center"><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031110.png"></td>
+            <td align="center">小牛崽兒</td>
         </tr>
         <tr>
-            <td>100108</td>
-            <td>1101040</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101040.png"></td>
-            <td>羊種子</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2000</td>
-            <td><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031130.png"></td>
-            <td>小羊崽兒</td>
+            <td align="center">100107</td>
+            <td align="center">1101040</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101040.png"></td>
+            <td align="center">羊種子</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2000</td>
+            <td align="center"><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031130.png"></td>
+            <td align="center">小羊崽兒</td>
         </tr>
     </tbody>
 </table>
@@ -280,71 +322,85 @@ image: images/post/Season_of_Story/Building/20500.png
 <table>
     <thead>
         <tr>
-            <td align="center">是否為物品實體</td>
-            <td align="center">是否為單一物品</td>
+            <td align="center" colspan="4">商品特性</td>
+            <td align="center" colspan="3">物品特性</td>
+        </tr>
+        <tr>
+            <td align="center">物品實體</td>
+            <td align="center">單一物品</td>
             <td align="center">只能購買一次</td>
-            <td align="center">是否需要庫存空間</td>
+            <td align="center">需要庫存空間</td>
+            <td align="center">品質差異</td>
+            <td align="center">重要的物品</td>
+            <td align="center">原料</td>
         </tr>
     </thead>
     <tr>
-        <td align="center">✔</td>
-        <td align="center">✔</td>
-        <td align="center">✔</td>
-        <td align="center">✔</td>
+            <td align="center">✔</td>
+            <td align="center">✔</td>
+            <td align="center">✔</td>
+            <td align="center">✔</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
+            <td align="center">✘</td>
     </tr>
 </table>
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
-            <td></td>
-            <td>商品名稱</td>
-            <td>販售價格</td>
-            <td>功能</td>
+            <td align="center">商品ID</td>
+            <td align="center">物品ID</td>
+            <td align="center">工具ID</td>
+            <td align="center"></td>
+            <td align="center">商品名稱</td>
+            <td align="center">販售價格</td>
+            <td align="center">功能</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>100109</td>
-            <td>1001150</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png"></td>
-            <td>牛鈴</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
-            <td>搖鈴後，牛會往大雄的位置移動。<br>持續8分鐘。</td>
+            <td align="center">100109</td>
+            <td align="center">1001150</td>
+            <td align="center">1150</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png"></td>
+            <td align="center">牛鈴</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
+            <td>搖鈴後，牛會往大雄的位置移動<br>持續8分鐘</td>
         </tr>
         <tr>
-            <td>100110</td>
-            <td>1001151</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png"></td>
-            <td>羊鈴</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
-            <td>搖鈴後，羊會往大雄的位置移動。<br>持續8分鐘。</td>
+            <td align="center">100110</td>
+            <td align="center">1001151</td>
+            <td align="center">1150</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png"></td>
+            <td align="center">羊鈴</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
+            <td>搖鈴後，羊會往大雄的位置移動<br>持續8分鐘</td>
         </tr>
         <tr>
-            <td>100112</td>
-            <td>1001153</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
-            <td>引導鈴</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20000</td>
-            <td>在牧場搖鈴會引導動物前往小屋，在小屋搖鈴時會引導動物前往牧場。<br>持續16分鐘。<br>只會影響❤️3以上動物。</td>
+            <td align="center">100112</td>
+            <td align="center">1001153</td>
+            <td align="center">1150</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
+            <td align="center">引導鈴</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20000</td>
+            <td>在牧場搖鈴會引導動物前往小屋<br>在小屋搖鈴時會引導動物前往牧場<br>持續16分鐘<br>只會影響❤️3以上動物</td>
         </tr>
     </tbody>
 </table>
 
-#### 動物鈴解鎖條件
+#### 上架解鎖條件
 + [寬闊的動物小屋擴建完成](../doraemon-story-1/#寬闊的動物小屋擴建)（`10121101`）
 <table>
     <thead>
         <tr>            
-            <td>牛鈴</td>
-            <td>羊鈴</td>
-            <td>寬闊的動物小屋</td>
+            <td align="center">牛鈴</td>
+            <td align="center">羊鈴</td>
+            <td align="center">寬闊的動物小屋</td>
         </tr>
     </thead>
     <tr>        
-        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png"></td>
-        <td><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png"></td>
+        <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png"></td>
+        <td align="center"><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png"></td>
         <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
     </tr>
     <tr>
@@ -357,18 +413,18 @@ image: images/post/Season_of_Story/Building/20500.png
 <table>
     <thead>
         <tr>
-            <td>引導鈴</td>
-            <td>巨大的動物小屋</td>
-            <td>巨大的雞小屋</td>            
+            <td align="center">引導鈴</td>
+            <td align="center">巨大的動物小屋</td>
+            <td align="center">巨大的雞小屋</td>            
         </tr>
     </thead>
     <tr>
-        <td><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
+        <td align="center"><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
         <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
         <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
     </tr>
     <tr>
-        <td>+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建巨大的動物小屋</a><br>+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋">擴建巨大的雞小屋</a></td>
+        <td align="center">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建巨大的動物小屋</a><br>+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋">擴建巨大的雞小屋</a></td>
     </tr>
 </table>
 
