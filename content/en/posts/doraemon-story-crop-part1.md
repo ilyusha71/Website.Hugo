@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】作物播種與收成的品質計算"
+title: "作物播種與收成"
 date: 2020-04-03T16:25:02+08:00
 description: 作物播種與收成的品質計算方法
 draft: false
@@ -15,55 +15,39 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/Season_of_Story/Sprite/icon_301051200.png
+image: images/post/Season_of_Story/Sprite/icon_1001000.png
 libraries:
 - katex
 ---
-## 相關分析
-+ [【哆啦A夢牧場物語】作物播種與收成的品質計算](../doraemon-story-crop-part1)
-+ [【哆啦A夢牧場物語】肥料對作物的品質影響](../doraemon-story-crop-part2)
-+ [【哆啦A夢牧場物語】作物的成長過程與相關計算](../doraemon-story-crop-part3)
+<mark>最後更新：2020/04/27</mark>
 
-## 作物MOD資料庫
-+ 作物資料檔：`CropData.text`
-+ 作物資料類：`CCropData`
-    + 作物資料結構：`SCropData`
-        + 作物ID：`mCropId`
-        + 名稱ID：`mNameId`
-        + 收穫次數：`mHarvestCount`
-        + 成長階數：`mStep`
-        + 減少階數：`mReduceStep`
-        + 收成天數：`mHarvestDays`
-        + 生長季節：`mSeason`
-            + `0`為春季生長、`1`為夏季生長、`2`為秋季生長、`3`為冬季生長、`-1`為四季皆生長。
-        + 是否收割：`mCanReap`
-        + 圖集ID：`mAtlasId`
-        + 圖片ID：`mSpriteId`
-        + 物品ID：`mItemId`
-        + 種子ID：`mSeedItemId`
-+ 作物主模板類：`CropMasterModel`
-    + 作物ID：`CropMasterModel.CropId` = `CCropData.SCropData.mCropId`
-    + 收穫次數：`CropMasterModel.HarvestCount` = `CCropData.SCropData.mHarvestCount`
-    + 成長階數：`CropMasterModel.Step` = `CCropData.SCropData.mStep`
-    + 減少階數：`CropMasterModel.ReduceStep` = `CCropData.SCropData.mReduceStep`
-    + 收成天數：`CropMasterModel.HarvestDays` = `CCropData.SCropData.mHarvestDays`
-    + 生長季節：`CropMasterModel.Season` = `CCropData.SCropData.mSeason`
-    + 是否收割：`CropMasterModel.CanReap` = `CCropData.SCropData.mCanReap`
-+ 作物模板類`CropModel`，土裡作物的實例。
-    + 成長方法：`CropModel.Grow()`
-    + 減少成長方法：`CropModel.GrowStep()`
-    + 成長值：`CropModel.Growth`
-    + 品質分：`CropModel.Quality`
-+ 作物定義類：`Crop`
-    + 最低品質分：`MIN_QUALITY`，常數值：`1`
-    + 最高品質分：`Crop.MAX_QUALITY`，常數值：`500`
-    + 品質轉換率：`Crop.QUALITY_CONVERSION_RATE`，常數值：`50`
+## 耕種系統與作物圖鑑
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">耕種系統與作物圖鑑</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png">作物種子</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png">播種與收成</a></td>
+        <td align="center"><a href="../#鋤頭選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭選用</a></td>
+        <td align="center"><a href="../#澆水壺選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺選用</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">施肥效果</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="136px" src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png">成長過程</a></td>
+        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">溫室種植</a></td>
+    </tr>
+</table>
 
-## 作物的品質分
+## 作物播種與收成
+### 作物品質
 當`種子`播種後，會變成地上的莊稼（`GroundModel.mCrop`），莊稼的實體資料為作物實體類（`CropModel`）。
 而種子品質等級（`ItemModel.mQuality`）則會轉換為作物品質分（`CropModel.mQuality`）；直到作物收成時才會再根據最後的作物品質分轉換為作物品質等級（`CropModel.Quality`）。
 + 作物的最低品質（`Crop.MIN_QUALITY`）為1分。
 + 作物的最高品質（`Crop.MAX_QUALITY`）為500分。
+
 ### 播種品質轉換公式
 播種方法（`GroundModel.SowSeed(int crop_id, int item_quality)`）：
 ```C#
@@ -87,6 +71,7 @@ public CropModel(int id, int quality)
 播種方法的品質轉換公式：
 $$作物品質分=（種子品質等級-2）\times{作物品質轉換率}$$
 $$作物品質轉換率=\dfrac {最大品質分}{最大品質等級}=\dfrac {500}{10}=50$$
+
 ### 播種品質轉換量化表
 <table>
     <thead>
@@ -163,7 +148,7 @@ $$作物品質轉換率=\dfrac {最大品質分}{最大品質等級}=\dfrac {500
 
 所以`種子`播種後品質就會直接先降1級，相當於品質⭐️降0.5⭐️。
 
-### 作物收成品質轉換公式
+### 收成品質轉換公式
 作物的品質等級（`CropModel.Quality`）讀取子：
 ```C#
 public int Quality
@@ -176,6 +161,7 @@ public int Quality
 ```
 作物品質等級轉換公式：
 $$作物品質等級=\dfrac{作物品質分}{作物品質轉換率}+1$$
+
 ### 收成品質轉換量化表
 <table>
     <thead>
@@ -249,3 +235,38 @@ $$作物品質等級=\dfrac{作物品質分}{作物品質轉換率}+1$$
         </tr>
     </tbody>
 </table>
+
+## 作物MOD資料庫
++ 作物資料檔：`CropData.text`
++ 作物資料類：`CCropData`
+    + 作物資料結構：`SCropData`
+        + 作物ID：`mCropId`
+        + 名稱ID：`mNameId`
+        + 收穫次數：`mHarvestCount`
+        + 成長階數：`mStep`
+        + 減少階數：`mReduceStep`
+        + 收成天數：`mHarvestDays`
+        + 生長季節：`mSeason`
+            + `0`為春季生長、`1`為夏季生長、`2`為秋季生長、`3`為冬季生長、`-1`為四季皆生長。
+        + 是否收割：`mCanReap`
+        + 圖集ID：`mAtlasId`
+        + 圖片ID：`mSpriteId`
+        + 物品ID：`mItemId`
+        + 種子ID：`mSeedItemId`
++ 作物主模板類：`CropMasterModel`
+    + 作物ID：`CropMasterModel.CropId` = `CCropData.SCropData.mCropId`
+    + 收穫次數：`CropMasterModel.HarvestCount` = `CCropData.SCropData.mHarvestCount`
+    + 成長階數：`CropMasterModel.Step` = `CCropData.SCropData.mStep`
+    + 減少階數：`CropMasterModel.ReduceStep` = `CCropData.SCropData.mReduceStep`
+    + 收成天數：`CropMasterModel.HarvestDays` = `CCropData.SCropData.mHarvestDays`
+    + 生長季節：`CropMasterModel.Season` = `CCropData.SCropData.mSeason`
+    + 是否收割：`CropMasterModel.CanReap` = `CCropData.SCropData.mCanReap`
++ 作物模板類`CropModel`，土裡作物的實例。
+    + 成長方法：`CropModel.Grow()`
+    + 減少成長方法：`CropModel.GrowStep()`
+    + 成長值：`CropModel.Growth`
+    + 品質分：`CropModel.Quality`
++ 作物定義類：`Crop`
+    + 最低品質分：`MIN_QUALITY`，常數值：`1`
+    + 最高品質分：`Crop.MAX_QUALITY`，常數值：`500`
+    + 品質轉換率：`Crop.QUALITY_CONVERSION_RATE`，常數值：`50`

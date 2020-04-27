@@ -1,7 +1,7 @@
 ---
-title: "【哆啦A夢牧場物語】作物的成長過程與相關計算"
+title: "作物成長過程"
 date: 2020-04-03T17:37:16+08:00
-description: 作物的成長過程與相關計算
+description: 作物成長過程的相關計算
 draft: false
 hideToc: false
 enableToc: false
@@ -14,16 +14,33 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/Season_of_Story/Sprite/Crop_90110405.png
+image: images/post/Season_of_Story/Sprite/Crop_90110401.png
 libraries:
 - katex
 ---
-## 相關分析
-+ [【哆啦A夢牧場物語】作物播種與收成的品質計算](../doraemon-story-crop-part1)
-+ [【哆啦A夢牧場物語】肥料對作物的品質影響](../doraemon-story-crop-part2)
-+ [【哆啦A夢牧場物語】作物的成長過程與相關計算](../doraemon-story-crop-part3)
+<mark>最後更新：2020/04/27</mark>
 
-## 作物的成長
+## 耕種系統與作物圖鑑
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">耕種系統與作物圖鑑</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png">作物種子</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png">播種與收成</a></td>
+        <td align="center"><a href="../#鋤頭選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭選用</a></td>
+        <td align="center"><a href="../#澆水壺選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺選用</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">施肥效果</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="136px" src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png">成長過程</a></td>
+        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">溫室種植</a></td>
+    </tr>
+</table>
+
+## 作物成長過程
 根據`CropModel`的資料分析，作物的成長機制離不開下列三個參數：
 + 收成天數（`CropMasterModel.HarvestDays`）
 + 成長階數（`CropMasterModel.Step`）

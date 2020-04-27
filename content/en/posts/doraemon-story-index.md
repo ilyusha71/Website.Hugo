@@ -14,7 +14,7 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_301010600.png
 ---
-<mark>持續更新中</mark>
+<mark>最後更新：2020/04/27</mark>
 
 ## 地圖
 ![小地圖](/images/post/Season_of_Story/Map/minimap.png)
@@ -302,19 +302,32 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
     </tr>
 </table>
 
-## 出貨價格
+## 物種尺寸大小索引
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">物種尺寸大小索引</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-size-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000159.png">蟲類</a></td>    
+        <td align="center"><a href="../doraemon-story-size-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">魚類</a></td> 
+    </tr>
+</table>
+
+## 物品出貨價格索引
 <table>
     <thead>
         <tr>
             <td colspan="10">具有品質差異的物品</td>        
         </tr>
     </thead>
-    <tr>        
-        <td align="center"><a href="../doraemon-story-sale-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000100.png">蟲類</a></td>
-        <td align="center"><a href="../doraemon-story-sale-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">魚類</a></td>
-        <td align="center"><a href="../doraemon-story-sale-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000501.png">作物</a></td>
-        <td align="center"><a href="../doraemon-story-sale-meals"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300901.png">料理</a></td>    
-        <td align="center"><a href="../doraemon-story-sale-produce"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3400111.png">農產品</a></td>     
+    <tr>
+        <td align="center"><a href="../doraemon-story-shipping-prices-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000133.png">蟲類</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000190.png">魚類</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">作物</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-meals"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300901.png">料理</a></td>    
+        <td align="center"><a href="../doraemon-story-shipping-prices-produce"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3400111.png">農產品</a></td>     
     </tr>
     <thead>
         <tr>
@@ -334,7 +347,7 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
         </tr>
     </thead>
     <tr>
-        <td align="center"><a href="../doraemon-story-sale-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101010.png">小雞商店</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101010.png">小雞商店</a></td>
         <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1101040.png">動物商店</a></td>
         <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png">雜貨店</a></td>
         <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3400106.png">料理店</a></td>
@@ -345,27 +358,56 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
     </tr>
 </table>
 
-## 圖鑑
-<table>
-    <tr>        
-        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000126.png">蟲類圖鑑</a></td>
-        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">魚類圖鑑</a></td>
-    </tr>
-</table>
-
-## 魚類
+## 捕蟲系統與蟲類圖鑑
 <table>
     <thead>
         <tr>
-            <td colspan="10">魚類</td>        
+            <td colspan="10">捕蟲系統與蟲類圖鑑</td>        
         </tr>
     </thead>
     <tr>        
-        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000121.png">出沒資料</a></td>
-        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">出貨價格</a></td>
-        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000167.png">魚拓</a></td>
-        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000102.png">魚料理</a></td>
-        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000182.png">魚標本</a></td>
+        <td align="center"><a href="../#捕蟲資訊"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001140.png">捕蟲資訊</a></td>
+        <td align="center"><a href="../doraemon-story-size-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000159.png">尺寸大小</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000133.png">出貨價格</a></td>
+    </tr>
+</table>
+
+## 釣魚系統與魚類圖鑑
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">釣魚系統與魚類圖鑑</td>        
+        </tr>
+    </thead>
+    <tr>        
+        <td align="center"><a href="../doraemon-story-live-fishing"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001060.png">釣魚資訊</a></td>
+        <td align="center"><a href="../#釣竿選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001065.png">釣竿選用</a></td>
+        <td align="center"><a href="../#地底釣竿"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001066.png">地底釣竿</a></td>
+        <td align="center"><a href="../doraemon-story-size-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">尺寸大小</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000190.png">出貨價格</a></td>
+        <td align="center"><a href="../doraemon-story-shop-21300-sandy-tackle-shop/#魚拓"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_goods_21330.png">魚拓</a></td>
+        <td align="center"><a href="../#魚料理"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300169.png">魚料理</a></td>
+        <td align="center"><a href="../doraemon-story-interior-decorations-3/#標本"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7026010.png">魚標本</a></td>
+    </tr>
+</table>
+
+## 耕種系統與作物圖鑑
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">耕種系統與作物圖鑑</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png">作物種子</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png">播種與收成</a></td>
+        <td align="center"><a href="../#鋤頭選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭選用</a></td>
+        <td align="center"><a href="../#澆水壺選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺選用</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">施肥效果</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="136px" src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png">成長過程</a></td>
+        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">溫室種植</a></td>
     </tr>
 </table>
 

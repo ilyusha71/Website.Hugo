@@ -625,12 +625,11 @@ image: images/post/Season_of_Story/Building/21100.png
 </table>
 
 ### 礦石
-+ `物品ID`=`4001000`+`ID`
 <table>
     <thead>
         <tr>
             <td>商品ID</td>
-            <td>ID</td>
+            <td>物品ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -640,7 +639,7 @@ image: images/post/Season_of_Story/Building/21100.png
     <tbody>
         <tr>
             <td>100100</td>
-            <td>+1</td>
+            <td>4001001</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4001001.png"></td>
             <td>銅礦石</td>
             <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">120</td>
@@ -648,7 +647,7 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
         <tr>
             <td>100101</td>
-            <td>+0</td>
+            <td>4001000</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png"></td>
             <td>鐵礦石</td>
             <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">200</td>
@@ -656,7 +655,7 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
         <tr>
             <td>100102</td>
-            <td>+2</td>
+            <td>4001002</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png"></td>
             <td>銀礦石</td>
             <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">320</td>
@@ -664,7 +663,7 @@ image: images/post/Season_of_Story/Building/21100.png
         </tr>
         <tr>
             <td>100103</td>
-            <td>+3</td>
+            <td>4001003</td>
             <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png"></td>
             <td>金礦石</td>
             <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">480</td>

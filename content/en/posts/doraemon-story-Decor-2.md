@@ -17,7 +17,7 @@ categories:
 - 商店
 image: images/post/Season_of_Story/Sprite/icon_7066000.png
 ---
-<mark>最後更新：2020/04/21</mark>
+<mark>最後更新：2020/04/27</mark>
 
 ## 牧場裝飾品
 ### 養蜂箱
@@ -26,7 +26,6 @@ image: images/post/Season_of_Story/Sprite/icon_7066000.png
         <tr>
             <td>商品ID</td>
             <td>家具ID</td>
-            <td>物品ID</td>
             <td></td>
             <td>物品名稱</td>
             <td>材料1</td>

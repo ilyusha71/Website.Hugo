@@ -1,7 +1,7 @@
 ---
-title: "【哆啦A夢牧場物語】作物成長資料"
+title: "37種作物成長資料"
 date: 2020-04-04T13:19:26+08:00
-description: 作物成長的相關細節
+description: 37種作物成長資料
 draft: false
 hideToc: false
 enableToc: false
@@ -14,23 +14,43 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/Season_of_Story/Sprite/icon_201171503.png
+image: images/post/Season_of_Story/Sprite/Crop_90110405.png
 ---
-## 相關分析
-+ [【哆啦A夢牧場物語】作物播種與收成的品質計算](../doraemon-story-crop-part1)
-+ [【哆啦A夢牧場物語】肥料對作物的品質影響](../doraemon-story-crop-part2)
-+ [【哆啦A夢牧場物語】作物的成長過程與相關計算](../doraemon-story-crop-part3)
-## 遊戲資源
-+ 以下圖示儲存在Sprite資料夾下，各作物對應檔名為`icon_` + `mItemId`+`.png`，`mItemId`可透過`ItemData.text`取得。
-+ 以下參數為TextAsset資料夾下`CropData.text`的轉換的部分資料。
-## 作物成長資料
-詳見 [作物MOD資料庫](../doraemon-story-crop-part1#作物MOD資料庫)
+<mark>最後更新：2020/04/27</mark>
 
-### 春季作物
+## 耕種系統與作物圖鑑
 <table>
     <thead>
         <tr>
-            <td>作物ID</td>
+            <td colspan="10">耕種系統與作物圖鑑</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png">作物種子</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png">播種與收成</a></td>
+        <td align="center"><a href="../#鋤頭選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭選用</a></td>
+        <td align="center"><a href="../#澆水壺選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺選用</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">施肥效果</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="136px" src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png">成長過程</a></td>
+        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">溫室種植</a></td>
+    </tr>
+</table>
+
+## 作物成長資料
++ [春季作物成長資料](../doraemon-story-crop-grow/#春季作物成長資料)：10種
++ [夏季作物成長資料](../doraemon-story-crop-grow/#夏季作物成長資料)：13種
++ [秋季作物成長資料](../doraemon-story-crop-grow/#秋季作物成長資料)：8種
++ [冬季作物成長資料](../doraemon-story-crop-grow/#冬季作物成長資料)：4種
++ [常年作物成長資料](../doraemon-story-crop-grow/#常年作物成長資料)：2種
++ `是否收割`為`✔`的作物需要使用`鐮刀`進行收割。
+
+### 春季作物成長資料
+<table>
+    <thead>
+        <tr>
+            <td>ID</td>
             <td></td>
             <td>作物名稱</td>
             <td>收穫次數</td>
@@ -166,11 +186,11 @@ image: images/post/Season_of_Story/Sprite/icon_201171503.png
     </tbody>
 </table>
 
-### 夏季作物
+### 夏季作物成長資料
 <table>
     <thead>
         <tr>
-            <td>作物ID</td>
+            <td>ID</td>
             <td></td>
             <td>作物名稱</td>
             <td>收穫次數</td>
@@ -342,11 +362,11 @@ image: images/post/Season_of_Story/Sprite/icon_201171503.png
     </tbody>
 </table>
 
-### 秋季作物
+### 秋季作物成長資料
 <table>
     <thead>
         <tr>
-            <td>作物ID</td>
+            <td>ID</td>
             <td></td>
             <td>作物名稱</td>
             <td>收穫次數</td>
@@ -458,11 +478,11 @@ image: images/post/Season_of_Story/Sprite/icon_201171503.png
     </tbody>
 </table>
 
-### 冬季作物
+### 冬季作物成長資料
 <table>
     <thead>
         <tr>
-            <td>作物ID</td>
+            <td>ID</td>
             <td></td>
             <td>作物名稱</td>
             <td>收穫次數</td>
@@ -526,11 +546,11 @@ image: images/post/Season_of_Story/Sprite/icon_201171503.png
     </tbody>
 </table>
 
-### 四季作物
+### 常年作物成長資料
    <table>
     <thead>
         <tr>
-            <td>作物ID</td>
+            <td>ID</td>
             <td></td>
             <td>作物名稱</td>
             <td>收穫次數</td>

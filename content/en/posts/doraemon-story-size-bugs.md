@@ -9,8 +9,8 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
+- 捕蟲
 - 尺寸大小
-- 蟲類
 series:
 - 哆啦A夢牧場物語
 categories:
@@ -19,8 +19,24 @@ image: images/post/Season_of_Story/Sprite/icon_6000159.png
 libraries:
 - katex
 ---
+<mark>最後更新：2020/04/27</mark>
+
+## 捕蟲系統與蟲類圖鑑
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">捕蟲系統與蟲類圖鑑</td>        
+        </tr>
+    </thead>
+    <tr>        
+        <td align="center"><a href="../#捕蟲資訊"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001140.png">捕蟲資訊</a></td>
+        <td align="center"><a href="../doraemon-story-size-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000159.png">尺寸大小</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000133.png">出貨價格</a></td>
+    </tr>
+</table>
+
 ## 尺寸大小
-+ [所有物品尺寸大小索引](../doraemon-story-index/#尺寸大小)
++ [物種尺寸大小索引](../doraemon-story-index/#物種尺寸大小索引)
 + 各品質物品的`尺寸大小`為`最小尺寸`與`最大尺寸`的線性插值。
 
 ### 源代碼

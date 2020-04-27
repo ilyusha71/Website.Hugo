@@ -9,6 +9,7 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
+- 作物
 - 農產品
 series:
 - 哆啦A夢牧場物語
@@ -17,21 +18,27 @@ categories:
 - 商店
 image: images/post/Season_of_Story/Sprite/icon_3400101.png
 ---
+<mark>最後更新：2020/04/27</mark>
+
 ## 農產品販售
-+ 每一季大雄第一次進料理店的時候都會`更新`料理店販售的農產品。
-+ 料理店每季販售的農產品由`當季農產品`與`四季農產品`組成。
-+ 當季農產品與四季農產品將根據`販售權重`各自抽選其中`5種`上架，共`10種`農產品。
-+ 若當季農產品`不足`5種時，並不會再從四季農產品抽選補齊10種，反之亦然。
++ 每一季大雄第一次進料理店的時候都會`更新`料理店販售的`農產品`。
++ 料理店`每季`販售的農產品由`當季作物`與`全年販售農產品`組成。
+    + `全年販售農產品`包括常年作物`小麥`。
++ 當季作物與全年販售農產品將根據`販售權重`各自抽選其中`5種`上架，共`10種`農產品。
++ 若當季作物`不足`5種時，並不會再從全年販售農產品抽選補齊10種，反之亦然。
 
-## 農產品資料
-+ `農產品`：35種
-    + [春季農產品](#春季農產品)：7種
-    + [夏季農產品](#夏季農產品)：8種
-    + [秋季農產品](#秋季農產品)：6種
-    + [冬季農產品](#冬季農產品)：3種
-    + [四季農產品](#四季農產品)：11種
+## 農產品販售資料
++ 作物：
+    + `物品ID`=`3000000`+`作物ID`
+    + `商品ID`=`300000`+`作物ID`
++ [農產品](../doraemon-story-shop-21200-cafe-delish-produce)：35種
+    + [春季作物](../doraemon-story-shop-21200-cafe-delish-produce#春季作物)：7種
+    + [夏季作物](../doraemon-story-shop-21200-cafe-delish-produce#夏季作物)：8種
+    + [秋季作物](../doraemon-story-shop-21200-cafe-delish-produce#秋季作物)：6種
+    + [冬季作物](../doraemon-story-shop-21200-cafe-delish-produce#冬季作物)：3種
+    + [全年販售農產品](../doraemon-story-shop-21200-cafe-delish-produce#全年販售農產品)：11種
 
-### 春季農產品
+### 春季作物
 <table>
     <thead>
         <tr>
@@ -111,7 +118,7 @@ image: images/post/Season_of_Story/Sprite/icon_3400101.png
     </tbody>
 </table>
 
-### 夏季農產品
+### 夏季作物
 <table>
     <thead>
         <tr>
@@ -200,7 +207,7 @@ image: images/post/Season_of_Story/Sprite/icon_3400101.png
     </tbody>
 </table>
 
-### 秋季農產品
+### 秋季作物
 <table>
     <thead>
         <tr>
@@ -271,7 +278,7 @@ image: images/post/Season_of_Story/Sprite/icon_3400101.png
     </tbody>
 </table>
 
-### 冬季農產品
+### 冬季作物
 <table>
     <thead>
         <tr>
@@ -315,7 +322,7 @@ image: images/post/Season_of_Story/Sprite/icon_3400101.png
     </tbody>
 </table>
 
-### 四季農產品
+### 全年販售農產品
 <table>
     <thead>
         <tr>

@@ -1,7 +1,7 @@
 ---
-title: "【哆啦A夢牧場物語】肥料對作物的品質影響"
+title: "作物施肥效果"
 date: 2020-04-03T17:16:52+08:00
-description: 肥料對作物的品質影響
+description: 作物的施肥效果對作物品質的影響
 draft: false
 hideToc: false
 enableToc: false
@@ -18,27 +18,55 @@ image: images/post/Season_of_Story/Sprite/icon_1103001.png
 libraries:
 - katex
 ---
-## 相關分析
-+ [【哆啦A夢牧場物語】作物播種與收成的品質計算](../doraemon-story-crop-part1)
-+ [【哆啦A夢牧場物語】肥料對作物的品質影響](../doraemon-story-crop-part2)
-+ [【哆啦A夢牧場物語】作物的成長過程與相關計算](../doraemon-story-crop-part3)
+<mark>最後更新：2020/04/27</mark>
 
-## 肥料的品質
+## 耕種系統與作物圖鑑
 <table>
+    <thead>
+        <tr>
+            <td colspan="10">耕種系統與作物圖鑑</td>        
+        </tr>
+    </thead>
     <tr>
-        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1103000.png"></td>
-        <td>肥料</td>
-        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
-    </tr>  
-    <tr>
-        <td><img src= "/images/post/Season_of_Story/Sprite/icon_1103001.png"></td>
-        <td>高級肥料</td>
-        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
-    </tr>  
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png">作物種子</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png">播種與收成</a></td>
+        <td align="center"><a href="../#鋤頭選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭選用</a></td>
+        <td align="center"><a href="../#澆水壺選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺選用</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">施肥效果</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="136px" src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png">成長過程</a></td>
+        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">溫室種植</a></td>
+    </tr>
 </table>
 
-一開始從雜貨店買的種子品質都是⭐️0.5，如果不施肥，則作物收成的時候仍會是⭐️0.5，若要讓作物的品質上升，在遊戲中可以選擇一般肥料（` Item.ID_FERTILIZER`）或高級肥料（` Item.ID_HIGH_QUALITY_FERTILIZER`）來進行施肥。
-高級肥料的價格是一般肥料的兩倍，而提升的效果也是兩倍。
+## 作物施肥效果
++ 一開始從雜貨店買的種子品質都是⭐️0.5，如果不施肥，則作物收成的時候仍會是⭐️0.5。
++ 若要讓作物的品質上升，在遊戲中可以選擇`肥料`或`高級肥料`來進行施肥。
++ 高級肥料的價格是一般肥料的`兩倍`，但`施肥效果`也是兩倍。
+
+### 肥料販售資訊
+<table>
+    <thead>
+        <tr>
+            <td></td>
+            <td>物品名稱</td>
+            <td>販售價格</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png"></td>
+        <td>肥料</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
+    </tr>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png"></td>
+        <td>高級肥料</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
+    </tr>
+</table>
+
+### 肥料效果源代碼
 ```C#
 private static readonly Dictionary<int, float> UpgradeValueTable = new Dictionary<int, float>
 {
@@ -52,6 +80,7 @@ private static readonly Dictionary<int, float> UpgradeValueTable = new Dictionar
     }
 };
 ```
+
 ### 施肥品質提升計算公式
 品質提升方法（`CropModel.Upgrade(int item_id)`）：
 ```C#

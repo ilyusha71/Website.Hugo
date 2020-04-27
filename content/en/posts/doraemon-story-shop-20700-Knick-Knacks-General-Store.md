@@ -19,7 +19,7 @@ categories:
 - 商店
 image: images/post/Season_of_Story/Building/20700.png
 ---
-<mark>最後更新：2020/04/20</mark>
+<mark>最後更新：2020/04/27</mark>
 
 ## 雜貨店 小玩意兒
 + General Store / Knick Knacks GenStore
@@ -85,11 +85,11 @@ image: images/post/Season_of_Story/Building/20700.png
 
 ## 販售資料
 + [作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)：37種
-    + [春季種子](../doraemon-story-shop-20700-knick-knacks-general-store/#春季種子)：10種
-    + [夏季種子](../doraemon-story-shop-20700-knick-knacks-general-store/#夏季種子)：13種
-    + [秋季種子](../doraemon-story-shop-20700-knick-knacks-general-store/#秋季種子)：8種
-    + [冬季種子](../doraemon-story-shop-20700-knick-knacks-general-store/#冬季種子)：4種
-    + [四季種子](../doraemon-story-shop-20700-knick-knacks-general-store/#四季種子)：2種
+    + [春季作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#春季作物種子)：10種
+    + [夏季作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#夏季作物種子)：13種
+    + [秋季作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#秋季作物種子)：8種
+    + [冬季作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#冬季作物種子)：4種
+    + [常年作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#常年作物種子)：2種
 + [肥料](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)：2種
 + [工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)：1種
 + [背包](../doraemon-story-shop-20700-knick-knacks-general-store/#背包)：2種
@@ -97,17 +97,36 @@ image: images/post/Season_of_Story/Building/20700.png
     + [販售通路特典](#販售通路特典)：9種
 
 ### 作物種子
-+ 雜貨店販售只販售當季的作物種子。
-+ 非`首年販售`的作物種子要等到`第2年`開始才會販售，第2年春季1日`哆啦A夢`會到家`提醒`大雄。
-+ [溫室建造完成](../doraemon-story-1/#溫室建造)（`10123101`）
-    + [雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)開始同時販售全季節[作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)。
-
-#### 春季種子
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✔</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✔</td>
+    </tr>
+</table>
+
++ `物品ID`=`2000000`+`作物ID`
++ `商品ID`=`100000`+`作物ID`
++ 雜貨店會根據季節販售當季作物的種子。
++ 非`首年販售`的作物種子要等到`第2年`才會開始販售
+    + 第2年春季1日`哆啦A夢`會到牧場`提醒`大雄。
++ [溫室建造完成](../doraemon-story-1/#溫室建造)（`10123101`）
+    + [雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)開始同時販售全季節[作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)。
+
+#### 春季作物種子
+<table>
+    <thead>
+        <tr>
+            <td>ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -116,7 +135,7 @@ image: images/post/Season_of_Story/Building/20700.png
         </tr>
     </thead>
     <tr>
-        <td>100100</td>
+        <td>1100</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png"></td>
         <td>蕪菁種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30</td>
@@ -124,7 +143,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td>✔</td>
     </tr>
     <tr>
-        <td>100101</td>
+        <td>1101</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000101.png"></td>
         <td>馬鈴薯種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
@@ -132,7 +151,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td>✔</td>
     </tr>
     <tr>
-        <td>100102</td>
+        <td>102</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000102.png"></td>
         <td>高麗菜種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">90</td>
@@ -140,7 +159,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100103</td>
+        <td>103</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000103.png"></td>
         <td>小黃瓜種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
@@ -148,7 +167,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100104</td>
+        <td>104</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000104.png"></td>
         <td>草莓種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">150</td>
@@ -156,7 +175,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100105</td>
+        <td>105</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000105.png"></td>
         <td>白花椰菜種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
@@ -164,7 +183,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100106</td>
+        <td>106</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000106.png"></td>
         <td>豌豆種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
@@ -172,7 +191,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100108</td>
+        <td>108</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000108.png"></td>
         <td>瑪格麗特種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
@@ -180,7 +199,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td>✔</td>
     </tr>
     <tr>
-        <td>100110</td>
+        <td>110</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000110.png"></td>
         <td>彩鐘花種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">70</td>
@@ -188,7 +207,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100111</td>
+        <td>111</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000111.png"></td>
         <td>康乃馨種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
@@ -197,17 +216,11 @@ image: images/post/Season_of_Story/Building/20700.png
     </tr>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✘
-    + 只能購買一次：✘
-    + 是否需要庫存空間：✔
-
-#### 夏季種子
+#### 夏季作物種子
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
+            <td>ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -216,7 +229,7 @@ image: images/post/Season_of_Story/Building/20700.png
         </tr>
     </thead>
     <tr>
-        <td>100200</td>
+        <td>200</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000200.png"></td>
         <td>玉米種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">140</td>
@@ -224,7 +237,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td>✔</td>
     </tr>
     <tr>
-        <td>100201</td>
+        <td>201</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000201.png"></td>
         <td>洋蔥種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30</td>
@@ -232,7 +245,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100202</td>
+        <td>202</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000202.png"></td>
         <td>南瓜種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
@@ -240,7 +253,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100203</td>
+        <td>203</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000203.png"></td>
         <td>西瓜種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
@@ -248,7 +261,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100204</td>
+        <td>204</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000204.png"></td>
         <td>番茄種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">110</td>
@@ -256,7 +269,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td>✔</td>
     </tr>
     <tr>
-        <td>100205</td>
+        <td>205</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000205.png"></td>
         <td>哈密瓜種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">140</td>
@@ -264,7 +277,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100206</td>
+        <td>206</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000206.png"></td>
         <td>鳳梨種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">100</td>
@@ -272,7 +285,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100207</td>
+        <td>207</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000207.png"></td>
         <td>甜椒種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
@@ -280,7 +293,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100210</td>
+        <td>210</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000210.png"></td>
         <td>向日葵種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
@@ -288,7 +301,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td>✔</td>
     </tr>
     <tr>
-        <td>100211</td>
+        <td>211</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000211.png"></td>
         <td>牽牛花種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
@@ -296,7 +309,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100213</td>
+        <td>213</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000213.png"></td>
         <td>百合花種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">70</td>
@@ -304,7 +317,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100214</td>
+        <td>214</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000214.png"></td>
         <td>木槿種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
@@ -312,7 +325,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100215</td>
+        <td>215</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000215.png"></td>
         <td>紅玫瑰種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
@@ -321,17 +334,11 @@ image: images/post/Season_of_Story/Building/20700.png
     </tr>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✘
-    + 只能購買一次：✘
-    + 是否需要庫存空間：✔
-
-#### 秋季種子
+#### 秋季作物種子
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
+            <td>ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -340,7 +347,7 @@ image: images/post/Season_of_Story/Building/20700.png
         </tr>
     </thead>
     <tr>
-        <td>100300</td>
+        <td>300</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000300.png"></td>
         <td>牛蒡種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
@@ -348,7 +355,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100301</td>
+        <td>301</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000301.png"></td>
         <td>胡蘿蔔種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
@@ -356,7 +363,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td>✔</td>
     </tr>
     <tr>
-        <td>100302</td>
+        <td>302</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000302.png"></td>
         <td>地瓜種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
@@ -364,7 +371,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td>✔</td>
     </tr>
     <tr>
-        <td>100303</td>
+        <td>303</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000303.png"></td>
         <td>菠菜種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30</td>
@@ -372,7 +379,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100304</td>
+        <td>304</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000304.png"></td>
         <td>茄子種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">70</td>
@@ -380,7 +387,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100305</td>
+        <td>305</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000305.png"></td>
         <td>青椒種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">90</td>
@@ -388,7 +395,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100306</td>
+        <td>306</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000306.png"></td>
         <td>撫子花種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
@@ -396,7 +403,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td>✔</td>
     </tr>
     <tr>
-        <td>100307</td>
+        <td>307</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000307.png"></td>
         <td>非洲菊種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">90</td>
@@ -405,17 +412,11 @@ image: images/post/Season_of_Story/Building/20700.png
     </tr>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✘
-    + 只能購買一次：✘
-    + 是否需要庫存空間：✔
-
-#### 冬季種子
+#### 冬季作物種子
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
+            <td>ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -424,7 +425,7 @@ image: images/post/Season_of_Story/Building/20700.png
         </tr>
     </thead>
     <tr>
-        <td>100400</td>
+        <td>400</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000400.png"></td>
         <td>白蘿蔔種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
@@ -432,7 +433,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td>✔</td>
     </tr>
     <tr>
-        <td>100401</td>
+        <td>401</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000401.png"></td>
         <td>白菜種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
@@ -440,7 +441,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100402</td>
+        <td>402</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000402.png"></td>
         <td>花椰菜種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">60</td>
@@ -448,7 +449,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td></td>
     </tr>
     <tr>
-        <td>100404</td>
+        <td>404</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000404.png"></td>
         <td>雪花蓮種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
@@ -457,17 +458,11 @@ image: images/post/Season_of_Story/Building/20700.png
     </tr>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✘
-    + 只能購買一次：✘
-    + 是否需要庫存空間：✔
-
-#### 四季種子
+#### 常年作物種子
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
+            <td>ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
@@ -476,15 +471,15 @@ image: images/post/Season_of_Story/Building/20700.png
         </tr>
     </thead>
     <tr>
-        <td>100500</td>
-        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101000.png"></td>
+        <td>500</td>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000500.png"></td>
         <td>牧草種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30</td>
         <td>四季</td>
         <td>✔</td>
     </tr>
     <tr>
-        <td>100501</td>
+        <td>501</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_2000501.png"></td>
         <td>小麥種子</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
@@ -493,13 +488,23 @@ image: images/post/Season_of_Story/Building/20700.png
     </tr>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✘
-    + 只能購買一次：✘
-    + 是否需要庫存空間：✔
-
 ### 肥料
+<table>
+    <thead>
+        <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✔</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✔</td>
+    </tr>
+</table>
 <table>
     <thead>
         <tr>
@@ -508,47 +513,49 @@ image: images/post/Season_of_Story/Building/20700.png
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
-            <td>販售季節</td>
-            <td>首年販售</td>
         </tr>
     </thead>
     <tr>
-        <td>100500</td>
+        <td>500</td>
         <td>1103000</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png"></td>
         <td>肥料</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
-        <td>四季</td>
-        <td>✔</td>
     </tr>
     <tr>
-        <td>100501</td>
+        <td>501</td>
         <td>1103001</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png"></td>
         <td>高級肥料</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
-        <td>四季</td>
-        <td>✔</td>
     </tr>
 </table>
-
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✘
-    + 只能購買一次：✘
-    + 是否需要庫存空間：✔
 
 ### 工具
 <table>
     <thead>
         <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+    </tr>
+</table>
+<table>
+    <thead>
+        <tr>
             <td>商品ID</td>
             <td>物品ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
-            <td>販售季節</td>
-            <td>首年販售</td>
         </tr>
     </thead>
     <tr>
@@ -557,16 +564,8 @@ image: images/post/Season_of_Story/Building/20700.png
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001140.png"></td>
         <td>捕蟲網</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2000</td>
-        <td>四季</td>
-        <td>✔</td>
     </tr>
 </table>
-
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✔
-    + 只能購買一次：✔
-    + 是否需要庫存空間：✔
 
 #### 解鎖項目
 + 教學劇情[捕蟲教學](../doraemon-story-1/#捕蟲教學)（`81100001`）
@@ -575,13 +574,27 @@ image: images/post/Season_of_Story/Building/20700.png
 <table>
     <thead>
         <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✘</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✘</td>
+    </tr>
+</table>
+<table>
+    <thead>
+        <tr>
             <td>商品ID</td>
             <td>物品ID</td>
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
-            <td>販售季節</td>
-            <td>首年販售</td>
             <td>庫存空間</td>
         </tr>
     </thead>
@@ -591,8 +604,6 @@ image: images/post/Season_of_Story/Building/20700.png
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003000.png"></td>
         <td>背包</td>
         <td>初始裝備</td>
-        <td>---</td>
-        <td>---</td>
         <td>8</td>
     </tr>
     <tr>
@@ -601,8 +612,6 @@ image: images/post/Season_of_Story/Building/20700.png
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003001.png"></td>
         <td>大背包</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6000</td>
-        <td>四季</td>
-        <td>✔</td>
         <td>16</td>
     </tr>
     <tr>
@@ -611,19 +620,27 @@ image: images/post/Season_of_Story/Building/20700.png
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003002.png"></td>
         <td>巨大背包</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">12000</td>
-        <td>四季</td>
-        <td>✔</td>
         <td>24</td>
     </tr>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✘
-    + 是否為單一物品：✔
-    + 只能購買一次：✔
-    + 是否需要庫存空間：✘
-
 ### DLC
+<table>
+    <thead>
+        <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✘</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✘</td>
+    </tr>
+</table>
 <table>
     <thead>
         <tr>
@@ -632,8 +649,6 @@ image: images/post/Season_of_Story/Building/20700.png
             <td></td>
             <td>商品名稱</td>
             <td>販售價格</td>
-            <td>販售季節</td>
-            <td>首年販售</td>
         </tr>
     </thead>
     <tr>
@@ -642,8 +657,6 @@ image: images/post/Season_of_Story/Building/20700.png
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106004.png"></td>
         <td>春季蔬菜組</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">0</td>
-        <td>四季</td>
-        <td>✔</td>
     </tr>
     <tr>
         <td>300100</td>
@@ -651,16 +664,9 @@ image: images/post/Season_of_Story/Building/20700.png
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1106009.png"></td>
         <td>亞緬的預訂品</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">0</td>
-        <td>四季</td>
-        <td>✔</td>
     </tr>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✘
-    + 是否為單一物品：✔
-    + 只能購買一次：✔
-    + 是否需要庫存空間：✘
 + 春季蔬菜組
     + 這是歐林先生幫忙準備的種子組。有`蕪菁`、`馬鈴薯`、`高麗菜`、`草莓`等4種植物種子
     + 購買後去找`緹拉兒`領取，種子各有20個。

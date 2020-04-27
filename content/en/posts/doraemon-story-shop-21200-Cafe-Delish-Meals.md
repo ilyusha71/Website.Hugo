@@ -18,28 +18,31 @@ categories:
 - 商店
 image: images/post/Season_of_Story/Sprite/icon_3300147.png
 ---
+<mark>最後更新：2020/04/27</mark>
+
 ## 料理販售
 + 每一季大雄第一次進料理店的時候都會`更新`料理店販售的料理。
 + 每道料理都只會在`特定季節`販售。
-+ 料理店每季販售的料理均為`5道`當季料理。
-+ 當季料理的上架根據販售權重決定上架的機率。
++ 料理店每季販售的料理均為`5道`當季販售料理。
++ 當季販售料理的上架根據販售權重決定上架的機率。
 + 注意！<mark>料理購買後將會立即被大雄磕掉</mark>，然後補充體力，並不會保留在背包裡面。
 
-## 料理資料
-+ `料理`：86種
-    + [春季料理](#春季料理)：22種
-    + [夏季料理](#夏季料理)：22種
-    + [秋季料理](#秋季料理)：21種
-    + [冬季料理](#冬季料理)：21種
+## 料理販售資料
++ `物品ID`=`3300000`+`ID`
++ `商品ID`=`200000`+`ID`
++ [料理](../doraemon-story-shop-21200-cafe-delish-meals)：86種
+    + [春季販售料理](../doraemon-story-shop-21200-cafe-delish-meals#春季販售料理)：22種
+    + [夏季販售料理](../doraemon-story-shop-21200-cafe-delish-meals#夏季販售料理)：22種
+    + [秋季販售料理](../doraemon-story-shop-21200-cafe-delish-meals#秋季販售料理)：21種
+    + [冬季販售料理](../doraemon-story-shop-21200-cafe-delish-meals#冬季販售料理)：21種
 
-### 春季料理
+### 春季販售料理
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -47,8 +50,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200100</td>
-        <td>3300100</td>
+        <td>100</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300100.png"></td>
         <td>蘋果派</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">970</td>
@@ -57,8 +59,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>29</td>
     </tr>
     <tr>
-        <td>200102</td>
-        <td>3300102</td>
+        <td>102</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300102.png"></td>
         <td>烏龍麵</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">650</td>
@@ -67,8 +68,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>20</td>
     </tr>
     <tr>
-        <td>200106</td>
-        <td>3300106</td>
+        <td>106</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300106.png"></td>
         <td>春季沙拉</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3010</td>
@@ -77,8 +77,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>89</td>
     </tr>
     <tr>
-        <td>200110</td>
-        <td>3300110</td>
+        <td>110</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300110.png"></td>
         <td>三明治</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1730</td>
@@ -87,8 +86,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>53</td>
     </tr>
     <tr>
-        <td>200115</td>
-        <td>3300115</td>
+        <td>115</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300115.png"></td>
         <td>炸薯條</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">630</td>
@@ -97,8 +95,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>19</td>
     </tr>
     <tr>
-        <td>200118</td>
-        <td>3300118</td>
+        <td>118</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300118.png"></td>
         <td>炸起司</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1620</td>
@@ -107,8 +104,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>48</td>
     </tr>
     <tr>
-        <td>200122</td>
-        <td>3300122</td>
+        <td>122</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300122.png"></td>
         <td>夾餡沙丁魚</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1190</td>
@@ -118,10 +114,9 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
     </tr>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -129,8 +124,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200126</td>
-        <td>3300126</td>
+        <td>126</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300126.png"></td>
         <td>普羅旺斯雜燴</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1850</td>
@@ -139,8 +133,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>55</td>
     </tr>
     <tr>
-        <td>200130</td>
-        <td>3300130</td>
+        <td>130</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300130.png"></td>
         <td>千層麵</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1360</td>
@@ -149,8 +142,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>40</td>
     </tr>
     <tr>
-        <td>200138</td>
-        <td>3300138</td>
+        <td>138</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300138.png"></td>
         <td>潘趣酒</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3040</td>
@@ -159,8 +151,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>90</td>
     </tr>
     <tr>
-        <td>200142</td>
-        <td>3300142</td>
+        <td>142</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300142.png"></td>
         <td>烤地瓜</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">120</td>
@@ -169,8 +160,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>4</td>
     </tr>
     <tr>
-        <td>200146</td>
-        <td>3300146</td>
+        <td>146</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300146.png"></td>
         <td>胡桃麵包</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">710</td>
@@ -179,8 +169,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>21</td>
     </tr>
     <tr>
-        <td>200150</td>
-        <td>3300150</td>
+        <td>150</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300150.png"></td>
         <td>蘋果塔</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">830</td>
@@ -189,8 +178,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>25</td>
     </tr>
     <tr>
-        <td>200154</td>
-        <td>3300154</td>
+        <td>154</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300154.png"></td>
         <td>旗魚排</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2620</td>
@@ -200,10 +188,9 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
     </tr>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -211,8 +198,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200158</td>
-        <td>3300158</td>
+        <td>158</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300158.png"></td>
         <td>蘆薈優格</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">710</td>
@@ -221,8 +207,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>21</td>
     </tr>
     <tr>
-        <td>200162</td>
-        <td>3300162</td>
+        <td>162</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300162.png"></td>
         <td>河豚鍋</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1190</td>
@@ -231,8 +216,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>35</td>
     </tr>
     <tr>
-        <td>200166</td>
-        <td>3300166</td>
+        <td>166</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300166.png"></td>
         <td>法式香煎魚排</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">940</td>
@@ -241,8 +225,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>28</td>
     </tr>
     <tr>
-        <td>200170</td>
-        <td>3300170</td>
+        <td>170</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300170.png"></td>
         <td>地中海風醋醃魚</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1920</td>
@@ -251,8 +234,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>57</td>
     </tr>
     <tr>
-        <td>200174</td>
-        <td>3300174</td>
+        <td>174</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300174.png"></td>
         <td>油封料理</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1120</td>
@@ -261,8 +243,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>33</td>
     </tr>
     <tr>
-        <td>200178</td>
-        <td>3300178</td>
+        <td>178</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300178.png"></td>
         <td>西式炸魚條</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">710</td>
@@ -271,8 +252,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>23</td>
     </tr>
     <tr>
-        <td>200182</td>
-        <td>3300182</td>
+        <td>182</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300182.png"></td>
         <td>香煎魚肉</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">680</td>
@@ -281,8 +261,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>20</td>
     </tr>
     <tr>
-        <td>200186</td>
-        <td>3300186</td>
+        <td>186</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300186.png"></td>
         <td>甲魚鍋</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6090</td>
@@ -292,14 +271,13 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
     </tr>
 </table>
 
-### 夏季料理
+### 夏季販售料理
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -307,8 +285,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200101</td>
-        <td>3300101</td>
+        <td>101</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300101.png"></td>
         <td>草莓牛奶</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">540</td>
@@ -317,8 +294,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>21</td>
     </tr>
     <tr>
-        <td>200103</td>
-        <td>3300103</td>
+        <td>103</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300103.png"></td>
         <td>天婦羅</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1770</td>
@@ -327,8 +303,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>52</td>
     </tr>
     <tr>
-        <td>200107</td>
-        <td>3300107</td>
+        <td>107</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300107.png"></td>
         <td>夏季沙拉</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2450</td>
@@ -337,8 +312,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>72</td>
     </tr>
     <tr>
-        <td>200116</td>
-        <td>3300116</td>
+        <td>116</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300116.png"></td>
         <td>炒青菜</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2500</td>
@@ -347,8 +321,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>74</td>
     </tr>
     <tr>
-        <td>200119</td>
-        <td>3300119</td>
+        <td>119</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300119.png"></td>
         <td>筑前煮</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2180</td>
@@ -357,8 +330,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>64</td>
     </tr>
     <tr>
-        <td>200123</td>
-        <td>3300123</td>
+        <td>123</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300123.png"></td>
         <td>法式醬糜</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1940</td>
@@ -367,8 +339,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>57</td>
     </tr>
     <tr>
-        <td>200127</td>
-        <td>3300127</td>
+        <td>127</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300127.png"></td>
         <td>西班牙香蒜蝦</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">440</td>
@@ -378,10 +349,9 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
     </tr>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -389,8 +359,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200131</td>
-        <td>3300131</td>
+        <td>131</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300131.png"></td>
         <td>焗烤</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1460</td>
@@ -399,8 +368,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>43</td>
     </tr>
     <tr>
-        <td>200135</td>
-        <td>3300135</td>
+        <td>135</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300135.png"></td>
         <td>鯷魚熱沾醬</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">880</td>
@@ -409,8 +377,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>31</td>
     </tr>
     <tr>
-        <td>200139</td>
-        <td>3300139</td>
+        <td>139</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300139.png"></td>
         <td>印度咖喱角</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1020</td>
@@ -419,8 +386,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>30</td>
     </tr>
     <tr>
-        <td>200143</td>
-        <td>3300143</td>
+        <td>143</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300143.png"></td>
         <td>草莓奶油蛋糕</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">940</td>
@@ -429,8 +395,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>29</td>
     </tr>
     <tr>
-        <td>200147</td>
-        <td>3300147</td>
+        <td>147</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300147.png"></td>
         <td>銅鑼燒</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">610</td>
@@ -439,8 +404,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>18</td>
     </tr>
     <tr>
-        <td>200151</td>
-        <td>3300151</td>
+        <td>151</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300151.png"></td>
         <td>燈籠魚鍋</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2740</td>
@@ -449,8 +413,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>81</td>
     </tr>
     <tr>
-        <td>200155</td>
-        <td>3300155</td>
+        <td>155</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300155.png"></td>
         <td>芙蓉蛋</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3830</td>
@@ -460,10 +423,9 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
     </tr>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -471,8 +433,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200159</td>
-        <td>3300159</td>
+        <td>159</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300159.png"></td>
         <td>磅蛋糕</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">900</td>
@@ -481,8 +442,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>28</td>
     </tr>
     <tr>
-        <td>200163</td>
-        <td>3300163</td>
+        <td>163</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300163.png"></td>
         <td>糖煮水果</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">430</td>
@@ -491,8 +451,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>13</td>
     </tr>
     <tr>
-        <td>200167</td>
-        <td>3300167</td>
+        <td>167</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300167.png"></td>
         <td>南蠻漬</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1890</td>
@@ -501,8 +460,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>56</td>
     </tr>
     <tr>
-        <td>200171</td>
-        <td>3300171</td>
+        <td>171</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300171.png"></td>
         <td>山珍魚包燒烤</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">170</td>
@@ -511,8 +469,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>5</td>
     </tr>
     <tr>
-        <td>200175</td>
-        <td>3300175</td>
+        <td>175</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300175.png"></td>
         <td>味噌煮鯖魚</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">240</td>
@@ -521,8 +478,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>7</td>
     </tr>
     <tr>
-        <td>200179</td>
-        <td>3300179</td>
+        <td>179</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300179.png"></td>
         <td>糖醋鯉魚</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">530</td>
@@ -531,8 +487,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>16</td>
     </tr>
     <tr>
-        <td>200183</td>
-        <td>3300183</td>
+        <td>183</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300183.png"></td>
         <td>鰤魚燉蘿蔔</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1330</td>
@@ -541,8 +496,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>39</td>
     </tr>
     <tr>
-        <td>200187</td>
-        <td>3300187</td>
+        <td>187</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300187.png"></td>
         <td>深海魚包燒烤</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">7060</td>
@@ -552,14 +506,13 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
     </tr>
 </table>
 
-### 秋季料理
+### 秋季販售料理
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -567,8 +520,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200104</td>
-        <td>3300104</td>
+        <td>104</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300104.png"></td>
         <td>咖哩</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2430</td>
@@ -577,8 +529,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>72</td>
     </tr>
     <tr>
-        <td>200108</td>
-        <td>3300108</td>
+        <td>108</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300108.png"></td>
         <td>秋季沙拉</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2700</td>
@@ -587,8 +538,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>80</td>
     </tr>
     <tr>
-        <td>200112</td>
-        <td>3300112</td>
+        <td>112</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300112.png"></td>
         <td>地瓜甜點</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">440</td>
@@ -597,8 +547,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>18</td>
     </tr>
     <tr>
-        <td>200120</td>
-        <td>3300120</td>
+        <td>120</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300120.png"></td>
         <td>披薩</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1050</td>
@@ -607,8 +556,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>31</td>
     </tr>
     <tr>
-        <td>200124</td>
-        <td>3300124</td>
+        <td>124</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300124.png"></td>
         <td>關東煮</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">730</td>
@@ -617,8 +565,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>23</td>
     </tr>
     <tr>
-        <td>200128</td>
-        <td>3300128</td>
+        <td>128</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300128.png"></td>
         <td>大阪燒</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1840</td>
@@ -627,8 +574,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>56</td>
     </tr>
     <tr>
-        <td>200132</td>
-        <td>3300132</td>
+        <td>132</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300132.png"></td>
         <td>法式鹹派</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1050</td>
@@ -638,10 +584,9 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
     </tr>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -649,8 +594,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200136</td>
-        <td>3300136</td>
+        <td>136</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300136.png"></td>
         <td>青蔬濃湯</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">830</td>
@@ -659,8 +603,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>25</td>
     </tr>
     <tr>
-        <td>200140</td>
-        <td>3300140</td>
+        <td>140</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300140.png"></td>
         <td>焦糖杏仁</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">650</td>
@@ -669,8 +612,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>19</td>
     </tr>
     <tr>
-        <td>200144</td>
-        <td>3300144</td>
+        <td>144</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300144.png"></td>
         <td>焗豆</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1480</td>
@@ -679,8 +621,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>44</td>
     </tr>
     <tr>
-        <td>200148</td>
-        <td>3300148</td>
+        <td>148</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300148.png"></td>
         <td>焗烤濃湯</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1020</td>
@@ -689,8 +630,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>30</td>
     </tr>
     <tr>
-        <td>200152</td>
-        <td>3300152</td>
+        <td>152</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300152.png"></td>
         <td>醃泡鮪魚</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2890</td>
@@ -699,8 +639,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>85</td>
     </tr>
     <tr>
-        <td>200156</td>
-        <td>3300156</td>
+        <td>156</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300156.png"></td>
         <td>燉魚</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1480</td>
@@ -709,8 +648,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>44</td>
     </tr>
     <tr>
-        <td>200160</td>
-        <td>3300160</td>
+        <td>160</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300160.png"></td>
         <td>鰹魚生魚片</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">680</td>
@@ -720,10 +658,9 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
     </tr>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -731,8 +668,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200164</td>
-        <td>3300164</td>
+        <td>164</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300164.png"></td>
         <td>山蔬炒蛋</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">270</td>
@@ -741,8 +677,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>9</td>
     </tr>
     <tr>
-        <td>200168</td>
-        <td>3300168</td>
+        <td>168</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300168.png"></td>
         <td>泥鰍鍋</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1310</td>
@@ -751,8 +686,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>40</td>
     </tr>
     <tr>
-        <td>200172</td>
-        <td>3300172</td>
+        <td>172</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300172.png"></td>
         <td>鱉肉鍋</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">900</td>
@@ -761,8 +695,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>27</td>
     </tr>
     <tr>
-        <td>200176</td>
-        <td>3300176</td>
+        <td>176</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300176.png"></td>
         <td>荷包蛋佐松露</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2520</td>
@@ -771,8 +704,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>75</td>
     </tr>
     <tr>
-        <td>200180</td>
-        <td>3300180</td>
+        <td>180</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300180.png"></td>
         <td>西西里風薄切生魚</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">830</td>
@@ -781,8 +713,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>25</td>
     </tr>
     <tr>
-        <td>200184</td>
-        <td>3300184</td>
+        <td>184</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300184.png"></td>
         <td>梅漬小黃瓜</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">370</td>
@@ -791,8 +722,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>11</td>
     </tr>
     <tr>
-        <td>200188</td>
-        <td>3300188</td>
+        <td>188</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300188.png"></td>
         <td>大尾魚漢堡排</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6830</td>
@@ -802,14 +732,13 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
     </tr>
 </table>
 
-### 冬季料理
+### 冬季販售料理
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -817,8 +746,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200105</td>
-        <td>3300105</td>
+        <td>105</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300105.png"></td>
         <td>餅乾</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1120</td>
@@ -827,8 +755,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>16</td>
     </tr>
     <tr>
-        <td>200109</td>
-        <td>3300109</td>
+        <td>109</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300109.png"></td>
         <td>冬季沙拉</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1720</td>
@@ -837,8 +764,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>51</td>
     </tr>
     <tr>
-        <td>200111</td>
-        <td>3300111</td>
+        <td>111</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300111.png"></td>
         <td>燉菜</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1650</td>
@@ -847,8 +773,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>53</td>
     </tr>
     <tr>
-        <td>200117</td>
-        <td>3300117</td>
+        <td>117</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300117.png"></td>
         <td>布丁</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">120</td>
@@ -857,8 +782,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>9</td>
     </tr>
     <tr>
-        <td>200121</td>
-        <td>3300121</td>
+        <td>121</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300121.png"></td>
         <td>八寶菜</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1850</td>
@@ -867,8 +791,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>55</td>
     </tr>
     <tr>
-        <td>200125</td>
-        <td>3300125</td>
+        <td>125</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300125.png"></td>
         <td>火上鍋</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1460</td>
@@ -877,8 +800,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>43</td>
     </tr>
     <tr>
-        <td>200129</td>
-        <td>3300129</td>
+        <td>129</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300129.png"></td>
         <td>茶碗蒸</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2790</td>
@@ -888,10 +810,9 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
     </tr>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -899,8 +820,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200133</td>
-        <td>3300133</td>
+        <td>133</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300133.png"></td>
         <td>奶油玉米</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">680</td>
@@ -909,8 +829,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>20</td>
     </tr>
     <tr>
-        <td>200137</td>
-        <td>3300137</td>
+        <td>137</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300137.png"></td>
         <td>醋漬蘿蔔絲</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">920</td>
@@ -919,8 +838,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>27</td>
     </tr>
     <tr>
-        <td>200141</td>
-        <td>3300141</td>
+        <td>141</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300141.png"></td>
         <td>水果沙拉</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1360</td>
@@ -929,8 +847,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>40</td>
     </tr>
     <tr>
-        <td>200145</td>
-        <td>3300145</td>
+        <td>145</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300145.png"></td>
         <td>美式鬆餅</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">780</td>
@@ -939,8 +856,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>23</td>
     </tr>
     <tr>
-        <td>200149</td>
-        <td>3300149</td>
+        <td>149</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300149.png"></td>
         <td>起司蛋糕</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">730</td>
@@ -949,8 +865,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>26</td>
     </tr>
     <tr>
-        <td>200153</td>
-        <td>3300153</td>
+        <td>153</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300153.png"></td>
         <td>乾燒明蝦</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1050</td>
@@ -959,8 +874,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>31</td>
     </tr>
     <tr>
-        <td>200157</td>
-        <td>3300157</td>
+        <td>157</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300157.png"></td>
         <td>蒙布朗</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">700</td>
@@ -970,10 +884,9 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
     </tr>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
+            <td>ID</td>
             <td></td>
-            <td>料理名稱&emsp;&emsp;&emsp;</td>
+            <td>&emsp;料&emsp;理&emsp;名&emsp;稱&emsp;</td>
             <td>販售價格</td>
             <td>販售季節</td>
             <td>販售權重</td>
@@ -981,8 +894,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         </tr>
     </thead>
     <tr>
-        <td>200161</td>
-        <td>3300161</td>
+        <td>161</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300161.png"></td>
         <td>鱔魚凍</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1900</td>
@@ -991,8 +903,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>56</td>
     </tr>
     <tr>
-        <td>200165</td>
-        <td>3300165</td>
+        <td>165</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300165.png"></td>
         <td>艾草麵包</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">710</td>
@@ -1001,8 +912,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>21</td>
     </tr>
     <tr>
-        <td>200169</td>
-        <td>3300169</td>
+        <td>169</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300169.png"></td>
         <td>生魚片船</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">4620</td>
@@ -1011,8 +921,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>136</td>
     </tr>
     <tr>
-        <td>200173</td>
-        <td>3300173</td>
+        <td>173</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300173.png"></td>
         <td>甘露煮</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">460</td>
@@ -1021,8 +930,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>14</td>
     </tr>
     <tr>
-        <td>200177</td>
-        <td>3300177</td>
+        <td>177</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300177.png"></td>
         <td>煸炒沙拉</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1170</td>
@@ -1031,8 +939,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>35</td>
     </tr>
     <tr>
-        <td>200181</td>
-        <td>3300181</td>
+        <td>181</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300181.png"></td>
         <td>義式水煮魚</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1220</td>
@@ -1041,8 +948,7 @@ image: images/post/Season_of_Story/Sprite/icon_3300147.png
         <td>36</td>
     </tr>
     <tr>
-        <td>200185</td>
-        <td>3300185</td>
+        <td>185</td>
         <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3300185.png"></td>
         <td>皇帶魚祭典</td>
         <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6660</td>

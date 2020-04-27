@@ -1,5 +1,5 @@
 ---
-title: "【哆啦A夢牧場物語】88種料理出貨價格"
+title: "88種料理出貨價格"
 date: 2020-04-05T20:01:03+08:00
 description: 88種料理各品質出貨價格
 draft: false
@@ -16,16 +16,37 @@ series:
 categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_3300901.png
+libraries:
+- katex
 ---
-## 出貨價格資料
-+ [物品MOD資料庫](../doraemon-story-item-part1#物品MOD資料庫)
+<mark>最後更新：2020/04/27</mark>
 
 ## 出貨價格
-+ [所有物品出貨價格索引](../doraemon-story-index/#出貨價格)
++ [物品出貨價格索引](../doraemon-story-index/#物品出貨價格索引)
 + `品質等級`為1的物品，`出貨價格`為`基本售價`。
 + `品質等級`超過1的物品，`出貨價格`會根據上一品質等級的出貨價格以`售價倍率`提升並無條件進位至整數。
 
-### 料理
+### 源代碼
+```C#
+private int CalculateSellingPrice()
+{
+    if (this.Master.HasQuality)
+    {
+        int num = this.Master.BaseSellingPrice;
+        for (int i = 0; i < this.mQuality - 1; i++)
+        {
+            num = Mathf.CeilToInt((float)num * Item.SELLING_PRICE_RATE);
+        }
+        return num;
+    }
+    return this.Master.BaseSellingPrice;
+}
+```
+### 計算公式
+$$品質等級：N=1$$$$出貨價格（N）=無條件進位（基本售價 \times 售價倍率），售價倍率=1.13$$
+$$品質等級：N>1$$$$出貨價格（N）=無條件進位（出貨價格（N-1） \times 售價倍率）$$
+
+### 料理出貨價格
 + `物品ID`=`3300000`+`ID`
 + 以`出貨價格`遞減排序：
 <table>

@@ -94,6 +94,23 @@ image: images/post/Season_of_Story/Building/20900.png
 + [藥品](../doraemon-story-shop-20900-regis-clinic/#藥品)：1種
 
 ### 補充飲品
+<table>
+    <thead>
+        <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+    </tr>
+</table>
+
 + 補充飲品`每款`每天限購`1瓶`。
 + 提神飲料分為三種品質，體力恢復量不同，每天隨機販售其中一種。
 
@@ -144,13 +161,24 @@ image: images/post/Season_of_Story/Building/20900.png
     </tbody>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✔
-    + 只能購買一次：✔
-    + 是否需要庫存空間：✔
-
 ### 特製飲品
+<table>
+    <thead>
+        <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+    </tr>
+</table>
+
 + 特製飲品購買後大雄會立即喝下並`提升`最大體力值。
     + 但購買時背包必須保留一個庫存空間。
 + 每一款只販售一次，購買後會解鎖下一款特製飲品。
@@ -210,13 +238,23 @@ image: images/post/Season_of_Story/Building/20900.png
     </tbody>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✔
-    + 只能購買一次：✔
-    + 是否需要庫存空間：✔
-
 ### 藥品
+<table>
+    <thead>
+        <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✔</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✔</td>
+    </tr>
+</table>
 <table>
     <thead>
         <tr>
@@ -237,12 +275,6 @@ image: images/post/Season_of_Story/Building/20900.png
         </tr>
     </tbody>
 </table>
-
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✘
-    + 只能購買一次：✘
-    + 是否需要庫存空間：✔
 
 ## MOD資料庫
 ### 調用方法

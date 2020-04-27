@@ -1,5 +1,5 @@
 ---
-title: "釣魚資訊大全"
+title: "釣魚資訊"
 date: 2020-04-26T18:00:44+08:00
 description: 釣魚資訊大全
 draft: false
@@ -9,14 +9,17 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
-- 魚類
+- 釣魚
 series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/Season_of_Story/Sprite/icon_5000101.png
+image: images/post/Season_of_Story/Sprite/icon_1001060.png
 ---
 <mark>最後更新：2020/04/26</mark>
+
+## 釣魚教學
+{{< youtube Pg3MzUfiMiI >}}
 
 ## 釣魚彩池
  + `釣魚彩池`會根據下列條件篩選符合的`釣魚項目`：

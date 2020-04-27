@@ -9,7 +9,7 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
-- 動物
+- 釣魚
 - MOD
 series:
 - 哆啦A夢牧場物語
@@ -18,7 +18,7 @@ categories:
 - 商店
 image: images/post/Season_of_Story/Building/21300.png
 ---
-<mark>最後更新：2020/04/20</mark>
+<mark>最後更新：2020/04/27</mark>
 
 ## 席菲小姐的釣具店
 + Tackle Shop / Sandy's Tackle Shop
@@ -92,6 +92,22 @@ image: images/post/Season_of_Story/Building/21300.png
 <table>
     <thead>
         <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✔</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✔</td>
+    </tr>
+</table>
+<table>
+    <thead>
+        <tr>
             <td>商品ID</td>
             <td>物品ID</td>
             <td></td>
@@ -116,12 +132,6 @@ image: images/post/Season_of_Story/Building/21300.png
         </tr>
     </tbody>
 </table>
-
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✘
-    + 只能購買一次：✘
-    + 是否需要庫存空間：✔
 
 ### 魚拓
 當`大雄`帶著`大型魚類`進入釣具店時，`席菲`會幫忙製作`魚拓`。

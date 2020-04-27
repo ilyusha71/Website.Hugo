@@ -18,7 +18,7 @@ categories:
 - 商店
 image: images/post/Season_of_Story/Building/20500.png
 ---
-<mark>最後更新：2020/04/20</mark>
+<mark>最後更新：2020/04/27</mark>
 
 ## 動物商店 古騰摩克
 + Cattle Shop / Gouter Mawk Livestock
@@ -128,6 +128,22 @@ image: images/post/Season_of_Story/Building/20500.png
 <table>
     <thead>
         <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+    </tr>
+</table>
+<table>
+    <thead>
+        <tr>
             <td>商品ID</td>
             <td>物品ID</td>
             <td></td>
@@ -164,13 +180,23 @@ image: images/post/Season_of_Story/Building/20500.png
     </tbody>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✔
-    + 只能購買一次：✔
-    + 是否需要庫存空間：✔
-
 ### 動物餵食
+<table>
+    <thead>
+        <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✔</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✔</td>
+    </tr>
+</table>
 <table>
     <thead>
         <tr>
@@ -199,13 +225,23 @@ image: images/post/Season_of_Story/Building/20500.png
     </tbody>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✘
-    + 只能購買一次：✘
-    + 是否需要庫存空間：✔
-
 ### 動物種子
+<table>
+    <thead>
+        <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✔</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✔</td>
+    </tr>
+</table>
 <table>
     <thead>
         <tr>
@@ -240,13 +276,23 @@ image: images/post/Season_of_Story/Building/20500.png
     </tbody>
 </table>
 
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✘
-    + 只能購買一次：✘
-    + 是否需要庫存空間：✔
-
 ### 動物鈴
+<table>
+    <thead>
+        <tr>
+            <td align="center">是否為物品實體</td>
+            <td align="center">是否為單一物品</td>
+            <td align="center">只能購買一次</td>
+            <td align="center">是否需要庫存空間</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+        <td align="center">✔</td>
+    </tr>
+</table>
 <table>
     <thead>
         <tr>
@@ -285,12 +331,6 @@ image: images/post/Season_of_Story/Building/20500.png
         </tr>
     </tbody>
 </table>
-
-+ 商品特性：
-    + 是否為物品實體：✔
-    + 是否為單一物品：✔
-    + 只能購買一次：✔
-    + 是否需要庫存空間：✔
 
 #### 動物鈴解鎖條件
 + [寬闊的動物小屋擴建完成](../doraemon-story-1/#寬闊的動物小屋擴建)（`10121101`）
