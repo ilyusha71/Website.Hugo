@@ -32,7 +32,7 @@ image: images/post/Season_of_Story/Building/20400.png
 ### 劇情發展
 <table>
     <tr>
-        <td>01</td>
+        <td align="center">01</td>
         <td align="center"><a href="../doraemon-story-01"><img src= "/images/post/Season_of_Story/Sprite/icon_201140020.png">木工店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041140.png">潘特</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041030.png">胖虎</td>
@@ -43,46 +43,46 @@ image: images/post/Season_of_Story/Building/20400.png
 <table>
     <thead>
         <tr>
-            <td>營業時間</td>
-            <td>上午</td>
-            <td>下午</td>
-            <td></td>
+            <td align="center">營業時間</td>
+            <td align="center">上午</td>
+            <td align="center">下午</td>
+            <td align="center"></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>星期日</td>
-            <td>10點~12點</td>
-            <td>16點~20點</td>
+            <td align="center">星期日</td>
+            <td align="center">10點~12點</td>
+            <td align="center">16點~20點</td>
             <td rowspan="10"><img src= "/images/post/Season_of_Story/Scene/20400-opening-time.png"></td>
         </tr>
         <tr>
-            <td>星期一</td>
-            <td>10點~12點</td>
-            <td>16點~20點</td>
+            <td align="center">星期一</td>
+            <td align="center">10點~12點</td>
+            <td align="center">16點~20點</td>
         </tr>
         <tr>
-            <td>星期二</td>
-            <td colspan="2">公休日</td>
+            <td align="center">星期二</td>
+            <td align="center" colspan="2" class="breadcrumb">公休日</td>
         </tr>
         <tr>
-            <td>星期三</td>
-            <td>10點~12點</td>
-            <td>16點~20點</td>
+            <td align="center">星期三</td>
+            <td align="center">10點~12點</td>
+            <td align="center">16點~20點</td>
         </tr>        
         <tr>
-            <td>星期四</td>
-            <td>10點~12點</td>
-            <td>16點~20點</td>
+            <td align="center">星期四</td>
+            <td align="center">10點~12點</td>
+            <td align="center">16點~20點</td>
         </tr>
         <tr>
-            <td>星期五</td>
-            <td>10點~12點</td>
-            <td>16點~20點</td>
+            <td align="center">星期五</td>
+            <td align="center">10點~12點</td>
+            <td align="center">16點~20點</td>
         </tr>
         <tr>
-            <td>星期六</td>
-            <td colspan="2">公休日</td>
+            <td align="center">星期六</td>
+            <td align="center" colspan="2" class="breadcrumb">公休日</td>
         </tr>
      </tbody>
 </table>
@@ -130,6 +130,24 @@ image: images/post/Season_of_Story/Building/20400.png
 + [資材](../doraemon-story-shop-20400-hammer-carpenter-shop/#資材)：4種
 
 ### 建築
+<table>
+    <thead>
+        <tr>
+            <td align="center" colspan="2">工藝商品特性</td>
+        </tr>
+        <tr>
+            <td align="center" class="breadcrumb">工藝商品類型</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center" class="expand__content">建造</td>
+            <td align="center" class="breadcrumb">✘</td>
+        </tr>
+    </tbody>
+</table>
+
 木工店進行建築的擴建或建造過程有下列條件：
 + 建築工程會從`潘特`接受委託後的下一個木工店營業日開始。
 + 非木工店營業時間將不計入`工程天數`並自動順延。
@@ -139,58 +157,58 @@ image: images/post/Season_of_Story/Building/20400.png
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>建築ID</td>
-            <td></td>
-            <td>商品名稱</td>
-            <td>材料1</td>
-            <td>材料2</td>
-            <td>材料3</td>
-            <td>材料4</td>
-            <td>材料5</td>
-            <td>建造價格</td>
-            <td>工程天數</td>
+            <td align="center">商品ID</td>
+            <td align="center">建築ID</td>
+            <td align="center"></td>
+            <td align="center">商品名稱</td>
+            <td align="center">材料1</td>
+            <td align="center">材料2</td>
+            <td align="center">材料3</td>
+            <td align="center">材料4</td>
+            <td align="center">材料5</td>
+            <td align="center">建造價格</td>
+            <td align="center">工程天數</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>---</td>
-            <td>---</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080010.png"></td>
-            <td>簡陋的家</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>初始建築</td>
-            <td>---</td>
+            <td align="center">---</td>
+            <td align="center">---</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080010.png"></td>
+            <td align="center">簡陋的家</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center">初始建築</td>
+            <td align="center">---</td>
         </tr>
         <tr>
-            <td>100100</td>
-            <td>12010</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080011.png"></td>
-            <td>寬闊的家</td>
+            <td align="center">100100</td>
+            <td align="center">12010</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080011.png"></td>
+            <td align="center">寬闊的家</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">48</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">36</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png">27</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7111010.png">24</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001001.png">41</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3200</td>
-            <td>7 天</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3200</td>
+            <td align="center">7 天</td>
         </tr>
         <tr>
-            <td>100101</td>
-            <td>12020</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080012.png"></td>
-            <td>巨大的家</td>
+            <td align="center">100101</td>
+            <td align="center">12020</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080012.png"></td>
+            <td align="center">巨大的家</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">121</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">88</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png">58</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">30</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001006.png">4</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">15500</td>
-            <td>7 天</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">15500</td>
+            <td align="center">7 天</td>
         </tr>
     </tbody>
 </table>
@@ -208,58 +226,58 @@ image: images/post/Season_of_Story/Building/20400.png
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>建築ID</td>
-            <td></td>
-            <td>商品名稱</td>
-            <td>材料1</td>
-            <td>材料2</td>
-            <td>材料3</td>
-            <td>材料4</td>
-            <td>材料5</td>
-            <td>建造價格</td>
-            <td>工程天數</td>
+            <td align="center">商品ID</td>
+            <td align="center">建築ID</td>
+            <td align="center"></td>
+            <td align="center">商品名稱</td>
+            <td align="center">材料1</td>
+            <td align="center">材料2</td>
+            <td align="center">材料3</td>
+            <td align="center">材料4</td>
+            <td align="center">材料5</td>
+            <td align="center">建造價格</td>
+            <td align="center">工程天數</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>---</td>
-            <td>---</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080020.png"></td>
-            <td>簡陋的動物小屋</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>初始建築</td>
-            <td>---</td>
+            <td align="center">---</td>
+            <td align="center">---</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080020.png"></td>
+            <td align="center">簡陋的動物小屋</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center">初始建築</td>
+            <td align="center">---</td>
         </tr>
         <tr>
-            <td>100103</td>
-            <td>12110</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
-            <td>寬闊的動物小屋</td>
+            <td align="center">100103</td>
+            <td align="center">12110</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
+            <td align="center">寬闊的動物小屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">60</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">31</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png">19</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001001.png">45</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png">46</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5900</td>
-            <td>7 天</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5900</td>
+            <td align="center">7 天</td>
         </tr>
         <tr>
-            <td>100104</td>
-            <td>12120</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
-            <td>巨大的動物小屋</td>
+            <td align="center">100104</td>
+            <td align="center">12120</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
+            <td align="center">巨大的動物小屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">121</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">146</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png">176</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">45</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001004.png">6</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30400</td>
-            <td>7 天</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30400</td>
+            <td align="center">7 天</td>
         </tr>
     </tbody>
 </table>
@@ -285,58 +303,58 @@ image: images/post/Season_of_Story/Building/20400.png
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>建築ID</td>
-            <td></td>
-            <td>商品名稱</td>
-            <td>材料1</td>
-            <td>材料2</td>
-            <td>材料3</td>
-            <td>材料4</td>
-            <td>材料5</td>
-            <td>建造價格</td>
-            <td>工程天數</td>
+            <td align="center">商品ID</td>
+            <td align="center">建築ID</td>
+            <td align="center"></td>
+            <td align="center">商品名稱</td>
+            <td align="center">材料1</td>
+            <td align="center">材料2</td>
+            <td align="center">材料3</td>
+            <td align="center">材料4</td>
+            <td align="center">材料5</td>
+            <td align="center">建造價格</td>
+            <td align="center">工程天數</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>---</td>
-            <td>---</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080030.png"></td>
-            <td>簡陋的雞小屋</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>初始建築</td>
-            <td>---</td>
+            <td align="center">---</td>
+            <td align="center">---</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080030.png"></td>
+            <td align="center">簡陋的雞小屋</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center">初始建築</td>
+            <td align="center">---</td>
         </tr>
         <tr>
-            <td>100105</td>
-            <td>12210</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080031.png"></td>
-            <td>寬闊的雞小屋</td>
+            <td align="center">100105</td>
+            <td align="center">12210</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080031.png"></td>
+            <td align="center">寬闊的雞小屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">40</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">31</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png">32</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001001.png">45</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png">41</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6400</td>
-            <td>7 天</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6400</td>
+            <td align="center">7 天</td>
         </tr>
         <tr>
-            <td>100106</td>
-            <td>12220</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
-            <td>巨大的雞小屋</td>
+            <td align="center">100106</td>
+            <td align="center">12220</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
+            <td align="center">巨大的雞小屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">161</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">110</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png">117</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">36</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001005.png">6</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">26700</td>
-            <td>7 天</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">26700</td>
+            <td align="center">7 天</td>
         </tr>
     </tbody>
 </table>
@@ -359,84 +377,84 @@ image: images/post/Season_of_Story/Building/20400.png
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>建築ID</td>
-            <td></td>
-            <td>商品名稱</td>
-            <td>材料1</td>
-            <td>材料2</td>
-            <td>材料3</td>
-            <td>材料4</td>
-            <td>材料5</td>
-            <td>建造價格</td>
-            <td>工程天數</td>
+            <td align="center">商品ID</td>
+            <td align="center">建築ID</td>
+            <td align="center"></td>
+            <td align="center">商品名稱</td>
+            <td align="center">材料1</td>
+            <td align="center">材料2</td>
+            <td align="center">材料3</td>
+            <td align="center">材料4</td>
+            <td align="center">材料5</td>
+            <td align="center">建造價格</td>
+            <td align="center">工程天數</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>100107</td>
-            <td>12610</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080050.png"></td>
-            <td>動物小屋的筒倉</td>
+            <td align="center">100107</td>
+            <td align="center">12610</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080050.png"></td>
+            <td align="center">動物小屋的筒倉</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">69</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">48</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png">44</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">35</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">22</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">9700</td>
-            <td>3 天</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">9700</td>
+            <td align="center">3 天</td>
         </tr>
         <tr>
-            <td>100108</td>
-            <td>12510</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080060.png"></td>
-            <td>雞小屋的筒倉</td>
+            <td align="center">100108</td>
+            <td align="center">12510</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080060.png"></td>
+            <td align="center">雞小屋的筒倉</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">53</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">55</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png">50</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">40</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">25</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">10200</td>
-            <td>3 天</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">10200</td>
+            <td align="center">3 天</td>
         </tr>
         <tr>
-            <td>100109</td>
-            <td>12910</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080080.png"></td>
-            <td>資材儲放屋</td>
+            <td align="center">100109</td>
+            <td align="center">12910</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080080.png"></td>
+            <td align="center">資材儲放屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">48</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">40</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png">29</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7111010.png">20</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001001.png">27</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">7000</td>
-            <td>2 天</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">7000</td>
+            <td align="center">2 天</td>
         </tr>
         <tr>
-            <td>100102</td>
-            <td>12410</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080070.png"></td>
-            <td>馬小屋</td>
+            <td align="center">100102</td>
+            <td align="center">12410</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080070.png"></td>
+            <td align="center">馬小屋</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">40</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">31</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png">19</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7111010.png">12</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001001.png">30</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5200</td>
-            <td>5 天</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5200</td>
+            <td align="center">5 天</td>
         </tr>
         <tr>
-            <td>100110</td>
-            <td>12310</td>
-            <td><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080040.png"></td>
-            <td>溫室</td>
+            <td align="center">100110</td>
+            <td align="center">12310</td>
+            <td align="center"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080040.png"></td>
+            <td align="center">溫室</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png">242</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png">440</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png">352</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png">36</td>
             <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001007.png">12</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">70500</td>
-            <td>7 天</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">70500</td>
+            <td align="center">7 天</td>
         </tr>
     </tbody>
 </table>
@@ -454,45 +472,70 @@ image: images/post/Season_of_Story/Building/20400.png
     + [雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)開始同時販售全季節[作物種子](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)。
 
 ### 家具
+<table>
+    <thead>
+        <tr>
+            <td align="center" colspan="2">工藝商品特性</td>
+            <td align="center" colspan="3">物品特性</td>
+        </tr>
+        <tr>
+            <td align="center" class="breadcrumb">工藝商品類型</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center" class="expand__content">多重工藝</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+        </tr>
+    </tbody>
+</table>
+
 #### 家中的物品
 ##### 室內裝潢
 <table>
     <thead>
         <tr>
-            <td>簡約系列</td>
-            <td>木紋系列</td>
-            <td>石質系列</td>
-            <td>鄉村風系列</td>
-            <td>度假風系列</td>
-            <td>樹樁系列</td>
+            <td align="center">簡約系列</td>
+            <td align="center">木紋系列</td>
+            <td align="center">石質系列</td>
+            <td align="center">鄉村風系列</td>
+            <td align="center">度假風系列</td>
+            <td align="center">樹樁系列</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="../doraemon-story-interior-decorations-1/#簡約系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7010060.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-1/#木紋系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7011060.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-1/#石質系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7012060.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-1/#鄉村風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7013060.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-1/#度假風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7014060.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-1/#樹樁系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7015060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-1/#簡約系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7010060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-1/#木紋系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7011060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-1/#石質系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7012060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-1/#鄉村風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7013060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-1/#度假風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7014060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-1/#樹樁系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7015060.png"></a></td>
         </tr>
     <thead>
         <tr>
-            <td>奢華風系列</td>
-            <td>大雄系列</td>
-            <td>海洋風系列</td>
-            <td>花系列</td>
-            <td>軟綿綿系列</td>
-            <td>化石系列</td>
+            <td align="center">奢華風系列</td>
+            <td align="center">大雄系列</td>
+            <td align="center">海洋風系列</td>
+            <td align="center">花系列</td>
+            <td align="center">軟綿綿系列</td>
+            <td align="center">化石系列</td>
         </tr>
     </thead>
         <tr>
-            <td><a href="../doraemon-story-interior-decorations-2/#奢華風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7016060.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-2/#大雄系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7017060.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-2/#海洋風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7018060.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-2/#花系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7019060.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-2/#軟綿綿系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7020060.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-2/#化石系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7027060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-2/#奢華風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7016060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-2/#大雄系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7017060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-2/#海洋風系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7018060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-2/#花系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7019060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-2/#軟綿綿系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7020060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-2/#化石系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7027060.png"></a></td>
         </tr>
     </tbody>
 </table>
@@ -501,15 +544,15 @@ image: images/post/Season_of_Story/Building/20400.png
 <table>
     <thead>
         <tr>
-            <td>玩具</td>
-            <td>標本</td>
-            <td>日用品</td>
+            <td align="center">玩具</td>
+            <td align="center">標本</td>
+            <td align="center">日用品</td>
         </tr>
     </thead>
         <tr>
-            <td><a href="../doraemon-story-interior-decorations-3/#玩具"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7022010.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-3/#標本"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7026000.png"></a></td>
-            <td><a href="../doraemon-story-interior-decorations-3/#日用品"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7028040.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-3/#玩具"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7022010.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-3/#標本"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7026000.png"></a></td>
+            <td align="center"><a href="../doraemon-story-interior-decorations-3/#日用品"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7028040.png"></a></td>
         </tr>
     </tbody>
 </table>
@@ -519,22 +562,22 @@ image: images/post/Season_of_Story/Building/20400.png
 <table>
     <thead>
         <tr>
-            <td>木質系列</td>
-            <td>石頭系列</td>
-            <td>鐵質系列</td>
-            <td>紅磚系列</td>
-            <td>時尚系列</td>
-            <td>可愛系列</td>
+            <td align="center">木質系列</td>
+            <td align="center">石頭系列</td>
+            <td align="center">鐵質系列</td>
+            <td align="center">紅磚系列</td>
+            <td align="center">時尚系列</td>
+            <td align="center">可愛系列</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="../doraemon-story-decor-1/#木質系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7053020.png"></a></td>
-            <td><a href="../doraemon-story-decor-1/#石頭系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7054020.png"></a></td>
-            <td><a href="../doraemon-story-decor-1/#鐵質系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7055020.png"></a></td>
-            <td><a href="../doraemon-story-decor-1/#紅磚系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7056020.png"></a></td>
-            <td><a href="../doraemon-story-decor-1/#時尚系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7057020.png"></a></td>
-            <td><a href="../doraemon-story-decor-1/#可愛系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7058020.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-1/#木質系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7053020.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-1/#石頭系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7054020.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-1/#鐵質系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7055020.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-1/#紅磚系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7056020.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-1/#時尚系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7057020.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-1/#可愛系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7058020.png"></a></td>
         </tr>
     </tbody>
 </table>
@@ -543,21 +586,21 @@ image: images/post/Season_of_Story/Building/20400.png
 <table>
     <thead>
         <tr>
-            <td>養蜂箱</td>
-            <td>牧場物品</td>
-            <td>製物系列</td>
-            <td>牌子</td>
-            <td>作物立牌</td>
-            <td>雕像</td>
+            <td align="center">養蜂箱</td>
+            <td align="center">牧場物品</td>
+            <td align="center">製物系列</td>
+            <td align="center">牌子</td>
+            <td align="center">作物立牌</td>
+            <td align="center">雕像</td>
         </tr>
     </thead>
         <tr>
-            <td><a href="../doraemon-story-decor-2/#養蜂箱"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7050000.png"></a></td>
-            <td><a href="../doraemon-story-decor-2/#牧場物品"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7052000.png"></a></td>
-            <td><a href="../doraemon-story-decor-2/#製物系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7059000.png"></a></td>
-            <td><a href="../doraemon-story-decor-2/#牌子"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7061060.png"></a></td>
-            <td><a href="../doraemon-story-decor-2/#作物立牌"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7065350.png"></a></td>
-            <td><a href="../doraemon-story-decor-2/#雕像"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7066000.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-2/#養蜂箱"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7050000.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-2/#牧場物品"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7052000.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-2/#製物系列"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7059000.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-2/#牌子"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7061060.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-2/#作物立牌"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7065350.png"></a></td>
+            <td align="center"><a href="../doraemon-story-decor-2/#雕像"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7066000.png"></a></td>
         </tr>
     </tbody>
 </table>
@@ -566,57 +609,69 @@ image: images/post/Season_of_Story/Building/20400.png
 <table>
     <thead>
         <tr>
-            <td align="center">是否為物品實體</td>
-            <td align="center">是否為單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">是否需要庫存空間</td>
+            <td align="center" colspan="4">商品特性</td>
+            <td align="center" colspan="3">物品特性</td>
         </tr>
-    </thead>
-    <tr>
-        <td align="center">✔</td>
-        <td align="center">✘</td>
-        <td align="center">✘</td>
-        <td align="center">✔</td>
-    </tr>
-</table>
-<table>
-    <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
-            <td></td>
-            <td>商品名稱</td>
-            <td>建造價格</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>100100</td>
-            <td>7110000</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png"></td>
-            <td>軟質木材</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">200</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td align="center">商品ID</td>
+            <td align="center">物品ID</td>
+            <td align="center"></td>
+            <td align="center">商品名稱</td>
+            <td align="center">建造價格</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">100100</td>
+            <td align="center">7110000</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7110000.png"></td>
+            <td align="center">軟質木材</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">200</td>
         </tr>
         <tr>
-            <td>100101</td>
-            <td>7110010</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png"></td>
-            <td>普通木材</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">320</td>
+            <td align="center">100101</td>
+            <td align="center">7110010</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7110010.png"></td>
+            <td align="center">普通木材</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">320</td>
         </tr>
         <tr>
-            <td>100102</td>
-            <td>7110020</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png"></td>
-            <td>硬質木材</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">480</td>
+            <td align="center">100102</td>
+            <td align="center">7110020</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7110020.png"></td>
+            <td align="center">硬質木材</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">480</td>
         </tr>
         <tr>
-            <td>100103</td>
-            <td>7111010</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7111010.png"></td>
-            <td>石材</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
+            <td align="center">100103</td>
+            <td align="center">7111010</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_7111010.png"></td>
+            <td align="center">石材</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
         </tr>
     </tbody>
 </table>

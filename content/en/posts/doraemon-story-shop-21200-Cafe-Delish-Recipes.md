@@ -34,18 +34,18 @@ image: images/post/Season_of_Story/Sprite/icon_9200147.png
             <td align="center" colspan="4">商品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>

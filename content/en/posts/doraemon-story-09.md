@@ -16,14 +16,24 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140100.png
 ---
-<mark>最後更新：2020/04/19</mark>
+<mark>最後更新：2020/04/28</mark>
 
 ![鎮長劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2500.png)
+
 ## 鎮長
-[全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
+    <thead>
+        <tr>
+            <td align="center" colspan="10" class="expand__content"><a href="../doraemon-story-index/#劇情線">全劇情線索引</a></td>
+        </tr>
+        <tr>
+            <td align="center">ID</td>
+            <td align="center">劇情線</td>
+            <td align="center" colspan="10">主要角色</td>
+        </tr>
+    </thead>
     <tr>
-        <td>09</td>
+        <td align="center" class="breadcrumb">09</td>
         <td align="center"><a href="../doraemon-story-09"><img src= "/images/post/Season_of_Story/Sprite/icon_201140100.png">鎮長</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041200.png">亞緬</td>
     </tr>

@@ -70,7 +70,7 @@ image: images/post/Season_of_Story/Building/20700.png
         </tr>        
         <tr>
             <td align="center">星期四</td>
-            <td colspan="2">公休日</td>
+            <td align="center" class="breadcrumb">公休日</td>
         </tr>
         <tr>
             <td align="center">星期五</td>
@@ -104,23 +104,23 @@ image: images/post/Season_of_Story/Building/20700.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tr>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
     </tr>
 </table>
 
@@ -150,7 +150,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">蕪菁種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30</td>
         <td align="center">春季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
     <tr>
         <td align="center">101</td>
@@ -158,7 +158,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">馬鈴薯種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
         <td align="center">春季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
     <tr>
         <td align="center">102</td>
@@ -206,7 +206,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">瑪格麗特種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
         <td align="center">春季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
     <tr>
         <td align="center">110</td>
@@ -244,7 +244,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">玉米種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">140</td>
         <td align="center">夏季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
     <tr>
         <td align="center">201</td>
@@ -276,7 +276,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">番茄種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">110</td>
         <td align="center">夏季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
     <tr>
         <td align="center">205</td>
@@ -308,7 +308,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">向日葵種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
         <td align="center">夏季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
     <tr>
         <td align="center">211</td>
@@ -370,7 +370,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">胡蘿蔔種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">80</td>
         <td align="center">秋季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
     <tr>
         <td align="center">302</td>
@@ -378,7 +378,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">地瓜種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
         <td align="center">秋季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
     <tr>
         <td align="center">303</td>
@@ -410,7 +410,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">撫子花種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
         <td align="center">秋季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
     <tr>
         <td align="center">307</td>
@@ -440,7 +440,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">白蘿蔔種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
         <td align="center">冬季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
     <tr>
         <td align="center">401</td>
@@ -464,7 +464,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">雪花蓮種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
         <td align="center">冬季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
 </table>
 
@@ -486,7 +486,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">牧草種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">30</td>
         <td align="center">四季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
     <tr>
         <td align="center">501</td>
@@ -494,7 +494,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center">小麥種子</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">50</td>
         <td align="center">四季</td>
-        <td align="center">✔</td>
+        <td align="center" class="breadcrumb">✔</td>
     </tr>
 </table>
 
@@ -506,23 +506,23 @@ image: images/post/Season_of_Story/Building/20700.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tr>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
     </tr>
 </table>
 <table>
@@ -559,24 +559,24 @@ image: images/post/Season_of_Story/Building/20700.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -589,7 +589,7 @@ image: images/post/Season_of_Story/Building/20700.png
             <td align="center"></td>
             <td align="center">商品名稱</td>
             <td align="center">販售價格</td>
-            <td>功能</td>
+            <td align="center">功能</td>
         </tr>
     </thead>
     <tr>
@@ -599,7 +599,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001140.png"></td>
         <td align="center">捕蟲網</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2000</td>
-        <td>捕蟲</td>
+        <td class="breadcrumb">捕蟲</td>
     </tr>
 </table>
 
@@ -614,24 +614,24 @@ image: images/post/Season_of_Story/Building/20700.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -652,7 +652,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003000.png"></td>
         <td align="center">背包</td>
         <td align="center">初始裝備</td>
-        <td align="center">8</td>
+        <td align="center" class="breadcrumb">8</td>
     </tr>
     <tr>
         <td align="center">200100</td>
@@ -660,7 +660,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003001.png"></td>
         <td align="center">大背包</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">6000</td>
-        <td align="center">16</td>
+        <td align="center" class="breadcrumb">16</td>
     </tr>
     <tr>
         <td align="center">200101</td>
@@ -668,7 +668,7 @@ image: images/post/Season_of_Story/Building/20700.png
         <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1003002.png"></td>
         <td align="center">巨大背包</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">12000</td>
-        <td align="center">24</td>
+        <td align="center" class="breadcrumb">24</td>
     </tr>
 </table>
 
@@ -680,24 +680,24 @@ image: images/post/Season_of_Story/Building/20700.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>

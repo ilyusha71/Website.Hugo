@@ -35,24 +35,27 @@ image: images/post/Season_of_Story/Sprite/icon_3400101.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✔<br>香辛料、紅豆餡、油、飯糰除外</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
+            <td align="center" rowspan="2" class="breadcrumb">✔</td>
+            <td align="center" rowspan="2" class="breadcrumb">✘</td>
+            <td align="center" rowspan="2" class="breadcrumb">✘</td>
+            <td align="center" rowspan="2" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" rowspan="2" class="breadcrumb">✘</td>
+            <td align="center" rowspan="2" class="breadcrumb">✔</td>
+        </tr>
+        <tr>
+            <td align="center" class="expand__content">香辛料、紅豆餡、油、飯糰除外</td>
         </tr>
     </tbody>
 </table>

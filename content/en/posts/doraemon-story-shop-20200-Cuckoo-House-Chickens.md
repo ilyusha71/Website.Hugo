@@ -61,7 +61,7 @@ image: images/post/Season_of_Story/Building/20200.png
         </tr>
         <tr>
             <td align="center">星期二</td>
-            <td colspan="2">公休日</td>
+            <td align="center" class="breadcrumb">公休日</td>
         </tr>
         <tr>
             <td align="center">星期三</td>
@@ -73,7 +73,7 @@ image: images/post/Season_of_Story/Building/20200.png
         </tr>
         <tr>
             <td align="center">星期五</td>
-            <td colspan="2">公休日</td>
+            <td align="center" class="breadcrumb">公休日</td>
         </tr>
         <tr>
             <td align="center">星期六</td>
@@ -117,24 +117,24 @@ image: images/post/Season_of_Story/Building/20200.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -174,23 +174,23 @@ image: images/post/Season_of_Story/Building/20200.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tr>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
     </tr>
 </table>
 <table>
@@ -202,7 +202,7 @@ image: images/post/Season_of_Story/Building/20200.png
             <td align="center"></td>
             <td align="center">商品名稱</td>
             <td align="center">販售價格</td>
-            <td>功能</td>
+            <td align="center">功能</td>
         </tr>
     </thead>
     <tbody>
@@ -213,7 +213,7 @@ image: images/post/Season_of_Story/Building/20200.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001152.png"></td>
             <td align="center">雞鈴</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
-            <td>搖鈴後，雞會往大雄的位置移動<br>持續8分鐘</td>
+            <td class="breadcrumb">搖鈴後，雞會往大雄的位置移動<br>持續8分鐘</td>
         </tr>
     </tbody>
 </table>
@@ -229,10 +229,10 @@ image: images/post/Season_of_Story/Building/20200.png
     </thead>
     <tr>        
         <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001152.png"></td>
-        <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080031.png"></td>
+        <td rowspan="2" class="breadcrumb"><img src= "/images/post/Season_of_Story/Sprite/icon_201080031.png"></td>
     </tr>
     <tr>
-        <td align="center">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋">擴建寬闊的雞小屋</a></td>
+        <td align="center" class="breadcrumb">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋">擴建寬闊的雞小屋</a></td>
     </tr>
 </table>
 

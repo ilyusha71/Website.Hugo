@@ -53,12 +53,12 @@ image: images/post/Season_of_Story/Building/21100.png
     <tbody>
         <tr>
             <td align="center">星期日</td>
-            <td colspan="2">公休日</td>
+            <td align="center" colspan="2" class="breadcrumb">公休日</td>
             <td rowspan="10"><img src= "/images/post/Season_of_Story/Scene/21100-opening-time.png"></td>
         </tr>
         <tr>
             <td align="center">星期一</td>
-            <td colspan="2">公休日</td>
+            <td align="center" colspan="2" class="breadcrumb">公休日</td>
         </tr>
         <tr>
             <td align="center">星期二</td>
@@ -101,20 +101,20 @@ image: images/post/Season_of_Story/Building/21100.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">工藝商品類型</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">工藝商品類型</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">單一工藝</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="expand__content">單一工藝</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -122,7 +122,7 @@ image: images/post/Season_of_Story/Building/21100.png
 + `物品ID`=`1000000`+`工具ID`
 + `商品ID`=`物品ID`x`10`
 
-#### 初始工具
+#### 初始破舊工具
 <table>
     <thead>
         <tr>
@@ -140,7 +140,7 @@ image: images/post/Season_of_Story/Building/21100.png
     </tr>
     <thead>
         <tr>
-            <td colspan="10">破舊工具</td>
+            <td colspan="10" class="breadcrumb">Lv.0</td>
         </tr>
     </thead>
     <tr>
@@ -152,6 +152,11 @@ image: images/post/Season_of_Story/Building/21100.png
         <td align="center"><img src= "/images/post/Season_of_Story/Sprite/icon_1001050.png"></td>
         <td align="center"><img src= "/images/post/Season_of_Story/Sprite/icon_1001060.png"></td>
     </tr>
+    <thead>
+        <tr>
+            <td colspan="10" class="breadcrumb">工具名稱</td>
+        </tr>
+    </thead>
     <tr>
         <td align="center">破舊的鋤頭</td>
         <td align="center">破舊的槌子</td>
@@ -657,24 +662,24 @@ image: images/post/Season_of_Story/Building/21100.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -704,7 +709,7 @@ image: images/post/Season_of_Story/Building/21100.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4001000.png"></td>
             <td align="center">鐵礦石</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">200</td>
-            <td align="center">擁有Lv.2<a href="../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級鐵製工具">鐵製工具</a></td>
+            <td align="center" class="breadcrumb">擁有Lv.2<a href="../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級鐵製工具">鐵製工具</a></td>
         </tr>
         <tr>
             <td align="center">100102</td>
@@ -712,7 +717,7 @@ image: images/post/Season_of_Story/Building/21100.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png"></td>
             <td align="center">銀礦石</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">320</td>
-            <td align="center">擁有Lv.3<a href="../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級銀製工具">銀製工具</a></td>
+            <td align="center" class="breadcrumb">擁有Lv.3<a href="../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級銀製工具">銀製工具</a></td>
         </tr>
         <tr>
             <td align="center">100103</td>
@@ -720,7 +725,7 @@ image: images/post/Season_of_Story/Building/21100.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png"></td>
             <td align="center">金礦石</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">480</td>
-            <td align="center">擁有Lv.4<a href="../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級金製工具">金製工具</a></td>
+            <td align="center" class="breadcrumb">擁有Lv.4<a href="../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級金製工具">金製工具</a></td>
         </tr>
     </tbody>
 </table>
@@ -730,23 +735,16 @@ image: images/post/Season_of_Story/Building/21100.png
     <thead>
         <tr>
             <td align="center" colspan="2">工藝商品特性</td>
-            <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">工藝商品類型</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">工藝商品類型</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">建造</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="expand__content">建造</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -815,7 +813,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">125</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001004.png">5</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20000</td>
-        <td align="center" valign="middle"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
+        <td align="center" valign="middle" class="breadcrumb"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
     </tr>
     <tr>
         <td align="center">100103</td>
@@ -828,7 +826,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">125</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001005.png">5</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20000</td>
-        <td align="center" valign="middle"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
+        <td align="center" valign="middle" class="breadcrumb"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
     </tr>
     <tr>
         <td align="center">100104</td>
@@ -841,7 +839,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">125</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001005.png">5</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20000</td>
-        <td align="center" valign="middle"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
+        <td align="center" valign="middle" class="breadcrumb"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
     </tr>
     <tr>
         <td align="center">100105</td>
@@ -854,7 +852,7 @@ image: images/post/Season_of_Story/Building/21100.png
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001002.png">125</td>
         <td align="center" valign="middle"><img width= "48px" src= "/images/post/Season_of_Story/Sprite/icon_4001006.png">5</td>
         <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20000</td>
-        <td align="center" valign="middle"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
+        <td align="center" valign="middle" class="breadcrumb"><img width= "100px" src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
     </tr>
 </table>
 
@@ -865,9 +863,11 @@ image: images/post/Season_of_Story/Building/21100.png
 <table>
     <thead>
         <tr>
-            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">131800</td>
+            <td align="center" class="breadcrumb"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">131800</td>
         </tr>
     </thead>
+</table>
+<table>
     <thead>
         <tr>
             <td align="center">石材</td>
@@ -885,12 +885,14 @@ image: images/post/Season_of_Story/Building/21100.png
         <td align="center"><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_4001003.png"></td>
     </tr>
     <tr>
-        <td align="center">1810</td>
-        <td align="center">1735</td>
-        <td align="center">2295</td>
-        <td align="center">1370</td>
-        <td align="center">350</td>
+        <td align="center" class="breadcrumb">1810</td>
+        <td align="center" class="breadcrumb">1735</td>
+        <td align="center" class="breadcrumb">2295</td>
+        <td align="center" class="breadcrumb">1370</td>
+        <td align="center" class="breadcrumb">350</td>
     </tr>
+</table>
+<table>
     <thead>
         <tr>
             <td align="center">紅寶石</td>
@@ -908,11 +910,11 @@ image: images/post/Season_of_Story/Building/21100.png
         <td align="center"><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_4001100.png"></td>
     </tr>
     <tr>
-        <td align="center">40</td>
-        <td align="center">115</td>
-        <td align="center">110</td>
-        <td align="center">106</td>
-        <td align="center">210</td>
+        <td align="center" class="breadcrumb">40</td>
+        <td align="center" class="breadcrumb">115</td>
+        <td align="center" class="breadcrumb">110</td>
+        <td align="center" class="breadcrumb">106</td>
+        <td align="center" class="breadcrumb">210</td>
     </tr>    
 </table>
 

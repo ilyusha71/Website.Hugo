@@ -16,16 +16,26 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140070.png
 ---
-<mark>最後更新：2020/04/19</mark>
+<mark>最後更新：2020/04/28</mark>
 
 ![小雞商店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2400.png)
+
 ## 小雞商店
-[全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
+    <thead>
+        <tr>
+            <td align="center" colspan="10" class="expand__content"><a href="../doraemon-story-index/#劇情線">全劇情線索引</a></td>
+        </tr>
+        <tr>
+            <td align="center">ID</td>
+            <td align="center">劇情線</td>
+            <td align="center" colspan="10">主要角色</td>
+        </tr>
+    </thead>
     <tr>
-        <td>06</td>
+        <td align="center" class="breadcrumb">06</td>
         <td align="center"><a href="../doraemon-story-06"><img src= "/images/post/Season_of_Story/Sprite/icon_201140070.png">小雞商店</a></td>
-        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041080.png">赫蓮</td>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041080.png">赫連</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041090.png">奇克</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041100.png">肯</td>
     </tr>

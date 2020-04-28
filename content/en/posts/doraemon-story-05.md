@@ -16,14 +16,24 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140030.png
 ---
-<mark>最後更新：2020/04/19</mark>
+<mark>最後更新：2020/04/28</mark>
 
 ![雜貨店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2600.png)
+
 ## 雜貨店
-[全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
+    <thead>
+        <tr>
+            <td align="center" colspan="10" class="expand__content"><a href="../doraemon-story-index/#劇情線">全劇情線索引</a></td>
+        </tr>
+        <tr>
+            <td align="center">ID</td>
+            <td align="center">劇情線</td>
+            <td align="center" colspan="10">主要角色</td>
+        </tr>
+    </thead>
     <tr>
-        <td>05</td>
+        <td align="center" class="breadcrumb">05</td>
         <td align="center"><a href="../doraemon-story-05"><img src= "/images/post/Season_of_Story/Sprite/icon_201140030.png">雜貨店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041170.png">涅萊爾</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041180.png">埃蒂</td>

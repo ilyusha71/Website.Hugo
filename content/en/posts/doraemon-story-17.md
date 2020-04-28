@@ -16,14 +16,24 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140180.png
 ---
-<mark>最後更新：2020/04/19</mark>
+<mark>最後更新：2020/04/28</mark>
 
 ![兔子劇情線](/images/post/Season_of_Story/Texture2D/EventImage_3005.png)
+
 ## 兔子
-[全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
+    <thead>
+        <tr>
+            <td align="center" colspan="10" class="expand__content"><a href="../doraemon-story-index/#劇情線">全劇情線索引</a></td>
+        </tr>
+        <tr>
+            <td align="center">ID</td>
+            <td align="center">劇情線</td>
+            <td align="center" colspan="10">主要角色</td>
+        </tr>
+    </thead>
     <tr>
-        <td>17</td>
+        <td align="center" class="breadcrumb">17</td>
         <td align="center"><a href="../doraemon-story-17"><img src= "/images/post/Season_of_Story/Sprite/icon_201140180.png">兔子</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201046020.png"></td>
     </tr>

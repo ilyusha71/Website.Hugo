@@ -16,14 +16,24 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140050.png
 ---
-<mark>最後更新：2020/04/19</mark>
+<mark>最後更新：2020/04/28</mark>
 
 ![打鐵店劇情線](/images/post/Season_of_Story/Texture2D/EventImage_2300.png)
+
 ## 打鐵店
-[全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
+    <thead>
+        <tr>
+            <td align="center" colspan="10" class="expand__content"><a href="../doraemon-story-index/#劇情線">全劇情線索引</a></td>
+        </tr>
+        <tr>
+            <td align="center">ID</td>
+            <td align="center">劇情線</td>
+            <td align="center" colspan="10">主要角色</td>
+        </tr>
+    </thead>
     <tr>
-        <td>04</td>
+        <td align="center" class="breadcrumb">04</td>
         <td align="center"><a href="../doraemon-story-04"><img src= "/images/post/Season_of_Story/Sprite/icon_201140050.png">打鐵店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041150.png">斯米克</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041160.png">布拉斯</td>

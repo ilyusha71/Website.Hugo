@@ -57,77 +57,84 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
 
 ## 劇情線
 <table>
+    <thead>
+        <tr>
+            <td align="center">ID</td>
+            <td align="center">劇情線</td>
+            <td align="center" colspan="10">主要角色</td>
+        </tr>
+    </thead>
     <tr>
-        <td>00</td>
+        <td align="center" class="breadcrumb">00</td>
         <td align="center"><a href="../doraemon-story-00"><img src= "/images/post/Season_of_Story/Sprite/icon_201140010.png">巨木</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041000.png">大雄</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041010.png">哆啦A夢</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041070.png">薇娜</td>
     </tr>
     <tr>
-        <td>01</td>
+        <td align="center" class="breadcrumb">01</td>
         <td align="center"><a href="../doraemon-story-01"><img src= "/images/post/Season_of_Story/Sprite/icon_201140020.png">木工店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041140.png">潘特</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041030.png">胖虎</td>
     </tr>
     <tr>
-        <td>02</td>
+        <td align="center" class="breadcrumb">02</td>
         <td align="center"><a href="../doraemon-story-02"><img src= "/images/post/Season_of_Story/Sprite/icon_201140060.png">醫院</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041210.png">洛克德</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041220.png">瑟露娜</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041020.png">靜香</td>
     </tr>
     <tr>
-        <td>03</td>
+        <td align="center" class="breadcrumb">03</td>
         <td align="center"><a href="../doraemon-story-03"><img src= "/images/post/Season_of_Story/Sprite/icon_201140040.png">料理店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041230.png">萊斯特</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041240.png">托蘭</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041040.png">小夫</td>
     </tr>
     <tr>
-        <td>04</td>
+        <td align="center" class="breadcrumb">04</td>
         <td align="center"><a href="../doraemon-story-04"><img src= "/images/post/Season_of_Story/Sprite/icon_201140050.png">打鐵店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041150.png">斯米克</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041160.png">布拉斯</td>
     </tr>
     <tr>
-        <td>05</td>
+        <td align="center" class="breadcrumb">05</td>
         <td align="center"><a href="../doraemon-story-05"><img src= "/images/post/Season_of_Story/Sprite/icon_201140030.png">雜貨店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041170.png">涅萊爾</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041180.png">埃蒂</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041190.png">緹拉兒</td>
     </tr>
     <tr>
-        <td>06</td>
+        <td align="center" class="breadcrumb">06</td>
         <td align="center"><a href="../doraemon-story-06"><img src= "/images/post/Season_of_Story/Sprite/icon_201140070.png">小雞商店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041080.png">赫連</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041090.png">奇克</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041100.png">肯</td>
     </tr>
     <tr>
-        <td>07</td>
+        <td align="center" class="breadcrumb">07</td>
         <td align="center"><a href="../doraemon-story-07"><img src= "/images/post/Season_of_Story/Sprite/icon_201140080.png">動物商店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041110.png">布魯</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041120.png">優</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041130.png">菈姆</td>
     </tr>
     <tr>
-        <td>08</td>
+        <td align="center" class="breadcrumb">08</td>
         <td align="center"><a href="../doraemon-story-08"><img src= "/images/post/Season_of_Story/Sprite/icon_201140090.png">釣具店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041250.png">席菲</td>
     </tr>
     <tr>
-        <td>09</td>
+        <td align="center" class="breadcrumb">09</td>
         <td align="center"><a href="../doraemon-story-09"><img src= "/images/post/Season_of_Story/Sprite/icon_201140100.png">鎮長</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041200.png">亞緬</td>
     </tr>
     <tr>
-        <td>10</td>
+        <td align="center" class="breadcrumb">10</td>
         <td align="center"><a href="../doraemon-story-10"><img src= "/images/post/Season_of_Story/Sprite/icon_201140110.png">蘭奇</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041050.png">蘭奇</td>
     </tr>
     <tr>
-        <td>11</td>
+        <td align="center" class="breadcrumb">11</td>
         <td align="center"><a href="../doraemon-story-11"><img src= "/images/post/Season_of_Story/Sprite/icon_201140120.png">克魯波克魯</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041260.png">婭卡</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041270.png">羅伊茲米</td>
@@ -136,46 +143,46 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041300.png">奇薩拉姆</td>
     </tr>
     <tr>
-        <td>12</td>
+        <td align="center" class="breadcrumb">12</td>
         <td align="center"><a href="../doraemon-story-12"><img src= "/images/post/Season_of_Story/Sprite/icon_201140130.png">狗</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201042000.png">銅鑼汪</td>
     </tr>
     <tr>
-        <td>13</td>
+        <td align="center" class="breadcrumb">13</td>
         <td align="center"><a href="../doraemon-story-13"><img src= "/images/post/Season_of_Story/Sprite/icon_201140140.png">馬</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201042020.png">狂草尼馬</td>
     </tr>
     <tr>
-        <td>14</td>
+        <td align="center" class="breadcrumb">14</td>
         <td align="center"><a href="../doraemon-story-14"><img src= "/images/post/Season_of_Story/Sprite/icon_201140150.png">貓</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201042010.png">咪咪</td>
     </tr>
     <tr>
-        <td>15</td>
+        <td align="center" class="breadcrumb">15</td>
         <td align="center"><a href="../doraemon-story-15"><img src= "/images/post/Season_of_Story/Sprite/icon_201140160.png">熊</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201046010.png"></td>
     </tr>
     <tr>
-        <td>16</td>
+        <td align="center" class="breadcrumb">16</td>
         <td align="center"><a href="../doraemon-story-16"><img src= "/images/post/Season_of_Story/Sprite/icon_201140170.png">猴子</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201046000.png"></td>
     </tr>
     <tr>
-        <td>17</td>
+        <td align="center" class="breadcrumb">17</td>
         <td align="center"><a href="../doraemon-story-17"><img src= "/images/post/Season_of_Story/Sprite/icon_201140180.png">兔子</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201046020.png"></td>
     </tr>
     <tr>
-        <td>18</td>
+        <td align="center" class="breadcrumb">18</td>
         <td align="center"><a href="../doraemon-story-18"><img src= "/images/post/Season_of_Story/Sprite/icon_201140190.png">松鼠</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201046030.png"></td>
     </tr>
     <tr>
-        <td>19</td>
+        <td align="center" class="breadcrumb">19</td>
         <td align="center"><a href="../doraemon-story-19"><img src= "/images/post/Season_of_Story/Sprite/icon_201140200.png">秘密道具</a></td>
     </tr>
     <tr>
-        <td>20</td>
+        <td align="center" class="breadcrumb">20</td>
         <td align="center"><a href="../doraemon-story-20"><img src= "/images/post/Season_of_Story/Sprite/icon_201140210.png">洞窟</a></td>
     </tr>
 </table>
@@ -391,22 +398,29 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
     </tr>
 </table>
 
-## 耕種系統與作物圖鑑
+## 農耕系統與作物圖鑑
 <table>
     <thead>
         <tr>
-            <td colspan="10">耕種系統與作物圖鑑</td>        
+            <td colspan="10">農耕系統與作物圖鑑</td>        
         </tr>
     </thead>
     <tr>
-        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png">作物種子</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png">播種與收成</a></td>
-        <td align="center"><a href="../#鋤頭選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭選用</a></td>
-        <td align="center"><a href="../#澆水壺選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺選用</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">施肥效果</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part3"><img width="136px" src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png">成長過程</a></td>
-        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png">耕地</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="98px" src= "/images/post/Season_of_Story/Sprite/Crop_90110400.png">播種</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">施肥</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part4"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001020.png">澆水</a></td>        
+        <td align="center"><a href="../doraemon-story-crop-part5"><img width="136px" src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png">成長</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part6"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001030.png">收成收割</a></td>
         <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="../doraemon-story-crop-part1/#鋤頭"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000501.png">作物種子</a></td>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png">肥料</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part4/#澆水壺"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>        
+        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part6/#鐮刀"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>
         <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">溫室種植</a></td>
     </tr>
 </table>

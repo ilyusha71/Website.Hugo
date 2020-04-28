@@ -16,19 +16,31 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140120.png
 ---
-<mark>最後更新：2020/04/19</mark>
+<mark>最後更新：2020/04/28</mark>
 
 ![克魯波克魯劇情線](/images/post/Season_of_Story/Texture2D/EventImage_1001.png)
+
 ## 克魯波克魯
-[全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
-        <td>11</td>
+    <thead>
+        <tr>
+            <td align="center" colspan="10" class="expand__content"><a href="../doraemon-story-index/#劇情線">全劇情線索引</a></td>
+        </tr>
+        <tr>
+            <td align="center">ID</td>
+            <td align="center">劇情線</td>
+            <td align="center" colspan="10">主要角色</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center" class="breadcrumb">11</td>
         <td align="center"><a href="../doraemon-story-11"><img src= "/images/post/Season_of_Story/Sprite/icon_201140120.png">克魯波克魯</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041260.png">婭卡</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041270.png">羅伊茲米</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041280.png">多羅米</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041290.png">琪倫</td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041300.png">奇薩拉姆</td>
+    </tr>
 </table>
 
 ### 第1話 邂逅克魯波克魯

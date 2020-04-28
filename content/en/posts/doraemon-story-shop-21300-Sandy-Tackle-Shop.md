@@ -32,7 +32,7 @@ image: images/post/Season_of_Story/Building/21300.png
 ### 劇情發展
 <table>
     <tr>
-        <td>08</td>
+        <td align="center">08</td>
         <td align="center"><a href="../doraemon-story-08"><img src= "/images/post/Season_of_Story/Sprite/icon_201140090.png">釣具店</a></td>
         <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041250.png">席菲</td>
     </tr>
@@ -42,45 +42,45 @@ image: images/post/Season_of_Story/Building/21300.png
 <table>
     <thead>
         <tr>
-            <td>營業時間</td>
-            <td>上午</td>
-            <td>下午</td>
-            <td></td>
+            <td align="center">營業時間</td>
+            <td align="center">上午</td>
+            <td align="center">下午</td>
+            <td align="center"></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>星期日</td>
-            <td>8點~12點</td>
-            <td>14點~16點</td>
+            <td align="center">星期日</td>
+            <td align="center">8點~12點</td>
+            <td align="center">14點~16點</td>
             <td rowspan="10"><img src= "/images/post/Season_of_Story/Scene/21300-opening-time.png"></td>
         </tr>
         <tr>
-            <td>星期一</td>
-            <td colspan="2">公休日</td>
+            <td align="center">星期一</td>
+            <td align="center" colspan="2" class="breadcrumb">公休日</td>
         </tr>
         <tr>
-            <td>星期二</td>
-            <td>8點~12點</td>
-            <td>14點~16點</td>
+            <td align="center">星期二</td>
+            <td align="center">8點~12點</td>
+            <td align="center">14點~16點</td>
         </tr>
         <tr>
-            <td>星期三</td>
-            <td colspan="2">公休日</td>
+            <td align="center">星期三</td>
+            <td align="center" colspan="2" class="breadcrumb">公休日</td>
         </tr>        
         <tr>
-            <td>星期四</td>
-            <td>8點~12點</td>
-            <td>14點~16點</td>
+            <td align="center">星期四</td>
+            <td align="center">8點~12點</td>
+            <td align="center">14點~16點</td>
         </tr>
         <tr>
-            <td>星期五</td>
-            <td colspan="2">公休日</td>
+            <td align="center">星期五</td>
+            <td align="center" colspan="2" class="breadcrumb">公休日</td>
         </tr>
         <tr>
-            <td>星期六</td>
-            <td>8點~12點</td>
-            <td>14點~16點</td>
+            <td align="center">星期六</td>
+            <td align="center">8點~12點</td>
+            <td align="center">14點~16點</td>
         </tr>
      </tbody>
 </table>
@@ -96,51 +96,51 @@ image: images/post/Season_of_Story/Building/21300.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
 <table>
     <thead>
         <tr>
-            <td>商品ID</td>
-            <td>物品ID</td>
-            <td></td>
-            <td>商品名稱</td>
-            <td>販售價格</td>
+            <td align="center">商品ID</td>
+            <td align="center">物品ID</td>
+            <td align="center"></td>
+            <td align="center">商品名稱</td>
+            <td align="center">販售價格</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>100101</td>
-            <td>1102000</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1102000.png"></td>
-            <td>撒食餌</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">100</td>
+            <td align="center">100101</td>
+            <td align="center">1102000</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1102000.png"></td>
+            <td align="center">撒食餌</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">100</td>
         </tr>
         <tr>
-            <td>100102</td>
-            <td>1102001</td>
-            <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1102001.png"></td>
-            <td>高級撒食餌</td>
-            <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">300</td>
+            <td align="center">100102</td>
+            <td align="center">1102001</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1102001.png"></td>
+            <td align="center">高級撒食餌</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">300</td>
         </tr>
     </tbody>
 </table>
@@ -151,24 +151,24 @@ image: images/post/Season_of_Story/Building/21300.png
 <table>
     <thead>
         <tr>
-            <td>大尾魚</td>
-            <td>皺鰓鯊</td>
-            <td>皇帶魚</td>
-            <td>巨狗脂鯉</td>
+            <td align="center">大尾魚</td>
+            <td align="center">皺鰓鯊</td>
+            <td align="center">皇帶魚</td>
+            <td align="center">巨狗脂鯉</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img src= "/images/post/Season_of_Story/Sprite/icon_5000190.png"></td>
-            <td><img src= "/images/post/Season_of_Story/Sprite/icon_5000188.png"></td>
-            <td><img src= "/images/post/Season_of_Story/Sprite/icon_5000187.png"></td>
-            <td><img src= "/images/post/Season_of_Story/Sprite/icon_5000189.png"></td>
+            <td align="center"><img src= "/images/post/Season_of_Story/Sprite/icon_5000190.png"></td>
+            <td align="center"><img src= "/images/post/Season_of_Story/Sprite/icon_5000188.png"></td>
+            <td align="center"><img src= "/images/post/Season_of_Story/Sprite/icon_5000187.png"></td>
+            <td align="center"><img src= "/images/post/Season_of_Story/Sprite/icon_5000189.png"></td>
         </tr>
         <tr>
-            <td><img src= "/images/post/Season_of_Story/Texture2D/tex_goods_21300.png"></td>
-            <td><img src= "/images/post/Season_of_Story/Texture2D/tex_goods_21310.png"></td>
-            <td><img src= "/images/post/Season_of_Story/Texture2D/tex_goods_21320.png"></td>
-            <td><img src= "/images/post/Season_of_Story/Texture2D/tex_goods_21330.png"></td>
+            <td align="center"><img src= "/images/post/Season_of_Story/Texture2D/tex_goods_21300.png"></td>
+            <td align="center"><img src= "/images/post/Season_of_Story/Texture2D/tex_goods_21310.png"></td>
+            <td align="center"><img src= "/images/post/Season_of_Story/Texture2D/tex_goods_21320.png"></td>
+            <td align="center"><img src= "/images/post/Season_of_Story/Texture2D/tex_goods_21330.png"></td>
         </tr>
     </tbody>
 </table>

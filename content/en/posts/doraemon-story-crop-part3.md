@@ -1,7 +1,7 @@
 ---
-title: "作物成長過程"
-date: 2020-04-03T17:37:16+08:00
-description: 作物成長過程的相關計算
+title: "作物施肥"
+date: 2020-04-03T17:16:52+08:00
+description: 作物的施肥效果對作物品質的影響
 draft: false
 hideToc: false
 enableToc: false
@@ -14,248 +14,115 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/Season_of_Story/Sprite/Crop_90110401.png
+image: images/post/Season_of_Story/Sprite/icon_1103001.png
 libraries:
 - katex
 ---
 <mark>最後更新：2020/04/27</mark>
 
-## 耕種系統與作物圖鑑
+## 農耕系統與作物圖鑑
 <table>
     <thead>
         <tr>
-            <td colspan="10">耕種系統與作物圖鑑</td>        
+            <td colspan="10">農耕系統與作物圖鑑</td>        
         </tr>
     </thead>
     <tr>
-        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000100.png">作物種子</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png">播種與收成</a></td>
-        <td align="center"><a href="../#鋤頭選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭選用</a></td>
-        <td align="center"><a href="../#澆水壺選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺選用</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">施肥效果</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part3"><img width="136px" src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png">成長過程</a></td>
-        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png">耕地</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="98px" src= "/images/post/Season_of_Story/Sprite/Crop_90110400.png">播種</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">施肥</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part4"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001020.png">澆水</a></td>        
+        <td align="center"><a href="../doraemon-story-crop-part5"><img width="136px" src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png">成長</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part6"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001030.png">收成收割</a></td>
         <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="../doraemon-story-crop-part1/#鋤頭"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000501.png">作物種子</a></td>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png">肥料</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part4/#澆水壺"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>        
+        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part6/#鐮刀"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>
         <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">溫室種植</a></td>
     </tr>
 </table>
 
-## 作物成長過程
-根據`CropModel`的資料分析，作物的成長機制離不開下列三個參數：
-+ 收成天數（`CropMasterModel.HarvestDays`）
-+ 成長階數（`CropMasterModel.Step`）
-+ 減少階數（`CropMasterModel.ReduceStep`）
+## 作物施肥
++ 一開始從[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)買的種子品質都是⭐️0.5，如果不施肥，則作物收成的時候仍會是⭐️0.5。
++ 若要讓作物的品質上升，在遊戲中可以選擇`肥料`或`高級肥料`來進行施肥。
++ 高級肥料的價格是一般肥料的`兩倍`，但`施肥效果`也是兩倍。
 
-### 收成天數
-作物的成長過程是以成長值（`CropModel.mGrowth`）表示。
-每天作物在澆水後都會進行成長（`CropModel.Grow()`），`成長值`+1。
-```C#
-public void Grow()
-{
-	if (!this.CanHarvest && !this.IsWithered)
-	{
-		this.mGrowth++;
-	}
-}
-```
-當成長值達到收成天數（`CropMasterModel.HarvestDays`）時，作物就能進行收成（`CropModel.CanHarvest`）。
-```C#
-public bool CanHarvest
-{
-	get
-	{
-		return !this.IsWithered && this.mGrowth == this.Master.HarvestDays;
-	}
-}
-```
-### 成長階數
-成長階數（`CropMasterModel.Step`）是作物從種子到成熟需經歷的成長階段總數，也相當於作物外觀的變化。
-+ 目前作物的成長階數大多為4到6個階段。
-+ 在37種作物中，番茄擁有最多的七個成長階段。
-+ 成長階段的初始階段為種子剛播種的時候，成長階段為第1階段。
-+ 成長階段的最後階段為作物成熟的時候，如果成長階數是6，則作物成熟的成長階段為第6階段。
-+ 透過成長進階方法`CropModel.GrowStep()`可以知道每個成長階段對應的`成長值`與門檻。
-+ 由於剛播種的第一天就可以開始澆水成長（`成長值`為1），所以第1階段的持續天數會少1天。
-+ `瞬間成長劑`的效果就是使作物直接立即進入下一階段，成長值的增加量等於現階段與下一階段的成長值門檻的差，因此使用在成長階數較少，收成天數較長的收益較好。
-```C#
-public void GrowStep()
-{
-	if (this.CanHarvest || this.IsWithered)
-	{
-		return;
-	}
-	int num2;
-	int num = Math.DivRem(this.Master.HarvestDays, this.Master.Step - 1, out num2);
-	int num3 = (this.Master.Step - 1 - num2) * num;
-	if (this.mGrowth < num3)
-	{
-		this.mGrowth += num;
-	}
-	else
-	{
-		this.mGrowth += num + 1;
-	}
-	if (this.mGrowth > this.Master.HarvestDays)
-	{
-		this.mGrowth = this.Master.HarvestDays;
-	}
-}
-```
-從代碼中，可以得知`num`為收成天數平均分配給成熟前的成長階段（所以為成長階數-1），亦即成熟前每個成長階段對應`成長值`的基本數量，而餘數`num2`則為平均分配的剩餘數量，將從最後的成長階段（除去成熟階段）開始分配，透過`num3`找出餘數分配完時對應成長階段的`成長值`。
-#### 草莓的成長階段
-+ 以草莓為例：
-    + 草莓的收成天數為15天。
-    + 草莓的成長階數為6。
-+ 透過成長進階方法`CropModel.GrowStep()`，找出可得出草莓成長值對應的成長階段。
-    + num = 3
-    + num2 = 0
-    + num3 = 15
-<table border = "7">
-　<tr>
-        <td>第1階段</td>
-        <td>第2階段</td>
-        <td>第3階段</td>
-        <td>第4階段</td>
-        <td>第5階段</td>
-        <td>第6階段</td>
+### 肥料
++ 肥料的取得途徑：
+    1. [雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#肥料)購買。
+    2. 透過[釣魚](../doraemon-story-live-fishing)獲得。
+    3. 跑腿任務獎勵。
+
+<table>
+    <thead>
+        <tr>
+            <td></td>
+            <td>物品名稱</td>
+            <td>販售價格</td>
+        </tr>
+    </thead>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png"></td>
+        <td>肥料</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
     </tr>
-　<tr>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110400.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110401.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110403.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110404.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png"></td>
-　</tr>
-　<tr>
-        <td>2天</td>
-        <td>3天</td>
-        <td>3天</td>
-        <td>3天</td>
-        <td>3天</td>
-        <td>---</td>
-    </tr>
-　<tr>
-        <td>0~2</td>
-        <td>3~5</td>
-        <td>6~8</td>
-        <td>9~11</td>
-        <td>12~14</td>
-        <td>15</td>
+    <tr>
+        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png"></td>
+        <td>高級肥料</td>
+        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
     </tr>
 </table>
 
-#### 鳳梨的成長階段
-+ 再以鳳梨為例：
-    + 鳳梨的收成天數為13天。
-    + 鳳梨的成長階數為6。
-+ 透過成長進階方法`CropModel.GrowStep()`，找出可得出鳳梨成長值對應的成長階段。
-    + num = 2
-    + num2 = 3
-    + num3 = 4
-
-<table border = "7">
-　<tr>
-        <td>第1階段</td>
-        <td>第2階段</td>
-        <td>第3階段</td>
-        <td>第4階段</td>
-        <td>第5階段</td>
-        <td>第6階段</td>
-    </tr>
-　<tr>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120600.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120601.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120602.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120603.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120604.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120605.png"></td>
-　</tr>
-　<tr>
-        <td>1天</td>
-        <td>2天</td>
-        <td>3天</td>
-        <td>3天</td>
-        <td>3天</td>
-        <td>---</td>
-    </tr>
-　<tr>
-        <td>0~1</td>
-        <td>2~3</td>
-        <td>4~6</td>
-        <td>7~9</td>
-        <td>10~12</td>
-        <td>13</td>
-    </tr>
-</table>
-
-### 減少階數（降階）
-減少階數（`CropMasterModel.ReduceStep`）是多次收穫作物收成後重新成長時應減少的成長階段數量。
-亦即作物收成後，土裡的作物會根據減少階數`降階`到某個成長階段。
-+ 單次收穫作物的減少階數為-1。
-+ 多次收穫作物的減少階數為1或2。
-+ `降階`減少的成長階段直接對應`成長值`與`品質分`的減少量。
----
-以草莓為例：
-+ 草莓的成長階數為6。
-+ 草莓的減少階數為2。
-
-當草莓收成後，土裡重新成長的草莓其成長階段會減少2階（`降階`）而變成第4階段，同時`成長值`與`品質分`也會同比例一併減少。
-
----
-降階後的`成長值`與`品質分`可透過成長減少方法（`CropModel.ReduceGrowth()`）計算。
+### 肥料效果源代碼
 ```C#
-public void ReduceGrowth()
+private static readonly Dictionary<int, float> UpgradeValueTable = new Dictionary<int, float>
 {
-	if (!this.CanRepeat && !this.IsWithered)
-	{
-		return;
-	}
-	int num2;
-	int num = Math.DivRem(this.Master.HarvestDays, this.Master.Step - 1, out num2);
-	num2 = ((num2 <= this.Master.ReduceStep) ? num2 : this.Master.ReduceStep);
-	int num3 = num * this.Master.ReduceStep + num2;
-	this.mGrowth -= num3;
-	this.mQuality -= Mathf.CeilToInt(Crop.GetUpgradeValue(Item.ID_HIGH_QUALITY_FERTILIZER) / (float)this.Master.HarvestDays) * num3;
-	if (this.mQuality < Crop.MIN_QUALITY)
-	{
-		this.mQuality = Crop.MIN_QUALITY;
-	}
-	this.mRepeatCount++;
+    {
+        Item.ID_FERTILIZER,
+        100f
+    },
+    {
+        Item.ID_HIGH_QUALITY_FERTILIZER,
+        200f
+    }
+};
+```
+
+### 施肥品質提升計算公式
+品質提升方法（`CropModel.Upgrade(int item_id)`）：
+```C#
+public void Upgrade(int item_id)
+{
+    if (this.CanHarvest || this.IsWithered)
+    {
+        return;
+    }
+    this.mQuality += Mathf.CeilToInt(Crop.GetUpgradeValue(item_id) / (float)this.Master.HarvestDays);
+    if (this.mQuality > Crop.MAX_QUALITY)
+    {
+        this.mQuality = Crop.MAX_QUALITY;
+    }
 }
 ```
-成長減少方法的公式：
-$$num=\dfrac {收成天數}{成長階數}的商數$$
-$$num2=\dfrac {收成天數}{成長階數}的餘數，若餘數大於減少階數則：num2=減少階數$$
-$$num3=num\times減少階數+num2$$
-透過計算可以發現`num3`所代表的意義可以為：
-+ 降階後少掉的`成長天數`。
-+ 降階後少掉的`施肥次數`。
-+ 降階後`成長值`的減少量。
-+ 降階後的`再收成天數`。
-#### 成長值的減少
-成長值減少的多寡與減少的成長階段有關。
-+ 以草莓為例：
-    + `降階`後的成長階段從`第6階段`降為`第4階段`。
-    + 參考[草莓成長階段](#草莓的成長階段)的對應表，`成長值`自然也從第6階段的`15`變為第4階段的`9`。
-+ 根據成長減少方法的計算公式：
-$$草莓降階後的成長值={收成天數}-{再收成天數}={15}-{6}=9$$
+品質提升方法的計算公式：
+$$提升的品質分=無條件進位（\dfrac {肥料效果}{收成天數}）$$
 
-### 品質分的減少
-品質分的減少原理與`成長值`的減少相同，與`降階`減少的成長階段有關，然而`品質分`的成長本身又與施用的肥料有關，所以減少的品質分會以`高級肥料`的效果進行計算。
-+ 以草莓為例：
-    + 假設收成時的品質分為`253分`。
-    + 成長階段從`第6階段`降為`第4階段`，一共少了`6天`的成長，亦即少了`6次`的施肥。
-    + 根據[前篇](../doraemon-story-crop-part2)施肥品質分的計算方法，草莓6次施用高級肥料所增加的品質分為`84分`。
-    + 所以`品質分`會減少84分變成`169分`。
-+ 根據成長減少方法的計算公式，`降階`減少的`品質分`計算公式為：
-$$無條件進位（\dfrac {高級肥料效果}{收成天數}）\times{減少的施肥次數}$$
-$$草莓降階後的品質分=253-無條件進位（\dfrac {200}{15}）\times6=253-84=169$$
-
-## 總結
-以草莓作為例子總結：
-1. 已知草莓的收成天數為`15天`，每次澆水成長值`+1`，因此收成時成長值為`15`。
-2. 草莓收成後，土裡的草莓成長值會降回到第9天的狀態，亦即成長值為`9`。
-3. 若草莓成長全程使用高級肥料，則品質分也會降回到第9天的品質分。
-4. 因此成長階段在第9天的草莓還需要6天才會成熟。
-5. 若這6天也都使用高級肥料，再次成熟時，品質分也會與上次收成相同。
+#### 草莓的施肥提升比較
+以雜貨店買的***草莓種子***為例，草莓的收成天數（`CropMasterModel.HarvestDays`）為15天：
+*******
+若全程使用一般肥料，則每天品質均增加7分，成熟時品質為106分，採收後的草莓為⭐️1.5。
+$$一般肥料提升的品質分=無條件進位（\dfrac {一般肥料效果}{收成天數}）=無條件進位（\dfrac {100}{15}）=7$$
+*******
+若改用高級肥料，每天品質則增加14分，成熟時品質為211分，採收後的草莓為⭐️2.5。
+$$高級肥料提升的品質分=無條件進位（\dfrac {高級肥料效果}{收成天數}）=無條件進位（\dfrac {200}{15}）=14$$
+*******
+<mark>事實上，根據作物資料的分析結果，在遊戲中所有作物在收成後最多都只會增加2⭐️。</mark>
+亦即全程使用高級肥料，也要進行三次播種才會變成⭐️5（注意每次播種都會先降0.5⭐️）。
++ 第一次播種到收成：`⭐️0.5`→`⭐️2.5`
++ 第二次播種到收成：`⭐️2`→`⭐️4`
++ 第三次播種到收成：`⭐️3.5`→`⭐️5`

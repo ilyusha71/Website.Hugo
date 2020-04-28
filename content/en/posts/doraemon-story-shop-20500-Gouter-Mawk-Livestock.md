@@ -69,7 +69,7 @@ image: images/post/Season_of_Story/Building/20500.png
         </tr>
         <tr>
             <td align="center">星期三</td>
-            <td colspan="2">公休日</td>
+            <td align="center" colspan="2" class="breadcrumb">公休日</td>
         </tr>        
         <tr>
             <td align="center">星期四</td>
@@ -78,7 +78,7 @@ image: images/post/Season_of_Story/Building/20500.png
         </tr>
         <tr>
             <td align="center">星期五</td>
-            <td colspan="2">公休日</td>
+            <td align="center" colspan="2" class="breadcrumb">公休日</td>
         </tr>
         <tr>
             <td align="center">星期六</td>
@@ -132,24 +132,24 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -173,7 +173,7 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001110.png"></td>
             <td align="center">刷子</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">500</td>
-            <td colspan="2">用來幫牛、羊與馬刷背</td>
+            <td colspan="2" class="breadcrumb">用來幫牛、羊與馬刷背</td>
         </tr>
         <tr>
             <td align="center">100101</td>
@@ -182,8 +182,8 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001120.png"></td>
             <td align="center">擠乳器</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1000</td>
-            <td>用來幫成牛擠奶，可以獲得牛奶</td>
-            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3200101.png"></td>
+            <td class="breadcrumb">用來幫成牛擠奶，可以獲得牛奶</td>
+            <td align="center" class="breadcrumb"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3200101.png"></td>
         </tr>
         <tr>
             <td align="center">100102</td>
@@ -192,8 +192,8 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001130.png"></td>
             <td align="center">剃毛刀</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1000</td>
-            <td>用來幫成羊剪毛，可以獲得羊毛</td>
-            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4100100.png"></td>
+            <td class="breadcrumb">用來幫成羊剪毛，可以獲得羊毛</td>
+            <td align="center" class="breadcrumb"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4100100.png"></td>
         </tr>
     </tbody>
 </table>
@@ -206,24 +206,24 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -263,24 +263,24 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -303,8 +303,8 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101030.png"></td>
             <td align="center">牛種子</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">3000</td>
-            <td align="center"><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031110.png"></td>
-            <td align="center">小牛崽兒</td>
+            <td align="center" class="breadcrumb"><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031110.png"></td>
+            <td align="center" class="breadcrumb">小牛崽兒</td>
         </tr>
         <tr>
             <td align="center">100107</td>
@@ -312,8 +312,8 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101040.png"></td>
             <td align="center">羊種子</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">2000</td>
-            <td align="center"><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031130.png"></td>
-            <td align="center">小羊崽兒</td>
+            <td align="center" class="breadcrumb"><img width= "96px" src= "/images/post/Season_of_Story/Sprite/icon_201031130.png"></td>
+            <td align="center" class="breadcrumb">小羊崽兒</td>
         </tr>
     </tbody>
 </table>
@@ -326,23 +326,23 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tr>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
     </tr>
 </table>
 <table>
@@ -365,7 +365,7 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png"></td>
             <td align="center">牛鈴</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
-            <td>搖鈴後，牛會往大雄的位置移動<br>持續8分鐘</td>
+            <td class="breadcrumb">搖鈴後，牛會往大雄的位置移動<br>持續8分鐘</td>
         </tr>
         <tr>
             <td align="center">100110</td>
@@ -374,7 +374,7 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png"></td>
             <td align="center">羊鈴</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
-            <td>搖鈴後，羊會往大雄的位置移動<br>持續8分鐘</td>
+            <td class="breadcrumb">搖鈴後，羊會往大雄的位置移動<br>持續8分鐘</td>
         </tr>
         <tr>
             <td align="center">100112</td>
@@ -383,7 +383,7 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
             <td align="center">引導鈴</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20000</td>
-            <td>在牧場搖鈴會引導動物前往小屋<br>在小屋搖鈴時會引導動物前往牧場<br>持續16分鐘<br>只會影響❤️3以上動物</td>
+            <td class="breadcrumb">在牧場搖鈴會引導動物前往小屋<br>在小屋搖鈴時會引導動物前往牧場<br>持續16分鐘<br>只會影響❤️3以上動物</td>
         </tr>
     </tbody>
 </table>
@@ -401,10 +401,10 @@ image: images/post/Season_of_Story/Building/20500.png
     <tr>        
         <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png"></td>
         <td align="center"><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png"></td>
-        <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
+        <td rowspan="2" class="breadcrumb"><img src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
     </tr>
     <tr>
-        <td colspan="2">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建寬闊的動物小屋</a></td>
+        <td colspan="2" class="breadcrumb">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建寬闊的動物小屋</a></td>
     </tr>
 </table>
 
@@ -420,11 +420,11 @@ image: images/post/Season_of_Story/Building/20500.png
     </thead>
     <tr>
         <td align="center"><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
-        <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
-        <td rowspan="2"><img src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
+        <td rowspan="2" class="breadcrumb"><img src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
+        <td rowspan="2" class="breadcrumb"><img src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
     </tr>
     <tr>
-        <td align="center">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建巨大的動物小屋</a><br>+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋">擴建巨大的雞小屋</a></td>
+        <td align="center" class="breadcrumb">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建巨大的動物小屋</a><br>+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋">擴建巨大的雞小屋</a></td>
     </tr>
 </table>
 

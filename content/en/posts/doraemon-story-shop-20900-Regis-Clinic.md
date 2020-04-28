@@ -53,7 +53,7 @@ image: images/post/Season_of_Story/Building/20900.png
     <tbody>
         <tr>
             <td align="center">星期日</td>
-            <td colspan="2">公休日</td>
+            <td align="center" colspan="2" class="breadcrumb">公休日</td>
             <td rowspan="10"><img src= "/images/post/Season_of_Story/Scene/20900-opening-time.png"></td>
         </tr>
         <tr>
@@ -73,7 +73,7 @@ image: images/post/Season_of_Story/Building/20900.png
         </tr>        
         <tr>
             <td align="center">星期四</td>
-            <td colspan="2">公休日</td>
+            <td align="center" colspan="2" class="breadcrumb">公休日</td>
         </tr>
         <tr>
             <td align="center">星期五</td>
@@ -83,7 +83,7 @@ image: images/post/Season_of_Story/Building/20900.png
         <tr>
             <td align="center">星期六</td>
             <td align="center">10點~12點</td>
-            <td align="center"></td>
+            <td align="center" class="breadcrumb">休息</td>
         </tr>
      </tbody>
 </table>
@@ -101,24 +101,24 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -145,7 +145,7 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1104100.png"></td>
             <td align="center">提神飲料</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">200</td>
-            <td align="center">15</td>
+            <td align="center" class="breadcrumb">15</td>
         </tr>
         <tr>
             <td align="center">100101</td>
@@ -153,7 +153,7 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1104110.png"></td>
             <td align="center">提神飲料</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">200</td>
-            <td align="center">30</td>
+            <td align="center" class="breadcrumb">30</td>
         </tr>
         <tr>
             <td align="center">100102</td>
@@ -161,7 +161,7 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1104120.png"></td>
             <td align="center">提神飲料</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">200</td>
-            <td align="center">50</td>
+            <td align="center" class="breadcrumb">50</td>
         </tr>
         <tr>
             <td align="center">100103</td>
@@ -169,7 +169,7 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1104130.png"></td>
             <td align="center">精神旺盛飲料</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1200</td>
-            <td align="center">100</td>
+            <td align="center" class="breadcrumb">100</td>
         </tr>
     </tbody>
 </table>
@@ -182,24 +182,24 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -226,7 +226,7 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1104140.png"></td>
             <td align="center">洛克德飲料</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">8000</td>
-            <td align="center">100 → 105</td>
+            <td align="center" class="breadcrumb">100 → 105</td>
         </tr>
         <tr>
             <td align="center">100105</td>
@@ -234,7 +234,7 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1104150.png"></td>
             <td align="center">瑟露娜飲料</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">10000</td>
-            <td align="center">105 → 110</td>
+            <td align="center" class="breadcrumb">105 → 110</td>
         </tr>
         <tr>
             <td align="center">100106</td>
@@ -242,7 +242,7 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1104160.png"></td>
             <td align="center">洛克德飲料改</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">15000</td>
-            <td align="center">110 → 120</td>
+            <td align="center" class="breadcrumb">110 → 120</td>
         </tr>
         <tr>
             <td align="center">100108</td>
@@ -250,7 +250,7 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1104170.png"></td>
             <td align="center">瑟露娜飲料改</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20000</td>
-            <td align="center">120 → 130</td>
+            <td align="center" class="breadcrumb">120 → 130</td>
         </tr>
         <tr>
             <td align="center">100110</td>
@@ -258,7 +258,7 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1104180.png"></td>
             <td align="center">瑟露洛克飲料</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">25000</td>
-            <td align="center">130 → 150</td>
+            <td align="center" class="breadcrumb">130 → 150</td>
         </tr>
     </tbody>
 </table>
@@ -271,24 +271,24 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center" colspan="3">物品特性</td>
         </tr>
         <tr>
-            <td align="center">物品實體</td>
-            <td align="center">單一物品</td>
-            <td align="center">只能購買一次</td>
-            <td align="center">需要庫存空間</td>
-            <td align="center">品質差異</td>
-            <td align="center">重要的物品</td>
-            <td align="center">原料</td>
+            <td align="center" class="breadcrumb">物品實體</td>
+            <td align="center" class="breadcrumb">單一物品</td>
+            <td align="center" class="breadcrumb">只能購買一次</td>
+            <td align="center" class="breadcrumb">需要庫存空間</td>
+            <td align="center" class="breadcrumb">品質差異</td>
+            <td align="center" class="breadcrumb">重要的物品</td>
+            <td align="center" class="breadcrumb">原料</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✔</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
-            <td align="center">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✔</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
+            <td align="center" class="breadcrumb">✘</td>
         </tr>
     </tbody>
 </table>
@@ -300,7 +300,7 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center"></td>
             <td align="center">商品名稱</td>
             <td align="center">販售價格</td>
-            <td>功能</td>
+            <td align="center">功能</td>
         </tr>
     </thead>
     <tbody>
@@ -310,7 +310,7 @@ image: images/post/Season_of_Story/Building/20900.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1101020.png"></td>
             <td align="center">動物用藥</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">600</td>
-            <td>動物生病時使用<br>使用後可降低50<a href="../doraemon-story-affectiondegree/#壓力值">壓力值</a>🙀</td>
+            <td class="breadcrumb">動物生病時使用<br>使用後可降低50<a href="../doraemon-story-affectiondegree/#壓力值">壓力值</a>🙀</td>
         </tr>
     </tbody>
 </table>

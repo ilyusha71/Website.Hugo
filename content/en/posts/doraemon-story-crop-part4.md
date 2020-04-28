@@ -1,7 +1,7 @@
 ---
-title: "耕地與鋤頭的使用"
-date: 2020-04-03T16:25:02+08:00
-description: 耕地與鋤頭的使用
+title: "澆水與澆水壺的使用"
+date: 2020-04-28T16:59:02+08:00
+description: 澆水與澆水壺的使用
 draft: false
 hideToc: false
 enableToc: false
@@ -9,15 +9,12 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
-- MOD
 - 作物
 series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-image: images/post/Season_of_Story/Sprite/icon_1001000.png
-libraries:
-- katex
+image: images/post/Season_of_Story/Sprite/icon_1001020.png
 ---
 <mark>最後更新：2020/04/28</mark>
 
@@ -48,36 +45,44 @@ libraries:
     </tr>
 </table>
 
-## 耕地
-+ 耕地是作物種植的首要步驟。
-+ 耕地需要一塊空的`農地`。
-    + 若農地上面有`雜草`，必須將其拔除。
-    + 若農地上面有`枯萎`的作物，則需使用[鐮刀](/#鐮刀)進行[收割](/#收割)。
-    + 若農地上面有`樹木`，則需使用[斧頭](/#斧頭)進行[砍樹](/#砍樹)。
-    + 若農地上面有`岩石`，則需使用[槌子](/#槌子)進行[碎石](/#碎石)`。
-+ 耕地需使用[鋤頭](../doraemon-story-crop-part1/#鋤頭)，高等級的鋤頭能進行更快更大範圍的耕地。
+## 澆水
++ 澆水是作物[成長](../doraemon-story-crop-part5)的重要步驟，若作物好幾天持續未澆水，最後會`枯萎`。
++ 由於澆水之後作物會立即[成長](../doraemon-story-crop-part5)至下一階段，因此[施肥](../doraemon-story-crop-part3)必須在澆水之前完成，不然不會有效果。
++ 澆水需使用[澆水壺](../doraemon-story-crop-part4/#澆水壺)，高等級的澆水壺能進行更快更大範圍的澆水。
++ `克魯波克魯`到齊後，可以委託`婭卡`幫忙澆水，但務必在中午12點前完成[施肥](../doraemon-story-crop-part3)。
 
-## 鋤頭
-+ 鋤頭`等級`分為六等，`Lv.0`至`Lv.5`：
-    + `Lv.0`：`破舊的鋤頭`
-    + `Lv.1`：`銅鋤頭`
-    + `Lv.2`：`鐵鋤頭`
-    + `Lv.3`：`銀鋤頭`
-    + `Lv.4`：`金鋤頭`
-    + `Lv.5`：`輕輕鬆鬆鋤頭`
-+ 鋤頭可以在[打鐵店](../doraemon-story-shop-21100-anvil-blacksmith-shop)進行[升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)。
+<table>
+    <thead>
+        <tr>
+            <td align="center">婭卡</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041260.png">婭卡</td>
+    </tr>
+</table>
 
-### 鋤頭蓄力效果
-+ 較高等級的鋤頭能透過`蓄力`進行更大範圍的耕地。
+## 澆水壺
++ 澆水壺`等級`分為六等，`Lv.0`至`Lv.5`：
+    + `Lv.0`：`破舊澆水壺`
+    + `Lv.1`：`銅製澆水壺`
+    + `Lv.2`：`鐵製澆水壺`
+    + `Lv.3`：`銀製澆水壺`
+    + `Lv.4`：`金製澆水壺`
+    + `Lv.5`：`輕輕鬆鬆澆水壺`
++ 澆水壺可以在[打鐵店](../doraemon-story-shop-21100-anvil-blacksmith-shop)進行[升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)。
+
+### 澆水壺蓄力效果
++ 較高等級的澆水壺能透過`蓄力`進行更大範圍的澆水。
 + 蓄力分為`Lv.1`至`Lv.3`三段。
-+ 蓄力段數越高消耗的體力越多，但耕地的範圍也越大。
++ 蓄力段數越高消耗的體力越多，但澆水的範圍也越大。
 
 <table>
     <thead>
         <tr>
             <td align="center">蓄力段數</td>            
             <td align="center">體力消耗</td>
-            <td align="center">耕地範圍</td>
+            <td align="center">澆水範圍</td>
         </tr>
     </thead>
     <tr>
@@ -102,25 +107,25 @@ libraries:
     </tr>
 </table>
 
-### 各等級鋤頭的耕地效率
-+ 透過提升鋤頭的等級，能使鋤頭的耕地效率獲得提升。
+### 各等級澆水壺的澆水效率
++ 透過提升澆水壺的等級，能使澆水壺的澆水效率獲得提升，同時澆水壺的儲水量也會增大。
 
 <table>
     <thead>
         <tr>
-            <td align="center">鋤頭等級</td>
+            <td align="center">澆水壺等級</td>
             <td align="center"></td>
-            <td align="center">鋤頭名稱</td>
+            <td align="center">澆水壺名稱</td>
             <td align="center">蓄力速度</td>
             <td align="center">最大蓄力段數</td>            
             <td align="center">最大體力消耗</td>
-            <td align="center">最大耕地範圍</td>
+            <td align="center">最大澆水範圍</td>
         </tr>
     </thead>
     <tr>
         <td align="center">Lv.0</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png"></td>
-        <td align="center">破舊的鋤頭</td>
+        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001020.png"></td>
+        <td align="center">破舊的澆水壺</td>
         <td align="center">Lv.0</td>
         <td align="center">Lv.0</td>
         <td align="center">1</td>
@@ -128,8 +133,8 @@ libraries:
     </tr>
     <tr>
         <td align="center">Lv.1</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001001.png"></td>
-        <td align="center">銅鋤頭</td>
+        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001021.png"></td>
+        <td align="center">銅製澆水壺</td>
         <td align="center">Lv.0</td>
         <td align="center">Lv.1</td>
         <td align="center">2</td>
@@ -137,8 +142,8 @@ libraries:
     </tr>
     <tr>
         <td align="center">Lv.2</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001002.png"></td>
-        <td align="center">鐵鋤頭</td>
+        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001022.png"></td>
+        <td align="center">鐵製澆水壺</td>
         <td align="center">Lv.0</td>
         <td align="center">Lv.2</td>
         <td align="center">3</td>
@@ -146,8 +151,8 @@ libraries:
     </tr>
     <tr>
         <td align="center">Lv.3</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001003.png"></td>
-        <td align="center">銀鋤頭</td>
+        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001023.png"></td>
+        <td align="center">銀製澆水壺</td>
         <td align="center">Lv.1</td>
         <td align="center">Lv.2</td>
         <td align="center">3</td>
@@ -155,8 +160,8 @@ libraries:
     </tr>
     <tr>
         <td align="center">Lv.4</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001004.png"></td>
-        <td align="center">金鋤頭</td>
+        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001024.png"></td>
+        <td align="center">金製澆水壺</td>
         <td align="center">Lv.1</td>
         <td align="center">Lv.3</td>
         <td align="center">4</td>
@@ -164,8 +169,8 @@ libraries:
     </tr>
     <tr>
         <td align="center">Lv.5</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png"></td>
-        <td align="center">輕輕鬆鬆鋤頭</td>
+        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png"></td>
+        <td align="center">輕輕鬆鬆澆水壺</td>
         <td align="center">Lv.1</td>
         <td align="center">Lv.3</td>
         <td align="center">1</td>

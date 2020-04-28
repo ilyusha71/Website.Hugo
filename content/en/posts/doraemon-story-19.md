@@ -16,14 +16,24 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_201140200.png
 ---
-<mark>最後更新：2020/04/19</mark>
+<mark>最後更新：2020/04/28</mark>
 
 ![秘密道具劇情線](/images/post/Season_of_Story/Sprite/icon_1002260.png)
+
 ## 秘密道具
-[全劇情線索引](../doraemon-story-index/#劇情線)
 <table>
+    <thead>
+        <tr>
+            <td align="center" colspan="10" class="expand__content"><a href="../doraemon-story-index/#劇情線">全劇情線索引</a></td>
+        </tr>
+        <tr>
+            <td align="center">ID</td>
+            <td align="center">劇情線</td>
+            <td align="center" colspan="10">主要角色</td>
+        </tr>
+    </thead>
     <tr>
-        <td>19</td>
+        <td align="center" class="breadcrumb">19</td>
         <td align="center"><a href="../doraemon-story-19"><img src= "/images/post/Season_of_Story/Sprite/icon_201140200.png">秘密道具</a></td>
     </tr>
 </table>
