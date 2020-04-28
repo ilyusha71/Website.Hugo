@@ -18,11 +18,11 @@ image: images/post/Season_of_Story/Sprite/icon_1001020.png
 ---
 <mark>最後更新：2020/04/28</mark>
 
-## 農耕系統與作物圖鑑
+## 農耕與作物
 <table>
     <thead>
         <tr>
-            <td colspan="10">農耕系統與作物圖鑑</td>        
+            <td colspan="10">農耕與作物</td>        
         </tr>
     </thead>
     <tr>
@@ -49,6 +49,8 @@ image: images/post/Season_of_Story/Sprite/icon_1001020.png
 + 澆水是作物[成長](../doraemon-story-crop-part5)的重要步驟，若作物好幾天持續未澆水，最後會`枯萎`。
 + 由於澆水之後作物會立即[成長](../doraemon-story-crop-part5)至下一階段，因此[施肥](../doraemon-story-crop-part3)必須在澆水之前完成，不然不會有效果。
 + 澆水需使用[澆水壺](../doraemon-story-crop-part4/#澆水壺)，高等級的澆水壺能進行更快更大範圍的澆水。
+
+### 克魯波克魯的幫忙
 + `克魯波克魯`到齊後，可以委託`婭卡`幫忙澆水，但務必在中午12點前完成[施肥](../doraemon-story-crop-part3)。
 
 <table>
@@ -58,7 +60,7 @@ image: images/post/Season_of_Story/Sprite/icon_1001020.png
         </tr>
     </thead>
     <tr>
-        <td align="center"><img width="72px" src= "/images/post/Season_of_Story/Sprite/icon_201041260.png">婭卡</td>
+        <td align="center"><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_201041260.png"></td>
     </tr>
 </table>
 

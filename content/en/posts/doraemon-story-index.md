@@ -398,11 +398,11 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
     </tr>
 </table>
 
-## 農耕系統與作物圖鑑
+## 農耕與作物
 <table>
     <thead>
         <tr>
-            <td colspan="10">農耕系統與作物圖鑑</td>        
+            <td colspan="10">農耕與作物</td>        
         </tr>
     </thead>
     <tr>

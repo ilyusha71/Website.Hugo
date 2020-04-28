@@ -18,13 +18,13 @@ image: images/post/Season_of_Story/Sprite/Crop_90110401.png
 libraries:
 - katex
 ---
-<mark>最後更新：2020/04/27</mark>
+<mark>最後更新：2020/04/29</mark>
 
-## 農耕系統與作物圖鑑
+## 農耕與作物
 <table>
     <thead>
         <tr>
-            <td colspan="10">農耕系統與作物圖鑑</td>        
+            <td colspan="10">農耕與作物</td>        
         </tr>
     </thead>
     <tr>
@@ -47,15 +47,204 @@ libraries:
     </tr>
 </table>
 
-## 作物成長過程
-根據`CropModel`的資料分析，作物的成長機制離不開下列三個參數：
-+ 收成天數（`CropMasterModel.HarvestDays`）
-+ 成長階數（`CropMasterModel.Step`）
-+ 減少階數（`CropMasterModel.ReduceStep`）
+## 作物的成長
++ 作物的成長機制與作物的三個參數有關：
+    + [收成天數](../doraemon-story-crop-part5/#收成天數)
+    + [成長階數](../doraemon-story-crop-part5/#成長階數)
+    + [減少階數](../doraemon-story-crop-part5/#減少階數)
 
 ### 收成天數
-作物的成長過程是以成長值（`CropModel.mGrowth`）表示。
-每天作物在澆水後都會進行成長（`CropModel.Grow()`），`成長值`+1。
++ 作物的成長天數是以`成長值`計算。
++ 每天作物在[澆水](../doraemon-story-crop-part4)後都會增加`成長值`。
++ 當`成長值`達到`收成天數`時，作物就能進行[收成收割](../doraemon-story-crop-part6)。
+
+### 成長階數
++ 成長階數是作物從`種子`到`成熟`所經歷的階段總數，也相當於作物外觀的變化數，包含若干個`成長階段`與最終的`成熟階段`。
+    + 目前作物的成長階數大多為4階至6個階。
+    + 在37種作物中，番茄擁有最多7階的成長階數，亦即6個`成長階段`與1個`成熟階段`。
++ `成長階段`的計算從種子剛[播種](../doraemon-story-crop-part2)的時候算起，為第1階段。
++ 最後一個成長階段結束時即為作物的`成熟階段`。
++ 每個階段所需最低的`成長值`為`成長值門檻`。
+
+#### 成長階段的成長天數
++ 在作物成熟前，每個`成長階段`的`成長天數`將透過`收成天數`平均分配。
++ 若還有`剩餘天數`則從最後一個`成長階段`開始倒序分配，原理如下：
+    1. `收成天數`平均分配後的天數為`基本成長天數`，分配完的餘數為`剩餘成長天數`。
+    2. `剩餘成長天數`將依`成長階段`的順序倒序分配。
+    3. 分配完成後可得出`成長天數`是否增加的`分界值`。
+    4. 因此當作物的`成長值`達到`分界值`後，每個`成長階段`的`成長天數`都會多1天。
+
+---
+$$成長階段總數=成長階數-1$$
+$$基本成長天數=\dfrac{收成天數}{成長階段總數}$$
+$$剩餘成長天數=收成天數-(基本成長天數\times成長階段總數)$$
+$$分界值=(成長階段總數-剩餘成長天數)\times基本成長天數$$
+
+#### 鳳梨的成長計算
++ 鳳梨的`收成天數`為`13天`。
++ 鳳梨的`成長階數`為`6`。
++ 鳳梨的`基本成長天數`為`2天`。
++ 鳳梨的`剩餘成長天數`為`3天`。
++ 鳳梨的`分界值`為`4`。
+
+<table>
+    <thead>
+    　<tr>
+            <td align="center" colspan="5">成長階段</td>
+            <td align="center">成熟階段</td>
+        </tr>
+    </thead>
+　<tr>
+            <td align="center" class="breadcrumb">第1階段</td>
+            <td align="center" class="breadcrumb">第2階段</td>
+            <td align="center" class="breadcrumb">第3階段</td>
+            <td align="center" class="breadcrumb">第4階段</td>
+            <td align="center" class="breadcrumb">第5階段</td>
+            <td align="center" class="breadcrumb">第6階段</td>
+    </tr>
+　<tr>
+    　<td align="center"><img src= "/images/post/Season_of_Story/Sprite/Crop_90120600.png"></td>
+    　<td align="center"><img src= "/images/post/Season_of_Story/Sprite/Crop_90120601.png"></td>
+    　<td align="center"><img src= "/images/post/Season_of_Story/Sprite/Crop_90120602.png"></td>
+    　<td align="center"><img src= "/images/post/Season_of_Story/Sprite/Crop_90120603.png"></td>
+    　<td align="center"><img src= "/images/post/Season_of_Story/Sprite/Crop_90120604.png"></td>
+    　<td align="center"><img src= "/images/post/Season_of_Story/Sprite/Crop_90120605.png"></td>
+　</tr>
+　<tr>
+        <td align="center" colspan="5" class="breadcrumb">成長天數</td>
+        <td align="center" class="breadcrumb">成熟</td>
+    </tr>
+　<tr>
+        <td align="center">2天</td>
+        <td align="center">2天</td>
+        <td align="center">3天</td>
+        <td align="center">3天</td>
+        <td align="center">3天</td>
+        <td align="center"></td>
+    </tr>
+　<tr>
+        <td align="center" colspan="6" class="breadcrumb">成長值範圍</td>
+    </tr>
+　<tr>
+        <td align="center">0~1</td>
+        <td align="center">2~3</td>
+        <td align="center">4~6</td>
+        <td align="center">7~9</td>
+        <td align="center">10~12</td>
+        <td align="center">13</td>
+    </tr>
+</table>
+
+#### 瞬間成長劑
++ `瞬間成長劑`的效果就是使作物的成長階段直接立即進入下一階段。
+    + `成長值`的增加量等於`當前階段`與`下一階段`成長值門檻的差。
+    + 因此使用在成長階數較少，收成天數較長的作物上收益較好。
+
+<table>
+    <thead>
+        <tr>
+            <td align="center">瞬間成長劑</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_1104080.png"></td>
+    </tr>
+</table>
+
+### 減少階數
++ 減少階數是`多次收穫作物`收成後，作物重新成長時減少的階段總數。
++ 減少的階段會從最後一個`成長階段`開始，亦即作物收成後，重新成長的作物會根據減少階數進行`降階`。
+    + 例如成長階數為`6`、減少階數為`2`，則重新成長的作物會`降階`為第4階段。
++ `降階`減少的成長階段直接對應`成長值`與`成長天數`的減少量。
++ 減少的`成長天數`為作物重新成長的天數，即是`再收成天數`，也等同於少掉的`施肥次數`。  
++ `再收成天數`可透過`基本成長天數`與`剩餘成長天數`反推求得，原理如下：
+    1. `降階`減少的成長天數可以直接從`減少階數`與`基本成長天數`的乘積求得。
+    2. 由於降階是從最後的成長階段開始，需要再補上`剩餘成長天數`。
+    3. 但只需補上減少階段的`剩餘成長天數`即可，這個天數為`補充天數`。
+
+---
+$$若剩餘成長天數<=減少階數$$$$補充天數=剩餘成長天數$$
+$$若剩餘成長天數>減少階數$$$$補充天數=減少階數$$
+$$再收成天數=(基本成長天數\times減少階數)+補充天數$$
+$$降階後的成長值={收成天數}-{再收成天數}$$
+
+#### 鳳梨的重新成長計算
++ 鳳梨的`收成天數`為`13天`。
++ 鳳梨的`成長階數`為`6`。
++ 鳳梨的`減少階數`為`2`。
++ 鳳梨的`基本成長天數`為`2天`。
++ 鳳梨的`剩餘成長天數`為`3天`。
++ 鳳梨的`補充天數`為`2天`。
++ 鳳梨的`再收成天數`為`6天`。
+
+<table>
+    <thead>
+    　<tr>
+            <td align="center" colspan="2">重新成長階段</td>
+            <td align="center">成熟階段</td>
+        </tr>
+    </thead>
+　<tr>
+            <td align="center" class="breadcrumb">第4階段</td>
+            <td align="center" class="breadcrumb">第5階段</td>
+            <td align="center" class="breadcrumb">第6階段</td>
+    </tr>
+　<tr>
+    　<td align="center"><img src= "/images/post/Season_of_Story/Sprite/Crop_90120603.png"></td>
+    　<td align="center"><img src= "/images/post/Season_of_Story/Sprite/Crop_90120604.png"></td>
+    　<td align="center"><img src= "/images/post/Season_of_Story/Sprite/Crop_90120605.png"></td>
+　</tr>
+　<tr>
+        <td align="center" colspan="2" class="breadcrumb">成長天數</td>
+        <td align="center" class="breadcrumb">成熟</td>
+    </tr>
+　<tr>
+        <td align="center">3天</td>
+        <td align="center">3天</td>
+        <td align="center"></td>
+    </tr>
+　<tr>
+        <td align="center" colspan="3" class="breadcrumb">成長值範圍</td>
+    </tr>
+　<tr>
+        <td align="center">7~9</td>
+        <td align="center">10~12</td>
+        <td align="center">13</td>
+    </tr>
+</table>
+
+#### 品質分的減少
++ 品質分的減少原理與`成長值`的減少相同，也與`降階`減少的成長階段有關。
++ 然而`品質分`的成長本身又與施用的肥料有關，所以減少的品質分會以`高級肥料`的效果進行計算。
++ `降階`的`品質分`計算公式如下
+
+$$減少的品質分=無條件進位(\dfrac {高級肥料效果}{收成天數})\times{減少的施肥次數}$$
+
++ 以草莓為例：
+    + 假設收成時的品質分為`253分`。
+    + 成長階段從`第6階段`降為`第4階段`，一共少了`6天`的成長，亦即少了`6次`的施肥。
+    + 根據[施肥品質分](../doraemon-story-crop-part2)的計算方法，草莓6次施用`高級肥料`所增加的`品質分`為`84分`。
+    + 所以`品質分`會減少84分變成`169分`。
+
+## 總結
+以草莓作為例子總結：
+1. 已知草莓的收成天數為`15天`，每次澆水成長值`+1`，因此收成時成長值為`15`。
+2. 草莓收成後，土裡的草莓成長值會降回到第9天的狀態，亦即成長值為`9`。
+3. 若草莓成長全程使用高級肥料，則品質分也會降回到第9天的品質分。
+4. 因此成長階段在第9天的草莓還需要6天才會成熟。
+5. 若這6天也都使用高級肥料，再次成熟時，品質分也會與上次收成相同。
+
+## 源代碼
++ 作物主模板類：`CropMasterModel @02000583`
+    + 收成天數：`CropMasterModel.HarvestDays : int @17000909`
+    + 成長階數：`CropMasterModel.Step : int @17000907`
+    + 減少階數：`CropMasterModel.ReduceStep : int @17000908`
++ 作物模板類：`CropModel @02000558`
+    + 成長方法：`CropModel.Grow() : void @06002DA8`
+    + 確認收成方法：`CropModel.CanHarvest : bool @170007CB`
+    + 成長進階方法：`CropModel.GrowStep() : void @06002DAA`
+    + 成長減少方法：`CropModel.ReduceGrowth() : void @06002DA9`
+
 ```C#
 public void Grow()
 {
@@ -64,9 +253,6 @@ public void Grow()
 		this.mGrowth++;
 	}
 }
-```
-當成長值達到收成天數（`CropMasterModel.HarvestDays`）時，作物就能進行收成（`CropModel.CanHarvest`）。
-```C#
 public bool CanHarvest
 {
 	get
@@ -74,17 +260,6 @@ public bool CanHarvest
 		return !this.IsWithered && this.mGrowth == this.Master.HarvestDays;
 	}
 }
-```
-### 成長階數
-成長階數（`CropMasterModel.Step`）是作物從種子到成熟需經歷的成長階段總數，也相當於作物外觀的變化。
-+ 目前作物的成長階數大多為4到6個階段。
-+ 在37種作物中，番茄擁有最多的七個成長階段。
-+ 成長階段的初始階段為種子剛播種的時候，成長階段為第1階段。
-+ 成長階段的最後階段為作物成熟的時候，如果成長階數是6，則作物成熟的成長階段為第6階段。
-+ 透過成長進階方法`CropModel.GrowStep()`可以知道每個成長階段對應的`成長值`與門檻。
-+ 由於剛播種的第一天就可以開始澆水成長（`成長值`為1），所以第1階段的持續天數會少1天。
-+ `瞬間成長劑`的效果就是使作物直接立即進入下一階段，成長值的增加量等於現階段與下一階段的成長值門檻的差，因此使用在成長階數較少，收成天數較長的收益較好。
-```C#
 public void GrowStep()
 {
 	if (this.CanHarvest || this.IsWithered)
@@ -107,162 +282,22 @@ public void GrowStep()
 		this.mGrowth = this.Master.HarvestDays;
 	}
 }
-```
-從代碼中，可以得知`num`為收成天數平均分配給成熟前的成長階段（所以為成長階數-1），亦即成熟前每個成長階段對應`成長值`的基本數量，而餘數`num2`則為平均分配的剩餘數量，將從最後的成長階段（除去成熟階段）開始分配，透過`num3`找出餘數分配完時對應成長階段的`成長值`。
-#### 草莓的成長階段
-+ 以草莓為例：
-    + 草莓的收成天數為15天。
-    + 草莓的成長階數為6。
-+ 透過成長進階方法`CropModel.GrowStep()`，找出可得出草莓成長值對應的成長階段。
-    + num = 3
-    + num2 = 0
-    + num3 = 15
-<table border = "7">
-　<tr>
-        <td>第1階段</td>
-        <td>第2階段</td>
-        <td>第3階段</td>
-        <td>第4階段</td>
-        <td>第5階段</td>
-        <td>第6階段</td>
-    </tr>
-　<tr>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110400.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110401.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110403.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110404.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png"></td>
-　</tr>
-　<tr>
-        <td>2天</td>
-        <td>3天</td>
-        <td>3天</td>
-        <td>3天</td>
-        <td>3天</td>
-        <td>---</td>
-    </tr>
-　<tr>
-        <td>0~2</td>
-        <td>3~5</td>
-        <td>6~8</td>
-        <td>9~11</td>
-        <td>12~14</td>
-        <td>15</td>
-    </tr>
-</table>
-
-#### 鳳梨的成長階段
-+ 再以鳳梨為例：
-    + 鳳梨的收成天數為13天。
-    + 鳳梨的成長階數為6。
-+ 透過成長進階方法`CropModel.GrowStep()`，找出可得出鳳梨成長值對應的成長階段。
-    + num = 2
-    + num2 = 3
-    + num3 = 4
-
-<table border = "7">
-　<tr>
-        <td>第1階段</td>
-        <td>第2階段</td>
-        <td>第3階段</td>
-        <td>第4階段</td>
-        <td>第5階段</td>
-        <td>第6階段</td>
-    </tr>
-　<tr>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120600.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120601.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120602.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120603.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120604.png"></td>
-    　<td><img src= "/images/post/Season_of_Story/Sprite/Crop_90120605.png"></td>
-　</tr>
-　<tr>
-        <td>1天</td>
-        <td>2天</td>
-        <td>3天</td>
-        <td>3天</td>
-        <td>3天</td>
-        <td>---</td>
-    </tr>
-　<tr>
-        <td>0~1</td>
-        <td>2~3</td>
-        <td>4~6</td>
-        <td>7~9</td>
-        <td>10~12</td>
-        <td>13</td>
-    </tr>
-</table>
-
-### 減少階數（降階）
-減少階數（`CropMasterModel.ReduceStep`）是多次收穫作物收成後重新成長時應減少的成長階段數量。
-亦即作物收成後，土裡的作物會根據減少階數`降階`到某個成長階段。
-+ 單次收穫作物的減少階數為-1。
-+ 多次收穫作物的減少階數為1或2。
-+ `降階`減少的成長階段直接對應`成長值`與`品質分`的減少量。
----
-以草莓為例：
-+ 草莓的成長階數為6。
-+ 草莓的減少階數為2。
-
-當草莓收成後，土裡重新成長的草莓其成長階段會減少2階（`降階`）而變成第4階段，同時`成長值`與`品質分`也會同比例一併減少。
-
----
-降階後的`成長值`與`品質分`可透過成長減少方法（`CropModel.ReduceGrowth()`）計算。
-```C#
 public void ReduceGrowth()
 {
-	if (!this.CanRepeat && !this.IsWithered)
-	{
-		return;
-	}
-	int num2;
-	int num = Math.DivRem(this.Master.HarvestDays, this.Master.Step - 1, out num2);
-	num2 = ((num2 <= this.Master.ReduceStep) ? num2 : this.Master.ReduceStep);
-	int num3 = num * this.Master.ReduceStep + num2;
-	this.mGrowth -= num3;
-	this.mQuality -= Mathf.CeilToInt(Crop.GetUpgradeValue(Item.ID_HIGH_QUALITY_FERTILIZER) / (float)this.Master.HarvestDays) * num3;
-	if (this.mQuality < Crop.MIN_QUALITY)
-	{
-		this.mQuality = Crop.MIN_QUALITY;
-	}
-	this.mRepeatCount++;
+    if (!this.CanRepeat && !this.IsWithered)
+    {
+        return;
+    }
+    int num2;
+    int num = Math.DivRem(this.Master.HarvestDays, this.Master.Step - 1, out num2);
+    num2 = ((num2 <= this.Master.ReduceStep) ? num2 : this.Master.ReduceStep);
+    int num3 = num * this.Master.ReduceStep + num2;
+    this.mGrowth -= num3;
+    this.mQuality -= Mathf.CeilToInt(Crop.GetUpgradeValue(Item.ID_HIGH_QUALITY_FERTILIZER) / (float)this.Master.HarvestDays) * num3;
+    if (this.mQuality < Crop.MIN_QUALITY)
+    {
+        this.mQuality = Crop.MIN_QUALITY;
+    }
+    this.mRepeatCount++;
 }
 ```
-成長減少方法的公式：
-$$num=\dfrac {收成天數}{成長階數}的商數$$
-$$num2=\dfrac {收成天數}{成長階數}的餘數，若餘數大於減少階數則：num2=減少階數$$
-$$num3=num\times減少階數+num2$$
-透過計算可以發現`num3`所代表的意義可以為：
-+ 降階後少掉的`成長天數`。
-+ 降階後少掉的`施肥次數`。
-+ 降階後`成長值`的減少量。
-+ 降階後的`再收成天數`。
-#### 成長值的減少
-成長值減少的多寡與減少的成長階段有關。
-+ 以草莓為例：
-    + `降階`後的成長階段從`第6階段`降為`第4階段`。
-    + 參考[草莓成長階段](#草莓的成長階段)的對應表，`成長值`自然也從第6階段的`15`變為第4階段的`9`。
-+ 根據成長減少方法的計算公式：
-$$草莓降階後的成長值={收成天數}-{再收成天數}={15}-{6}=9$$
-
-### 品質分的減少
-品質分的減少原理與`成長值`的減少相同，與`降階`減少的成長階段有關，然而`品質分`的成長本身又與施用的肥料有關，所以減少的品質分會以`高級肥料`的效果進行計算。
-+ 以草莓為例：
-    + 假設收成時的品質分為`253分`。
-    + 成長階段從`第6階段`降為`第4階段`，一共少了`6天`的成長，亦即少了`6次`的施肥。
-    + 根據[前篇](../doraemon-story-crop-part2)施肥品質分的計算方法，草莓6次施用高級肥料所增加的品質分為`84分`。
-    + 所以`品質分`會減少84分變成`169分`。
-+ 根據成長減少方法的計算公式，`降階`減少的`品質分`計算公式為：
-$$無條件進位（\dfrac {高級肥料效果}{收成天數}）\times{減少的施肥次數}$$
-$$草莓降階後的品質分=253-無條件進位（\dfrac {200}{15}）\times6=253-84=169$$
-
-## 總結
-以草莓作為例子總結：
-1. 已知草莓的收成天數為`15天`，每次澆水成長值`+1`，因此收成時成長值為`15`。
-2. 草莓收成後，土裡的草莓成長值會降回到第9天的狀態，亦即成長值為`9`。
-3. 若草莓成長全程使用高級肥料，則品質分也會降回到第9天的品質分。
-4. 因此成長階段在第9天的草莓還需要6天才會成熟。
-5. 若這6天也都使用高級肥料，再次成熟時，品質分也會與上次收成相同。

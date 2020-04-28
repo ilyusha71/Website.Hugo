@@ -18,11 +18,11 @@ image: images/post/Season_of_Story/Sprite/Crop_90110405.png
 ---
 <mark>最後更新：2020/04/27</mark>
 
-## 農耕系統與作物圖鑑
+## 農耕與作物
 <table>
     <thead>
         <tr>
-            <td colspan="10">農耕系統與作物圖鑑</td>        
+            <td colspan="10">農耕與作物</td>        
         </tr>
     </thead>
     <tr>
