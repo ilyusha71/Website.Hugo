@@ -47,7 +47,8 @@ image: images/post/Season_of_Story/Sprite/icon_1001020.png
 
 ## 澆水
 + 澆水是作物[成長](../doraemon-story-crop-part5)的重要步驟，若作物好幾天持續未澆水，最後會`枯萎`。
-+ 由於澆水之後作物會立即[成長](../doraemon-story-crop-part5)至下一階段，因此[施肥](../doraemon-story-crop-part3)必須在澆水之前完成，不然不會有效果。
++ 由於澆水之後作物會立即[成長](../doraemon-story-mod-crop/#成長方法)，因此[施肥](../doraemon-story-crop-part3)必須在澆水之前完成，不然不會有效果。
+    + 參考[澆水方法](../doraemon-story-mod-crop/#澆水方法)。
 + 澆水需使用[澆水壺](../doraemon-story-crop-part4/#澆水壺)，高等級的澆水壺能進行更快更大範圍的澆水。
 
 ### 克魯波克魯的幫忙

@@ -19,7 +19,7 @@ image: images/post/Season_of_Story/Sprite/icon_1001000.png
 libraries:
 - katex
 ---
-<mark>最後更新：2020/04/28</mark>
+<mark>最後更新：2020/04/30</mark>
 
 ## 農耕與作物
 <table>
@@ -50,13 +50,13 @@ libraries:
 
 ## 收成
 + 作物[成長](../doraemon-story-crop-part5)到`成熟階段`即可進行收成。
-+ 作物收成後的`品質⭐️`與作物成熟時的`品質分`有關。
-    + `品質⭐️`為遊戲中`品質等級`的呈現方式。
-        + `⭐️0.5`為最低品質，`品質等級`為`1`。
-        + `品質等級`每增加一級，`品質⭐️`增加`0.5⭐️`。
-    + `品質分`為作物在農地生長時的隱藏數值。
-        + `品質分`初始值為`1`。
-        + `最大品質分`為`500`。
++ 收成後，作物的[品質分](../doraemon-story-mod-crop/#品質分)會轉換為作物的`品質⭐️`。
+    + `品質⭐️`為遊戲中[品質等級](../doraemon-story-mod-item/#品質等級)的呈現方式。
+        + `⭐️0.5`為最低品質，[品質等級](../doraemon-story-mod-item/#品質等級)為`1`。
+        + [品質等級](../doraemon-story-mod-item/#品質等級)每增加一級，`品質⭐️`增加`0.5⭐️`。
+    + [品質分](../doraemon-story-mod-crop/#品質分)為作物在`農地`生長時的隱藏數值。
+        + [品質分初始值](../doraemon-story-mod-crop/#作物模板)為`1`。
+        + [最大品質分](../doraemon-story-mod-crop/#最大品質分)為`500`。
 + 需要特別注意的是，非`常年作物`換季時會`枯萎`，所以當季作物務必要在當季30日以前收成。
 
 ### 克魯波克魯的幫忙
@@ -74,8 +74,8 @@ libraries:
 </table>
 
 ### 收成品質轉換公式
-+ 若收成時作物`品質分`已達`最大品質分`（`500`）時，作物`品質等級`為物品的`最大品質等級`（`10`）。
-+ 若非，則以下列公式計算，其中，`品質轉換率`是作物`最大品質分`與物品`最大品質等級`的比，為一個常數：`50`：
++ 若收成時作物[品質分](../doraemon-story-mod-crop/#品質分)已達[最大品質分](../doraemon-story-mod-crop/#最大品質分)（`500`）時，作物[品質等級](../doraemon-story-mod-crop/#品質等級)為物品的[最大品質等級](../doraemon-story-mod-item/#最大品質等級)（`10`）。
++ 若非，則以下列公式計算，其中，[品質轉換率](../doraemon-story-mod-crop/#品質轉換率)是作物[最大品質分](../doraemon-story-mod-crop/#最大品質分)與物品[最大品質等級](../doraemon-story-mod-item/#最大品質等級)的比，為一個常數：`50`。
 
 $$作物品質等級=\dfrac{品質分}{品質轉換率}+1$$
 $$品質轉換率=\dfrac {作物最大品質分}{物品最大品質等級}=\dfrac {500}{10}=50$$
@@ -157,7 +157,7 @@ $$品質轉換率=\dfrac {作物最大品質分}{物品最大品質等級}=\dfra
 ## 收割
 + `常年`生長的作物，例如`乾草`與`小麥`需要收割才能收成。
 + `枯萎`的作物也需要透過收割才能清除。
-+ 收割需使用[鐮刀](../doraemon-story-crop-part1/#鐮刀)，高等級的鐮刀能更快更大範圍的進行收割。
++ 收割需使用[鐮刀](../doraemon-story-crop-part6/#鐮刀)，高等級的鐮刀能更快更大範圍的進行收割。
 
 <table>
     <thead>
@@ -281,30 +281,3 @@ $$品質轉換率=\dfrac {作物最大品質分}{物品最大品質等級}=\dfra
         <td align="center">前方9格</td>
     </tr>
 </table>
-
-## 源代碼
-### 收成品質
-+ 作物模板：`CropModel @02000558`
-    + 品質等級：`CropModel.Quality : int @170007C5`
-
-```C#
-public int Quality
-{
-    get
-    {
-        return (this.mQuality != Crop.MAX_QUALITY) ? (this.mQuality / Crop.QUALITY_CONVERSION_RATE + 1) : Item.MAX_QUALITY;
-    }
-}
-```
-+ 作物類：`Crop @0200044B`
-
-```C#
-public static readonly int MIN_QUALITY = 1;
-public static readonly int MAX_QUALITY = 500;
-public static readonly int QUALITY_CONVERSION_RATE = Crop.MAX_QUALITY / Item.MAX_QUALITY;
-```
-+ 物品類：`Item @02000469`
-
-```C#
-public static readonly int MAX_QUALITY = 10;
-```

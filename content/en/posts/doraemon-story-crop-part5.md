@@ -18,7 +18,7 @@ image: images/post/Season_of_Story/Sprite/Crop_90110401.png
 libraries:
 - katex
 ---
-<mark>最後更新：2020/04/29</mark>
+<mark>最後更新：2020/04/30</mark>
 
 ## 農耕與作物
 <table>
@@ -55,12 +55,14 @@ libraries:
 
 ### 收成天數
 + `收成天數`是作物從`種子`到`成熟`所需的天數。
-+ 作物的`成長過程`是以`成長值`計算。
-    + 作物剛[播種](../doraemon-story-crop-part2)時，成長值為`0`。
-+ 每天作物在[澆水](../doraemon-story-crop-part4)後`成長值`都會增加`1`。
-+ 當`成長值`達到`收成天數`時，作物就算`成熟`，可以進行[收成收割](../doraemon-story-crop-part6)。
++ 作物的`成長過程`是以[成長值](../doraemon-story-mod-crop/#成長值)計算。
+    + 作物剛[播種](../doraemon-story-crop-part2)時，[成長值](../doraemon-story-mod-crop/#成長值)為`0`。
++ 每天作物在[澆水](../doraemon-story-crop-part4)後[成長值](../doraemon-story-mod-crop/#成長值)都會增加`1`。
+    + 參考[成長方法](../doraemon-story-mod-crop/#成長方法)。
++ 當[成長值](../doraemon-story-mod-crop/#成長值)達到`收成天數`時，作物就算`成熟`，可以進行[收成收割](../doraemon-story-crop-part6)。
+    + 參考[能否收成判斷方法](../doraemon-story-mod-crop/#能否收成判斷方法)。
 + 以收成天數為6天的`洋蔥`來說，洋蔥種子在第一天[播種](../doraemon-story-crop-part2)後，第六天就能`成熟`。
-+ 由於作物的成長環節是在[澆水](../doraemon-story-crop-part4)之後，第一天澆水後，`成長值`就會變成`1`，所以實際上經歷的`成長天數`只有5天。
++ 由於作物的成長環節是在[澆水](../doraemon-story-crop-part4)之後，第一天澆水後，[成長值](../doraemon-story-mod-crop/#成長值)就會變成`1`，所以實際上經歷的`成長天數`只有5天。
 
 $$成長天數=收成天數-1$$$$收成日=播種日+成長天數$$
 
@@ -72,17 +74,18 @@ $$成長天數=收成天數-1$$$$收成日=播種日+成長天數$$
 + `成長過程`的第1階段為剛[播種](../doraemon-story-crop-part2)時的`種子階段`，也是第一個`成長階段`。
     + 當作物經歷完所有的`成長階段`後就會進入`成長過程`的最後一個階段，`成熟階段`。
     + 當作物`成熟`時，作物就能進行[收成收割](../doraemon-story-crop-part6)。
-+ `成長過程`每個階段所需最低的`成長值`為`成長值門檻`，作物達到`成長值門檻`的那一天為該階段的`變化日`。
++ `成長過程`每個階段所需最低的[成長值](../doraemon-story-mod-crop/#成長值)為`成長值門檻`，作物達到`成長值門檻`的那一天為該階段的`變化日`。
 
 $$成長階段總數=成長階數-成熟階段$$
 
 #### 成長階段的進階天數
 + 在作物成熟前，每個`成長階段`的`進階天數`將透過`收成天數`平均分配。
+    + [成長進階方法](../doraemon-story-mod-crop/#成長進階方法)。
 + 若還有`剩餘天數`則從最後一個`成長階段`開始倒序分配，原理如下：
     1. `收成天數`平均分配後的天數為`基本進階天數`，分配完的餘數為`剩餘進階天數`。
     2. `剩餘進階天數`將依`成長階段`的順序`倒序`分配。
     3. 分配完成後可得出`進階天數`是否增加的`分界值`。
-    4. 因此當作物的`成長值`達到`分界值`後，每個`成長階段`的`進階天數`都會多1天。
+    4. 因此當作物的[成長值](../doraemon-story-mod-crop/#成長值)達到`分界值`後，每個`成長階段`的`進階天數`都會多1天。
 + 由於作物在[播種](../doraemon-story-crop-part2)的當天就能透過[澆水](../doraemon-story-crop-part4)進行成長，所以`種子階段`的`進階天數`實際上會少一天。
 + 最後所有`成長階段`的`進階天數`加總即是作物的`成長天數`。
 
@@ -172,8 +175,8 @@ $$成長天數=\sum_{成長階段}進階天數$$
     </tr>
 </table>
 
-+ `瞬間成長劑`的效果就是使作物的成長階段直接立即進入下一階段。
-    + `成長值`的增加量等於`當前階段`與`下一階段`成長值門檻的差。
++ `瞬間成長劑`的效果就是使作物的`成長階段`直接立即進入下一階段。
+    + [成長值](../doraemon-story-mod-crop/#成長值)的增加量等於兩階段`成長值門檻`的差。
     + 由於`成長過程`各階段的`進階天數`只會遞增，因此不可能出現跳階的情況。
     + 所以`瞬間成長劑`使用在`成長階數`較少，`收成天數`較長的作物上效益較高，例如`乾草`與`小麥`。
     + 具體效益可以透過下列公式算出`瞬間成長劑`的收益比，比值越高效益越高，建議使用在收益比大於`2`的作物上。
@@ -190,6 +193,7 @@ $$收益比=\dfrac{收成天數}{成長階數}$$
 #### 再收成天數
 + `後續作物`重新成長到[收成](../doraemon-story-crop-part6)的天數為`再收成天數`.
 + `再收成天數`為`降階`減少的成長天數，等同於`減少的成長值`或`減少的施肥次數`。 
+    + 參考[成長減少方法](../doraemon-story-mod-crop/#成長減少方法)。
 + `再收成天數`可透過`成長過程`的參數反推求得，原理如下：
     1. `降階`減少的各階段`進階天數`可以直接從`減少階數`與`基本進階天數`的乘積求得。
     2. 由於`成長階段`的`進階天數`還包括分配後的`剩餘進階天數`，需要再將其補上。
@@ -197,7 +201,7 @@ $$收益比=\dfrac{收成天數}{成長階數}$$
     4. 這些補充的`進階天數`為`補充進階天數`。
 + 與[播種](../doraemon-story-crop-part2)時的狀況類似，[收成](../doraemon-story-crop-part6)後的`後續作物`當天也能再次[澆水](../doraemon-story-crop-part4)進行成長，因此`降階`後所處成長階段的`進階天數`也會少一天。
 + 同理`再成長天數`也會比`再收成天數`少一天。
-+ `降階`後的`成長值`可以透過`再收成天數`進行反推。
++ `降階`後的[成長值](../doraemon-story-mod-crop/#成長值)可以透過`再收成天數`進行反推。
 
 $$若剩餘進階天數<=減少階數$$$$補充進階天數=剩餘進階天數$$
 $$若剩餘進階天數>減少階數$$$$補充進階天數=減少階數$$
@@ -264,92 +268,23 @@ $$降階後的成長值={收成天數}-{再收成天數}$$
 </table>
 
 #### 品質分的減少
-+ `後續作物`的`品質分`減少程度與`降階`減少的階段數有關。
-+ 然而`品質分`的提升也與施用的`肥料`種類有關，
-+ 因此減少的`品質分`會以`高級肥料`的[施肥](../doraemon-story-crop-part3)效果進行反推。
++ `後續作物`的[品質分](../doraemon-story-mod-crop/#品質分)減少程度與`降階`減少的階段數有關。
++ 然而[品質分](../doraemon-story-mod-crop/#品質分)的提升也與施用的`肥料`種類有關，
++ 因此減少的[品質分](../doraemon-story-mod-crop/#品質分)會以`高級肥料`的[施肥效果](../doraemon-story-crop-part3/#品質提升計算公式)進行反推。
 
 $$減少的施肥次數=減少的成長值=再收成天數$$
 $$減少的品質分=無條件進位(\dfrac {高級肥料效果}{收成天數})\times{減少的施肥次數}$$
 
 + 以鳳梨為例：
-    + 假設[收成](../doraemon-story-crop-part6)時的`品質分`為`254分`,`品質⭐️`相當於`⭐️3.0`。
-    + `降階`後，`成長過程`從`第6階段`降為`第4階段`，減少的`成長值`為`6`，亦即少了`6次`[施肥](../doraemon-story-crop-part3)的機會。
-    + 根據[施肥品質提升計算公式](../doraemon-story-crop-part3/#施肥品質提升計算公式)的計算方法，鳳梨6次施用`高級肥料`所增加的`品質分`為`96分`。
-    + 所以`降階`後`品質分`會減少`96分`變成`158分`，`品質⭐️`為`⭐️2.0`。
+    + 假設[收成](../doraemon-story-crop-part6)時的[品質分](../doraemon-story-mod-crop/#品質分)為`254分`,`品質⭐️`相當於`⭐️3.0`。
+    + `降階`後，`成長過程`從`第6階段`降為`第4階段`，減少的[成長值](../doraemon-story-mod-crop/#成長值)為`6`，亦即少了`6次`[施肥](../doraemon-story-crop-part3)的機會。
+    + 根據[品質提升計算公式](../doraemon-story-crop-part3/#品質提升計算公式)，鳳梨6次施用`高級肥料`所增加的[品質分](../doraemon-story-mod-crop/#品質分)為`96分`。
+    + 所以`降階`後[品質分](../doraemon-story-mod-crop/#品質分)會減少`96分`變成`158分`，`品質⭐️`為`⭐️2.0`。
 
 ## 總結
 以鳳梨作為案例總結：
-1. 已知鳳梨的`收成天數`為`13天`，每次澆水`成長值`增加`1`，因此[收成](../doraemon-story-crop-part6)時`成長值`為`13`。
-2. 鳳梨初次[收成](../doraemon-story-crop-part6)後，土裡鳳梨的`成長值`會降回到第7天的狀態，亦即`成長值`為`7`。
-3. 若初次[收成](../doraemon-story-crop-part6)前，鳳梨的成長全程使用`高級肥料`，則`品質分`也會降回到第7天時的`品質分`。
+1. 已知鳳梨的`收成天數`為`13天`，每次澆水[成長值](../doraemon-story-mod-crop/#成長值)增加`1`，因此[收成](../doraemon-story-crop-part6)時[成長值](../doraemon-story-mod-crop/#成長值)為`13`。
+2. 鳳梨初次[收成](../doraemon-story-crop-part6)後，土裡鳳梨的[成長值](../doraemon-story-mod-crop/#成長值)會降回到第7天的狀態，亦即[成長值](../doraemon-story-mod-crop/#成長值)為`7`。
+3. 若初次[收成](../doraemon-story-crop-part6)前，鳳梨的成長全程使用`高級肥料`，則[品質分](../doraemon-story-mod-crop/#品質分)也會降回到第7天時的[品質分](../doraemon-story-mod-crop/#品質分)。
 4. 因此成長過程在第7天的鳳梨還需要`6天`才會`成熟`。
-5. 若這6天也都使用`高級肥料`，再次`成熟`時，`品質分`也會與前次[收成](../doraemon-story-crop-part6)相同。
-
-## 源代碼
-+ 作物主模板類：`CropMasterModel @02000583`
-    + 收成天數：`CropMasterModel.HarvestDays : int @17000909`
-    + 成長階數：`CropMasterModel.Step : int @17000907`
-    + 減少階數：`CropMasterModel.ReduceStep : int @17000908`
-+ 作物模板類：`CropModel @02000558`
-    + 成長值：
-    + 成長方法：`CropModel.Grow() : void @06002DA8`
-    + 確認收成方法：`CropModel.CanHarvest : bool @170007CB`
-    + 成長進階方法：`CropModel.GrowStep() : void @06002DAA`
-    + 成長減少方法：`CropModel.ReduceGrowth() : void @06002DA9`
-
-```C#
-public void Grow()
-{
-	if (!this.CanHarvest && !this.IsWithered)
-	{
-		this.mGrowth++;
-	}
-}
-public bool CanHarvest
-{
-	get
-	{
-		return !this.IsWithered && this.mGrowth == this.Master.HarvestDays;
-	}
-}
-public void GrowStep()
-{
-	if (this.CanHarvest || this.IsWithered)
-	{
-		return;
-	}
-	int num2;
-	int num = Math.DivRem(this.Master.HarvestDays, this.Master.Step - 1, out num2);
-	int num3 = (this.Master.Step - 1 - num2) * num;
-	if (this.mGrowth < num3)
-	{
-		this.mGrowth += num;
-	}
-	else
-	{
-		this.mGrowth += num + 1;
-	}
-	if (this.mGrowth > this.Master.HarvestDays)
-	{
-		this.mGrowth = this.Master.HarvestDays;
-	}
-}
-public void ReduceGrowth()
-{
-    if (!this.CanRepeat && !this.IsWithered)
-    {
-        return;
-    }
-    int num2;
-    int num = Math.DivRem(this.Master.HarvestDays, this.Master.Step - 1, out num2);
-    num2 = ((num2 <= this.Master.ReduceStep) ? num2 : this.Master.ReduceStep);
-    int num3 = num * this.Master.ReduceStep + num2;
-    this.mGrowth -= num3;
-    this.mQuality -= Mathf.CeilToInt(Crop.GetUpgradeValue(Item.ID_HIGH_QUALITY_FERTILIZER) / (float)this.Master.HarvestDays) * num3;
-    if (this.mQuality < Crop.MIN_QUALITY)
-    {
-        this.mQuality = Crop.MIN_QUALITY;
-    }
-    this.mRepeatCount++;
-}
-```
+5. 若這6天也都使用`高級肥料`，再次`成熟`時，[品質分](../doraemon-story-mod-crop/#品質分)也會與前次[收成](../doraemon-story-crop-part6)相同。

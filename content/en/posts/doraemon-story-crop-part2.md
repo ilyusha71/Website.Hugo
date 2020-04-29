@@ -19,7 +19,7 @@ image: images/post/Season_of_Story/Sprite/icon_1001000.png
 libraries:
 - katex
 ---
-<mark>最後更新：2020/04/28</mark>
+<mark>最後更新：2020/04/30</mark>
 
 ## 農耕與作物
 <table>
@@ -49,27 +49,27 @@ libraries:
 </table>
 
 ## 播種
-+ 作物在播種前必須先滿足兩項條件：
-    1. 空的`農地`，可以透過[耕地](../doraemon-story-crop-part1)將農地翻新成空的農地。
-    2. `作物種子`，作物種子的取得方式有二：
++ 作物在播種前必須滿足兩項條件：
+    1. 空的`農地`，可以透過[耕地](../doraemon-story-crop-part1)翻新農地。
+    2. `作物種子`，取得方式有二：
         1. 可在[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子)進行購買。
         2. 透過[種子機](../)製作。
-+ `農地`只允許播種當季或常年作物的種子。
++ `農地`只允許播種`當季作物`或`常年作物`的種子。
     + 在`溫室`的環境下也必須轉換特定季節。
-+ 需要特別注意的是，非`常年`成長的作物`換季時會`枯萎`，播種前最好計算作物的`收成天數`。
-+ 作物`種子`播種後，會變成地上的`作物`。
-+ 種子的`品質⭐️`則會轉換為作物的`品質分`。
-    + `品質⭐️`為遊戲中`品質等級`的呈現方式。
-        + `⭐️0.5`為最低品質，`品質等級`為`1`。
-        + `品質等級`每增加一級，`品質⭐️`增加`0.5⭐️`。
-    + `品質分`為作物在農地生長時的隱藏數值。
-        + `品質分`初始值為`1`。
-        + `最大品質分`為`500`。
-+ 作物的`品質分`需要透過[施肥](../doraemon-story-crop-part3)才會增加。
++ 需要特別注意的是，非`常年`成長的作物換季時會`枯萎`，播種前最好計算作物的`收成天數`。
++ 播種後，`種子`的`品質⭐️`會轉換為作物的[品質分](../doraemon-story-mod-crop/#品質分)。
+    + `品質⭐️`為遊戲中[品質等級](../doraemon-story-mod-item/#品質等級)的呈現方式。
+        + `⭐️0.5`為最低品質，[品質等級](../doraemon-story-mod-item/#品質等級)為`1`。
+        + [品質等級](../doraemon-story-mod-item/#品質等級)每增加一級，`品質⭐️`增加`0.5⭐️`。
+    + [品質分](../doraemon-story-mod-crop/#品質分)為作物在`農地`生長時的隱藏數值。
+        + [品質分初始值](../doraemon-story-mod-crop/#作物模板)為`1`。
+        + [最大品質分](../doraemon-story-mod-crop/#最大品質分)為`500`。
++ [品質分](../doraemon-story-mod-crop/#品質分)需要透過[施肥](../doraemon-story-crop-part3)才會增加。
 + 直到[收成](../doraemon-story-crop-part6)時才會再轉換回來。
 
 ### 播種品質轉換公式
-+ `品質轉換率`是作物`最大品質分`（`500`）與物品`最大品質等級`（`10`）的比，為一個常數：`50`：
++ 參考[播種方法](../doraemon-story-mod-crop/#播種方法)。
++ [品質轉換率](../doraemon-story-mod-crop/#品質轉換率)是作物[最大品質分](../doraemon-story-mod-crop/#最大品質分)與物品[最大品質等級](../doraemon-story-mod-item/#最大品質等級)的比，為一個常數：`50`。
 
 $$品質分=(種子品質等級-2)\times{品質轉換率}$$
 $$品質轉換率=\dfrac {作物最大品質分}{物品最大品質等級}=\dfrac {500}{10}=50$$
@@ -148,13 +148,13 @@ $$品質轉換率=\dfrac {作物最大品質分}{物品最大品質等級}=\dfra
     </tbody>
 </table>
 
-所以`種子`播種後作物的`品質等級`就會直接先降`1級`，相當於`品質⭐️`降`0.5⭐️`。
+所以`種子`播種後作物的[品質等級](../doraemon-story-mod-crop/#品質等級)就會直接先降`1級`，相當於`品質⭐️`降`0.5⭐️`。
 
 #### 超人手套蓄力效果
 <table>
     <thead>
         <tr>
-            <td align="center">瞬間成長劑</td>
+            <td align="center">超人手套</td>
         </tr>
     </thead>
     <tr>
@@ -195,65 +195,3 @@ $$品質轉換率=\dfrac {作物最大品質分}{物品最大品質等級}=\dfra
         <td align="center">前方9格</td>
     </tr>
 </table>
-
-## 源代碼
-```C#
-public void SowSeed(int crop_id, int item_quality)
-{
-	if (this.HasCrop || this.Type != Ground.TypeEnum.Cultivated)
-	{
-		return;
-	}
-	int quality = (item_quality - 2) * Crop.QUALITY_CONVERSION_RATE;
-	this.mCrop = new CropModel(crop_id, quality);
-}
-public CropModel(int id, int quality)
-{
-    this.mId = id;
-    this.mQuality = Mathf.Clamp(quality, Crop.MIN_QUALITY, Crop.MAX_QUALITY);
-}
-```
-
-## 作物MOD資料庫
-+ 作物資料檔：`CropData.text`
-+ 作物資料類：`CCropData`
-    + 作物資料結構：`SCropData`
-        + 作物ID：`mCropId`
-        + 名稱ID：`mNameId`
-        + 收穫次數：`mHarvestCount`
-        + 成長階數：`mStep`
-        + 減少階數：`mReduceStep`
-        + 收成天數：`mHarvestDays`
-        + 生長季節：`mSeason`
-            + `0`為春季生長、`1`為夏季生長、`2`為秋季生長、`3`為冬季生長、`-1`為四季皆生長。
-        + 是否收割：`mCanReap`
-        + 圖集ID：`mAtlasId`
-        + 圖片ID：`mSpriteId`
-        + 物品ID：`mItemId`
-        + 種子ID：`mSeedItemId`
-+ 作物主模板類：`CropMasterModel`
-    + 作物ID：`CropMasterModel.CropId` = `CCropData.SCropData.mCropId`
-    + 收穫次數：`CropMasterModel.HarvestCount` = `CCropData.SCropData.mHarvestCount`
-    + 成長階數：`CropMasterModel.Step` = `CCropData.SCropData.mStep`
-    + 減少階數：`CropMasterModel.ReduceStep` = `CCropData.SCropData.mReduceStep`
-    + 收成天數：`CropMasterModel.HarvestDays` = `CCropData.SCropData.mHarvestDays`
-    + 生長季節：`CropMasterModel.Season` = `CCropData.SCropData.mSeason`
-    + 是否收割：`CropMasterModel.CanReap` = `CCropData.SCropData.mCanReap`
-+ 作物模板類`CropModel`，土裡作物的實例。
-    + 成長方法：`CropModel.Grow()`
-    + 減少成長方法：`CropModel.GrowStep()`
-    + 成長值：`CropModel.Growth`
-    + 品質分：`CropModel.Quality`
-+ 作物定義類：`Crop`
-    + 最低品質分：`MIN_QUALITY`，常數值：`1`
-    + 最高品質分：`Crop.MAX_QUALITY`，常數值：`500`
-    + 品質轉換率：`Crop.QUALITY_CONVERSION_RATE`，常數值：`50`
-
-
-    + 播種方法：`GroundModel.SowSeed(int crop_id, int item_quality)`
-    + 莊稼：`GroundModel.mCrop`
-    + 作物模板類：`CropModel`
-    + 作物品質分：`CropModel.mQuality`
-    + 作物品質等級：`CropModel.Quality`
-    + 作物最低品質分：`Crop.MIN_QUALITY`
-    + 作物最高品質分：`Crop.MAX_QUALITY`

@@ -1,5 +1,5 @@
 ---
-title: "作物施肥"
+title: "施肥與品質提升"
 date: 2020-04-03T17:16:52+08:00
 description: 作物的施肥效果對作物品質的影響
 draft: false
@@ -49,8 +49,9 @@ libraries:
 
 ## 作物施肥
 + 一開始從[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)買的種子品質都是⭐️0.5，如果不施肥，則作物[收成](../doraemon-story-crop-part6)的時候仍會是⭐️0.5。
-+ 若要讓作物的品質上升，在遊戲中可以選擇`肥料`或`高級肥料`來進行施肥。
++ 若要讓作物的[品質上升](../doraemon-story-crop-part3/#品質提升計算公式)，在遊戲中可以選擇`肥料`或`高級肥料`來進行施肥。
 + `高級肥料`的價格是一般`肥料`的`兩倍`，但`施肥效果`也是兩倍。
+    + 參考[施肥品質提升表](../doraemon-story-mod-crop/#施肥品質提升表)。
 
 ### 肥料
 + 肥料的取得途徑：
@@ -81,7 +82,9 @@ libraries:
     </tr>
 </table>
 
-### 施肥品質提升計算公式
+### 品質提升計算公式
++ 參考[施肥方法](../doraemon-story-mod-crop/#施肥方法)
++ 參考[品質提升方法](../doraemon-story-mod-crop/#品質提升方法)。
 
 $$提升的品質分=無條件進位（\dfrac {肥料效果}{收成天數}）$$
 
@@ -90,12 +93,12 @@ $$提升的品質分=無條件進位（\dfrac {肥料效果}{收成天數}）$$
 + 已知鳳梨的`收成天數`為`13天`。
 
 ##### 使用肥料
-若全程使用`肥料`，每天品質均增加`8分`，成熟時品質為`105分`，[收成](../doraemon-story-crop-part6)後的鳳梨為`⭐️1.5`。
+若全程使用`肥料`，每天[品質分](../doraemon-story-mod-crop/#品質分)均增加`8分`，`成熟`時[品質分](../doraemon-story-mod-crop/#品質分)為`105分`，[收成](../doraemon-story-crop-part6)後的鳳梨為`⭐️1.5`。
 $$肥料提升的品質分=無條件進位(\dfrac {肥料效果}{收成天數})=無條件進位(\dfrac {100}{13})=8$$
 $$成熟時品質分=1+(收成天數\times肥料提升的品質分)=1+(13\times8)=105$$
 
 ##### 使用高級肥料
-若改用`高級肥料`，每天品質則增加`16分`，成熟時品質為`209分`，採收後的鳳梨為`⭐️2.5`。
+若改用`高級肥料`，每天[品質分](../doraemon-story-mod-crop/#品質分)則增加`16分`，`成熟`時[品質分](../doraemon-story-mod-crop/#品質分)為`209分`，採收後的鳳梨為`⭐️2.5`。
 $$高級肥料提升的品質分=無條件進位(\dfrac {高級肥料效果}{收成天數})=無條件進位(\dfrac {200}{13})=16$$
 $$成熟時品質分=1+(收成天數\times高級肥料提升的品質分)=1+(13\times16)=209$$
 
@@ -106,35 +109,48 @@ $$成熟時品質分=1+(收成天數\times高級肥料提升的品質分)=1+(13\
 + 第二次[播種](../doraemon-story-crop-part2)到[收成](../doraemon-story-crop-part6)：`⭐️2`→`⭐️4`
 + 第三次[播種](../doraemon-story-crop-part2)到[收成](../doraemon-story-crop-part6)：`⭐️3.5`→`⭐️5`
 
-## 源代碼
-+ 作物模板類：`CropModel @02000558`
-    + 品質提升方法：`CropModel.Upgrade(int item_id)`
+#### 超人手套蓄力效果
+<table>
+    <thead>
+        <tr>
+            <td align="center">超人手套</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><img width="100px" src= "/images/post/Season_of_Story/Sprite/icon_1002130.png"></td>
+    </tr>
+</table>
 
-```C#
-private static readonly Dictionary<int, float> UpgradeValueTable = new Dictionary<int, float>
-{
-    {
-        Item.ID_FERTILIZER,
-        100f
-    },
-    {
-        Item.ID_HIGH_QUALITY_FERTILIZER,
-        200f
-    }
-};
-```
++ `超人手套`可以在劇情[鎮長第2話 獎勵事件：獲得超人手套](../doraemon-story-09/#獲得超人手套)取得。
++ 蓄力分為`Lv.1`至`Lv.3`三段。
++ 蓄力段數越高消耗的體力越多，但施肥的範圍也越大。
 
-```C#
-public void Upgrade(int item_id)
-{
-    if (this.CanHarvest || this.IsWithered)
-    {
-        return;
-    }
-    this.mQuality += Mathf.CeilToInt(Crop.GetUpgradeValue(item_id) / (float)this.Master.HarvestDays);
-    if (this.mQuality > Crop.MAX_QUALITY)
-    {
-        this.mQuality = Crop.MAX_QUALITY;
-    }
-}
-```
+<table>
+    <thead>
+        <tr>
+            <td align="center">蓄力段數</td>            
+            <td align="center">體力消耗</td>
+            <td align="center">施肥範圍</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center">Lv.0</td>
+        <td align="center">1</td>
+        <td align="center">前方1格</td>
+    </tr>
+    <tr>
+        <td align="center">Lv.1</td>
+        <td align="center">2</td>
+        <td align="center">前方2格</td>
+    </tr>
+    <tr>
+        <td align="center">Lv.2</td>
+        <td align="center">3</td>
+        <td align="center">前方3格</td>
+    </tr>
+    <tr>
+        <td align="center">Lv.3</td>
+        <td align="center">4</td>
+        <td align="center">前方9格</td>
+    </tr>
+</table>
