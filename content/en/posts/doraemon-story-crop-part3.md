@@ -18,7 +18,7 @@ image: images/post/Season_of_Story/Sprite/icon_1103001.png
 libraries:
 - katex
 ---
-<mark>最後更新：2020/04/27</mark>
+<mark>最後更新：2020/04/29</mark>
 
 ## 農耕與作物
 <table>
@@ -48,9 +48,9 @@ libraries:
 </table>
 
 ## 作物施肥
-+ 一開始從[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)買的種子品質都是⭐️0.5，如果不施肥，則作物收成的時候仍會是⭐️0.5。
++ 一開始從[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)買的種子品質都是⭐️0.5，如果不施肥，則作物[收成](../doraemon-story-crop-part6)的時候仍會是⭐️0.5。
 + 若要讓作物的品質上升，在遊戲中可以選擇`肥料`或`高級肥料`來進行施肥。
-+ 高級肥料的價格是一般肥料的`兩倍`，但`施肥效果`也是兩倍。
++ `高級肥料`的價格是一般`肥料`的`兩倍`，但`施肥效果`也是兩倍。
 
 ### 肥料
 + 肥料的取得途徑：
@@ -61,24 +61,55 @@ libraries:
 <table>
     <thead>
         <tr>
-            <td></td>
-            <td>物品名稱</td>
-            <td>販售價格</td>
+            <td align="center"></td>
+            <td align="center">物品名稱</td>
+            <td align="center">販售價格</td>
+            <td align="center">肥料效果</td>
         </tr>
     </thead>
     <tr>
-        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png"></td>
-        <td>肥料</td>
-        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
+        <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png"></td>
+        <td align="center">肥料</td>
+        <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20</td>
+        <td align="center">100</td>
     </tr>
     <tr>
-        <td><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png"></td>
-        <td>高級肥料</td>
-        <td><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
+        <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png"></td>
+        <td align="center">高級肥料</td>
+        <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">40</td>
+        <td align="center">200</td>
     </tr>
 </table>
 
-### 肥料效果源代碼
+### 施肥品質提升計算公式
+
+$$提升的品質分=無條件進位（\dfrac {肥料效果}{收成天數}）$$
+
+#### 鳳梨的施肥效果比較
++ 以[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)買的⭐️0.5`鳳梨種子`來測試。
++ 已知鳳梨的`收成天數`為`13天`。
+
+##### 使用肥料
+若全程使用`肥料`，每天品質均增加`8分`，成熟時品質為`105分`，[收成](../doraemon-story-crop-part6)後的鳳梨為`⭐️1.5`。
+$$肥料提升的品質分=無條件進位(\dfrac {肥料效果}{收成天數})=無條件進位(\dfrac {100}{13})=8$$
+$$成熟時品質分=1+(收成天數\times肥料提升的品質分)=1+(13\times8)=105$$
+
+##### 使用高級肥料
+若改用`高級肥料`，每天品質則增加`16分`，成熟時品質為`209分`，採收後的鳳梨為`⭐️2.5`。
+$$高級肥料提升的品質分=無條件進位(\dfrac {高級肥料效果}{收成天數})=無條件進位(\dfrac {200}{13})=16$$
+$$成熟時品質分=1+(收成天數\times高級肥料提升的品質分)=1+(13\times16)=209$$
+
+### 結論
+事實上，計算遊戲中37種作物[成長資料](../doraemon-story-crop-grow)的數據結果表明，在[收成](../doraemon-story-crop-part6)後最多都只會增加`2⭐️`。
+亦即全程使用`高級肥料`，也要進行三次[播種](../doraemon-story-crop-part2)才會變成`⭐️5`（注意每次[播種](../doraemon-story-crop-part2)都會先降`0.5⭐️`）。
++ 第一次[播種](../doraemon-story-crop-part2)到[收成](../doraemon-story-crop-part6)：`⭐️0.5`→`⭐️2.5`
++ 第二次[播種](../doraemon-story-crop-part2)到[收成](../doraemon-story-crop-part6)：`⭐️2`→`⭐️4`
++ 第三次[播種](../doraemon-story-crop-part2)到[收成](../doraemon-story-crop-part6)：`⭐️3.5`→`⭐️5`
+
+## 源代碼
++ 作物模板類：`CropModel @02000558`
+    + 品質提升方法：`CropModel.Upgrade(int item_id)`
+
 ```C#
 private static readonly Dictionary<int, float> UpgradeValueTable = new Dictionary<int, float>
 {
@@ -93,8 +124,6 @@ private static readonly Dictionary<int, float> UpgradeValueTable = new Dictionar
 };
 ```
 
-### 施肥品質提升計算公式
-品質提升方法（`CropModel.Upgrade(int item_id)`）：
 ```C#
 public void Upgrade(int item_id)
 {
@@ -109,20 +138,3 @@ public void Upgrade(int item_id)
     }
 }
 ```
-品質提升方法的計算公式：
-$$提升的品質分=無條件進位（\dfrac {肥料效果}{收成天數}）$$
-
-#### 草莓的施肥提升比較
-以雜貨店買的***草莓種子***為例，草莓的收成天數（`CropMasterModel.HarvestDays`）為15天：
-*******
-若全程使用一般肥料，則每天品質均增加7分，成熟時品質為106分，採收後的草莓為⭐️1.5。
-$$一般肥料提升的品質分=無條件進位（\dfrac {一般肥料效果}{收成天數}）=無條件進位（\dfrac {100}{15}）=7$$
-*******
-若改用高級肥料，每天品質則增加14分，成熟時品質為211分，採收後的草莓為⭐️2.5。
-$$高級肥料提升的品質分=無條件進位（\dfrac {高級肥料效果}{收成天數}）=無條件進位（\dfrac {200}{15}）=14$$
-*******
-<mark>事實上，根據作物資料的分析結果，在遊戲中所有作物在收成後最多都只會增加2⭐️。</mark>
-亦即全程使用高級肥料，也要進行三次播種才會變成⭐️5（注意每次播種都會先降0.5⭐️）。
-+ 第一次播種到收成：`⭐️0.5`→`⭐️2.5`
-+ 第二次播種到收成：`⭐️2`→`⭐️4`
-+ 第三次播種到收成：`⭐️3.5`→`⭐️5`
