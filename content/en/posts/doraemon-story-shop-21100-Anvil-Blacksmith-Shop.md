@@ -119,6 +119,7 @@ image: images/post/Season_of_Story/Building/21100.png
     </tbody>
 </table>
 
++ 工具進行升級時，背包必須留有庫存空間。
 + `物品ID`=`1000000`+`工具ID`
 + `商品ID`=`物品ID`x`10`
 

@@ -1,7 +1,7 @@
 ---
-title: "施肥與品質提升"
+title: "施肥"
 date: 2020-04-03T17:16:52+08:00
-description: 作物的施肥效果對作物品質的影響
+description: 施肥的方法與肥料的效果
 draft: false
 hideToc: false
 enableToc: false
@@ -9,7 +9,7 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
-- 作物
+- 耕作
 series:
 - 哆啦A夢牧場物語
 categories:
@@ -18,40 +18,50 @@ image: images/post/Season_of_Story/Sprite/icon_1103001.png
 libraries:
 - katex
 ---
-<mark>最後更新：2020/04/29</mark>
+<mark>最後更新：2020/05/04</mark>
 
-## 農耕與作物
 <table>
     <thead>
         <tr>
-            <td colspan="10">農耕與作物</td>        
+            <td colspan="10">耕作</td>        
         </tr>
     </thead>
     <tr>
-        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png">耕地</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part2"><img width="98px" src= "/images/post/Season_of_Story/Sprite/Crop_90110400.png">播種</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part3"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">施肥</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part4"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001020.png">澆水</a></td>        
-        <td align="center"><a href="../doraemon-story-crop-part5"><img width="136px" src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png">成長</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310000.png">耕地</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310010.png">播種</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310020.png">施肥</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part4"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310021.png">澆水</a></td>        
+        <td align="center"><a href="../doraemon-story-crop-part5"><img width="103px" src= "/images/post/Season_of_Story/Sprite/Crop_90120602.png">成長</a></td>
         <td align="center"><a href="../doraemon-story-crop-part6"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001030.png">收成收割</a></td>
-        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_bg_1230_020.png">溫室種植</a></td>
     </tr>
     <tr>
-        <td align="center"><a href="../doraemon-story-crop-part1/#鋤頭"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
+        <td align="center"><a href="../doraemon-story-tool-hoe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
+        <td align="center" colspan="2"><a href="../doraemon-story-secret-gadget-farming/#超人手套"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1002130.png">超人手套</a></td>
+        <td align="center"><a href="../doraemon-story-tool-watering-can"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#瞬間成長劑"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104080.png">瞬間成長劑</a></td>
+        <td align="center"><a href="../doraemon-story-tool-scythe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#季節罐頭"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">季節罐頭</a></td>
+    </tr>
+    <tr>
+        <td></td>
         <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000501.png">作物種子</a></td>
-        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png">肥料</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part4/#澆水壺"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>        
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">肥料</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#迷你雨雲"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7063010.png">迷你雨雲</a></td>
         <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part6/#鐮刀"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>
-        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">溫室種植</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td></td>
     </tr>
 </table>
 
-## 作物施肥
-+ 一開始從[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)買的種子品質都是⭐️0.5，如果不施肥，則作物[收成](../doraemon-story-crop-part6)的時候仍會是⭐️0.5。
-+ 若要讓作物的[品質上升](../doraemon-story-crop-part3/#品質提升計算公式)，在遊戲中可以選擇`肥料`或`高級肥料`來進行施肥。
-+ `高級肥料`的價格是一般`肥料`的`兩倍`，但`施肥效果`也是兩倍。
+## 施肥
++ `施肥`是將[肥料](../doraemon-story-crop-part3/#肥料)播撒在[耕作地面](../doraemon-story-mod-ground/#耕作地面)的動作，為`耕作`過程的`第三步`。
+    + `施肥`後的`作物`會[提升品質](../doraemon-story-crop-part3/#品質提升計算公式)。
++ 一開始從[雜貨店](../doraemon-story-shop-20700-knick-knacks-general-store)購買的`作物種子`，品質都只有⭐️0.5，如果不`施肥`，則作物[收成](../doraemon-story-crop-part6)的時候仍會是⭐️0.5。
++ `施肥`可以使用`肥料`或`高級肥料`。
++ `高級肥料`的價格是普通`肥料`的`兩倍`，但`施肥效果`也是兩倍。
     + 參考[施肥品質提升表](../doraemon-story-mod-crop/#施肥品質提升表)。
++ `施肥`時不需使用任何工具，但大雄得到[超人手套](../doraemon-story-tool-hoe)後能進行更大範圍的`施肥`。
 
 ### 肥料
 + 肥料的取得途徑：
@@ -102,7 +112,7 @@ $$成熟時品質分=1+(收成天數\times肥料提升的品質分)=1+(13\times8
 $$高級肥料提升的品質分=無條件進位(\dfrac {高級肥料效果}{收成天數})=無條件進位(\dfrac {200}{13})=16$$
 $$成熟時品質分=1+(收成天數\times高級肥料提升的品質分)=1+(13\times16)=209$$
 
-### 結論
+### 總結
 事實上，計算遊戲中37種作物[成長資料](../doraemon-story-crop-grow)的數據結果表明，在[收成](../doraemon-story-crop-part6)後最多都只會增加`2⭐️`。
 亦即全程使用`高級肥料`，也要進行三次[播種](../doraemon-story-crop-part2)才會變成`⭐️5`（注意每次[播種](../doraemon-story-crop-part2)都會先降`0.5⭐️`）。
 + 第一次[播種](../doraemon-story-crop-part2)到[收成](../doraemon-story-crop-part6)：`⭐️0.5`→`⭐️2.5`

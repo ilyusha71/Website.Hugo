@@ -166,7 +166,7 @@ image: images/post/Season_of_Story/Building/20200.png
     </tbody>
 </table>
 
-### 動物鈴
+### 工具
 <table>
     <thead>
         <tr>
@@ -213,7 +213,7 @@ image: images/post/Season_of_Story/Building/20200.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001152.png"></td>
             <td align="center">雞鈴</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
-            <td class="breadcrumb">搖鈴後，雞會往大雄的位置移動<br>持續8分鐘</td>
+            <td class="breadcrumb"><a href="../doraemon-story-tool-livestock/#雞鈴的使用效果">雞鈴的使用效果</a></td>
         </tr>
     </tbody>
 </table>

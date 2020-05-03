@@ -1,7 +1,7 @@
 ---
-title: "收成、收割與鐮刀的使用"
+title: 收成
 date: 2020-04-28T17:25:02+08:00
-description: 收成、收割與鐮刀的使用
+description: 收成與收割的方法
 draft: false
 hideToc: false
 enableToc: false
@@ -9,7 +9,7 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
-- MOD
+- 耕作
 - 作物
 series:
 - 哆啦A夢牧場物語
@@ -19,45 +19,73 @@ image: images/post/Season_of_Story/Sprite/icon_1001000.png
 libraries:
 - katex
 ---
-<mark>最後更新：2020/04/30</mark>
+<mark>最後更新：2020/05/04</mark>
 
-## 農耕與作物
 <table>
     <thead>
         <tr>
-            <td colspan="10">農耕與作物</td>        
+            <td colspan="10">耕作</td>        
         </tr>
     </thead>
     <tr>
-        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001000.png">耕地</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part2"><img width="98px" src= "/images/post/Season_of_Story/Sprite/Crop_90110400.png">播種</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part3"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">施肥</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part4"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001020.png">澆水</a></td>        
-        <td align="center"><a href="../doraemon-story-crop-part5"><img width="136px" src= "/images/post/Season_of_Story/Sprite/Crop_90110402.png">成長</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310000.png">耕地</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310010.png">播種</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310020.png">施肥</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part4"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310021.png">澆水</a></td>        
+        <td align="center"><a href="../doraemon-story-crop-part5"><img width="103px" src= "/images/post/Season_of_Story/Sprite/Crop_90120602.png">成長</a></td>
         <td align="center"><a href="../doraemon-story-crop-part6"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001030.png">收成收割</a></td>
-        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_bg_1230_020.png">溫室種植</a></td>
     </tr>
     <tr>
-        <td align="center"><a href="../doraemon-story-crop-part1/#鋤頭"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
+        <td align="center"><a href="../doraemon-story-tool-hoe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
+        <td align="center" colspan="2"><a href="../doraemon-story-secret-gadget-farming/#超人手套"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1002130.png">超人手套</a></td>
+        <td align="center"><a href="../doraemon-story-tool-watering-can"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#瞬間成長劑"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104080.png">瞬間成長劑</a></td>
+        <td align="center"><a href="../doraemon-story-tool-scythe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#季節罐頭"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">季節罐頭</a></td>
+    </tr>
+    <tr>
+        <td></td>
         <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000501.png">作物種子</a></td>
-        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103000.png">肥料</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part4/#澆水壺"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>        
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">肥料</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#迷你雨雲"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7063010.png">迷你雨雲</a></td>
         <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part6/#鐮刀"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>
-        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">溫室種植</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td></td>
     </tr>
 </table>
 
 ## 收成
-+ 作物[成長](../doraemon-story-crop-part5)到`成熟階段`即可進行收成。
-+ 收成後，作物的[品質分](../doraemon-story-mod-crop/#品質分)會轉換為作物的`品質⭐️`。
++ `收成`是將[成長](../doraemon-story-crop-part5)到`成熟階段`的作物進行`收穫`的動作，為`耕作`過程的`最後一步`。
+    + 需要注意的是，非`常年作物`換季時會`枯萎`，所以`當季作物`務必要在當季30日以前`收成`。
++ `收成`後，作物的[品質分](../doraemon-story-mod-crop/#品質分)會轉換為作物的`品質⭐️`。
     + `品質⭐️`為遊戲中[品質等級](../doraemon-story-mod-item/#品質等級)的呈現方式。
         + `⭐️0.5`為最低品質，[品質等級](../doraemon-story-mod-item/#品質等級)為`1`。
         + [品質等級](../doraemon-story-mod-item/#品質等級)每增加一級，`品質⭐️`增加`0.5⭐️`。
-    + [品質分](../doraemon-story-mod-crop/#品質分)為作物在`農地`生長時的隱藏數值。
+    + [品質分](../doraemon-story-mod-crop/#品質分)為作物在[耕作地面](../doraemon-story-mod-ground/#耕作地面)生長時的隱藏數值。
         + [品質分初始值](../doraemon-story-mod-crop/#作物模板)為`1`。
         + [最大品質分](../doraemon-story-mod-crop/#最大品質分)為`500`。
-+ 需要特別注意的是，非`常年作物`換季時會`枯萎`，所以當季作物務必要在當季30日以前收成。
+
+### 收割
++ `收割`是`常年作物`進行`收成`的動作。
+    + `常年作物`有`乾草`與`小麥`
++ `收割`也是將作物從[耕作地面](../doraemon-story-mod-ground/#耕作地面)上清除的動作，在`耕作`過程中都能執行。
+    + 例如`枯萎`的作物。
+    + 需要注意的是`未成熟`的作物`收割`後也會消失。
++ `收割`時需使用[鐮刀](../doraemon-story-crop-part6/#鐮刀)。
+
+<table>
+    <thead>
+        <tr>
+            <td align="center">乾草</td>
+            <td align="center">小麥</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><img width="100px" src= "/images/post/Season_of_Story/Sprite/Crop_90150003.png"></td>
+        <td align="center"><img width="100px" src= "/images/post/Season_of_Story/Sprite/Crop_90150103.png"></td>
+    </tr>
+</table>
 
 ### 克魯波克魯的幫忙
 + `克魯波克魯`到齊後，可以委託`婭卡`幫忙收成。
@@ -152,132 +180,4 @@ $$品質轉換率=\dfrac {作物最大品質分}{物品最大品質等級}=\dfra
             <td><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"><img align="left" width="36px" src= "/images/post/Icon_Star_Full.png"></td>
         </tr>
     </tbody>
-</table>
-
-## 收割
-+ `常年`生長的作物，例如`乾草`與`小麥`需要收割才能收成。
-+ `枯萎`的作物也需要透過收割才能清除。
-+ 收割需使用[鐮刀](../doraemon-story-crop-part6/#鐮刀)，高等級的鐮刀能更快更大範圍的進行收割。
-
-<table>
-    <thead>
-        <tr>
-            <td align="center">乾草</td>
-            <td align="center">小麥</td>
-        </tr>
-    </thead>
-    <tr>
-        <td align="center"><img width="100px" src= "/images/post/Season_of_Story/Sprite/Crop_90150003.png"></td>
-        <td align="center"><img width="100px" src= "/images/post/Season_of_Story/Sprite/Crop_90150103.png"></td>
-    </tr>
-</table>
-
-### 鐮刀
-+ 鐮刀`等級`分為六等，`Lv.0`至`Lv.5`：
-    + `Lv.0`：`破舊的鐮刀`
-    + `Lv.1`：`銅鐮刀`
-    + `Lv.2`：`鐵鐮刀`
-    + `Lv.3`：`銀鐮刀`
-    + `Lv.4`：`金鐮刀`
-    + `Lv.5`：`輕輕鬆鬆鐮刀`
-+ 鐮刀可以在[打鐵店](../doraemon-story-shop-21100-anvil-blacksmith-shop)進行[升級工具](../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具)。
-
-#### 鐮刀蓄力效果
-<table>
-    <thead>
-        <tr>
-            <td align="center">蓄力段數</td>            
-            <td align="center">體力消耗</td>
-            <td align="center">收割範圍</td>
-        </tr>
-    </thead>
-    <tr>
-        <td align="center">Lv.0</td>
-        <td align="center">1</td>
-        <td align="center">前方1格</td>
-    </tr>
-    <tr>
-        <td align="center">Lv.1</td>
-        <td align="center">2</td>
-        <td align="center">前方2格</td>
-    </tr>
-    <tr>
-        <td align="center">Lv.2</td>
-        <td align="center">3</td>
-        <td align="center">前方3格</td>
-    </tr>
-    <tr>
-        <td align="center">Lv.3</td>
-        <td align="center">4</td>
-        <td align="center">前方9格</td>
-    </tr>
-</table>
-
-#### 各等級鐮刀的收割效率
-<table>
-    <thead>
-        <tr>
-            <td align="center">鐮刀等級</td>
-            <td align="center"></td>
-            <td align="center">鐮刀名稱</td>
-            <td align="center">蓄力速度</td>
-            <td align="center">最大蓄力段數</td>            
-            <td align="center">最大體力消耗</td>
-            <td align="center">最大收割範圍</td>
-        </tr>
-    </thead>
-    <tr>
-        <td align="center">Lv.0</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001030.png"></td>
-        <td align="center">破舊鐮刀</td>
-        <td align="center">Lv.0</td>
-        <td align="center">Lv.0</td>
-        <td align="center">1</td>
-        <td align="center">前方1格</td>
-    </tr>
-    <tr>
-        <td align="center">Lv.1</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001031.png"></td>
-        <td align="center">銅鐮刀</td>
-        <td align="center">Lv.0</td>
-        <td align="center">Lv.1</td>
-        <td align="center">2</td>
-        <td align="center">前方2格</td>
-    </tr>
-    <tr>
-        <td align="center">Lv.2</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001032.png"></td>
-        <td align="center">鐵鐮刀</td>
-        <td align="center">Lv.0</td>
-        <td align="center">Lv.2</td>
-        <td align="center">3</td>
-        <td align="center">前方3格</td>
-    </tr>
-    <tr>
-        <td align="center">Lv.3</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001033.png"></td>
-        <td align="center">銀鐮刀</td>
-        <td align="center">Lv.1</td>
-        <td align="center">Lv.2</td>
-        <td align="center">3</td>
-        <td align="center">前方3格</td>
-    </tr>
-    <tr>
-        <td align="center">Lv.4</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001034.png"></td>
-        <td align="center">金鐮刀</td>
-        <td align="center">Lv.1</td>
-        <td align="center">Lv.3</td>
-        <td align="center">4</td>
-        <td align="center">前方9格</td>
-    </tr>
-    <tr>
-        <td align="center">Lv.5</td>
-        <td align="center"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png"></td>
-        <td align="center">輕輕鬆鬆鐮刀</td>
-        <td align="center">Lv.1</td>
-        <td align="center">Lv.3</td>
-        <td align="center">1</td>
-        <td align="center">前方9格</td>
-    </tr>
 </table>

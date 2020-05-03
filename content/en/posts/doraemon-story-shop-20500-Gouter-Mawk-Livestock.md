@@ -90,10 +90,10 @@ image: images/post/Season_of_Story/Building/20500.png
 
 ## 販售資料
 + [動物](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物)：2種
-+ [工具](../doraemon-story-shop-20500-gouter-mawk-livestock/#工具)：3種
++ [工具](../doraemon-story-shop-20500-gouter-mawk-livestock/#工具)：5種
+    + [動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)：2種
 + [動物餵食](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物餵食)：2種
 + [動物種子](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物種子)：2種
-+ [動物鈴](../doraemon-story-shop-20500-gouter-mawk-livestock/#動物鈴)：2種
 
 ### 動物
 <table>
@@ -162,7 +162,7 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"></td>
             <td align="center">商品名稱</td>
             <td align="center">販售價格</td>
-            <td align="center" colspan="2">功能</td>
+            <td align="center">功能</td>
         </tr>
     </thead>
     <tbody>
@@ -173,7 +173,7 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001110.png"></td>
             <td align="center">刷子</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">500</td>
-            <td colspan="2" class="breadcrumb">用來幫牛、羊與馬刷背</td>
+            <td class="breadcrumb"><a href="../doraemon-story-tool-livestock/#刷毛">刷毛</a></td>
         </tr>
         <tr>
             <td align="center">100101</td>
@@ -182,8 +182,7 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001120.png"></td>
             <td align="center">擠乳器</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1000</td>
-            <td class="breadcrumb">用來幫成牛擠奶，可以獲得牛奶</td>
-            <td align="center" class="breadcrumb"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_3200101.png"></td>
+            <td class="breadcrumb"><a href="../doraemon-story-tool-livestock/#擠乳">擠乳</a></td>
         </tr>
         <tr>
             <td align="center">100102</td>
@@ -192,10 +191,93 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001130.png"></td>
             <td align="center">剃毛刀</td>
             <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">1000</td>
-            <td class="breadcrumb">用來幫成羊剪毛，可以獲得羊毛</td>
-            <td align="center" class="breadcrumb"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_4100100.png"></td>
+            <td class="breadcrumb"><a href="../doraemon-story-tool-livestock/#剃毛">剃毛</a></td>
         </tr>
     </tbody>
+</table>
+
+#### 動物鈴
+<table>
+    <thead>
+        <tr>
+            <td align="center">商品ID</td>
+            <td align="center">物品ID</td>
+            <td align="center">工具ID</td>
+            <td align="center"></td>
+            <td align="center">商品名稱</td>
+            <td align="center">販售價格</td>
+            <td align="center">功能</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">100109</td>
+            <td align="center">1001150</td>
+            <td align="center">1150</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png"></td>
+            <td align="center">牛鈴</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
+            <td class="breadcrumb"><a href="../doraemon-story-tool-livestock/#牛鈴的使用效果">牛鈴的使用效果</a></td>
+        </tr>
+        <tr>
+            <td align="center">100110</td>
+            <td align="center">1001151</td>
+            <td align="center">1150</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png"></td>
+            <td align="center">羊鈴</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
+            <td class="breadcrumb"><a href="../doraemon-story-tool-livestock/#羊鈴的使用效果">羊鈴的使用效果</a></td>
+        </tr>
+        <tr>
+            <td align="center">100112</td>
+            <td align="center">1001153</td>
+            <td align="center">1150</td>
+            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
+            <td align="center">引導鈴</td>
+            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20000</td>
+            <td class="breadcrumb"><a href="../doraemon-story-tool-livestock/#引導鈴的使用效果">引導鈴的使用效果</a></td>
+        </tr>
+    </tbody>
+</table>
+
+#### 上架解鎖條件
++ [寬闊的動物小屋擴建完成](../doraemon-story-1/#寬闊的動物小屋擴建)（`10121101`）
+<table>
+    <thead>
+        <tr>            
+            <td align="center">牛鈴</td>
+            <td align="center">羊鈴</td>
+            <td align="center">寬闊的動物小屋</td>
+        </tr>
+    </thead>
+    <tr>        
+        <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png"></td>
+        <td align="center"><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png"></td>
+        <td rowspan="2" class="breadcrumb"><img src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
+    </tr>
+    <tr>
+        <td colspan="2" class="breadcrumb">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建寬闊的動物小屋</a></td>
+    </tr>
+</table>
+
++ [巨大的動物小屋擴建完成](../doraemon-story-1/#巨大的動物小屋擴建)（`10121201`）
++ [巨大的雞小屋擴建完成](../doraemon-story-1/#巨大的雞小屋擴建)（`10122201`）
+<table>
+    <thead>
+        <tr>
+            <td align="center">引導鈴</td>
+            <td align="center">巨大的動物小屋</td>
+            <td align="center">巨大的雞小屋</td>            
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
+        <td rowspan="2" class="breadcrumb"><img src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
+        <td rowspan="2" class="breadcrumb"><img src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
+    </tr>
+    <tr>
+        <td align="center" class="breadcrumb">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建巨大的動物小屋</a><br>+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋">擴建巨大的雞小屋</a></td>
+    </tr>
 </table>
 
 ### 動物餵食
@@ -316,116 +398,6 @@ image: images/post/Season_of_Story/Building/20500.png
             <td align="center" class="breadcrumb">小羊崽兒</td>
         </tr>
     </tbody>
-</table>
-
-### 動物鈴
-<table>
-    <thead>
-        <tr>
-            <td align="center" colspan="4">商品特性</td>
-            <td align="center" colspan="3">物品特性</td>
-        </tr>
-        <tr>
-            <td align="center" class="breadcrumb">物品實體</td>
-            <td align="center" class="breadcrumb">單一物品</td>
-            <td align="center" class="breadcrumb">只能購買一次</td>
-            <td align="center" class="breadcrumb">需要庫存空間</td>
-            <td align="center" class="breadcrumb">品質差異</td>
-            <td align="center" class="breadcrumb">重要的物品</td>
-            <td align="center" class="breadcrumb">原料</td>
-        </tr>
-    </thead>
-    <tr>
-            <td align="center" class="breadcrumb">✔</td>
-            <td align="center" class="breadcrumb">✔</td>
-            <td align="center" class="breadcrumb">✔</td>
-            <td align="center" class="breadcrumb">✔</td>
-            <td align="center" class="breadcrumb">✘</td>
-            <td align="center" class="breadcrumb">✘</td>
-            <td align="center" class="breadcrumb">✘</td>
-    </tr>
-</table>
-<table>
-    <thead>
-        <tr>
-            <td align="center">商品ID</td>
-            <td align="center">物品ID</td>
-            <td align="center">工具ID</td>
-            <td align="center"></td>
-            <td align="center">商品名稱</td>
-            <td align="center">販售價格</td>
-            <td align="center">功能</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="center">100109</td>
-            <td align="center">1001150</td>
-            <td align="center">1150</td>
-            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png"></td>
-            <td align="center">牛鈴</td>
-            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
-            <td class="breadcrumb">搖鈴後，牛會往大雄的位置移動<br>持續8分鐘</td>
-        </tr>
-        <tr>
-            <td align="center">100110</td>
-            <td align="center">1001151</td>
-            <td align="center">1150</td>
-            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png"></td>
-            <td align="center">羊鈴</td>
-            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">5000</td>
-            <td class="breadcrumb">搖鈴後，羊會往大雄的位置移動<br>持續8分鐘</td>
-        </tr>
-        <tr>
-            <td align="center">100112</td>
-            <td align="center">1001153</td>
-            <td align="center">1150</td>
-            <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
-            <td align="center">引導鈴</td>
-            <td align="center"><img align="left" src= "/images/post/Season_of_Story/Sprite/Icon_Money_01.png">20000</td>
-            <td class="breadcrumb">在牧場搖鈴會引導動物前往小屋<br>在小屋搖鈴時會引導動物前往牧場<br>持續16分鐘<br>只會影響❤️3以上動物</td>
-        </tr>
-    </tbody>
-</table>
-
-#### 上架解鎖條件
-+ [寬闊的動物小屋擴建完成](../doraemon-story-1/#寬闊的動物小屋擴建)（`10121101`）
-<table>
-    <thead>
-        <tr>            
-            <td align="center">牛鈴</td>
-            <td align="center">羊鈴</td>
-            <td align="center">寬闊的動物小屋</td>
-        </tr>
-    </thead>
-    <tr>        
-        <td align="center"><img width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png"></td>
-        <td align="center"><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png"></td>
-        <td rowspan="2" class="breadcrumb"><img src= "/images/post/Season_of_Story/Sprite/icon_201080021.png"></td>
-    </tr>
-    <tr>
-        <td colspan="2" class="breadcrumb">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建寬闊的動物小屋</a></td>
-    </tr>
-</table>
-
-+ [巨大的動物小屋擴建完成](../doraemon-story-1/#巨大的動物小屋擴建)（`10121201`）
-+ [巨大的雞小屋擴建完成](../doraemon-story-1/#巨大的雞小屋擴建)（`10122201`）
-<table>
-    <thead>
-        <tr>
-            <td align="center">引導鈴</td>
-            <td align="center">巨大的動物小屋</td>
-            <td align="center">巨大的雞小屋</td>            
-        </tr>
-    </thead>
-    <tr>
-        <td align="center"><img  width= "64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png"></td>
-        <td rowspan="2" class="breadcrumb"><img src= "/images/post/Season_of_Story/Sprite/icon_201080022.png"></td>
-        <td rowspan="2" class="breadcrumb"><img src= "/images/post/Season_of_Story/Sprite/icon_201080032.png"></td>
-    </tr>
-    <tr>
-        <td align="center" class="breadcrumb">+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建動物小屋">擴建巨大的動物小屋</a><br>+ <a href="../doraemon-story-shop-20400-hammer-carpenter-shop/#擴建雞小屋">擴建巨大的雞小屋</a></td>
-    </tr>
 </table>
 
 ## MOD資料庫

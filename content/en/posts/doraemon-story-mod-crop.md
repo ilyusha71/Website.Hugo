@@ -1,5 +1,5 @@
 ---
-title: 農耕與作物MOD
+title: 耕作與作物MOD
 date: 2020-03-28T17:25:02+08:00
 description: 收成、收割與鐮刀的使用
 draft: false
@@ -65,6 +65,35 @@ libraries:
     + 作物品質等級：`CropModel.Quality`
     + 作物最低品質分：`Crop.MIN_QUALITY`
     + 作物最高品質分：`Crop.MAX_QUALITY`
+
+# 耕作界面
+## 整地指令類
++ `GroundFlattenCommand @020001D0`
+
+## 耕地指令類
++ `GroundCultivateCommand @020001CE`
+
+## 播種指令類
+`GroundSowSeedCommand @020001DA`
+
+## 施肥指令類
+`GroundFertilizeCommand @020001CF`
+
+## 澆水指令類
++ `GroundWetCommand @020001DC`
+
+## 成長指令類
+`GroundGrowCommand @020001D4`
+
+## 割草指令類
+`GroundMowCropCommand @020001D7`
+
+## 收割指令類
+`GroundReapCropCommand @020001D9`
+
+## 收成指令類
+##
+`GroundHarvestCropCommand @020001D5`
 
 ## 農地模板類
 + 農地模板類：`GroundModel @02000567`

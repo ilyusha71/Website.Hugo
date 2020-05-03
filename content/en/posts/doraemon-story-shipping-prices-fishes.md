@@ -21,17 +21,16 @@ libraries:
 ---
 <mark>最後更新：2020/04/27</mark>
 
-## 釣魚系統與魚類圖鑑
 <table>
     <thead>
         <tr>
-            <td colspan="10">釣魚系統與魚類圖鑑</td>        
+            <td colspan="10">釣魚</td>        
         </tr>
     </thead>
     <tr>        
         <td align="center"><a href="../doraemon-story-live-fishing"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001060.png">釣魚資訊</a></td>
-        <td align="center"><a href="../#釣竿選用"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001065.png">釣竿選用</a></td>
-        <td align="center"><a href="../#地底釣竿"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001066.png">地底釣竿</a></td>
+        <td align="center"><a href="../doraemon-story-tool-rod"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001065.png">釣竿</a></td>
+        <td align="center"><a href="../doraemon-story-tool-land-fishing-rod"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001066.png">地底釣竿</a></td>
         <td align="center"><a href="../doraemon-story-size-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">尺寸大小</a></td>
         <td align="center"><a href="../doraemon-story-shipping-prices-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000190.png">出貨價格</a></td>
         <td align="center"><a href="../doraemon-story-shop-21300-sandy-tackle-shop/#魚拓"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_goods_21330.png">魚拓</a></td>
