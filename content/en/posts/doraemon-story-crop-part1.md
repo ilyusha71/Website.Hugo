@@ -20,6 +20,20 @@ libraries:
 ---
 <mark>最後更新：2020/05/04</mark>
 
+## 耕地
++ `耕地`是將[平坦地面](../doraemon-story-mod-ground/#地面界面)變成[耕作地面](../doraemon-story-mod-ground/#耕作地面)的動作，為`耕作`過程的`第一步`。
+    + 若地面為[雜草地面](../doraemon-story-mod-ground/#雜草地面)或[障礙地面](../doraemon-story-mod-ground/#障礙地面)，則必須先進行[整地](../doraemon-story-ground/#整地)。
++ `耕地`時需使用[鋤頭](../doraemon-story-tool-hoe)。
+
+### 耕作區域
+![大雄牧場地區範圍](/images/post/Season_of_Story/Map/10000.png)
++ 遊戲中可進行`耕地`的`地面`一共`1172塊`，全部分佈在[大雄牧場](../doraemon-story-map-10000-Nobita-Farm)內。
++ 其中以[青青廣場](../doraemon-story-map-11500-harappa-square)與[樵之森](../doraemon-story-map-10600-lumberjack-forest)的聯絡道為界分為兩個主要耕作區：
+    + `第一區`位於聯絡道以北，東西向`40`個單位，南北向`20`個單位，`地面`共`800塊`。
+    + `第二區`位於聯絡道以南，東西向`20`個單位，南北向`15`個單位，`地面`共`300塊`。
++ 除此之外，當 [溫室建造完成](../doraemon-story-1/#溫室建造)後，室內還有東西向`9`個單位，南北向`8`個單位，共`72塊`的`地面`。
+
+## 分類索引
 <table>
     <thead>
         <tr>
@@ -53,16 +67,3 @@ libraries:
         <td></td>
     </tr>
 </table>
-
-## 耕地
-+ `耕地`是將[平坦地面](../doraemon-story-mod-ground/#地面界面)變成[耕作地面](../doraemon-story-mod-ground/#耕作地面)的動作，為`耕作`過程的`第一步`。
-    + 若地面為[雜草地面](../doraemon-story-mod-ground/#雜草地面)或[障礙地面](../doraemon-story-mod-ground/#障礙地面)，則必須先進行[整地](../doraemon-story-ground/#整地)。
-+ `耕地`時需使用[鋤頭](../doraemon-story-tool-hoe)。
-
-### 耕作區域
-![大雄牧場地區範圍](/images/post/Season_of_Story/Map/10000.png)
-+ 遊戲中可進行`耕地`的`地面`一共`1172塊`，全部分佈在[大雄牧場](../doraemon-story-map-10000-Nobita-Farm)內。
-+ 其中以[青青廣場](../doraemon-story-map-11500-harappa-square)與[樵之森](../doraemon-story-map-10600-lumberjack-forest)的聯絡道為界分為兩個主要耕作區：
-    + `第一區`位於聯絡道以北，東西向`40`個單位，南北向`20`個單位，`地面`共`800塊`。
-    + `第二區`位於聯絡道以南，東西向`20`個單位，南北向`15`個單位，`地面`共`300塊`。
-+ 除此之外，當 [溫室建造完成](../doraemon-story-1/#溫室建造)後，室內還有東西向`9`個單位，南北向`8`個單位，共`72塊`的`地面`。

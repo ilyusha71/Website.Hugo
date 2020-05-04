@@ -1390,3 +1390,19 @@ $$品質等級：N>1$$$$出貨價格（N）=無條件進位（出貨價格（N-1
         </tr>
     </tbody>
 </table>
+
+## 分類索引
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">出貨價格</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-shipping-prices-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000133.png">蟲類</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000190.png">魚類</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">作物</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-meals"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300901.png">料理</a></td>    
+        <td align="center"><a href="../doraemon-story-shipping-prices-produce"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3400111.png">農產品</a></td>     
+    </tr>
+</table>

@@ -21,40 +21,6 @@ libraries:
 ---
 <mark>最後更新：2020/05/04</mark>
 
-<table>
-    <thead>
-        <tr>
-            <td colspan="10">耕作</td>        
-        </tr>
-    </thead>
-    <tr>
-        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310000.png">耕地</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310010.png">播種</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part3"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310020.png">施肥</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part4"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310021.png">澆水</a></td>        
-        <td align="center"><a href="../doraemon-story-crop-part5"><img width="103px" src= "/images/post/Season_of_Story/Sprite/Crop_90120602.png">成長</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part6"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001030.png">收成收割</a></td>
-        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_bg_1230_020.png">溫室種植</a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="../doraemon-story-tool-hoe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
-        <td align="center" colspan="2"><a href="../doraemon-story-secret-gadget-farming/#超人手套"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1002130.png">超人手套</a></td>
-        <td align="center"><a href="../doraemon-story-tool-watering-can"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>
-        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#瞬間成長劑"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104080.png">瞬間成長劑</a></td>
-        <td align="center"><a href="../doraemon-story-tool-scythe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>
-        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#季節罐頭"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">季節罐頭</a></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000501.png">作物種子</a></td>
-        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">肥料</a></td>
-        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#迷你雨雲"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7063010.png">迷你雨雲</a></td>
-        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
-        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
-        <td></td>
-    </tr>
-</table>
-
 ## 超人手套
 <table>
     <thead>
@@ -71,7 +37,7 @@ libraries:
 + `超人手套`會在[鎮長第2話 獎勵事件：獲得超人手套](../doraemon-story-09/#獲得超人手套)結束後，由`亞緬`交給`大雄`。
 + `超人手套`可以為[播種](../doraemon-story-crop-part2)與[施肥](../doraemon-story-crop-part3)提供[蓄力](../doraemon-story-secret-gadget-farming/#超人手套的蓄力效果)。
 
-#### 超人手套的蓄力效果
+### 超人手套的蓄力效果
 + `超人手套`的蓄力效果分為`三段`。
 + `蓄力段數`會隨著蓄力持續的時間提升。
 + `蓄力段數`越高消耗的體力越多（進行[施肥](../doraemon-story-crop-part3)不會消耗體力），但[播種](../doraemon-story-crop-part2)與[施肥](../doraemon-story-crop-part3)的範圍也越大。
@@ -154,3 +120,38 @@ libraries:
     + 具體效益可以透過下列公式算出`瞬間成長劑`的`收益比`，比值越高效益越高，建議使用在`收益比`大於`2`的作物上。
 
 $$收益比=\dfrac{收成天數}{成長階數}$$
+
+## 分類索引
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">耕作</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310000.png">耕地</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310010.png">播種</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310020.png">施肥</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part4"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310021.png">澆水</a></td>        
+        <td align="center"><a href="../doraemon-story-crop-part5"><img width="103px" src= "/images/post/Season_of_Story/Sprite/Crop_90120602.png">成長</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part6"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001030.png">收成收割</a></td>
+        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_bg_1230_020.png">溫室種植</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="../doraemon-story-tool-hoe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
+        <td align="center" colspan="2"><a href="../doraemon-story-secret-gadget-farming/#超人手套"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1002130.png">超人手套</a></td>
+        <td align="center"><a href="../doraemon-story-tool-watering-can"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#瞬間成長劑"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104080.png">瞬間成長劑</a></td>
+        <td align="center"><a href="../doraemon-story-tool-scythe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#季節罐頭"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">季節罐頭</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000501.png">作物種子</a></td>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">肥料</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#迷你雨雲"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7063010.png">迷你雨雲</a></td>
+        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td></td>
+    </tr>
+</table>

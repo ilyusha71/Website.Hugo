@@ -18,22 +18,6 @@ image: images/post/Season_of_Story/Sprite/icon_1001050.png
 ---
 <mark>最後更新：2020/05/03</mark>
 
-<table>
-    <thead>
-        <tr>
-            <td colspan="10">挖礦</td>
-        </tr>
-    </thead>
-    <tr>
-        <td align="center"><a href="../doraemon-story-live-mining/#採礦場"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001050.png">採礦場</a></td>
-        <td align="center"><a href="../doraemon-story-live-mining/#礦層"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310104.png">礦層</a></td>
-        <td align="center"><a href="../doraemon-story-live-mining/#礦床"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310102.png">礦床</a></td>
-        <td align="center"><a href="../doraemon-story-live-mining-mine-item"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310103.png">礦物分佈</a></td>        
-        <td align="center"><a href="../doraemon-story-shipping-mine"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_4001007.png">出售價格</a></td>
-        <td align="center"><a href="../doraemon-story-tool-pick"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001055.png">十字鎬</a></td>
-    </tr>
-</table>
-
 ## 採礦場
 + 遊戲中`挖礦`的區域只能在`採礦場`。
 + `採礦場`的入口位於[嘩嘩瀑布](../doraemon-story-map-10300-Swoosh-Falls)東側的洞口。
@@ -320,5 +304,22 @@ image: images/post/Season_of_Story/Sprite/icon_1001050.png
         <td align="center">3點</td>
         <td align="center">1次</td>
         <td align="center">1點</td>
+    </tr>
+</table>
+
+## 分類索引
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">挖礦</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-live-mining/#採礦場"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001050.png">採礦場</a></td>
+        <td align="center"><a href="../doraemon-story-live-mining/#礦層"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310104.png">礦層</a></td>
+        <td align="center"><a href="../doraemon-story-live-mining/#礦床"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310102.png">礦床</a></td>
+        <td align="center"><a href="../doraemon-story-live-mining-mine-item"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310103.png">礦物分佈</a></td>        
+        <td align="center"><a href="../doraemon-story-shipping-mine"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_4001007.png">出售價格</a></td>
+        <td align="center"><a href="../doraemon-story-tool-pick"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001055.png">十字鎬</a></td>
     </tr>
 </table>

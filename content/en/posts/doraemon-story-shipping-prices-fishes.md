@@ -9,8 +9,8 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
-- 釣魚
 - 出貨價格
+- 釣魚
 series:
 - 哆啦A夢牧場物語
 categories:
@@ -20,24 +20,6 @@ libraries:
 - katex
 ---
 <mark>最後更新：2020/04/27</mark>
-
-<table>
-    <thead>
-        <tr>
-            <td colspan="10">釣魚</td>        
-        </tr>
-    </thead>
-    <tr>        
-        <td align="center"><a href="../doraemon-story-live-fishing"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001060.png">釣魚資訊</a></td>
-        <td align="center"><a href="../doraemon-story-tool-rod"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001065.png">釣竿</a></td>
-        <td align="center"><a href="../doraemon-story-tool-land-fishing-rod"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001066.png">地底釣竿</a></td>
-        <td align="center"><a href="../doraemon-story-size-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">尺寸大小</a></td>
-        <td align="center"><a href="../doraemon-story-shipping-prices-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000190.png">出貨價格</a></td>
-        <td align="center"><a href="../doraemon-story-shop-21300-sandy-tackle-shop/#魚拓"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_goods_21330.png">魚拓</a></td>
-        <td align="center"><a href="../#魚料理"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300169.png">魚料理</a></td>
-        <td align="center"><a href="../doraemon-story-interior-decorations-3/#標本"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7026010.png">魚標本</a></td>
-    </tr>
-</table>
 
 ## 出貨價格
 + [物品出貨價格索引](../doraemon-story-index/#物品出貨價格索引)
@@ -732,4 +714,38 @@ $$品質等級：N>1$$$$出貨價格（N）=無條件進位（出貨價格（N-1
             <td align="center">66</td>
         </tr>
     </tbody>
+</table>
+
+## 分類索引
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">出貨價格</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-shipping-prices-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000133.png">蟲類</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000190.png">魚類</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">作物</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-meals"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300901.png">料理</a></td>    
+        <td align="center"><a href="../doraemon-story-shipping-prices-produce"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3400111.png">農產品</a></td>     
+    </tr>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">釣魚</td>        
+        </tr>
+    </thead>
+    <tr>        
+        <td align="center"><a href="../doraemon-story-live-fishing"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001060.png">釣魚資訊</a></td>
+        <td align="center"><a href="../doraemon-story-tool-rod"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001065.png">釣竿</a></td>
+        <td align="center"><a href="../doraemon-story-tool-land-fishing-rod"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001066.png">地底釣竿</a></td>
+        <td align="center"><a href="../doraemon-story-size-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">尺寸大小</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000190.png">出貨價格</a></td>
+        <td align="center"><a href="../doraemon-story-shop-21300-sandy-tackle-shop/#魚拓"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_goods_21330.png">魚拓</a></td>
+        <td align="center"><a href="../#魚料理"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300169.png">魚料理</a></td>
+        <td align="center"><a href="../doraemon-story-interior-decorations-3/#標本"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7026010.png">魚標本</a></td>
+    </tr>
 </table>

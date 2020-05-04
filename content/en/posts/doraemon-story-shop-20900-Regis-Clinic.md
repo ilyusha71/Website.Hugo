@@ -9,13 +9,13 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
+- 商店
 - 飲料
 - MOD
 series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-- 商店
 image: images/post/Season_of_Story/Building/20900.png
 ---
 <mark>最後更新：2020/04/27</mark>

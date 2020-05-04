@@ -9,14 +9,14 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
-- MOD
+- 商店
 - 工具
 - 機器
+- MOD
 series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-- 商店
 image: images/post/Season_of_Story/Building/21100.png
 ---
 <mark>最後更新：2020/04/20</mark>

@@ -9,6 +9,8 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
+- 畜牧
+- 農產品
 - 作物
 series:
 - 哆啦A夢牧場物語

@@ -9,6 +9,8 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
+- 商店
+- 耕作
 - 作物
 - 工具
 - MOD
@@ -16,10 +18,9 @@ series:
 - 哆啦A夢牧場物語
 categories:
 - 哆啦A夢
-- 商店
 image: images/post/Season_of_Story/Building/20700.png
 ---
-<mark>最後更新：2020/04/27</mark>
+<mark>最後更新：2020/05/04</mark>
 
 ## 雜貨店 小玩意兒
 + General Store / Knick Knacks GenStore
@@ -896,3 +897,81 @@ image: images/post/Season_of_Story/Building/20700.png
     + [工具](../doraemon-story-shop-20700-knick-knacks-general-store/#工具)
     + [背包](../doraemon-story-shop-20700-knick-knacks-general-store/#背包)
     + [DLC](../doraemon-story-shop-20700-knick-knacks-general-store/#dlc)
+
+## 分類索引
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">耕作</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310000.png">耕地</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310010.png">播種</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310020.png">施肥</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part4"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310021.png">澆水</a></td>        
+        <td align="center"><a href="../doraemon-story-crop-part5"><img width="103px" src= "/images/post/Season_of_Story/Sprite/Crop_90120602.png">成長</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part6"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001030.png">收成收割</a></td>
+        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_bg_1230_020.png">溫室種植</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="../doraemon-story-tool-hoe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
+        <td align="center" colspan="2"><a href="../doraemon-story-secret-gadget-farming/#超人手套"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1002130.png">超人手套</a></td>
+        <td align="center"><a href="../doraemon-story-tool-watering-can"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#瞬間成長劑"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104080.png">瞬間成長劑</a></td>
+        <td align="center"><a href="../doraemon-story-tool-scythe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#季節罐頭"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">季節罐頭</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000501.png">作物種子</a></td>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">肥料</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#迷你雨雲"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7063010.png">迷你雨雲</a></td>
+        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td></td>
+    </tr>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <td colspan="8">工具</td>
+            <td colspan="3">升級與販售商店</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-tool-hoe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
+        <td align="center"><a href="../doraemon-story-tool-hammer"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001015.png">槌子</a></td>
+        <td align="center"><a href="../doraemon-story-tool-watering-can"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>
+        <td align="center"><a href="../doraemon-story-tool-scythe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>        
+        <td align="center"><a href="../doraemon-story-tool-axe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001045.png">斧頭</a></td>
+        <td align="center"><a href="../doraemon-story-tool-pick"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001055.png">十字鎬</a></td>
+        <td align="center"><a href="../doraemon-story-tool-rod"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001065.png">釣竿</a></td>
+        <td align="center"></td>
+        <td align="center"><a href="../doraemon-story-shop-21100-anvil-blacksmith-shop/#升級工具"><img width="64px" src= "/images/post/Season_of_Story/Building/21100.png">打鐵店</a></td>
+        <td align="center"></td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="../doraemon-story-tool-livestock#刷子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001110.png">刷子</a></td>
+        <td align="center"><a href="../doraemon-story-tool-livestock#擠乳器"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001120.png">擠乳器</a></td>
+        <td align="center"><a href="../doraemon-story-tool-livestock#剃毛刀"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001130.png">剃毛刀</a></td>
+        <td align="center"><a href="../"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001140.png">捕蟲網</a></td>
+        <td align="center"><a href="../doraemon-story-tool-livestock/#牛鈴的功能"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001150.png">牛鈴</a></td>
+        <td align="center"><a href="../doraemon-story-tool-livestock/#羊鈴的功能"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001151.png">羊鈴</a></td>
+        <td align="center"><a href="../doraemon-story-tool-livestock/#雞鈴的功能"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001152.png">雞鈴</a></td>
+        <td align="center"><a href="../doraemon-story-tool-livestock/#引導鈴的功能"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001153.png">引導鈴</a></td>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#工具"><img width="64px" src= "/images/post/Season_of_Story/Building/20700.png">雜貨店</a></td>
+        <td align="center"><a href="../doraemon-story-shop-20500-gouter-mawk-livestock/#工具"><img width="64px" src= "/images/post/Season_of_Story/Building/20500.png">動物商店</a></td>
+        <td align="center"><a href="../doraemon-story-shop-20200-cuckoo-house-chickens/#工具"><img width="64px" src= "/images/post/Season_of_Story/Building/20200.png">小雞商店</a></td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2"><a href="../doraemon-story-tool-land-fishing-rod"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001066.png">地底釣竿</a></td>
+        <td align="center" colspan="2"><a href="../doraemon-story-tool-secret-gadget/#尋人手杖"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1002030.png">尋人手杖</a></td>
+        <td align="center" colspan="2"><a href="../doraemon-story-tool-secret-gadget/#人類火車套裝組"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1002010.png">人類火車套裝組</a></td>
+        <td align="center" colspan="2"><a href="../doraemon-story-tool-secret-gadget/#石頭帽"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1002100.png">石頭帽</a></td>
+        <td align="center" colspan="2"><a href="../doraemon-story-shop-21400-koropokkur-shop/#秘密道具"><img width="64px" src= "/images/post/Season_of_Story/Building/10500-21400.png">克魯波克魯小店</a></td>
+        <td align="center"></td>
+    </tr>
+</table>

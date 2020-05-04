@@ -14,7 +14,78 @@ categories:
 - 哆啦A夢
 image: images/post/Season_of_Story/Sprite/icon_301010600.png
 ---
-<mark>最後更新：2020/05/03</mark>
+<mark>最後更新：2020/05/05</mark>
+
+## 耕作
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">耕作</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310000.png">耕地</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310010.png">播種</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part3"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310020.png">施肥</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part4"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310021.png">澆水</a></td>        
+        <td align="center"><a href="../doraemon-story-crop-part5"><img width="103px" src= "/images/post/Season_of_Story/Sprite/Crop_90120602.png">成長</a></td>
+        <td align="center"><a href="../doraemon-story-crop-part6"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001030.png">收成收割</a></td>
+        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_bg_1230_020.png">溫室種植</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="../doraemon-story-tool-hoe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
+        <td align="center" colspan="2"><a href="../doraemon-story-secret-gadget-farming/#超人手套"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1002130.png">超人手套</a></td>
+        <td align="center"><a href="../doraemon-story-tool-watering-can"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#瞬間成長劑"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104080.png">瞬間成長劑</a></td>
+        <td align="center"><a href="../doraemon-story-tool-scythe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#季節罐頭"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">季節罐頭</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000501.png">作物種子</a></td>
+        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">肥料</a></td>
+        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#迷你雨雲"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7063010.png">迷你雨雲</a></td>
+        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
+        <td></td>
+    </tr>
+</table>
+
+## 釣魚
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">釣魚</td>        
+        </tr>
+    </thead>
+    <tr>        
+        <td align="center"><a href="../doraemon-story-live-fishing"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001060.png">釣魚資訊</a></td>
+        <td align="center"><a href="../doraemon-story-tool-rod"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001065.png">釣竿</a></td>
+        <td align="center"><a href="../doraemon-story-tool-land-fishing-rod"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001066.png">地底釣竿</a></td>
+        <td align="center"><a href="../doraemon-story-size-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">尺寸大小</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000190.png">出貨價格</a></td>
+        <td align="center"><a href="../doraemon-story-shop-21300-sandy-tackle-shop/#魚拓"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_goods_21330.png">魚拓</a></td>
+        <td align="center"><a href="../#魚料理"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300169.png">魚料理</a></td>
+        <td align="center"><a href="../doraemon-story-interior-decorations-3/#標本"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7026010.png">魚標本</a></td>
+    </tr>
+</table>
+
+## 挖礦
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">挖礦</td>
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-live-mining/#採礦場"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001050.png">採礦場</a></td>
+        <td align="center"><a href="../doraemon-story-live-mining/#礦層"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310104.png">礦層</a></td>
+        <td align="center"><a href="../doraemon-story-live-mining/#礦床"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310102.png">礦床</a></td>
+        <td align="center"><a href="../doraemon-story-live-mining-mine-item"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310103.png">礦物分佈</a></td>        
+        <td align="center"><a href="../doraemon-story-shipping-mine"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_4001007.png">出售價格</a></td>
+        <td align="center"><a href="../doraemon-story-tool-pick"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001055.png">十字鎬</a></td>
+    </tr>
+</table>
 
 ## 工具
 <table>
@@ -57,6 +128,35 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
         <td align="center" colspan="2"><a href="../doraemon-story-tool-secret-gadget/#石頭帽"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1002100.png">石頭帽</a></td>
         <td align="center" colspan="2"><a href="../doraemon-story-shop-21400-koropokkur-shop/#秘密道具"><img width="64px" src= "/images/post/Season_of_Story/Building/10500-21400.png">克魯波克魯小店</a></td>
         <td align="center"></td>
+    </tr>
+</table>
+
+## 出貨價格
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">出貨價格</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-shipping-prices-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000133.png">蟲類</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000190.png">魚類</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">作物</a></td>
+        <td align="center"><a href="../doraemon-story-shipping-prices-meals"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300901.png">料理</a></td>    
+        <td align="center"><a href="../doraemon-story-shipping-prices-produce"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3400111.png">農產品</a></td>     
+    </tr>
+</table>
+
+## 尺寸大小
+<table>
+    <thead>
+        <tr>
+            <td colspan="10">尺寸大小</td>        
+        </tr>
+    </thead>
+    <tr>
+        <td align="center"><a href="../doraemon-story-size-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000159.png">蟲類</a></td>    
+        <td align="center"><a href="../doraemon-story-size-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">魚類</a></td> 
     </tr>
 </table>
 
@@ -353,19 +453,6 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
     </tr>
 </table>
 
-## 物種尺寸大小索引
-<table>
-    <thead>
-        <tr>
-            <td colspan="10">物種尺寸大小索引</td>        
-        </tr>
-    </thead>
-    <tr>
-        <td align="center"><a href="../doraemon-story-size-bugs"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_6000159.png">蟲類</a></td>    
-        <td align="center"><a href="../doraemon-story-size-fishes"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_5000187.png">魚類</a></td> 
-    </tr>
-</table>
-
 ## 物品出貨價格索引
 <table>
     <thead>
@@ -413,7 +500,7 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
 <table>
     <thead>
         <tr>
-            <td colspan="10">捕蟲系統與蟲類圖鑑</td>        
+            <td colspan="10">捕蟲</td>        
         </tr>
     </thead>
     <tr>        
@@ -439,41 +526,6 @@ image: images/post/Season_of_Story/Sprite/icon_301010600.png
         <td align="center"><a href="../doraemon-story-shop-21300-sandy-tackle-shop/#魚拓"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_goods_21330.png">魚拓</a></td>
         <td align="center"><a href="../#魚料理"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3300169.png">魚料理</a></td>
         <td align="center"><a href="../doraemon-story-interior-decorations-3/#標本"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7026010.png">魚標本</a></td>
-    </tr>
-</table>
-
-## 耕作與作物
-<table>
-    <thead>
-        <tr>
-            <td colspan="10">耕作</td>        
-        </tr>
-    </thead>
-    <tr>
-        <td align="center"><a href="../doraemon-story-crop-part1"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310000.png">耕地</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part2"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310010.png">播種</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part3"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310020.png">施肥</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part4"><img width="64px" src= "/images/post/Season_of_Story/Sprite/ground_90310021.png">澆水</a></td>        
-        <td align="center"><a href="../doraemon-story-crop-part5"><img width="103px" src= "/images/post/Season_of_Story/Sprite/Crop_90120602.png">成長</a></td>
-        <td align="center"><a href="../doraemon-story-crop-part6"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001030.png">收成收割</a></td>
-        <td align="center"><a href="../#溫室種植"><img width="64px" src= "/images/post/Season_of_Story/Texture2D/tex_bg_1230_020.png">溫室種植</a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="../doraemon-story-tool-hoe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001005.png">鋤頭</a></td>
-        <td align="center" colspan="2"><a href="../doraemon-story-secret-gadget-farming/#超人手套"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1002130.png">超人手套</a></td>
-        <td align="center"><a href="../doraemon-story-tool-watering-can"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001025.png">澆水壺</a></td>
-        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#瞬間成長劑"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104080.png">瞬間成長劑</a></td>
-        <td align="center"><a href="../doraemon-story-tool-scythe"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1001035.png">鐮刀</a></td>
-        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#季節罐頭"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1104000.png">季節罐頭</a></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#作物種子"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_2000501.png">作物種子</a></td>
-        <td align="center"><a href="../doraemon-story-shop-20700-knick-knacks-general-store/#肥料"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_1103001.png">肥料</a></td>
-        <td align="center"><a href="../doraemon-story-secret-gadget-farming/#迷你雨雲"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_7063010.png">迷你雨雲</a></td>
-        <td align="center"><a href="../doraemon-story-crop-grow"><img width="113px" src= "/images/post/Season_of_Story/Sprite/Crop_90110405.png">成長資料</a></td>
-        <td align="center"><a href="../doraemon-story-shipping-prices-crops"><img width="64px" src= "/images/post/Season_of_Story/Sprite/icon_3000205.png">出貨價格</a></td>
-        <td></td>
     </tr>
 </table>
 
