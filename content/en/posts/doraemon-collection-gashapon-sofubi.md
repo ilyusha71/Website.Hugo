@@ -11,6 +11,7 @@ authorEmoji: 👩🏿‍🚀
 tags: 
 - 哆啦A夢商品目錄
 - Bandai
+- 扭蛋
 series:
 - 哆啦A夢商品
 categories:

@@ -77,17 +77,13 @@ image: images/post/Goods/2020_08_toranomon/toranomon_kv.jpg
 ![虎之門哆啦A夢樹脂模型](/images/post/Goods/2020_08_toranomon/toranomon_009.jpg)
 トラのもん レジンフィギュア
 ¥3,300（税込）
-W60×D62×H110mm
-
----
+W60×D62×H110+ `預訂中`
 
 #### 虎之門哆啦A夢吊鏈娃娃
 ![虎之門哆啦A夢吊鏈娃娃](/images/post/Goods/2020_08_toranomon/toranomon_003.jpg)
 トラのもん マスコット
 ￥1,650（税込）
-W75×D55×H100mm
-
----
+W75×D55×H100+ `預訂中`
 
 #### 虎之門哆啦A夢毛絨娃娃
 ![虎之門哆啦A夢毛絨娃娃](/images/post/Goods/2020_08_toranomon/toranomon_023.jpg)

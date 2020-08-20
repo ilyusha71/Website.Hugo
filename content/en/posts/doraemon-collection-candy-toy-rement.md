@@ -10,6 +10,9 @@ author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
 - 哆啦A夢商品目錄
+- Re-ment
+- 食玩
+- 盒玩
 series:
 - 哆啦A夢商品
 categories:
