@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢商品集 環保扭蛋"
+title: "哆啦A夢商品集 環保扭蛋系列"
 date: 2020-08-18T23:51:41+08:00
-description: "哆啦A夢商品集 環保扭蛋"
+description: "哆啦A夢商品集 環保扭蛋系列"
 draft: false
 hideToc: false
 enableToc: true
@@ -21,7 +21,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 <mark>最後更新：2020/09/14</mark>
 
 # 扭蛋
-## 環保扭蛋
+## 環保扭蛋系列
 ![環保扭蛋](/images/post/Goods/Gashapon/Capchara/capchara.png)
 [カプキャラとは？](https://www.bandai.co.jp/csrkids/ecomedal/pkg04.html)
 カプセルがおもちゃの一部になった「カプセルレス」商品です。ガシャポンから出てきたとは思えないほど、ボリューム感のあるおもちゃに組み立てられる、新しいガシャポンです。
@@ -43,12 +43,12 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 
 ![哆啦A夢環保扭蛋 第1彈](/images/post/Goods/Gashapon/Capchara/1000099434_0.jpg)
 
-### 藤子F不二雄角色環保扭蛋
-![藤子F不二雄角色環保扭蛋](/images/post/Goods/Gashapon/Capchara/1000105578_1.jpg)
-![藤子F不二雄角色環保扭蛋](/images/post/Goods/Gashapon/Capchara/1000105578_2.jpg)
-![藤子F不二雄角色環保扭蛋](/images/post/Goods/Gashapon/Capchara/1000105578_3.jpg)
-![藤子F不二雄角色環保扭蛋](/images/post/Goods/Gashapon/Capchara/1000105578_4.jpg)
-![藤子F不二雄角色環保扭蛋](/images/post/Goods/Gashapon/Capchara/1000105578_5.jpg)
+### 藤子F不二雄角色環保扭蛋 
+![藤子F不二雄角色環保扭蛋 ](/images/post/Goods/Gashapon/Capchara/1000105578_1.jpg)
+![藤子F不二雄角色環保扭蛋 ](/images/post/Goods/Gashapon/Capchara/1000105578_2.jpg)
+![藤子F不二雄角色環保扭蛋 ](/images/post/Goods/Gashapon/Capchara/1000105578_3.jpg)
+![藤子F不二雄角色環保扭蛋 ](/images/post/Goods/Gashapon/Capchara/1000105578_4.jpg)
+![藤子F不二雄角色環保扭蛋 ](/images/post/Goods/Gashapon/Capchara/1000105578_5.jpg)
 + 【Bandai】[カプキャラ藤子・F・不二雄キャラクターズ](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660067108000)
 + 【Gashpon】[カプキャラ藤子・F・不二雄キャラクターズ](https://gashapon.jp/products/detail.html?jan_code=4549660067108000)
 + カプセルがフィギュアに！「カプキャラ」シリーズ第2弾は藤子・F・不二雄キャラクターズ！顔形のカプセルと体等のパーツを組み立てると高さ約9cmの大きなフィギュアになるボリューム満点の仕様です。【ラインナップ】①コロ助　②ドラえもん　③チンプイ　④コピーロボット
@@ -58,7 +58,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 + 対象年齢 6歳以上
 + `2016-04-06` `露天` `轉蛋玩具館` `購入`
 
-![藤子F不二雄角色環保扭蛋](/images/post/Goods/Gashapon/Capchara/1000105578_0.jpg)
+![藤子F不二雄角色環保扭蛋 ](/images/post/Goods/Gashapon/Capchara/1000105578_0.jpg)
 
 ### 哆啦A夢環保扭蛋 第2彈
 ![哆啦A夢環保扭蛋 第2彈](/images/post/Goods/Gashapon/Capchara/1000118449_1.jpg)
@@ -170,7 +170,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 
 + `2018-02-10` `台北地下街` `---` `NTD 500` `購入`
 
-### 藤子博物館限定環保扭蛋 
+### 藤子博物館限定環保扭蛋
 ![藤子博物館限定環保扭蛋](/images/post/Goods/Gashapon/Capchara/i-img600x316-1578390446es71bu519244.jpg)
 [カプキャラ ドラえもん 藤子・F・不二雄ミュージアム限定ver](https://dora-world.com/contents/1033)
 ミュージアム限定カプキャラ（1回 ￥400）が、８周年記念祭に先駆け8月16日（金）より登場！！

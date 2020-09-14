@@ -1,5 +1,5 @@
 ---
-title: "哆啦A夢商品集 扭蛋"
+title: "哆啦A夢商品集 扭蛋索引"
 date: 2020-08-18T23:13:41+08:00
 description: "哆啦A夢商品集 軟膠系列扭蛋"
 draft: false
@@ -18,12 +18,10 @@ categories:
 - 哆啦A夢商品集
 image: images/post/Goods/Gashapon/1000067143_1.jpg
 ---
-<mark>最後更新：2020/08/18</mark>
+<mark>最後更新：2020/09/14</mark>
 
 # 扭蛋
 ## Bandai
-
-
 ### 哆啦A夢小火車
 ![哆啦A夢小火車](/images/post/Goods/Gashapon/1000073258_1.jpg)
 [キャラトレインシリーズ　ドラえもんトレイン](https://www.bandai.co.jp/catalog/item.php?jan_cd=4543112219022000)
@@ -92,7 +90,7 @@ image: images/post/Goods/Gashapon/1000067143_1.jpg
 
 ### 哆啦A夢桌上小物 第1彈
 ![哆啦A夢桌上小物 第1彈](/images/post/Goods/Gashapon/m80829903687_1.jpg)
-[ドラえもん　デスクトップアドベンチャー](#哆啦A夢桌上小物第1彈)
+[ドラえもん　デスクトップアドベンチャー](#哆啦a夢桌上小物第1彈)
 + `購入`
 
 ### 哆啦A夢桌上小物 第2彈
@@ -108,6 +106,11 @@ image: images/post/Goods/Gashapon/1000067143_1.jpg
 スモールライトでドラえもん達がちっちゃくなっちゃった！？ドラえもんたちが机の上で大冒険！机の上のものと組み合わせて遊ぶととっても楽しいマスコットフィギュアが登場！
 + `購入`
 
+### 哆啦A夢環保扭蛋 第1彈
+![哆啦A夢環保扭蛋 第1彈](/images/post/Goods/Gashapon/Capchara/1000099434_1.jpg)
+[哆啦A夢環保扭蛋 第1彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第1彈)
+2015年10月下旬
+
 ### 哆啦A夢桌上小物大收藏
 ![哆啦A夢桌上小物大收藏](/images/post/Goods/Gashapon/1000101343_1.jpg)
 ![哆啦A夢桌上小物大收藏](/images/post/Goods/Gashapon/1000101343_2.jpg)
@@ -121,24 +124,15 @@ image: images/post/Goods/Gashapon/1000067143_1.jpg
 あなたの机がハッピーになる！ドラえもんのデスクトップ新シリーズ登場！大人気のキャラクターはもちろん、ひみつ道具「どこでもドア」「ウソ800」をラインナップ！
 + `購入`
 
+### 藤子F不二雄角色環保扭蛋
+![藤子F不二雄角色環保扭蛋 ](/images/post/Goods/Gashapon/Capchara/1000105578_1.jpg)
+[藤子F不二雄角色環保扭蛋](../doraemon-collection-gashapon-capchara#藤子f不二雄角色環保扭蛋)
+2016年07月下旬
+
 ### 哆啦A夢造型夾 第1彈
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_1.jpg)
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_2.jpg)
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_3.jpg)
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_4.jpg)
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_5.jpg)
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_6.jpg)
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_7.jpg)
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_8.jpg)
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_9.jpg)
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_10.jpg)
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_11.jpg)
-![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/1000106859_12.jpg)
-[ドラえもん　はさむんです。](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660095941000)
-100円(税込)
-2016年9月中旬　発売
-新シリーズ「はさむんです。」より、第一弾「ドラえもん」が登場！メモや色々なところにはさんで遊べるクリップ仕様！たくさん集めたくなる全11種類！あつめれば集めるほど、デスクの上でドラえもんが遊んでいるように見える！
-+ `購入`
+![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/Clip/1000106859_1.jpg)
+[哆啦A夢造型夾 第1彈](../doraemon-collection-gashapon-clip#哆啦a夢造型夾-第1彈)
+2016年09月中旬
 
 ### 哆啦A夢悠閒時光
 ![哆啦A夢悠閒時光](/images/post/Goods/Gashapon/1000110763_1.jpg)
@@ -153,35 +147,82 @@ image: images/post/Goods/Gashapon/1000067143_1.jpg
 ドラえもんから、かわいいデスクトップマスコットが登場！付属の土管や雲と組み合わせて飾っちゃおう！
 + `購入`
 
-### 哆啦A夢造型夾 第2彈
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_1.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_2.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_3.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_4.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_5.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_6.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_7.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_8.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_9.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_10.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_11.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_12.jpg)
-![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/1000117598_13.jpg)
-[ドラえもん　はさむんです。2](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660179856000)
-100円(税込)
-2017年9月未定　発売
-はさむんです。ドラえもん　第２弾！今回はドラミちゃんやひみつ道具もラインナップした全１２種類！たくさん集めて、つなげ、はさんで楽しんでね☆
-+ `購入`
+### 藤子F不二雄角色造型夾
+![藤子F不二雄角色造型夾](/images/post/Goods/Gashapon/Clip/1000114476_1.jpg)
+[藤子F不二雄角色造型夾](../doraemon-collection-gashapon-clip#藤子f不二雄角色造型夾)
+2017年05月下旬
 
-### 哆啦A夢造型夾 豪華版
-![哆啦A夢造型夾 豪華版](/images/post/Goods/Gashapon/1000138786_1.jpg)
-![哆啦A夢造型夾 豪華版](/images/post/Goods/Gashapon/1000138786_2.jpg)
-![哆啦A夢造型夾 豪華版](/images/post/Goods/Gashapon/1000138786_3.jpg)
-![哆啦A夢造型夾 豪華版](/images/post/Goods/Gashapon/1000138786_4.jpg)
-![哆啦A夢造型夾 豪華版](/images/post/Goods/Gashapon/1000138786_5.jpg)
-![哆啦A夢造型夾 豪華版](/images/post/Goods/Gashapon/1000138786_6.jpg)
-[ドラえもん　はさむんです。でらっくす01](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660397199000)
-200円(税込)
-2019年9月未定　発売
-人気シリーズ「ドラえもん はさむんです。」がパワーアップしてリニューアル！1カプセルに2個入るようになったよ。ドラえもんとドラミちゃんをたくさん組み合わせて遊ぼう！
-+ `購入`
+### 哆啦A夢造型夾 第2彈
+![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/Clip/1000117598_1.jpg)
+[哆啦A夢造型夾 第2彈](../doraemon-collection-gashapon-clip#哆啦a夢造型夾-第2彈)
+2017年09月「第5週」
+
+### 哆啦A夢環保扭蛋 第2彈
+![哆啦A夢環保扭蛋 第2彈](/images/post/Goods/Gashapon/Capchara/1000118449_1.jpg)
+[哆啦A夢環保扭蛋 第2彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第2彈)
+2017年10月「第4週」
+
+### 哆啦A夢可動環保扭蛋
+![哆啦A夢可動環保扭蛋](/images/post/Goods/Gashapon/Capchara/1000127007_1.jpg)
+[哆啦A夢可動環保扭蛋](../doraemon-collection-gashapon-capchara#哆啦a夢可動環保扭蛋)
+2018年07月「第5週」
+
+### 哆啦A夢軟膠公仔 第1彈
+![哆啦A夢軟膠公仔 第1彈](/images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg)
+[哆啦A夢軟膠公仔 第1彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠公仔-第1彈)
+2018年11月「第5週」
+
+### 哆啦A夢環保扭蛋 第3彈
+![哆啦A夢環保扭蛋 第3彈](/images/post/Goods/Gashapon/Capchara/1000131318_1.jpg)
+[哆啦A夢環保扭蛋 第3彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第3彈)
+2018年12月「第5週」
+
+### 哆啦A夢道具收藏 第1彈
+![哆啦A夢道具收藏 第1彈](/images/post/Goods/Gashapon/Atsumete/1000132981_1.jpg)
+[哆啦A夢道具收藏 第1彈](../doraemon-collection-gashapon-atsumete-ippai#哆啦a夢道具收藏-第1彈)
+2019年02月「第3週」
+
+### 哆啦A夢軟膠公仔 第2彈
+![哆啦A夢軟膠公仔 第2彈](/images/post/Goods/Gashapon/Sofubi/1000134503_1.jpg)
+[哆啦A夢軟膠公仔 第2彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠公仔-第2彈)
+2019年04月「第1週」
+
+### 哆啦A夢環保扭蛋 第4彈
+![哆啦A夢環保扭蛋 第4彈](/images/post/Goods/Gashapon/Capchara/1000136855_1.jpg)
+[哆啦A夢環保扭蛋 第4彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第4彈)
+2019年07月「第4週」
+
+### 哆啦A夢軟膠公仔 第3彈
+![哆啦A夢軟膠公仔 第3彈](/images/post/Goods/Gashapon/Sofubi/1000137888_1.jpg)
+[哆啦A夢軟膠公仔 第3彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠公仔-第3彈)
+2019年08月「第1週」
+
+### 哆啦A夢造型夾 豪華版01
+![哆啦A夢造型夾 豪華版01](/images/post/Goods/Gashapon/Clip/1000138786_1.jpg)
+[哆啦A夢造型夾 豪華版01](../doraemon-collection-gashapon-clip#哆啦a夢造型夾-豪華版01)
+2019年09月「第1週」
+
+### 哆啦A夢環保扭蛋 第5彈
+![哆啦A夢環保扭蛋 第5彈](/images/post/Goods/Gashapon/Capchara/1000141230_1.jpg)
+[哆啦A夢環保扭蛋 第5彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第5彈)
+2019年12月「第2週」
+
+### 哆啦A夢道具收藏 第2彈
+![哆啦A夢道具收藏 第2彈](/images/post/Goods/Gashapon/Atsumete/1000142148_1.jpg)
+[哆啦A夢道具收藏 第2彈](../doraemon-collection-gashapon-atsumete-ippai#哆啦a夢道具收藏-第2彈)
+2020年01月「第3週」
+
+### 哆啦A夢軟膠公仔 第4彈
+![哆啦A夢軟膠公仔 第4彈](/images/post/Goods/Gashapon/Sofubi/1000146365_1.jpg)
+[哆啦A夢軟膠公仔 第4彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠公仔-第4彈)
+2020年06月「第5週」
+
+### 哆啦A夢環保扭蛋 第6彈
+![哆啦A夢環保扭蛋 第6彈](/images/post/Goods/Gashapon/Capchara/1000148615_1.jpg)
+[哆啦A夢環保扭蛋 第6彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第6彈)
+2020年08月「第2週」
+
+### 哆啦A夢軟膠公仔 第5彈
+![哆啦A夢軟膠公仔 第5彈](/images/post/Goods/Gashapon/Sofubi/22036261439479_579.jpg)
+[哆啦A夢軟膠公仔 第5彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠公仔-第5彈)
+2020年12月
