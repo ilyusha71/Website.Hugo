@@ -163,7 +163,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 ![哆啦A夢環保扭蛋 第6彈](/images/post/Goods/Gashapon/Capchara/1000148615_0.jpg)
 
 ### 哆啦A夢環保扭蛋 信件篇
-![哆啦A夢環保扭蛋 信件篇](/images/post/Goods/Gashapon/Capchara/81Zt5KzCUwL._SL1204_.jpg)
+![哆啦A夢環保扭蛋 信件篇](/images/post/Goods/Gashapon/Capchara/IMG_20200914_221303.jpg)
 カプキャラ　ドラえもん おたより編
 300円(税込)
 2018年1月
@@ -181,7 +181,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 + `2019-11-15` `蝦皮` `LY愛雅日貨` `NTD 250` `購入` `帕門`
 + `2019-11-15` `蝦皮` `LY愛雅日貨` `NTD 250` `購入` `叮噹貓`
 
-![藤子博物館限定環保扭蛋](/images/post/Goods/Gashapon/Capchara/dfsbfhkjsdhfnlkjsdhjflkd.jpg)
+![藤子博物館限定環保扭蛋](/images/post/Goods/Gashapon/Capchara/20200915002022.jpg)
 
 ### 藤子博物館限定環保扭蛋 第2彈
 ![藤子博物館限定環保扭蛋 第2彈](/images/post/Goods/2020_08_fujiko_museum/117931508_3223074387791703_4792916130528057922_o.jpg)
