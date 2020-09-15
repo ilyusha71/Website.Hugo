@@ -81,6 +81,6 @@ image: images/post/Goods/Gashapon/Desktop/m80829903687_1.jpg
 + 価格（税込） 300円
 + 種類数 5
 + 対象年齢 6歳以上
-+ `2020-08-25` `露天` `芃芃玩具` `NTD 299` `購入`
++ `購入`
 
 ![哆啦A夢桌上大收藏](/images/post/Goods/Gashapon/1000101343_0.jpg)
