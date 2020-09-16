@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢商品集 四次元百寶袋糖果盒"
+title: "哆啦A夢收藏集 四次元百寶袋糖果盒"
 date: 2020-08-20T03:19:56+08:00
-description: "哆啦A夢商品集 食玩"
+description: "哆啦A夢收藏集 食玩"
 draft: false
 hideToc: false
 enableToc: true
@@ -16,7 +16,7 @@ tags:
 series:
 - 哆啦A夢商品
 categories:
-- 哆啦A夢商品集
+- 哆啦A夢收藏集
 image: images/post/Goods/Candy_Toy/1000121290_6.jpg
 ---
 <mark>最後更新：2020/08/20</mark>

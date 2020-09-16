@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢商品集 秘密道具機關"
+title: "哆啦A夢收藏集 秘密道具機關"
 date: 2020-08-20T23:59:56+08:00
-description: "哆啦A夢商品集 秘密道具機關"
+description: "哆啦A夢收藏集 秘密道具機關"
 draft: false
 hideToc: false
 enableToc: true
@@ -15,7 +15,7 @@ tags:
 series:
 - 哆啦A夢商品
 categories:
-- 哆啦A夢商品集
+- 哆啦A夢收藏集
 image: images/post/Goods/Coroga_Switch/logo(1).png
 ---
 <mark>最後更新：2020/09/15</mark>
@@ -24,6 +24,7 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 ## 秘密道具機關軌道積木
 ![軌道積木](/images/post/Goods/Coroga_Switch/logo(1).png)
 [玩具教學](https://toy.bandai.co.jp/series/doraemon/corogaswitch/)
+台灣譯名為`哆啦A夢秘密道具軌道積木`，由Funbox麗嬰國際玩具代理。
 
 ### 哆啦A夢秘密道具機關 Wrap Kit
 #### 任意門組
@@ -46,17 +47,18 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 
 （本商品に付属するもの以外すべて別売りです。）
 
++ 【哆啦A夢中文網】[[日本] 用遊戲學邏輯思考! BANDAI「Coroga Switch 哆啦A夢」程式設計模擬套裝6月上市](https://chinesedora.com/news/10803.htm)
 + `2019-07-30` `Yahoo!超級商城` `5樓玩具` `NTD 1596` `購入`
 
 ##### 秘密道具機關
-+ ひみつ道具スイッチ
++ ひみつ道具スイッチ（`5`種 計`5`pcs）
     + どこでもドア              `x1` 任意門 <mark>NEW</mark>
     + タケコプター              `x1` 竹蜻蜓 <mark>NEW</mark>
     + タイムトンネル            `x1` 時光隧道 <mark>NEW</mark>
     + もぐら手袋                `x1` 鼬鼠手套 <mark>NEW</mark>
     + エスパー帽子              `x1` 超能力帽 <mark>NEW</mark>
 ##### 基本組件
-+ その他パーツ
++ その他パーツ（`12`種 計`64`pcs）
     + ブロック                  `x24` 基本塊
     + ハーフブロック            `x8` 半高塊
     + トールブロック            `x8` 高滑塊
@@ -81,6 +83,7 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 + 【Bandai Toys】[ころがスイッチドラえもん ジャンプキット](https://toy.bandai.co.jp/series/doraemon/item/detail/11075/)
 + 価格：6,578円（税込）
 + 発売日：2019年06月29日
+
 『ドラえもん』より、
 「ころがスイッチドラえもん ジャンプキット」が登場！
 
@@ -90,17 +93,18 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 
 （本商品に付属するもの以外すべて別売りです。）
 
++ 【哆啦A夢中文網】[[日本] 用遊戲學邏輯思考! BANDAI「Coroga Switch 哆啦A夢」程式設計模擬套裝6月上市](https://chinesedora.com/news/10803.htm)
 + `2019-07-30` `Yahoo!超級商城` `5樓玩具` `NTD 1596` `購入`
 
 ##### 秘密道具機關
-+ ひみつ道具スイッチ
++ ひみつ道具スイッチ（`4`種 計`4`pcs）
     + 空気砲                    `x1` 空氣砲 <mark>NEW</mark>
     + ガリバートンネル          `x1` 格列佛隧道 <mark>NEW</mark>
     + バイバイン                `x1` 倍倍液 <mark>NEW</mark>
     + 時間ナガナガ光線          `x1` 時間延長光線 <mark>NEW</mark>
 
 ##### 基本組件
-+ その他パーツ
++ その他パーツ（`12`種 計`64`pcs）
     + ブロック                  `x24` 基本塊
     + ハーフブロック            `x8` 半高塊
     + トールブロック            `x8` 高滑塊
@@ -126,6 +130,7 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 + 価格：10,780円（税込）
 + 発売日：2019年10月26日
 + 対象年齢：3歳以上
+
 『ドラえもん』より、
 「ころがスイッチドラえもん デラックスキット」が登場！
 
@@ -139,6 +144,7 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 
 （本商品に付属するもの以外すべて別売りです。）
 
++ 【哆啦A夢中文網】[[日本] BANDAI「哆啦A夢秘密道具軌道積木」 最新「DX 組」將於10月上市](https://chinesedora.com/news/16593.htm)
 + `2019-12-26` `Funbox Toys` `NTD 2575` `購入`
 
 ##### 角色機關
@@ -146,7 +152,7 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
     + ジャイアンハンド          `x1` 胖虎拳頭 <mark>NEW</mark>
 
 ##### 秘密道具機關
-+ ひみつ道具スイッチ（`14`種 計`120`pcs）
++ ひみつ道具スイッチ（`7`種 計`8`pcs）
     + どこでもドア              `x1` 任意門 `Wrap Kit`
     + タイムトンネル            `x1` 時光隧道 `Wrap Kit`
     + エスパー帽子              `x1` 超能力帽 `Wrap Kit`
@@ -182,6 +188,7 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 + 価格：8,580円（税込）
 + 発売日：2020年07月11日
 + 対象年齢：3歳以上
+
 『ドラえもん』より、
 「ころがスイッチドラえもん ボックス ステージキット」が登場！
 
@@ -193,6 +200,7 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 
 （本商品に付属するもの以外すべて別売りです。）
 
++ 【哆啦A夢中文網】[[日本] BANDAI「哆啦A夢秘密道具軌道積木 Box Stage Kit」7月推出](https://chinesedora.com/news/21195.htm)
 + `2020-05-11` `LINE` `丸丸雜貨店` `NTD 2290` `購入`
 
 ##### 角色機關
@@ -222,11 +230,14 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
     + ドラえもんゴール          `x1` 哆啦A夢終點盤
     + ミニドラえもんゴール      `x1` 迷你哆啦A夢終點盤
 
-### 哆啦A夢秘密道具機關 高滑塊擴充組
-![哆啦A夢秘密道具機關 高滑塊擴充組](/images/post/Goods/Coroga_Switch/1000148772_1.jpg)
+### 哆啦A夢秘密道具機關 Tall Block Set
+#### 高滑塊擴充組
+![哆啦A夢秘密道具機關 Tall Block Set](/images/post/Goods/Coroga_Switch/1000148772_1.jpg)
 + 【Bandai】[ころがスイッチ　トールブロックセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541684000)
++ 【Bandai Toys】[ころがスイッチ　トールブロックセット](https://toy.bandai.co.jp/item/detail/11590/)
 + 価格：880円（税込）
 + 発売日：2020年09月19日
++ 対象年齢：3歳以上
 
 ［セット内容］
 ・トールブロック…８
@@ -236,11 +247,18 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 
 ころがスイッチシリーズのコースを高くすることができます。
 
-### 哆啦A夢秘密道具機關 基本塊擴充組
-![哆啦A夢秘密道具機關 基本塊擴充組](/images/post/Goods/Coroga_Switch/1000148771_1.jpg)
+##### 基本組件
++ その他パーツ（`1`種 計`8`pcs）
+    + トールブロック            `x8` 高滑塊（白色） <mark>NEW</mark>
+
+### 哆啦A夢秘密道具機關 Block Set
+#### 基本塊擴充組
+![哆啦A夢秘密道具機關 Block Set](/images/post/Goods/Coroga_Switch/1000148771_1.jpg)
 + 【Bandai】[ころがスイッチ　ブロックセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541660000)
++ 【Bandai Toys】[ころがスイッチ　ブロックセット](https://toy.bandai.co.jp/item/detail/11589/)
 + 価格：880円（税込）
 + 発売日：2020年09月19日
++ 対象年齢：3歳以上
 
 ［セット内容］
 ・ブロック…１６
@@ -250,11 +268,18 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 
 ころがスイッチシリーズのコースの高さを調整することができます。
 
-### 哆啦A夢秘密道具機關 黃球擴充組
-![哆啦A夢秘密道具機關 黃球擴充組](/images/post/Goods/Coroga_Switch/1000148770_1.jpg)
+##### 基本組件
++ その他パーツ（`1`種 計`16`pcs）
+    + ブロック                  `x16` 基本塊（白色） <mark>NEW</mark>
+
+### 哆啦A夢秘密道具機關 Ball Set
+#### 黃球擴充組
+![哆啦A夢秘密道具機關 Ball Set](/images/post/Goods/Coroga_Switch/1000148770_1.jpg)
 + 【Bandai】[ころがスイッチ　ボールセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541653000)
++ 【Bandai Toys】[ころがスイッチ　ボールセット](https://toy.bandai.co.jp/item/detail/11588/)
 + 価格：880円（税込）
 + 発売日：2020年09月19日
++ 対象年齢：3歳以上
 
 ［セット内容］
 ・ボール…６
@@ -262,11 +287,18 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 
 ころがスイッチシリーズ専用の「ころがスイッチ ボールセット」が登場！
 
-### 哆啦A夢秘密道具機關 軌道擴充組
-![哆啦A夢秘密道具機關 軌道擴充組](/images/post/Goods/Coroga_Switch/1000148773_1.jpg)
+##### 基本組件
++ その他パーツ（`1`種 計`6`pcs）
+    + ボール                    `x6` 黃球 <mark>NEW</mark>
+
+### 哆啦A夢秘密道具機關 Rail Set
+#### 軌道擴充組
+![哆啦A夢秘密道具機關 Rail Set](/images/post/Goods/Coroga_Switch/1000148773_1.jpg)
 + 【Bandai】[ころがスイッチ　レールセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541646000)
++ 【Bandai Toys】[ころがスイッチ　レールセット](https://toy.bandai.co.jp/item/detail/11587/)
 + 価格：880円（税込）
 + 発売日：2020年09月19日
++ 対象年齢：3歳以上
 
 ［セット内容］
 ・さかみちレール…４
@@ -278,6 +310,13 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 ころがスイッチシリーズ専用の「ころがスイッチ レールセット」が登場！
 
 ころがスイッチシリーズのコースを長くすることができます。
+
+##### 基本組件
++ その他パーツ（`13`種 計`74`pcs）
+    + さかみちレール            `x4` 斜滑軌（橙色） <mark>NEW</mark>
+    + カーブレール              `x4` 轉彎軌（橙色） <mark>NEW</mark>
+    + ストレートレール          `x3` 短滑軌（綠色） <mark>NEW</mark>
+    + レールロング              `x2` 長滑軌（綠色） <mark>NEW</mark>
 
 ### 哆啦A夢秘密道具機關 Volume Deluxe Kit
 ![哆啦A夢秘密道具機關 Volume Deluxe Kit](/images/post/Goods/Coroga_Switch/1000149326_1.jpg)

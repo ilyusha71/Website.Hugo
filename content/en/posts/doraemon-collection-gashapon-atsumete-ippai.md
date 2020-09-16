@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢商品集 道具收藏系列扭蛋"
+title: "哆啦A夢收藏集 道具收藏系列扭蛋"
 date: 2020-09-14T13:39:10+08:00
-description: "哆啦A夢商品集 道具收藏系列扭蛋"
+description: "哆啦A夢收藏集 道具收藏系列扭蛋"
 draft: false
 hideToc: false
 enableToc: true
@@ -15,13 +15,15 @@ tags:
 series:
 - 哆啦A夢商品
 categories:
-- 哆啦A夢商品集
+- 哆啦A夢收藏集
 image: images/post/Goods/Gashapon/Atsumete/1000132981_1.jpg
 ---
 <mark>最後更新：2020/09/14</mark>
 
 # 扭蛋
 ## 道具收藏系列
+[「哆啦A夢中文網」](https://chinesedora.com/)譯名為`哆啦A夢好多集合選`
+
 ### 哆啦A夢道具收藏 第1彈
 ![哆啦A夢道具收藏 第1彈](/images/post/Goods/Gashapon/Atsumete/1000132981_1.jpg)
 ![哆啦A夢道具收藏 第1彈](/images/post/Goods/Gashapon/Atsumete/1000132981_2.jpg)
@@ -36,6 +38,7 @@ image: images/post/Goods/Gashapon/Atsumete/1000132981_1.jpg
 + 価格（税込） 300円
 + 種類数 5
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] BANDAI新轉蛋「哆啦A夢好多集合選」，你能轉到哪種拿著不同道具的哆啦A夢?](https://chinesedora.com/news/8948.htm)
 + `2019-07-12` `蝦皮` `Liu 的雜貨舖` `NTD 369` `購入`
 
 ![哆啦A夢道具收藏 第1彈](/images/post/Goods/Gashapon/Atsumete/1000132981_0.jpg)
@@ -54,6 +57,7 @@ image: images/post/Goods/Gashapon/Atsumete/1000132981_1.jpg
 + 価格（税込） 300円
 + 種類数 5
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] BANDAI「哆啦A夢好多集合選 2」轉蛋即將上市！5種拿著秘密道具的哆啦A夢等你收集](https://chinesedora.com/news/17987.htm)
 + `2020-01-02` `LINE` `丸丸雜貨店` `NTD 360` `購入`
 
 ![哆啦A夢道具收藏 第2彈](/images/post/Goods/Gashapon/Atsumete/1000142148_0.jpg)

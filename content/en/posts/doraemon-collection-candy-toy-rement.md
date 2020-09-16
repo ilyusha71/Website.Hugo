@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢商品集 Re-ment食玩"
+title: "哆啦A夢收藏集 Re-ment食玩"
 date: 2020-08-18T23:19:56+08:00
-description: "哆啦A夢商品集 Re-ment食玩"
+description: "哆啦A夢收藏集 Re-ment食玩"
 draft: false
 hideToc: false
 enableToc: true
@@ -16,7 +16,7 @@ tags:
 series:
 - 哆啦A夢商品
 categories:
-- 哆啦A夢商品集
+- 哆啦A夢收藏集
 image: images/post/Goods/Re-ment/988428254.jpg
 ---
 <mark>最後更新：2020/08/18</mark>

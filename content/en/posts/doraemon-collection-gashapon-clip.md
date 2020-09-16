@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢商品集 造型夾系列扭蛋"
+title: "哆啦A夢收藏集 造型夾系列扭蛋"
 date: 2020-09-14T12:09:10+08:00
-description: "哆啦A夢商品集 造型夾系列扭蛋"
+description: "哆啦A夢收藏集 造型夾系列扭蛋"
 draft: false
 hideToc: false
 enableToc: true
@@ -15,7 +15,7 @@ tags:
 series:
 - 哆啦A夢商品
 categories:
-- 哆啦A夢商品集
+- 哆啦A夢收藏集
 image: images/post/Goods/Gashapon/Clip/1000106859_1.jpg
 ---
 <mark>最後更新：2020/09/14</mark>
@@ -42,6 +42,7 @@ image: images/post/Goods/Gashapon/Clip/1000106859_1.jpg
 + 価格（税込） 100円
 + 種類数 11
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] 全新哆啦A夢食玩 藍黃紅3種哆啦A夢1次掌握!](https://chinesedora.com/news/5986.htm)
 + `2016-10-16` `露天` `儂儂轉蛋屋` `NTD 430` `購入`
 
 ![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/Clip/1000106859_0.jpg)
@@ -67,6 +68,7 @@ image: images/post/Goods/Gashapon/Clip/1000106859_1.jpg
 + 価格（税込） 100円
 + 種類数 12
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[台灣] 和哆啦A夢與其他藤子・F・不二雄筆下角色們一起快樂工作！](https://chinesedora.com/news/6594.htm)
 + `2020-09-04` `蝦皮` `周周GO玩具森林` `NTD 299` `購入`
 
 ![藤子F不二雄角色造型夾](/images/post/Goods/Gashapon/Clip/1000114476_0.jpg)
@@ -92,6 +94,7 @@ image: images/post/Goods/Gashapon/Clip/1000106859_1.jpg
 + 価格（税込） 100円
 + 種類数 12
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] 12款全新哆啦A夢轉蛋來囉! 這次有機會轉到甜美可愛的她](https://chinesedora.com/news/6859.htm)
 + `2018-12-06` `蝦皮` `wendy0309` `NTD 600` `購入` `多送一顆第1彈01款`
 
 ![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/Clip/1000117598_0.jpg)
@@ -110,6 +113,7 @@ image: images/post/Goods/Gashapon/Clip/1000106859_1.jpg
 + 価格（税込） 200円
 + 種類数 5
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] BANDAI「哆啦A夢造型夾子豪華版」 把可愛的哆啦A夢夾在文件或便利貼上吧](https://chinesedora.com/news/16532.htm)
 + `2019-09-17` `蝦皮` `Liu 的雜貨舖` `NTD 270` `購入`
 
 ![哆啦A夢造型夾 豪華版01](/images/post/Goods/Gashapon/Clip/1000138786_0.jpg)

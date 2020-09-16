@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢商品集 軟膠公仔系列扭蛋"
+title: "哆啦A夢收藏集 軟膠公仔系列扭蛋"
 date: 2020-08-18T23:50:41+08:00
-description: "哆啦A夢商品集 軟膠公仔系列扭蛋"
+description: "哆啦A夢收藏集 軟膠公仔系列扭蛋"
 draft: false
 hideToc: false
 enableToc: true
@@ -15,13 +15,15 @@ tags:
 series:
 - 哆啦A夢商品
 categories:
-- 哆啦A夢商品集
+- 哆啦A夢收藏集
 image: images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg
 ---
 <mark>最後更新：2020/09/14</mark>
 
 # 扭蛋
 ## 軟膠公仔系列
+[「哆啦A夢中文網」](https://chinesedora.com/)譯名為`哆啦A夢軟膠玩具選`
+
 ### 哆啦A夢軟膠公仔 第1彈
 ![哆啦A夢軟膠公仔 第1彈](/images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg)
 ![哆啦A夢軟膠公仔 第1彈](/images/post/Goods/Gashapon/Sofubi/1000130463_2.jpg)
@@ -36,6 +38,7 @@ image: images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg
 + 価格（税込） 300円
 + 種類数 4
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] 4種不同表情動作的哆啦A夢軟膠玩具扭蛋，11月即將上市！](https://chinesedora.com/news/8057.htm)
 + `2019-06-06` `露天` `222111oz` `NTD 570` `購入`
 
 ![哆啦A夢軟膠公仔 第1彈](/images/post/Goods/Gashapon/Sofubi/1000130463_0.jpg)
@@ -53,6 +56,7 @@ image: images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg
 + 価格（税込） 300円
 + 種類数 4
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] 「哆啦A夢軟膠玩具選 2」扭蛋 4月即將上市](https://chinesedora.com/news/10027.htm)
 + `2019-06-06` `露天` `222111oz` `NTD 340` `購入`
 
 ![哆啦A夢軟膠公仔 第2彈](/images/post/Goods/Gashapon/Sofubi/1000134503_0.jpg)
@@ -70,6 +74,7 @@ image: images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg
 + 価格（税込） 300円
 + 種類数 4
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] BANDAI「哆啦A夢軟膠玩具選3」8月登場! 首度推出哆啦美與元祖哆啦A夢造型](https://chinesedora.com/news/12143.htm)
 + `2019-09-17` `蝦皮` `Liu 的雜貨舖` `NTD 319` `購入`
 
 ![哆啦A夢軟膠公仔 第3彈](/images/post/Goods/Gashapon/Sofubi/1000137888_0.jpg)
@@ -88,6 +93,7 @@ image: images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg
 + 価格（税込） 300円
 + 種類数 4
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] BANDAI「哆啦A夢軟膠玩具選4」預計6月登場! 首度有迷你哆啦和冷門法寶現身](https://chinesedora.com/news/18446.htm)
 + `2020-02-01` `LINE` `丸丸雜貨店` `NTD 290` `購入`
 
 ![哆啦A夢軟膠公仔 第4彈](/images/post/Goods/Gashapon/Sofubi/1000146365_0.jpg)
@@ -96,4 +102,5 @@ image: images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg
 ![哆啦A夢軟膠公仔 第5彈](/images/post/Goods/Gashapon/Sofubi/22036261439479_579.jpg)
 + 【Bandai】[]()
 + 【Gashpon】[]()
++ 【哆啦A夢中文網】[]()
 + `2020-09-` `LINE` `丸丸雜貨店` `NTD ---` `預定中`

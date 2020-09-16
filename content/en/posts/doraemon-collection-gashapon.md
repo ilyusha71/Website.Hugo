@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢商品集 扭蛋索引"
+title: "哆啦A夢收藏集 扭蛋索引"
 date: 2020-08-18T23:13:41+08:00
-description: "哆啦A夢商品集 軟膠系列扭蛋"
+description: "哆啦A夢收藏集 軟膠系列扭蛋"
 draft: false
 hideToc: false
 enableToc: true
@@ -15,13 +15,13 @@ tags:
 series:
 - 哆啦A夢商品
 categories:
-- 哆啦A夢商品集
+- 哆啦A夢收藏集
 image: images/post/Goods/Gashapon/1000067143_1.jpg
 ---
 <mark>最後更新：2020/09/14</mark>
 
 # 扭蛋
-## Bandai
+## Bandai 早期
 ### 哆啦A夢小火車
 ![哆啦A夢小火車](/images/post/Goods/Gashapon/1000073258_1.jpg)
 [キャラトレインシリーズ　ドラえもんトレイン](https://www.bandai.co.jp/catalog/item.php?jan_cd=4543112219022000)
@@ -88,41 +88,32 @@ image: images/post/Goods/Gashapon/1000067143_1.jpg
 カプセル自販機商品、全５種、1カプセル1個入り。
 + `購入`
 
-### 哆啦A夢桌上小物 第1彈
-![哆啦A夢桌上小物 第1彈](/images/post/Goods/Gashapon/m80829903687_1.jpg)
-[ドラえもん　デスクトップアドベンチャー](#哆啦a夢桌上小物第1彈)
-+ `購入`
+## Bandai 2010年後
 
-### 哆啦A夢桌上小物 第2彈
-![哆啦A夢桌上小物 第2彈](/images/post/Goods/Gashapon/1000091012_1.jpg)
-![哆啦A夢桌上小物 第2彈](/images/post/Goods/Gashapon/1000091012_2.jpg)
-![哆啦A夢桌上小物 第2彈](/images/post/Goods/Gashapon/1000091012_3.jpg)
-![哆啦A夢桌上小物 第2彈](/images/post/Goods/Gashapon/1000091012_4.jpg)
-![哆啦A夢桌上小物 第2彈](/images/post/Goods/Gashapon/1000091012_5.jpg)
-![哆啦A夢桌上小物 第2彈](/images/post/Goods/Gashapon/1000091012_6.jpg)
-[ドラえもん　デスクトップアドベンチャー2](https://www.bandai.co.jp/catalog/item.php?jan_cd=4543112900395000)
-200円(税込)
-2014年8月上旬　発売
-スモールライトでドラえもん達がちっちゃくなっちゃった！？ドラえもんたちが机の上で大冒険！机の上のものと組み合わせて遊ぶととっても楽しいマスコットフィギュアが登場！
-+ `購入`
+### 哆啦A夢桌上大冒險 第1彈
+![哆啦A夢桌上大冒險 第1彈](/images/post/Goods/Gashapon/Desktop/m80829903687_1.jpg)
+[哆啦A夢桌上大冒險 第1彈](../doraemon-collection-gashapon-desktop-adventure#哆啦a夢桌上大冒險-第1彈)
+2014年1月
+
+### 哆啦A夢桌上大冒險 第2彈
+![哆啦A夢桌上大冒險 第2彈](/images/post/Goods/Gashapon/Desktop/1000091012_1.jpg)
+[哆啦A夢桌上大冒險 第2彈](../doraemon-collection-gashapon-desktop-adventure#哆啦a夢桌上大冒險-第2彈)
+2014年08月上旬
+
+### 藤子F不二雄桌上公仔
+![藤子F不二雄桌上公仔](/images/post/Goods/Gashapon/Desktop/1000095400_1.jpg)
+[藤子F不二雄桌上公仔](../doraemon-collection-gashapon-desktop-adventure#藤子f不二雄桌上公仔)
+2015年01月下旬
 
 ### 哆啦A夢環保扭蛋 第1彈
 ![哆啦A夢環保扭蛋 第1彈](/images/post/Goods/Gashapon/Capchara/1000099434_1.jpg)
 [哆啦A夢環保扭蛋 第1彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第1彈)
 2015年10月下旬
 
-### 哆啦A夢桌上小物大收藏
-![哆啦A夢桌上小物大收藏](/images/post/Goods/Gashapon/1000101343_1.jpg)
-![哆啦A夢桌上小物大收藏](/images/post/Goods/Gashapon/1000101343_2.jpg)
-![哆啦A夢桌上小物大收藏](/images/post/Goods/Gashapon/1000101343_3.jpg)
-![哆啦A夢桌上小物大收藏](/images/post/Goods/Gashapon/1000101343_4.jpg)
-![哆啦A夢桌上小物大收藏](/images/post/Goods/Gashapon/1000101343_5.jpg)
-![哆啦A夢桌上小物大收藏](/images/post/Goods/Gashapon/1000101343_6.jpg)
-[ドラえもん ハッピーデスクトップコレクション](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660028536000)
-300円(税込)
-2015年12月上旬　発売
-あなたの机がハッピーになる！ドラえもんのデスクトップ新シリーズ登場！大人気のキャラクターはもちろん、ひみつ道具「どこでもドア」「ウソ800」をラインナップ！
-+ `購入`
+### 哆啦A夢桌上大收藏
+![哆啦A夢桌上大收藏](/images/post/Goods/Gashapon/1000101343_1.jpg)
+[哆啦A夢桌上大收藏](../doraemon-collection-gashapon-desktop-adventure#哆啦a夢桌上大收藏)
+2015年12月上旬
 
 ### 藤子F不二雄角色環保扭蛋
 ![藤子F不二雄角色環保扭蛋 ](/images/post/Goods/Gashapon/Capchara/1000105578_1.jpg)
@@ -145,7 +136,9 @@ image: images/post/Goods/Gashapon/1000067143_1.jpg
 300円(税込)
 2016年12月中旬　発売
 ドラえもんから、かわいいデスクトップマスコットが登場！付属の土管や雲と組み合わせて飾っちゃおう！
-+ `購入`
+
++ 【哆啦A夢中文網】[[日本] 在水泥管上或坐或臥怡然自得! 全新哆啦A夢扭蛋登場](https://chinesedora.com/news/6113.htm)
++ `2016-12-08` `露天` `瑞瑟可` `購入`
 
 ### 藤子F不二雄角色造型夾
 ![藤子F不二雄角色造型夾](/images/post/Goods/Gashapon/Clip/1000114476_1.jpg)

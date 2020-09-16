@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢商品集 桌上系列扭蛋"
+title: "哆啦A夢收藏集 桌上系列扭蛋"
 date: 2020-09-14T15:49:10+08:00
-description: "哆啦A夢商品集 桌上系列扭蛋"
+description: "哆啦A夢收藏集 桌上系列扭蛋"
 draft: false
 hideToc: false
 enableToc: true
@@ -15,7 +15,7 @@ tags:
 series:
 - 哆啦A夢商品
 categories:
-- 哆啦A夢商品集
+- 哆啦A夢收藏集
 image: images/post/Goods/Gashapon/Desktop/m80829903687_1.jpg
 ---
 <mark>最後更新：2020/09/14</mark>

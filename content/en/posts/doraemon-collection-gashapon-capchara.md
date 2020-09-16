@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢商品集 環保扭蛋系列"
+title: "哆啦A夢收藏集 CAPCHARA環保扭蛋系列"
 date: 2020-08-18T23:51:41+08:00
-description: "哆啦A夢商品集 環保扭蛋系列"
+description: "哆啦A夢收藏集 CAPCHARA環保扭蛋系列"
 draft: false
 hideToc: false
 enableToc: true
@@ -15,16 +15,17 @@ tags:
 series:
 - 哆啦A夢商品
 categories:
-- 哆啦A夢商品集
+- 哆啦A夢收藏集
 image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 ---
 <mark>最後更新：2020/09/14</mark>
 
 # 扭蛋
-## 環保扭蛋系列
-![環保扭蛋](/images/post/Goods/Gashapon/Capchara/capchara.png)
+## CAPCHARA環保扭蛋系列
+![CAPCHARA環保扭蛋](/images/post/Goods/Gashapon/Capchara/capchara.png)
 [カプキャラとは？](https://www.bandai.co.jp/csrkids/ecomedal/pkg04.html)
 カプセルがおもちゃの一部になった「カプセルレス」商品です。ガシャポンから出てきたとは思えないほど、ボリューム感のあるおもちゃに組み立てられる、新しいガシャポンです。
+台灣譯名為`環保扭蛋`或`大頭扭蛋`
 
 ### 哆啦A夢環保扭蛋 第1彈
 ![哆啦A夢環保扭蛋 第1彈](/images/post/Goods/Gashapon/Capchara/1000099434_1.jpg)
@@ -39,6 +40,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 + 価格（税込） 300円
 + 種類数 4
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] 膠囊哆啦A夢轉蛋新上市! 外殼就是可愛的哆啦A夢大臉](https://chinesedora.com/news/5018.htm)
 + `2015-07-25` `露天` `轉蛋玩具館` `購入`
 
 ![哆啦A夢環保扭蛋 第1彈](/images/post/Goods/Gashapon/Capchara/1000099434_0.jpg)
@@ -124,6 +126,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 + 価格（税込） 300円
 + 種類数 4
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] BANDAI「CAPCHARA 哆啦A夢4」轉蛋7月上市 轉蛋殼即是本體！](https://chinesedora.com/news/11439.htm)
 + `2019-07-31` `蝦皮` `mouse66轉蛋機` `NTD 329` `購入`
 
 ![哆啦A夢環保扭蛋 第4彈](/images/post/Goods/Gashapon/Capchara/1000136855_0.jpg)
@@ -141,6 +144,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 + 価格（税込） 300円
 + 種類数 4
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] 轉蛋殼就是哆啦A夢的頭! BANDAI「CAPCHARA 哆啦A夢5」12月上市](https://chinesedora.com/news/16481.htm)
 + `2019-12-26` `蝦皮` `出清小舖` `NTD 299` `購入`
 
 ![哆啦A夢環保扭蛋 第5彈](/images/post/Goods/Gashapon/Capchara/1000141230_0.jpg)
@@ -158,6 +162,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 + 価格（税込） 300円
 + 種類数 4
 + 対象年齢 6歳以上
++ 【哆啦A夢中文網】[[日本] BANDAI「CAPCHARA 哆啦A夢6」轉蛋8月已陸續上市 轉蛋殼即是本體！](https://chinesedora.com/news/22765.htm)
 + `2020-03-31` `LINE` `丸丸雜貨店` `NTD 310` `預定中`
 
 ![哆啦A夢環保扭蛋 第6彈](/images/post/Goods/Gashapon/Capchara/1000148615_0.jpg)
@@ -192,4 +197,5 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 「初登場ドラえもん」をはじめ、おなじみのキャラクターが仲間入り♪
 ミュージアム限定、1回400円です！
 
++ 【哆啦A夢中文網】[[日本] 轉蛋殼就是哆啦A夢的頭！BANDAI「CAPCHARA 藤子・F・不二雄角色2」川崎市博物館限定發售](https://chinesedora.com/news/23269.htm)
 + `2020-08-22` `LINE` `Yeckas日本代購` `NTD 150` `x4` `預定中`
