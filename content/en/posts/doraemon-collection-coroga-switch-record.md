@@ -35,11 +35,11 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
             <td align="center"></td>
             <td align="center">角色機關</td>
             <td align="center">總計</td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135980_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135981_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000139048_2.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000145434_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000149326_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135980_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135981_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000139048_2.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000145434_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000149326_3.jpg"></a></td>
         </tr>
     </thead>
     <tr>
@@ -57,11 +57,11 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
             <td align="center"></td>
             <td align="center">秘密道具機關</td>
             <td align="center">總計</td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135980_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135981_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000139048_2.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000145434_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000149326_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135980_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135981_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000139048_2.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000145434_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000149326_3.jpg"></a></td>
         </tr>
     </thead>
     <tr>
@@ -139,11 +139,11 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
             <td align="center"></td>
             <td align="center">秘密道具機關</td>
             <td align="center">總計</td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135980_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135981_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000139048_2.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000145434_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000149326_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135980_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135981_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000139048_2.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000145434_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000149326_3.jpg"></a></td>
         </tr>
     </thead>
     <tr>
@@ -211,11 +211,11 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
             <td align="center"></td>
             <td align="center">基本組件</td>
             <td align="center">總計</td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135980_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135981_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000139048_2.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000145434_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000149326_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135980_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135981_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000139048_2.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000145434_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000149326_3.jpg"></a></td>
         </tr>
     </thead>
     <tr>
@@ -273,11 +273,11 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
             <td align="center"></td>
             <td align="center">基本組件</td>
             <td align="center">總計</td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135980_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135981_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000139048_2.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000145434_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000149326_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135980_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135981_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000139048_2.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000145434_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000149326_3.jpg"></a></td>
         </tr>
     </thead>
     <tr>
@@ -325,11 +325,11 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
             <td align="center"></td>
             <td align="center">基本組件</td>
             <td align="center">總計</td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135980_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000135981_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000139048_2.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000145434_3.jpg"></a></td>
-            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/s1000149326_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-wrap-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135980_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-jump-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000135981_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000139048_2.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-box-stage-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000145434_3.jpg"></a></td>
+            <td align="center"><a href="../doraemon-collection-coroga-switch/#哆啦a夢秘密道具機關-volume-deluxe-kit"><img width="100px" src= "/images/post/Goods/Coroga_Switch/1000149326_3.jpg"></a></td>
         </tr>
     </thead>
     <tr>
@@ -395,11 +395,148 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 </table>
 
 ## 秘密道具機關零件諸元
-### 基本塊
-### 半高塊
-### 高滑塊
-### 短滑軌
-### 長滑軌
-### 斜滑軌
-### 轉彎軌
-### 橋樑塊
+### 積木零件基本單位
++ 厚度 `1.5mm`
++ 單位邊長 `24mm` = `1 W`
++ 單位高度 `18mm` = `1 H`
++ 圓粒直徑 `0.8mm`
++ 圓粒高度 `3.6mm`
++ 單位內徑 `20mm`（卡住四顆圓粒所需的內徑邊長）
++ 側邊凹槽 `1.5mm`
++ 滑軌高度 `5mm`
++ 滑軌邊高 `13mm`
+
+### Block
+![Block](/images/post/Goods/Coroga_Switch/component_block.jpg)
+
+#### 基本塊
++ `1x1x1`
+    + 單位長 `24mm` = `1 W`
+    + 單位寬 `24mm` = `1 W`
+    + 單位高 `18mm` = `1 H`
+    + 全高 `21.6mm`
++ 單價
+    + `55円`
+    + `NTD 16`
+
+#### 半高塊
++ `1x1x1/2`
+    + 單位長 `24mm` = `1 W`
+    + 單位寬 `24mm` = `1 W`
+    + 單位高 `9mm` = `0.5 H`
+    + 全高 `12.6mm`
+
+#### 高滑塊
++ `2x1x3`
+    + 單位長 `48mm` = `2 W`
+    + 單位寬 `24mm` = `1 W`
+    + 單位高 `54mm` = `3 H`
+    + 全高 `57.6mm`
++ 單價
+    + `110円`
+    + `NTD 32`
+
+### Rail
+![Rail](/images/post/Goods/Coroga_Switch/component_rail01.jpg)
+![Rail](/images/post/Goods/Coroga_Switch/component_rail02.jpg)
+![Rail](/images/post/Goods/Coroga_Switch/component_rail03.jpg)
+
+#### 短滑軌
++ `3x1x1`
+    + 單位長 `72mm` = `3 W`
+    + 單位寬 `24mm` = `1 W`
+    + 滑軌高度 `5mm`
+    + 滑軌邊高 `13mm`
++ 單價
+    + `73円`
+    + `NTD 21`
+
+#### 長滑軌
++ `6x1x1`
+    + 單位長 `144mm` = `6 W`
+    + 單位寬 `24mm` = `1 W`
+    + 滑軌高度 `5mm`
+    + 滑軌邊高 `13mm`
++ 單價
+    + `110円`
+    + `NTD 32`
+
+#### 斜滑軌
++ `3x1x2`
+    + 單位長 `72mm` = `3 W`
+    + 單位寬 `24mm` = `1 W`
+    + 頂端滑軌高度 `23mm`
+    + 頂端滑軌邊高 `31mm`
+    + 底端滑軌高度 `5mm`
+    + 底端滑軌邊高 `13mm`
+    + 滑軌落差 `18mm` = `1 H`
++ 單價
+    + `55円`
+    + `NTD 16`
+
+#### 轉彎軌
++ `2x2x1`
+    + 單位長 `48mm` = `2 W`
+    + 單位寬 `48mm` = `2 W`
+    + 滑軌高度 `5mm`
+    + 滑軌邊高 `18mm` = `1 H`
++ 單價
+    + `55円`
+    + `NTD 16`
+
+#### 橋樑塊
+
+### Disk
+![Disk](/images/post/Goods/Coroga_Switch/component_disk01.jpg)
+![Disk](/images/post/Goods/Coroga_Switch/component_disk02.jpg)
+
+#### 起點盤
++ `3x3x3`
+    + 全長 `65mm` ≒ `3 W`
+    + 全寬 `63mm` ≒ `3 W`
+    + 滑軌高度 `23mm`
+    + 滑軌邊高 `51mm`
+
+#### 終點盤
++ `3x2x2`
+    + 全長 `58mm` ≒ `3 W`
+    + 全寬 `44mm` ≒ `2 W`
+    + 滑軌高度 `23mm`
+    + 滑軌邊高 `31mm`
+
+### 時光隧道
+![時光隧道](/images/post/Goods/Coroga_Switch/component_gadget_02a.jpg)
+![時光隧道](/images/post/Goods/Coroga_Switch/component_gadget_02b.jpg)
++ `6x4x3`
+    + 全長 `138mm` ≒ `6 W`
+    + 全寬 `96mm` = `4 W`
+    + 頂端滑軌高度 `41mm`
+    + 頂端滑軌邊高 `49mm`
+    + 底端滑軌高度 `5mm`
+    + 底端滑軌邊高 `13mm`
+    + 滑軌落差 `36mm` = `2 H`
+
+### 超能力帽
+![超能力帽](/images/post/Goods/Coroga_Switch/component_gadget_05.jpg)
++ `3x3x1`
+    + 全長 `72mm` = `3 W`
+    + 全寬 `72mm` = `3 W`
+    + 滑軌高度 `5mm`
+    + 滑軌邊高 `13mm`
+
+### 時間延長光線
+![時間延長光線](/images/post/Goods/Coroga_Switch/component_gadget_09.jpg)
++ `6x1x2`
+    + 全長 `144mm` = `6 W`
+    + 全寬 `33mm` ≒ `1 W`
+    + 頂端滑軌高度 `23mm`
+    + 頂端滑軌邊高 `31mm`
+    + 底端滑軌高度 `5mm`
+    + 底端滑軌邊高 `13mm`
+    + 滑軌落差 `18mm` = `1 H`
+
+### 超人手套
+![超人手套](/images/post/Goods/Coroga_Switch/component_gadget_010.jpg)
+
+### 胖虎拳頭
+![胖虎拳頭](/images/post/Goods/Coroga_Switch/component_gadget_05.jpg)
