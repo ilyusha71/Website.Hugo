@@ -10,7 +10,7 @@ author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
 - 哆啦A夢商品目錄
-- Bandai
+- BANDAI
 - 積木
 series:
 - 哆啦A夢商品

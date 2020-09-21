@@ -10,7 +10,7 @@ author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
 - 哆啦A夢商品目錄
-- Bandai
+- BANDAI
 - 食玩
 - 糖果盒
 series:
@@ -119,4 +119,35 @@ image: images/post/Goods/Candy_Toy/1000121290_6.jpg
 ●ラムネ菓子3g
 + `預定購入`
 
+### 哆啦A夢軟膠吉祥物
+![哆啦A夢軟膠吉祥物](/images/post/Goods/Candy_Toy/000000278486bvuiLVEcJrYKomTvOJvnMyCiKsx2R01IWfwk.jpg)
+![哆啦A夢軟膠吉祥物](/images/post/Goods/Candy_Toy/000000278490XV8qrIfzrYQC6owMBFwh4Y5nAKastyUaWLKe.jpg)
+![哆啦A夢軟膠吉祥物](/images/post/Goods/Candy_Toy/000000278494rgq0Vo1sVGIin3JJ8svHnbuospyhBz9bXWl8.jpg)
+![哆啦A夢軟膠吉祥物](/images/post/Goods/Candy_Toy/00000027849887VkiVTAIWwZlhphxQG6n3iEsilfXfx3aHtN.jpg)
+![哆啦A夢軟膠吉祥物](/images/post/Goods/Candy_Toy/000000278502ZBsxHkXjoykvV4TuUQ5bp3SNqLwP8TctnS5l.jpg)
+![哆啦A夢軟膠吉祥物](/images/post/Goods/Candy_Toy/000000278506bqPG1KKZQSCK1LYuFZIs56212SW3VL7M7DEg.jpg)
+![哆啦A夢軟膠吉祥物](/images/post/Goods/Candy_Toy/000000278510JB2dAxcObwaXk3etaBNQ2gpKQcvs53DbbgMI.jpg)
+![哆啦A夢軟膠吉祥物](/images/post/Goods/Candy_Toy/000000278514NrcpiGajlAjpUeit780o194YWxvnp9kCg5y7.jpg)
+![哆啦A夢軟膠吉祥物](/images/post/Goods/Candy_Toy/000000278518KkNpXbsMtFo0tzEf8xFzfbmjVSAzDNFOorDb.jpg)
++ 【BANDAI】
+[]()
++ 【Candy】[ドラえもん ソフビマスコット](https://www.bandai.co.jp/candy/products/2020/4549660466079000.html)
++ メーカー希望小売価格: ￥270（税抜）
++ 2020年12月 発売
++ 売場：全国量販店の菓子売場等
++ 対象年齢：3才以上
 
+大好評！約7cmのソフビフィギュアシリーズからドラえもんが登場！
+様々なポーズのドラえもんやドラミをラインナップした全6種類です。
+集めてコレクションしても、お人形遊びとしても楽しい、大人から子供まで楽しめるアイテムです。
+
+
+●彩色済ソフビ人形（全6種）
+1．ドラえもんA
+2．ドラえもんB
+3．ドラえもんC
+4．ドラえもんD
+5．ドラえもん＆ミニドラえもん
+6．ドラミ
+●チューインガム1個
++ `2020-09-18` `LINE` `丸丸雜貨店` `NTD 450` `預定購入`

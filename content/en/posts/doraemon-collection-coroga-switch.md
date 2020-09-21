@@ -10,7 +10,7 @@ author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
 - 哆啦A夢商品目錄
-- Bandai
+- BANDAI
 - 積木
 series:
 - 哆啦A夢商品
@@ -33,7 +33,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 ![哆啦A夢秘密道具機關 Wrap Kit](/images/post/Goods/Coroga_Switch/1000135980_3.jpg)
 ![哆啦A夢秘密道具機關 Wrap Kit](/images/post/Goods/Coroga_Switch/1000135980_4.jpg)
 ![哆啦A夢秘密道具機關 Wrap Kit](/images/post/Goods/Coroga_Switch/1000135980_5.jpg)
-+ 【Bandai】[ころがスイッチドラえもん ワープキット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660355250250)
++ 【BANDAI】
+[ころがスイッチドラえもん ワープキット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660355250250)
 + 【Bandai Toys】[ころがスイッチドラえもん ワープキット](https://toy.bandai.co.jp/series/doraemon/item/detail/11076/)
 + 価格：6,578円（税込）
 + 発売日：2019年06月29日
@@ -47,7 +48,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 
 （本商品に付属するもの以外すべて別売りです。）
 
-+ 【哆啦A夢中文網】[[日本] 用遊戲學邏輯思考! BANDAI「Coroga Switch 哆啦A夢」程式設計模擬套裝6月上市](https://chinesedora.com/news/10803.htm)
++ 【哆啦A夢中文網】
+[[日本] 用遊戲學邏輯思考! BANDAI「Coroga Switch 哆啦A夢」程式設計模擬套裝6月上市](https://chinesedora.com/news/10803.htm)
 + `2019-07-30` `Yahoo!超級商城` `5樓玩具` `NTD 1596` `購入`
 
 ##### 秘密道具機關
@@ -79,7 +81,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 ![哆啦A夢秘密道具機關 Jump Kit](/images/post/Goods/Coroga_Switch/1000135981_3.jpg)
 ![哆啦A夢秘密道具機關 Jump Kit](/images/post/Goods/Coroga_Switch/1000135981_4.jpg)
 ![哆啦A夢秘密道具機關 Jump Kit](/images/post/Goods/Coroga_Switch/1000135981_5.jpg)
-+ 【Bandai】[ころがスイッチドラえもん ジャンプキット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660355243243)
++ 【BANDAI】
+[ころがスイッチドラえもん ジャンプキット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660355243243)
 + 【Bandai Toys】[ころがスイッチドラえもん ジャンプキット](https://toy.bandai.co.jp/series/doraemon/item/detail/11075/)
 + 価格：6,578円（税込）
 + 発売日：2019年06月29日
@@ -93,7 +96,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 
 （本商品に付属するもの以外すべて別売りです。）
 
-+ 【哆啦A夢中文網】[[日本] 用遊戲學邏輯思考! BANDAI「Coroga Switch 哆啦A夢」程式設計模擬套裝6月上市](https://chinesedora.com/news/10803.htm)
++ 【哆啦A夢中文網】
+[[日本] 用遊戲學邏輯思考! BANDAI「Coroga Switch 哆啦A夢」程式設計模擬套裝6月上市](https://chinesedora.com/news/10803.htm)
 + `2019-07-30` `Yahoo!超級商城` `5樓玩具` `NTD 1596` `購入`
 
 ##### 秘密道具機關
@@ -125,7 +129,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 ![哆啦A夢秘密道具機關 Deluxe Kit](/images/post/Goods/Coroga_Switch/1000139048_3.jpg)
 ![哆啦A夢秘密道具機關 Deluxe Kit](/images/post/Goods/Coroga_Switch/1000139048_4.jpg)
 ![哆啦A夢秘密道具機關 Deluxe Kit](/images/post/Goods/Coroga_Switch/1000139048_5.jpg)
-+ 【Bandai】[ころがスイッチドラえもん デラックスキット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660355489000)
++ 【BANDAI】
+[ころがスイッチドラえもん デラックスキット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660355489000)
 + 【Bandai Toys】[ころがスイッチドラえもん デラックスキット](https://toy.bandai.co.jp/series/doraemon/item/detail/11094/)
 + 価格：10,780円（税込）
 + 発売日：2019年10月26日
@@ -144,7 +149,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 
 （本商品に付属するもの以外すべて別売りです。）
 
-+ 【哆啦A夢中文網】[[日本] BANDAI「哆啦A夢秘密道具軌道積木」 最新「DX 組」將於10月上市](https://chinesedora.com/news/16593.htm)
++ 【哆啦A夢中文網】
+[[日本] BANDAI「哆啦A夢秘密道具軌道積木」 最新「DX 組」將於10月上市](https://chinesedora.com/news/16593.htm)
 + `2019-12-26` `Funbox Toys` `NTD 2575` `購入`
 
 ##### 角色機關
@@ -183,7 +189,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 ![哆啦A夢秘密道具機關 Box Stage Kit](/images/post/Goods/Coroga_Switch/1000145434_3.jpg)
 ![哆啦A夢秘密道具機關 Box Stage Kit](/images/post/Goods/Coroga_Switch/1000145434_4.jpg)
 ![哆啦A夢秘密道具機關 Box Stage Kit](/images/post/Goods/Coroga_Switch/1000145434_5.jpg)
-+ 【Bandai】[ころがスイッチドラえもん ボックス ステージキット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660477136000)
++ 【BANDAI】
+[ころがスイッチドラえもん ボックス ステージキット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660477136000)
 + 【Bandai Toys】[ころがスイッチドラえもん ボックス ステージキット](https://toy.bandai.co.jp/series/doraemon/item/detail/11411/)
 + 価格：8,580円（税込）
 + 発売日：2020年07月11日
@@ -200,7 +207,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 
 （本商品に付属するもの以外すべて別売りです。）
 
-+ 【哆啦A夢中文網】[[日本] BANDAI「哆啦A夢秘密道具軌道積木 Box Stage Kit」7月推出](https://chinesedora.com/news/21195.htm)
++ 【哆啦A夢中文網】
+[[日本] BANDAI「哆啦A夢秘密道具軌道積木 Box Stage Kit」7月推出](https://chinesedora.com/news/21195.htm)
 + `2020-05-11` `LINE` `丸丸雜貨店` `NTD 2290` `購入`
 
 ##### 角色機關
@@ -233,7 +241,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 ### 哆啦A夢秘密道具機關 Tall Block Set
 #### 高滑塊擴充組
 ![哆啦A夢秘密道具機關 Tall Block Set](/images/post/Goods/Coroga_Switch/1000148772_1.jpg)
-+ 【Bandai】[ころがスイッチ　トールブロックセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541684000)
++ 【BANDAI】
+[ころがスイッチ　トールブロックセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541684000)
 + 【Bandai Toys】[ころがスイッチ　トールブロックセット](https://toy.bandai.co.jp/item/detail/11590/)
 + 価格：880円（税込）
 + 発売日：2020年09月19日
@@ -254,7 +263,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 ### 哆啦A夢秘密道具機關 Block Set
 #### 基本塊擴充組
 ![哆啦A夢秘密道具機關 Block Set](/images/post/Goods/Coroga_Switch/1000148771_1.jpg)
-+ 【Bandai】[ころがスイッチ　ブロックセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541660000)
++ 【BANDAI】
+[ころがスイッチ　ブロックセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541660000)
 + 【Bandai Toys】[ころがスイッチ　ブロックセット](https://toy.bandai.co.jp/item/detail/11589/)
 + 価格：880円（税込）
 + 発売日：2020年09月19日
@@ -275,7 +285,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 ### 哆啦A夢秘密道具機關 Ball Set
 #### 黃球擴充組
 ![哆啦A夢秘密道具機關 Ball Set](/images/post/Goods/Coroga_Switch/1000148770_1.jpg)
-+ 【Bandai】[ころがスイッチ　ボールセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541653000)
++ 【BANDAI】
+[ころがスイッチ　ボールセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541653000)
 + 【Bandai Toys】[ころがスイッチ　ボールセット](https://toy.bandai.co.jp/item/detail/11588/)
 + 価格：880円（税込）
 + 発売日：2020年09月19日
@@ -294,7 +305,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 ### 哆啦A夢秘密道具機關 Rail Set
 #### 軌道擴充組
 ![哆啦A夢秘密道具機關 Rail Set](/images/post/Goods/Coroga_Switch/1000148773_1.jpg)
-+ 【Bandai】[ころがスイッチ　レールセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541646000)
++ 【BANDAI】
+[ころがスイッチ　レールセット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660541646000)
 + 【Bandai Toys】[ころがスイッチ　レールセット](https://toy.bandai.co.jp/item/detail/11587/)
 + 価格：880円（税込）
 + 発売日：2020年09月19日
@@ -325,7 +337,8 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
 ![哆啦A夢秘密道具機關 Volume Deluxe Kit](/images/post/Goods/Coroga_Switch/1000149326_4.jpg)
 ![哆啦A夢秘密道具機關 Volume Deluxe Kit](/images/post/Goods/Coroga_Switch/1000149326_5.jpg)
 ![哆啦A夢秘密道具機關 Volume Deluxe Kit](/images/post/Goods/Coroga_Switch/1000149326_6.jpg)
-+ 【Bandai】[ころがスイッチドラえもん　ボリュームデラックスキット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660477136000)
++ 【BANDAI】
+[ころがスイッチドラえもん　ボリュームデラックスキット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660477136000)
 + 【Bandai Toys】[ころがスイッチドラえもん　ボリュームデラックスキット](https://toy.bandai.co.jp/series/doraemon/item/detail/11616/)
 + 価格：10,780円（税込）
 + 発売日：2020年10月下旬
