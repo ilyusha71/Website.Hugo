@@ -88,134 +88,280 @@ image: images/post/Goods/Gashapon/1000067143_1.jpg
 カプセル自販機商品、全５種、1カプセル1個入り。
 + `購入`
 
-## Bandai 2010年後
-
+## Bandai 2014
 ### 哆啦A夢桌上大冒險 第1彈
 ![哆啦A夢桌上大冒險 第1彈](/images/post/Goods/Gashapon/Desktop/m80829903687_1.jpg)
 [哆啦A夢桌上大冒險 第1彈](../doraemon-collection-gashapon-desktop-adventure#哆啦a夢桌上大冒險-第1彈)
-2014年1月
++ 発売日 2014年1月
+
+### 哆啦A夢電影扭蛋 2014
+![電影哆啦A夢 新·大雄的大魔境](/images/post/Goods/Gashapon/Movie/1000087570_1.jpg)
++ 発売日 2014年03月上旬
 
 ### 哆啦A夢桌上大冒險 第2彈
 ![哆啦A夢桌上大冒險 第2彈](/images/post/Goods/Gashapon/Desktop/1000091012_1.jpg)
 [哆啦A夢桌上大冒險 第2彈](../doraemon-collection-gashapon-desktop-adventure#哆啦a夢桌上大冒險-第2彈)
-2014年08月上旬
++ 発売日 2014年08月上旬
 
+## Bandai 2015
 ### 藤子F不二雄桌上公仔
 ![藤子F不二雄桌上公仔](/images/post/Goods/Gashapon/Desktop/1000095400_1.jpg)
 [藤子F不二雄桌上公仔](../doraemon-collection-gashapon-desktop-adventure#藤子f不二雄桌上公仔)
-2015年01月下旬
++ 発売日 2015年01月下旬
+
+### 哆啦A夢電影扭蛋 2015
+![電影哆啦A夢 大雄的宇宙英雄記](/images/post/Goods/Gashapon/Movie/1000096471_1.jpg)
++ 発売日 2015年03月下旬
 
 ### 哆啦A夢環保扭蛋 第1彈
 ![哆啦A夢環保扭蛋 第1彈](/images/post/Goods/Gashapon/Capchara/1000099434_1.jpg)
-[哆啦A夢環保扭蛋 第1彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第1彈)
-2015年10月下旬
++ [哆啦A夢環保扭蛋 第1彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第1彈)
++ 発売日 2015年10月下旬
++ 価格（税込） 300円
++ 種類数 4
 
 ### 哆啦A夢桌上大收藏
 ![哆啦A夢桌上大收藏](/images/post/Goods/Gashapon/1000101343_1.jpg)
 [哆啦A夢桌上大收藏](../doraemon-collection-gashapon-desktop-adventure#哆啦a夢桌上大收藏)
-2015年12月上旬
++ 発売日 2015年12月上旬
+
+## Bandai 2016
+### 哆啦A夢電影扭蛋 2016
+![電影哆啦A夢 新·大雄的日本誕生](/images/post/Goods/Gashapon/Movie/1000103124_1.jpg)
++ [哆啦A夢電影扭蛋 2016](../doraemon-collection-gashapon-movie#電影哆啦a夢-新大雄的日本誕生)
++ 発売日 2016年03月下旬
++ 価格（税込） 300円
++ 種類数 6
+
+### 藤子F不二雄角色造型吊飾
+![藤子F不二雄角色造型吊飾](/images/post/Goods/Gashapon/Mascot/1000104712_1.jpg)
++ [藤子F不二雄角色造型吊飾](../doraemon-collection-gashapon-mascot#藤子f不二雄角色造型吊飾)
++ 発売日 2016年06月下旬
++ 価格（税込） 300円
++ 種類数 5
 
 ### 藤子F不二雄角色環保扭蛋
 ![藤子F不二雄角色環保扭蛋 ](/images/post/Goods/Gashapon/Capchara/1000105578_1.jpg)
-[藤子F不二雄角色環保扭蛋](../doraemon-collection-gashapon-capchara#藤子f不二雄角色環保扭蛋)
-2016年07月下旬
++ [藤子F不二雄角色環保扭蛋](../doraemon-collection-gashapon-capchara#藤子f不二雄角色環保扭蛋)
++ 発売日 2016年07月下旬
++ 価格（税込） 300円
++ 種類数 4
 
 ### 哆啦A夢造型夾 第1彈
 ![哆啦A夢造型夾 第1彈](/images/post/Goods/Gashapon/Clip/1000106859_1.jpg)
-[哆啦A夢造型夾 第1彈](../doraemon-collection-gashapon-clip#哆啦a夢造型夾-第1彈)
-2016年09月中旬
++ [哆啦A夢造型夾 第1彈](../doraemon-collection-gashapon-clip#哆啦a夢造型夾-第1彈)
++ 発売日 2016年09月中旬
++ 価格（税込） 100円
++ 種類数 11
 
 ### 哆啦A夢悠閒時光
-![哆啦A夢悠閒時光](/images/post/Goods/Gashapon/1000110763_1.jpg)
-![哆啦A夢悠閒時光](/images/post/Goods/Gashapon/1000110763_2.jpg)
-![哆啦A夢悠閒時光](/images/post/Goods/Gashapon/1000110763_3.jpg)
-![哆啦A夢悠閒時光](/images/post/Goods/Gashapon/1000110763_4.jpg)
-![哆啦A夢悠閒時光](/images/post/Goods/Gashapon/1000110763_5.jpg)
-![哆啦A夢悠閒時光](/images/post/Goods/Gashapon/1000110763_6.jpg)
-[ドラえもん　ほんわかマスコット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660109334000)
-300円(税込)
-2016年12月中旬　発売
-ドラえもんから、かわいいデスクトップマスコットが登場！付属の土管や雲と組み合わせて飾っちゃおう！
+![哆啦A夢悠閒時光](/images/post/Goods/Gashapon/Mascot/1000110763_1.jpg)
++ [哆啦A夢悠閒時光](../doraemon-collection-gashapon-mascot#哆啦a夢悠閒時光)
++ 発売日 2016年12月中旬
++ 価格（税込） 300円
++ 種類数 5
 
-+ 【哆啦A夢中文網】[[日本] 在水泥管上或坐或臥怡然自得! 全新哆啦A夢扭蛋登場](https://chinesedora.com/news/6113.htm)
-+ `2016-12-08` `露天` `瑞瑟可` `購入`
+## Bandai 2017
+### 哆啦A夢電影扭蛋 2017
+![電影哆啦A夢 大雄的南極大冒險](/images/post/Goods/Gashapon/Movie/1000113408_1.jpg)
++ [哆啦A夢電影扭蛋 2017](../doraemon-collection-gashapon-movie#電影哆啦a夢-大雄的南極大冒險)
++ 発売日 2017年03月下旬
++ 価格（税込） 300円
++ 種類数 6
 
 ### 藤子F不二雄角色造型夾
 ![藤子F不二雄角色造型夾](/images/post/Goods/Gashapon/Clip/1000114476_1.jpg)
-[藤子F不二雄角色造型夾](../doraemon-collection-gashapon-clip#藤子f不二雄角色造型夾)
-2017年05月下旬
++ [藤子F不二雄角色造型夾](../doraemon-collection-gashapon-clip#藤子f不二雄角色造型夾)
++ 発売日 2017年05月下旬
++ 価格（税込） 100円
++ 種類数 12
+
+### 哆啦A夢串連吊飾
+![哆啦A夢串連吊飾](/images/post/Goods/Gashapon/Mascot/1000116894_3.jpg)
++ [哆啦A夢串連吊飾](../doraemon-collection-gashapon-mascot#哆啦a夢串連吊飾)
++ 発売日 2017年06月未定
++ 価格（税込） 300円
++ 種類数 10
+
+### 哆啦A夢氣球吊飾
+![哆啦A夢氣球吊飾](/images/post/Goods/Gashapon/Air-Filled/1000116894_1.jpg)
++ [哆啦A夢氣球吊飾](../doraemon-collection-gashapon-air-filled#哆啦a夢氣球吊飾)
++ 発売日 2017年08月「第2週」
++ 価格（税込） 200円
++ 種類数 5
 
 ### 哆啦A夢造型夾 第2彈
 ![哆啦A夢造型夾 第2彈](/images/post/Goods/Gashapon/Clip/1000117598_1.jpg)
-[哆啦A夢造型夾 第2彈](../doraemon-collection-gashapon-clip#哆啦a夢造型夾-第2彈)
-2017年09月「第5週」
++ [哆啦A夢造型夾 第2彈](../doraemon-collection-gashapon-clip#哆啦a夢造型夾-第2彈)
++ 発売日 2017年09月「第5週」
++ 価格（税込） 100円
++ 種類数 12
 
 ### 哆啦A夢環保扭蛋 第2彈
 ![哆啦A夢環保扭蛋 第2彈](/images/post/Goods/Gashapon/Capchara/1000118449_1.jpg)
-[哆啦A夢環保扭蛋 第2彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第2彈)
-2017年10月「第4週」
++ [哆啦A夢環保扭蛋 第2彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第2彈)
++ 発売日 2017年10月「第4週」
++ 価格（税込） 300円
++ 種類数 4
+
+### 哆啦A夢軟軟吊飾 第1彈
+![哆啦A夢軟軟吊飾 第1彈](/images/post/Goods/Gashapon/Mascot/1000120921_1.jpg)
++ [哆啦A夢軟軟吊飾 第1彈](../doraemon-collection-gashapon-mascot#哆啦a夢軟軟吊飾-第1彈)
++ 発売日 2017年12月「第5週」
++ 価格（税込） 300円
++ 種類数 5
+
+## Bandai 2018
+### 哆啦A夢電影扭蛋 2018
+![電影哆啦A夢 大雄的金銀島](/images/post/Goods/Gashapon/Movie/1000123089_1.jpg)
++ [哆啦A夢電影扭蛋 2018](../doraemon-collection-gashapon-movie#電影哆啦a夢-大雄的金銀島)
++ 発売日 2018年02月「第5週」
++ 価格（税込） 300円
++ 種類数 11
+
+### 哆啦A夢絨毛吊飾
+![哆啦A夢絨毛吊飾](/images/post/Goods/Gashapon/Mascot/1000124738_1.jpg)
++ [哆啦A夢絨毛吊飾](../doraemon-collection-gashapon-mascot#哆啦a夢絨毛吊飾)
++ 発売日 2018年04月「第5週」
++ 価格（税込） 300円
++ 種類数 4
+
+### 哆啦A夢充氣飲料架
+![哆啦A夢充氣飲料架](/images/post/Goods/Gashapon/Air-Filled/1000126144_1.jpg)
++ [哆啦A夢充氣飲料架](../doraemon-collection-gashapon-air-filled#哆啦a夢充氣飲料架)
++ 発売日 2018年06月「第4週」
++ 価格（税込） 300円
++ 種類数 5
 
 ### 哆啦A夢可動環保扭蛋
 ![哆啦A夢可動環保扭蛋](/images/post/Goods/Gashapon/Capchara/1000127007_1.jpg)
-[哆啦A夢可動環保扭蛋](../doraemon-collection-gashapon-capchara#哆啦a夢可動環保扭蛋)
-2018年07月「第5週」
++ [哆啦A夢可動環保扭蛋](../doraemon-collection-gashapon-capchara#哆啦a夢可動環保扭蛋)
++ 発売日 2018年07月「第5週」
++ 価格（税込） 300円
++ 種類数 4
 
-### 哆啦A夢軟膠公仔 第1彈
-![哆啦A夢軟膠公仔 第1彈](/images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg)
-[哆啦A夢軟膠公仔 第1彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠公仔-第1彈)
-2018年11月「第5週」
+### 哆啦A夢軟軟吊飾 第2彈
+![哆啦A夢軟軟吊飾 第2彈](/images/post/Goods/Gashapon/Mascot/1000127742_1.jpg)
++ [哆啦A夢軟軟吊飾 第2彈](../doraemon-collection-gashapon-mascot#哆啦a夢軟軟吊飾-第2彈)
++ 発売日 2018年08月「第2週」
++ 価格（税込） 300円
++ 種類数 5
+
+### 哆啦A夢迷你表情沙包吊飾
+![哆啦A夢迷你表情沙包吊飾](/images/post/Goods/Gashapon/Mascot/1000129461_1.jpg)
++ [哆啦A夢迷你表情沙包吊飾](../doraemon-collection-gashapon-mascot#哆啦a夢迷你表情沙包吊飾)
++ 発売日 2018年10月「第2週」
++ 価格（税込） 300円
++ 種類数 5
+
+### 哆啦A夢軟膠收藏 第1彈
+![哆啦A夢軟膠收藏 第1彈](/images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg)
++ [哆啦A夢軟膠收藏 第1彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠收藏-第1彈)
++ 発売日 2018年11月「第5週」
++ 価格（税込） 300円
++ 種類数 4
 
 ### 哆啦A夢環保扭蛋 第3彈
 ![哆啦A夢環保扭蛋 第3彈](/images/post/Goods/Gashapon/Capchara/1000131318_1.jpg)
-[哆啦A夢環保扭蛋 第3彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第3彈)
-2018年12月「第5週」
++ [哆啦A夢環保扭蛋 第3彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第3彈)
++ 発売日 2018年12月「第5週」
++ 価格（税込） 300円
++ 種類数 4
 
+## Bandai 2019
 ### 哆啦A夢道具收藏 第1彈
 ![哆啦A夢道具收藏 第1彈](/images/post/Goods/Gashapon/Atsumete/1000132981_1.jpg)
-[哆啦A夢道具收藏 第1彈](../doraemon-collection-gashapon-atsumete-ippai#哆啦a夢道具收藏-第1彈)
-2019年02月「第3週」
++ [哆啦A夢道具收藏 第1彈](../doraemon-collection-gashapon-atsumete-ippai#哆啦a夢道具收藏-第1彈)
++ 発売日 2019年02月「第3週」
++ 価格（税込） 300円
++ 種類数 5
 
-### 哆啦A夢軟膠公仔 第2彈
-![哆啦A夢軟膠公仔 第2彈](/images/post/Goods/Gashapon/Sofubi/1000134503_1.jpg)
-[哆啦A夢軟膠公仔 第2彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠公仔-第2彈)
-2019年04月「第1週」
+### 哆啦A夢電影扭蛋 2019
+![電影哆啦A夢 大雄的月球探測記](/images/post/Goods/Gashapon/Movie/1000133807_1.jpg)
++ [哆啦A夢電影扭蛋 2019](../doraemon-collection-gashapon-movie#電影哆啦a夢-大雄的月球探測記)
++ 発売日 2019年03月「第2週」
++ 価格（税込） 300円
++ 種類数 4
+
+### 哆啦A夢軟膠收藏 第2彈
+![哆啦A夢軟膠收藏 第2彈](/images/post/Goods/Gashapon/Sofubi/1000134503_1.jpg)
++ [哆啦A夢軟膠收藏 第2彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠收藏-第2彈)
++ 発売日 2019年04月「第1週」
++ 価格（税込） 300円
++ 種類数 4
 
 ### 哆啦A夢環保扭蛋 第4彈
 ![哆啦A夢環保扭蛋 第4彈](/images/post/Goods/Gashapon/Capchara/1000136855_1.jpg)
-[哆啦A夢環保扭蛋 第4彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第4彈)
-2019年07月「第4週」
++ [哆啦A夢環保扭蛋 第4彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第4彈)
++ 発売日 2019年07月「第4週」
++ 価格（税込） 300円
++ 種類数 4
 
-### 哆啦A夢軟膠公仔 第3彈
-![哆啦A夢軟膠公仔 第3彈](/images/post/Goods/Gashapon/Sofubi/1000137888_1.jpg)
-[哆啦A夢軟膠公仔 第3彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠公仔-第3彈)
-2019年08月「第1週」
+### 哆啦A夢軟膠收藏 第3彈
+![哆啦A夢軟膠收藏 第3彈](/images/post/Goods/Gashapon/Sofubi/1000137888_1.jpg)
++ [哆啦A夢軟膠收藏 第3彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠收藏-第3彈)
++ 発売日 2019年08月「第1週」
++ 価格（税込） 300円
++ 種類数 4
+
+### 哆啦A夢軟膠收藏 SP
+![哆啦A夢軟膠收藏 SP](/images/post/Goods/Gashapon/Sofubi/1000137914_1.jpg)
++ [哆啦A夢軟膠收藏 SP](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠收藏-sp)
++ 発売日 2019年08月「第5週」
++ 価格（税込） 330円
++ 種類数 4
 
 ### 哆啦A夢造型夾 豪華版01
 ![哆啦A夢造型夾 豪華版01](/images/post/Goods/Gashapon/Clip/1000138786_1.jpg)
-[哆啦A夢造型夾 豪華版01](../doraemon-collection-gashapon-clip#哆啦a夢造型夾-豪華版01)
-2019年09月「第1週」
++ [哆啦A夢造型夾 豪華版01](../doraemon-collection-gashapon-clip#哆啦a夢造型夾-豪華版01)
++ 発売日 2019年09月「第1週」
++ 価格（税込） 200円
++ 種類数 5
 
 ### 哆啦A夢環保扭蛋 第5彈
 ![哆啦A夢環保扭蛋 第5彈](/images/post/Goods/Gashapon/Capchara/1000141230_1.jpg)
-[哆啦A夢環保扭蛋 第5彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第5彈)
-2019年12月「第2週」
++ [哆啦A夢環保扭蛋 第5彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第5彈)
++ 発売日 2019年12月「第2週」
++ 価格（税込） 300円
++ 種類数 4
 
+## Bandai 2020
 ### 哆啦A夢道具收藏 第2彈
 ![哆啦A夢道具收藏 第2彈](/images/post/Goods/Gashapon/Atsumete/1000142148_1.jpg)
-[哆啦A夢道具收藏 第2彈](../doraemon-collection-gashapon-atsumete-ippai#哆啦a夢道具收藏-第2彈)
-2020年01月「第3週」
++ [哆啦A夢道具收藏 第2彈](../doraemon-collection-gashapon-atsumete-ippai#哆啦a夢道具收藏-第2彈)
++ 発売日 2020年01月「第3週」
++ 価格（税込） 300円
++ 種類数 5
 
-### 哆啦A夢軟膠公仔 第4彈
-![哆啦A夢軟膠公仔 第4彈](/images/post/Goods/Gashapon/Sofubi/1000146365_1.jpg)
-[哆啦A夢軟膠公仔 第4彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠公仔-第4彈)
-2020年06月「第5週」
+### 哆啦A夢電影扭蛋 2020
+![電影哆啦A夢 大雄的新恐龍](/images/post/Goods/Gashapon/Movie/1000144003_1.jpg)
++ [哆啦A夢電影扭蛋 2020](../doraemon-collection-gashapon-movie#電影哆啦a夢-大雄的新恐龍)
++ 発売日 2020年03月「第5週」
++ 価格（税込） 300円
++ 種類数 4
+
+### 哆啦A夢軟膠收藏 第4彈
+![哆啦A夢軟膠收藏 第4彈](/images/post/Goods/Gashapon/Sofubi/1000146365_1.jpg)
++ [哆啦A夢軟膠收藏 第4彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠收藏-第4彈)
++ 発売日 2020年06月「第5週」
++ 価格（税込） 300円
++ 種類数 4
+
+### 哆啦A夢運動吊飾
+![哆啦A夢運動吊飾](/images/post/Goods/Gashapon/Mascot/1000130463_2.jpg)
++ [哆啦A夢運動吊飾](../doraemon-collection-gashapon-mascot#哆啦a夢運動吊飾)
++ 発売日 2020年07月「第1週」
++ 価格（税込） 300円
++ 種類数 4
 
 ### 哆啦A夢環保扭蛋 第6彈
 ![哆啦A夢環保扭蛋 第6彈](/images/post/Goods/Gashapon/Capchara/1000148615_1.jpg)
-[哆啦A夢環保扭蛋 第6彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第6彈)
-2020年08月「第2週」
++ [哆啦A夢環保扭蛋 第6彈](../doraemon-collection-gashapon-capchara#哆啦a夢環保扭蛋-第6彈)
++ 発売日 2020年08月「第2週」
++ 価格（税込） 300円
++ 種類数 4
 
-### 哆啦A夢軟膠公仔 第5彈
-![哆啦A夢軟膠公仔 第5彈](/images/post/Goods/Gashapon/Sofubi/22036261439479_579.jpg)
-[哆啦A夢軟膠公仔 第5彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠公仔-第5彈)
-2020年12月
+### 哆啦A夢軟膠收藏 第5彈
+![哆啦A夢軟膠收藏 第5彈](/images/post/Goods/Gashapon/Sofubi/22036261439479_579.jpg)
++ [哆啦A夢軟膠收藏 第5彈](../doraemon-collection-gashapon-sofubi#哆啦a夢軟膠收藏-第5彈)
++ 発売預定日 2020年12月

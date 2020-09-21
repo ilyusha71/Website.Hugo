@@ -18,7 +18,7 @@ categories:
 - 哆啦A夢收藏集
 image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 ---
-<mark>最後更新：2020/09/14</mark>
+<mark>最後更新：2020/09/18</mark>
 
 # 扭蛋
 ## CAPCHARA環保扭蛋系列
