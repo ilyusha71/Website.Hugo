@@ -582,43 +582,40 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
         <td align="center">3x3x3</td>
         <td align="center">65</td>
         <td align="center">63</td>
+        <td align="center">52</td>
         <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">52</td>
         <td align="center">23</td>
         <td align="center">31</td>
-        <td align="center">-</td>
-        <td align="center"></td>
+        <td align="center" colspan="2"></td>
         <td align="center" colspan="2"></td>
     </tr>
     <tr>
         <td align="center" class="expand__content"><img width="64px" src= "/images/post/Goods/Coroga_Switch/disk_02.png"></td>
         <td align="center" class="breadcrumb">哆啦A夢<br>終點盤</td>
         <td align="center">4x2x2</td>
-        <td align="center"></td>
+        <td align="center">83</td>
         <td align="center">44</td>
-        <td align="center"></td>
+        <td align="center">47</td>
         <td align="center">23</td>
         <td align="center">31</td>
         <td align="center"></td>
-        <td align="center"></td>
-        <td align="center">-</td>
-        <td align="center"></td>
+        <td align="center">13</td>
+        <td align="center" colspan="2"></td>
         <td align="center" colspan="2"></td>
     </tr>
     <tr>
         <td align="center" class="expand__content"><img width="64px" src= "/images/post/Goods/Coroga_Switch/disk_03.png"></td>
         <td align="center" class="breadcrumb">迷你哆啦A夢<br>終點盤</td>
         <td align="center">4x2x2</td>
-        <td align="center"></td>
+        <td align="center">71</td>
         <td align="center">44</td>
-        <td align="center">31</td>
+        <td align="center">32</td>
         <td align="center">23</td>
         <td align="center">31</td>
         <td align="center"></td>
-        <td align="center"></td>
-        <td align="center">-</td>
-        <td align="center"></td>
+        <td align="center">13</td>
+        <td align="center" colspan="2"></td>
         <td align="center" colspan="2"></td>
     </tr>
     <tr>
@@ -631,18 +628,17 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
         <td align="center">23</td>
         <td align="center">31</td>
         <td align="center"></td>
-        <td align="center"></td>
-        <td align="center">-</td>
-        <td align="center"></td>
+        <td align="center">13</td>
+        <td align="center" colspan="2"></td>
         <td align="center" colspan="2"></td>
     </tr>
     <tr>
         <td align="center" class="expand__content"><img width="64px" src= "/images/post/Goods/Coroga_Switch/ball_01.png"></td>
         <td align="center" class="breadcrumb">藍球</td>
         <td align="center">1x1x1</td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">20</td>
+        <td align="center">20</td>
+        <td align="center">20</td>
         <td align="center" colspan="2"></td>
         <td align="center" colspan="2"></td>
         <td align="center" colspan="2"></td>
@@ -652,9 +648,9 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
         <td align="center" class="expand__content"><img width="64px" src= "/images/post/Goods/Coroga_Switch/ball_02.png"></td>
         <td align="center" class="breadcrumb">紅球</td>
         <td align="center">1x1x1</td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">20</td>
+        <td align="center">20</td>
+        <td align="center">20</td>
         <td align="center" colspan="2"></td>
         <td align="center" colspan="2"></td>
         <td align="center" colspan="2"></td>
@@ -686,33 +682,33 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
     <tr>
         <td align="center" class="expand__content"><img width="64px" src= "/images/post/Goods/Coroga_Switch/gadget_01.png"></td>
         <td align="center" class="breadcrumb">任意門</td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">4x1x7</td>
+        <td align="center">96</td>
+        <td align="center">36.5</td>
+        <td align="center">146</td>
+        <td align="center">96</td>
+        <td align="center">107</td>
+        <td align="center">23</td>
+        <td align="center">31</td>
+        <td align="center">+73</td>
+        <td align="center">+4</td>
         <td align="center">高度提升</td>
         <td align="center"></td>
     </tr>
     <tr>
         <td align="center" class="expand__content"><img width="64px" src= "/images/post/Goods/Coroga_Switch/gadget_02.png"></td>
         <td align="center" class="breadcrumb">竹蜻蜓</td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center">旋轉緩速</td>
+        <td align="center">6x3x2</td>
+        <td align="center">144</td>
+        <td align="center">78</td>
+        <td align="center">45</td>
+        <td align="center">23</td>
+        <td align="center">31</td>
+        <td align="center">5</td>
+        <td align="center">13</td>
+        <td align="center">-18</td>
+        <td align="center">-1</td>
+        <td align="center">阻力緩速<br>高度降低</td>
         <td align="center"></td>
     </tr>
     <tr>
@@ -734,16 +730,16 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
     <tr>
         <td align="center" class="expand__content"><img width="64px" src= "/images/post/Goods/Coroga_Switch/gadget_04.png"></td>
         <td align="center" class="breadcrumb">鼬鼠手套</td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">6x2x3</td>
+        <td align="center">144</td>
+        <td align="center">51</td>
+        <td align="center">49</td>
+        <td align="center">41</td>
+        <td align="center">49</td>
+        <td align="center">23</td>
+        <td align="center">31</td>
+        <td align="center">-18</td>
+        <td align="center">-1</td>
         <td align="center">阻力緩速<br>高度降低</td>
         <td align="center"></td>
     </tr>
@@ -753,7 +749,7 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
         <td align="center">3x3x1</td>
         <td align="center">72</td>
         <td align="center">72</td>
-        <td align="center"></td>
+        <td align="center">55</td>
         <td align="center">5</td>
         <td align="center">13</td>
         <td align="center">5</td>
@@ -765,14 +761,14 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
     <tr>
         <td align="center" class="expand__content"><img width="64px" src= "/images/post/Goods/Coroga_Switch/gadget_06.png"></td>
         <td align="center" class="breadcrumb">空氣砲</td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">6x1x5</td>
+        <td align="center">156</td>
+        <td align="center">33</td>
+        <td align="center">83</td>
+        <td align="center">86</td>
+        <td align="center">94</td>
+        <td align="center">23</td>
+        <td align="center">29</td>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center">遠距跳躍<br>高度升降</td>
@@ -796,14 +792,14 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
     <tr>
         <td align="center" class="expand__content"><img width="64px" src= "/images/post/Goods/Coroga_Switch/gadget_08.png"></td>
         <td align="center" class="breadcrumb">倍倍液</td>
+        <td align="center">3x2x3</td>
+        <td align="center">72</td>
+        <td align="center">53</td>
+        <td align="center">69</td>
         <td align="center"></td>
         <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">14</td>
+        <td align="center">22</td>
         <td align="center" colspan="2">0</td>
         <td align="center">彈射加速<br>雙向分流</td>
         <td align="center"></td>
@@ -814,7 +810,7 @@ image: images/post/Goods/Coroga_Switch/logo(1).png
         <td align="center">6x1x2</td>
         <td align="center">144</td>
         <td align="center">33</td>
-        <td align="center"></td>
+        <td align="center">43</td>
         <td align="center">23</td>
         <td align="center">31</td>
         <td align="center">5</td>

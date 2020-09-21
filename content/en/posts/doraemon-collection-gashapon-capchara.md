@@ -25,7 +25,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 ![CAPCHARA環保扭蛋](/images/post/Goods/Gashapon/Capchara/capchara.png)
 [カプキャラとは？](https://www.bandai.co.jp/csrkids/ecomedal/pkg04.html)
 カプセルがおもちゃの一部になった「カプセルレス」商品です。ガシャポンから出てきたとは思えないほど、ボリューム感のあるおもちゃに組み立てられる、新しいガシャポンです。
-台灣譯名為`環保扭蛋`或`大頭扭蛋`
+`CAPCHARA`又稱作`環保扭蛋`或`大頭扭蛋`，是一種提倡環保減少浪費的無蛋殼扭蛋。取而代之的是將扭蛋殼設計成玩具的一部分，因此大多數未拆封的扭蛋會呈現角色頭部的外觀。
 
 ### 哆啦A夢環保扭蛋 第1彈
 ![哆啦A夢環保扭蛋 第1彈](/images/post/Goods/Gashapon/Capchara/1000099434_1.jpg)
@@ -79,6 +79,14 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 
 ![哆啦A夢環保扭蛋 第2彈](/images/post/Goods/Gashapon/Capchara/1000118449_0.jpg)
 
+### 哆啦A夢環保扭蛋 信件篇
+![哆啦A夢環保扭蛋 信件篇](/images/post/Goods/Gashapon/Capchara/IMG_20200914_221303.jpg)
++ カプキャラ　ドラえもん おたより編
++ 発売日 2018年1月
++ 価格（税込） 300円
++ 種類数 4
++ `2018-02-10` `台北地下街` `---` `NTD 500` `購入`
+
 ### 哆啦A夢可動環保扭蛋
 ![哆啦A夢可動環保扭蛋](/images/post/Goods/Gashapon/Capchara/1000127007_1.jpg)
 ![哆啦A夢可動環保扭蛋](/images/post/Goods/Gashapon/Capchara/1000127007_2.jpg)
@@ -131,6 +139,19 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 
 ![哆啦A夢環保扭蛋 第4彈](/images/post/Goods/Gashapon/Capchara/1000136855_0.jpg)
 
+### 藤子博物館限定環保扭蛋
+![藤子博物館限定環保扭蛋](/images/post/Goods/Gashapon/Capchara/i-img600x316-1578390446es71bu519244.jpg)
++ [カプキャラ ドラえもん 藤子・F・不二雄ミュージアム限定ver](https://dora-world.com/contents/1033)
++ ミュージアム限定カプキャラ（1回 ￥400）が、８周年記念祭に先駆け8月16日（金）より登場！！
+顔型カプセルを組み立てるとそのままフィギュアになるカプキャラシリーズ。ミュージアム限定Ver.が登場です。 ドラえもん、ドラミ、パーマン、ポコニャンの全4種。
+
++ `2019-10-05` `台北地下街` `---` `NTD 350` `購入` `哆啦A夢`
++ `2019-10-06` `FB` `洪子棋` `NTD 120` `購入` `哆啦美`
++ `2019-11-15` `蝦皮` `LY愛雅日貨` `NTD 250` `購入` `帕門`
++ `2019-11-15` `蝦皮` `LY愛雅日貨` `NTD 250` `購入` `叮噹貓`
+
+![藤子博物館限定環保扭蛋](/images/post/Goods/Gashapon/Capchara/20200915002022.jpg)
+
 ### 哆啦A夢環保扭蛋 第5彈
 ![哆啦A夢環保扭蛋 第5彈](/images/post/Goods/Gashapon/Capchara/1000141230_1.jpg)
 ![哆啦A夢環保扭蛋 第5彈](/images/post/Goods/Gashapon/Capchara/1000141230_2.jpg)
@@ -167,35 +188,13 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 
 ![哆啦A夢環保扭蛋 第6彈](/images/post/Goods/Gashapon/Capchara/1000148615_0.jpg)
 
-### 哆啦A夢環保扭蛋 信件篇
-![哆啦A夢環保扭蛋 信件篇](/images/post/Goods/Gashapon/Capchara/IMG_20200914_221303.jpg)
-カプキャラ　ドラえもん おたより編
-300円(税込)
-2018年1月
-
-+ `2018-02-10` `台北地下街` `---` `NTD 500` `購入`
-
-### 藤子博物館限定環保扭蛋
-![藤子博物館限定環保扭蛋](/images/post/Goods/Gashapon/Capchara/i-img600x316-1578390446es71bu519244.jpg)
-[カプキャラ ドラえもん 藤子・F・不二雄ミュージアム限定ver](https://dora-world.com/contents/1033)
-ミュージアム限定カプキャラ（1回 ￥400）が、８周年記念祭に先駆け8月16日（金）より登場！！
-顔型カプセルを組み立てるとそのままフィギュアになるカプキャラシリーズ。ミュージアム限定Ver.が登場です。 ドラえもん、ドラミ、パーマン、ポコニャンの全4種。
-
-+ `2019-10-05` `台北地下街` `---` `NTD 350` `購入` `哆啦A夢`
-+ `2019-10-06` `FB` `洪子棋` `NTD 120` `購入` `哆啦美`
-+ `2019-11-15` `蝦皮` `LY愛雅日貨` `NTD 250` `購入` `帕門`
-+ `2019-11-15` `蝦皮` `LY愛雅日貨` `NTD 250` `購入` `叮噹貓`
-
-![藤子博物館限定環保扭蛋](/images/post/Goods/Gashapon/Capchara/20200915002022.jpg)
-
 ### 藤子博物館限定環保扭蛋 第2彈
 ![藤子博物館限定環保扭蛋 第2彈](/images/post/Goods/2020_08_fujiko_museum/117931508_3223074387791703_4792916130528057922_o.jpg)
 ![藤子博物館限定環保扭蛋 第2彈](/images/post/Goods/2020_08_fujiko_museum/0822blog-2.jpg)
-[カプキャラ第2弾、登場！](http://fujiko-museum.com/blog/?p=29688/)
-2020年08月22日/	ミュージアムブログ
++ [カプキャラ第2弾、登場！](http://fujiko-museum.com/blog/?p=29688/)
++ 2020年08月22日/	ミュージアムブログ
 開館9周年を記念して、8/26(水)にカプキャラ4種が新登場！ 
 「初登場ドラえもん」をはじめ、おなじみのキャラクターが仲間入り♪
 ミュージアム限定、1回400円です！
-
 + 【哆啦A夢中文網】[[日本] 轉蛋殼就是哆啦A夢的頭！BANDAI「CAPCHARA 藤子・F・不二雄角色2」川崎市博物館限定發售](https://chinesedora.com/news/23269.htm)
 + `2020-08-22` `LINE` `Yeckas日本代購` `NTD 150` `x4` `預定中`
