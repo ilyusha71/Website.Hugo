@@ -57,7 +57,7 @@ image: images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg
 ---
 + 【哆啦A夢中文網】
 [[日本] 4種不同表情動作的哆啦A夢軟膠玩具扭蛋，11月即將上市！](https://chinesedora.com/news/8057.htm)
-+ `2019-06-06` `露天` `222111oz` `NTD 570` `購入`
+<!-- + `2019-06-06` `露天` `222111oz` `NTD 570` `購入` -->
 
 ![哆啦A夢 軟膠收藏集 第1彈](/images/post/Goods/Gashapon/Sofubi/1000130463_0.jpg)
 
@@ -86,7 +86,7 @@ image: images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg
 ---
 + 【哆啦A夢中文網】
 [[日本] 「哆啦A夢軟膠玩具選 2」扭蛋 4月即將上市](https://chinesedora.com/news/10027.htm)
-+ `2019-06-06` `露天` `222111oz` `NTD 340` `購入`
+<!-- + `2019-06-06` `露天` `222111oz` `NTD 340` `購入` -->
 
 ![哆啦A夢 軟膠收藏集 第2彈](/images/post/Goods/Gashapon/Sofubi/1000134503_0.jpg)
 
@@ -115,7 +115,7 @@ image: images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg
 ---
 + 【哆啦A夢中文網】
 [[日本] BANDAI「哆啦A夢軟膠玩具選3」8月登場! 首度推出哆啦美與元祖哆啦A夢造型](https://chinesedora.com/news/12143.htm)
-+ `2019-09-17` `蝦皮` `Liu 的雜貨舖` `NTD 319` `購入`
+<!-- + `2019-09-17` `蝦皮` `Liu 的雜貨舖` `NTD 319` `購入` -->
 
 ![哆啦A夢 軟膠收藏集 第3彈](/images/post/Goods/Gashapon/Sofubi/1000137888_0.jpg)
 
@@ -167,7 +167,7 @@ image: images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg
 ---
 + 【哆啦A夢中文網】
 [[日本] BANDAI「哆啦A夢軟膠玩具選4」預計6月登場! 首度有迷你哆啦和冷門法寶現身](https://chinesedora.com/news/18446.htm)
-+ `2020-02-01` `LINE` `丸丸雜貨店` `NTD 290` `預定購入`
+<!-- + `2020-02-01` `LINE` `丸丸雜貨店` `NTD 290` `預定購入` -->
 
 ![哆啦A夢 軟膠收藏集 第4彈](/images/post/Goods/Gashapon/Sofubi/1000146365_0.jpg)
 
@@ -186,4 +186,4 @@ image: images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg
 ---
 + 【哆啦A夢中文網】
 []()
-+ `2020-09-14` `LINE` `丸丸雜貨店` `NTD 290` `預定購入`
+<!-- + `2020-09-14` `LINE` `丸丸雜貨店` `NTD 290` `預定購入` -->

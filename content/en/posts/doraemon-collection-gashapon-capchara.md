@@ -62,7 +62,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 ---
 + 【哆啦A夢中文網】
 [[日本] 膠囊哆啦A夢轉蛋新上市! 外殼就是可愛的哆啦A夢大臉](https://chinesedora.com/news/5018.htm)
-+ `2015-07-25` `露天` `轉蛋玩具館` `購入`
+<!-- + `2015-07-25` `露天` `轉蛋玩具館` `購入` -->
 
 ![CAPCHARA 哆啦A夢 第1彈](/images/post/Goods/Gashapon/Capchara/1000099434_0.jpg)
 
@@ -94,7 +94,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
     2. `哆啦A夢`
     3. `大耳鼠`
     4. `替身機器人`
-+ `2016-04-06` `露天` `轉蛋玩具館` `購入`
+<!-- + `2016-04-06` `露天` `轉蛋玩具館` `購入` -->
 
 ![CAPCHARA 藤子・F・不二雄角色](/images/post/Goods/Gashapon/Capchara/1000105578_0.jpg)
 
@@ -121,7 +121,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 + 対象年齢 6歳以上
 
 ---
-+ `2017-10-15` `露天` `轉蛋玩具館` `購入`
+<!-- + `2017-10-15` `露天` `轉蛋玩具館` `購入` -->
 
 ![CAPCHARA 哆啦A夢 第2彈](/images/post/Goods/Gashapon/Capchara/1000118449_0.jpg)
 
@@ -137,7 +137,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 + 種類数 4
 
 ---
-+ `2018-02-10` `台北地下街` `---` `NTD 500` `購入`
+<!-- + `2018-02-10` `台北地下街` `---` `NTD 500` `購入` -->
 
 ![CAPCHARA 哆啦A夢 信件篇](/images/post/Goods/Gashapon/Capchara/IMG_20200914_221303.jpg)
 
@@ -164,7 +164,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 + 対象年齢 6歳以上
 
 ---
-+ `2019-06-16` `蝦皮` `二姊扭蛋店` `NTD 277` `購入`
+<!-- + `2019-06-16` `蝦皮` `二姊扭蛋店` `NTD 277` `購入` -->
 
 ![哆啦A夢 CAPCHARACTION](/images/post/Goods/Gashapon/Capchara/1000127007_0.jpg)
 
@@ -191,7 +191,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 + 対象年齢 6歳以上
 
 ---
-+ `2019-01-26` `露天` `GUN&TOYS` `NTD 399` `購入`
+<!-- + `2019-01-26` `露天` `GUN&TOYS` `NTD 399` `購入` -->
 
 ![CAPCHARA 哆啦A夢 第3彈](/images/post/Goods/Gashapon/Capchara/1000131318_0.jpg)
 
@@ -220,7 +220,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 ---
 + 【哆啦A夢中文網】
 [[日本] BANDAI「CAPCHARA 哆啦A夢4」轉蛋7月上市 轉蛋殼即是本體！](https://chinesedora.com/news/11439.htm)
-+ `2019-07-31` `蝦皮` `mouse66轉蛋機` `NTD 329` `購入`
+<!-- + `2019-07-31` `蝦皮` `mouse66轉蛋機` `NTD 329` `購入` -->
 
 ![CAPCHARA 哆啦A夢 第4彈](/images/post/Goods/Gashapon/Capchara/1000136855_0.jpg)
 
@@ -235,10 +235,10 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 顔型カプセルを組み立てるとそのままフィギュアになるカプキャラシリーズ。ミュージアム限定Ver.が登場です。 ドラえもん、ドラミ、パーマン、ポコニャンの全4種。
 
 ---
-+ `2019-10-05` `台北地下街` `---` `NTD 350` `購入` `哆啦A夢`
+<!-- + `2019-10-05` `台北地下街` `---` `NTD 350` `購入` `哆啦A夢`
 + `2019-10-06` `FB` `洪子棋` `NTD 120` `購入` `哆啦美`
 + `2019-11-15` `蝦皮` `LY愛雅日貨` `NTD 250` `購入` `帕門`
-+ `2019-11-15` `蝦皮` `LY愛雅日貨` `NTD 250` `購入` `叮噹貓`
++ `2019-11-15` `蝦皮` `LY愛雅日貨` `NTD 250` `購入` `叮噹貓` -->
 
 ![CAPCHARA 哆啦A夢 藤子・F・不二雄博物館限定](/images/post/Goods/Gashapon/Capchara/20200915002022.jpg)
 
@@ -267,7 +267,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 ---
 + 【哆啦A夢中文網】
 [[日本] 轉蛋殼就是哆啦A夢的頭! BANDAI「CAPCHARA 哆啦A夢5」12月上市](https://chinesedora.com/news/16481.htm)
-+ `2019-12-26` `蝦皮` `出清小舖` `NTD 299` `購入`
+<!-- + `2019-12-26` `蝦皮` `出清小舖` `NTD 299` `購入` -->
 
 ![CAPCHARA 哆啦A夢 第5彈](/images/post/Goods/Gashapon/Capchara/1000141230_0.jpg)
 
@@ -296,7 +296,7 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 ---
 + 【哆啦A夢中文網】
 [[日本] BANDAI「CAPCHARA 哆啦A夢6」轉蛋8月已陸續上市 轉蛋殼即是本體！](https://chinesedora.com/news/22765.htm)
-+ `2020-03-31` `LINE` `丸丸雜貨店` `NTD 310` `預定中`
+<!-- + `2020-03-31` `LINE` `丸丸雜貨店` `NTD 310` `預定中` -->
 
 ![CAPCHARA 哆啦A夢 第6彈](/images/post/Goods/Gashapon/Capchara/1000148615_0.jpg)
 
@@ -316,4 +316,4 @@ image: images/post/Goods/Gashapon/Capchara/1000099434_1.jpg
 ---
 + 【哆啦A夢中文網】
 [[日本] 轉蛋殼就是哆啦A夢的頭！BANDAI「CAPCHARA 藤子・F・不二雄角色2」川崎市博物館限定發售](https://chinesedora.com/news/23269.htm)
-+ `2020-08-22` `LINE` `Yeckas日本代購` `NTD 150` `x4` `預定中`
+<!-- + `2020-08-22` `LINE` `Yeckas日本代購` `NTD 150` `x4` `預定中` -->
