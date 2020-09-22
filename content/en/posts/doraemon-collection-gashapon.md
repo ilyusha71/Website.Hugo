@@ -27,6 +27,22 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 + 【BANDAI】
 [バンダイ公式サイト | おもちゃ情報満載](https://www.bandai.co.jp/)
 
+## 人氣系列
+### CAPCHARA 哆啦A夢
+[CAPCHARA 哆啦A夢](../doraemon-collection-gashapon-capchara)
+
+### 哆啦A夢 軟膠收藏集
+[哆啦A夢 軟膠收藏集](../doraemon-collection-gashapon-sofubi)
+
+### 哆啦A夢 道具收藏集
+[哆啦A夢 道具收藏集](../doraemon-collection-gashapon-atsumete-ippai-collection)
+
+### 哆啦A夢 造型夾子
+[哆啦A夢 造型夾子](../doraemon-collection-gashapon-clip)
+
+### 哆啦A夢 電影扭蛋
+[哆啦A夢 電影扭蛋](../doraemon-collection-gashapon-movie)
+
 ## Bandai 早期
 ### 哆啦A夢小火車
 ![哆啦A夢小火車](/images/post/Goods/Gashapon/1000073258_1.jpg)
@@ -143,7 +159,7 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 
 ### 藤子F不二雄角色 萌萌造型搖擺吊飾
 ![藤子F不二雄角色 萌萌造型搖擺吊飾](/images/post/Goods/Gashapon/Mascot/1000104712_1.jpg)
-+ [藤子F不二雄角色 萌萌造型搖擺吊飾](../doraemon-collection-gashapon-mascot#藤子f不二雄角色-萌萌造型搖擺吊飾)
++ [藤子F不二雄角色 萌萌造型搖擺吊飾](../doraemon-collection-gashapon-mascot-swing#藤子f不二雄角色-萌萌造型搖擺吊飾)
 + 発売日 2016年06月下旬
 + 価格（税込） 300円
 + 種類数 5
@@ -166,7 +182,7 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 
 ### 哆啦A夢 悠閒時光公仔
 ![哆啦A夢 悠閒時光公仔](/images/post/Goods/Gashapon/Mascot/1000110763_1.jpg)
-+ [哆啦A夢 悠閒時光公仔](../doraemon-collection-gashapon-mascot#哆啦a夢-悠閒時光公仔)
++ [哆啦A夢 悠閒時光公仔](../doraemon-collection-gashapon-mascot-swing#哆啦a夢-悠閒時光公仔)
 + 発売日 2016年12月中旬
 + 価格（税込） 300円
 + 種類数 5
@@ -188,7 +204,7 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 
 ### 哆啦A夢 串連公仔吊飾
 ![哆啦A夢 串連公仔吊飾](/images/post/Goods/Gashapon/Mascot/1000116894_3.jpg)
-+ [哆啦A夢 串連公仔吊飾](../doraemon-collection-gashapon-mascot#哆啦a夢-串連公仔吊飾)
++ [哆啦A夢 串連公仔吊飾](../doraemon-collection-gashapon-mascot-swing#哆啦a夢-串連公仔吊飾)
 + 発売日 2017年06月未定
 + 価格（税込） 300円
 + 種類数 10
@@ -218,7 +234,7 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 
 ### 哆啦A夢 軟軟吊飾 第1彈
 ![哆啦A夢 軟軟吊飾 第1彈](/images/post/Goods/Gashapon/Mascot/1000120921_1.jpg)
-+ [哆啦A夢 軟軟吊飾 第1彈](../doraemon-collection-gashapon-mascot#哆啦a夢-軟軟吊飾-第1彈)
++ [哆啦A夢 軟軟吊飾 第1彈](../doraemon-collection-gashapon-mascot-swing#哆啦a夢-軟軟吊飾-第1彈)
 + 発売日 2017年12月「第5週」
 + 価格（税込） 300円
 + 種類数 5
@@ -242,7 +258,7 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 
 ### 哆啦A夢 毛茸茸吊飾
 ![哆啦A夢 毛茸茸吊飾](/images/post/Goods/Gashapon/Mascot/1000124738_1.jpg)
-+ [哆啦A夢 毛茸茸吊飾](../doraemon-collection-gashapon-mascot#哆啦a夢-毛茸茸吊飾)
++ [哆啦A夢 毛茸茸吊飾](../doraemon-collection-gashapon-mascot-swing#哆啦a夢-毛茸茸吊飾)
 + 発売日 2018年04月「第5週」
 + 価格（税込） 300円
 + 種類数 4
@@ -265,20 +281,20 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 
 ### 哆啦A夢 軟軟吊飾 第2彈
 ![哆啦A夢 軟軟吊飾 第2彈](/images/post/Goods/Gashapon/Mascot/1000127742_1.jpg)
-+ [哆啦A夢 軟軟吊飾 第2彈](../doraemon-collection-gashapon-mascot#哆啦a夢-軟軟吊飾-第2彈)
++ [哆啦A夢 軟軟吊飾 第2彈](../doraemon-collection-gashapon-mascot-swing#哆啦a夢-軟軟吊飾-第2彈)
 + 発売日 2018年08月「第2週」
 + 価格（税込） 300円
 + 種類数 5
 
 ### 哆啦A夢 迷你表情吊飾
 ![哆啦A夢 迷你表情吊飾](/images/post/Goods/Gashapon/Mascot/1000129461_1.jpg)
-+ [哆啦A夢 迷你表情吊飾](../doraemon-collection-gashapon-mascot#哆啦a夢-迷你表情吊飾)
++ [哆啦A夢 迷你表情吊飾](../doraemon-collection-gashapon-mascot-swing#哆啦a夢-迷你表情吊飾)
 + 発売日 2018年10月「第2週」
 + 価格（税込） 300円
 + 種類数 5
 
 ### 哆啦A夢 軟膠收藏集 第1彈
-`哆啦A夢軟膠收藏 第1彈`
+`哆啦A夢軟膠玩具選1`
 
 ![哆啦A夢 軟膠收藏集 第1彈](/images/post/Goods/Gashapon/Sofubi/1000130463_1.jpg)
 + [哆啦A夢 軟膠收藏集 第1彈](../doraemon-collection-gashapon-sofubi#哆啦a夢-軟膠收藏集-第1彈)
@@ -313,7 +329,7 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 + 種類数 4
 
 ### 哆啦A夢 軟膠收藏集 第2彈
-`哆啦A夢軟膠收藏 第2彈`
+`哆啦A夢軟膠玩具選2`
 
 ![哆啦A夢 軟膠收藏集 第2彈](/images/post/Goods/Gashapon/Sofubi/1000134503_1.jpg)
 + [哆啦A夢 軟膠收藏集 第2彈](../doraemon-collection-gashapon-sofubi#哆啦a夢-軟膠收藏集-第2彈)
@@ -331,7 +347,7 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 + 種類数 4
 
 ### 哆啦A夢 軟膠收藏集 第3彈
-`哆啦A夢軟膠收藏 第3彈`
+`哆啦A夢軟膠玩具選3`
 
 ![哆啦A夢 軟膠收藏集 第3彈](/images/post/Goods/Gashapon/Sofubi/1000137888_1.jpg)
 + [哆啦A夢 軟膠收藏集 第3彈](../doraemon-collection-gashapon-sofubi#哆啦a夢-軟膠收藏集-第3彈)
@@ -349,7 +365,7 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 + 種類数 4
 
 ### 哆啦A夢 軟膠收藏集 SP
-`哆啦A夢軟膠收藏 SP`
+`哆啦A夢軟膠玩具選SP`
 
 ![哆啦A夢 軟膠收藏集 SP](/images/post/Goods/Gashapon/Sofubi/1000137914_1.jpg)
 + [哆啦A夢 軟膠收藏集 SP](../doraemon-collection-gashapon-sofubi#哆啦a夢-軟膠收藏集-sp)
@@ -391,7 +407,7 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 + 種類数 4
 
 ### 哆啦A夢 軟膠收藏集 第4彈
-`哆啦A夢軟膠收藏 第4彈`
+`哆啦A夢軟膠玩具選4`
 
 ![哆啦A夢 軟膠收藏集 第4彈](/images/post/Goods/Gashapon/Sofubi/1000146365_1.jpg)
 + [哆啦A夢 軟膠收藏集 第4彈](../doraemon-collection-gashapon-sofubi#哆啦a夢-軟膠收藏集-第4彈)
@@ -403,7 +419,7 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 `哆啦A夢運動吊飾`
 
 ![哆啦A夢 一起運動吧！搖擺吊飾](/images/post/Goods/Gashapon/Mascot/1000130463_2.jpg)
-+ [哆啦A夢 一起運動吧！搖擺吊飾](../doraemon-collection-gashapon-mascot#哆啦a夢-一起運動吧搖擺吊飾)
++ [哆啦A夢 一起運動吧！搖擺吊飾](../doraemon-collection-gashapon-mascot-swing#哆啦a夢-一起運動吧搖擺吊飾)
 + 発売日 2020年07月「第1週」
 + 価格（税込） 300円
 + 種類数 4
@@ -428,7 +444,7 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 + 種類数 4
 
 ### 哆啦A夢 軟膠收藏集 第5彈
-`哆啦A夢軟膠收藏 第5彈`
+`哆啦A夢軟膠玩具選5`
 
 ![哆啦A夢 軟膠收藏集 第5彈](/images/post/Goods/Gashapon/Sofubi/22036261439479_579.jpg)
 + [哆啦A夢 軟膠收藏集 第5彈](../doraemon-collection-gashapon-sofubi#哆啦a夢-軟膠收藏集-第5彈)

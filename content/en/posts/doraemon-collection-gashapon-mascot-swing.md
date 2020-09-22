@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢收藏集 吊飾扭蛋"
+title: "扭蛋 哆啦A夢吉祥物吊飾"
 date: 2020-09-18T13:50:41+08:00
-description: "哆啦A夢收藏集 吊飾扭蛋"
+description: "扭蛋 哆啦A夢吉祥物吊飾"
 draft: false
 hideToc: false
 enableToc: true
@@ -16,14 +16,14 @@ series:
 - 哆啦A夢商品
 categories:
 - 哆啦A夢收藏集
-image: images/post/Goods/Gashapon/Mascot/1000129461_1.jpg
+image: images/post/Goods/Gashapon/Mascot/1000130463_2.jpg
 ---
-<mark>最後更新：2020/09/18</mark>
+<mark>最後更新：2020/09/22</mark>
 
 # 扭蛋
 [哆啦A夢收藏集 扭蛋玩具](../doraemon-collection-gashapon)
 
-## 吊飾扭蛋
+## 哆啦A夢吉祥物吊飾
 ### 藤子F不二雄角色 萌萌造型搖擺吊飾
 ![藤子F不二雄角色 萌萌造型搖擺吊飾](/images/post/Goods/Gashapon/Mascot/1000104712_1.jpg)
 ![藤子F不二雄角色 萌萌造型搖擺吊飾](/images/post/Goods/Gashapon/Mascot/1000104712_2.jpg)
@@ -35,7 +35,11 @@ image: images/post/Goods/Gashapon/Mascot/1000129461_1.jpg
 [藤子・F・不二雄キャラクターズ かわいいマスコットスイング](https://gashapon.jp/products/detail.html?jan_code=4549660065623000)
 + 【BANDAI】
 [藤子・F・不二雄キャラクターズ かわいいマスコットスイング](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660065623000)
-+ 大人気の藤子・F・不二雄キャラクターズが、大好物にはさまれちゃったスイング登場！各キャラクターの至福の表情が秀逸！
+
+---
+ 大人気の藤子・F・不二雄キャラクターズが、大好物にはさまれちゃったスイング登場！各キャラクターの至福の表情が秀逸！
+
+---
 + 発売日 2016年06月下旬
 + 価格（税込） 300円
 + 種類数 5
@@ -53,7 +57,11 @@ image: images/post/Goods/Gashapon/Mascot/1000129461_1.jpg
 [ドラえもん　ほんわかマスコット](https://gashapon.jp/products/detail.html?jan_code=4549660109334000)
 + 【BANDAI】
 [ドラえもん　ほんわかマスコット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660109334000)
-+ ドラえもんから、かわいいデスクトップマスコットが登場！付属の土管や雲と組み合わせて飾っちゃおう！
+
+---
+ ドラえもんから、かわいいデスクトップマスコットが登場！付属の土管や雲と組み合わせて飾っちゃおう！
+
+---
 + 発売日 2016年12月中旬
 + 価格（税込） 300円
 + 種類数 5
@@ -78,7 +86,11 @@ image: images/post/Goods/Gashapon/Mascot/1000129461_1.jpg
 [ドラえもん　つまんでつなげてますこっと](https://gashapon.jp/products/detail.html?jan_code=4549660134312000)
 + 【BANDAI】
 [ドラえもん　つまんでつなげてますこっと](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660134312000)
-+ つまんでつなげてますこっとシリーズより、「ドラえもん」が登場！みんなつままれた、ガシャポンだけのオリジナルポーズ。つなげてカバンにぶらさげよう！
+
+---
+ つまんでつなげてますこっとシリーズより、「ドラえもん」が登場！みんなつままれた、ガシャポンだけのオリジナルポーズ。つなげてカバンにぶらさげよう！
+
+---
 + 発売日 2017年06月未定
 + 価格（税込） 300円
 + 種類数 10
@@ -95,7 +107,11 @@ image: images/post/Goods/Gashapon/Mascot/1000129461_1.jpg
 [ドラえもん　ふにゅふにゅマスコット](https://gashapon.jp/products/detail.html?jan_code=4549660226031000)
 + 【BANDAI】
 [ドラえもん　ふにゅふにゅマスコット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660226031000)
-+ 大人気、ドラえもんのふにゅふにゅマスコットの登場！にぎるとふにゅふにゅ柔らかい！ボリューム満点のサイズ感！
+
+---
+ 大人気、ドラえもんのふにゅふにゅマスコットの登場！にぎるとふにゅふにゅ柔らかい！ボリューム満点のサイズ感！
+
+---
 + 発売日 2017年12月「第5週」
 + 価格（税込） 300円
 + 種類数 5
@@ -111,7 +127,11 @@ image: images/post/Goods/Gashapon/Mascot/1000129461_1.jpg
 [ドラえもん　もふもふマスコット](https://gashapon.jp/products/detail.html?jan_code=4549660247210000)
 + 【BANDAI】
 [ドラえもん　もふもふマスコット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660247210000)
-+ ドラえもんのもふもふした、マスコットが登場！ドラえもんとドラミちゃんのフェイスとボディをラインナップ！
+
+---
+ドラえもんのもふもふした、マスコットが登場！ドラえもんとドラミちゃんのフェイスとボディをラインナップ！
+
+---
 + 発売日 2018年04月「第5週」
 + 価格（税込） 300円
 + 種類数 4
@@ -129,7 +149,11 @@ image: images/post/Goods/Gashapon/Mascot/1000129461_1.jpg
 [ドラえもん　ふにゅふにゅマスコット2](https://gashapon.jp/products/detail.html?jan_code=4549660292296000)
 + 【BANDAI】
 [ドラえもん　ふにゅふにゅマスコット2](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660292296000)
-+ ドラえもん　ふにゅふにゅマスコットの第2弾が登場！　ドラえもん、ドラミちゃんは勿論、ひみつ道具のミニドラえもんとスモールライトをラインナップ！
+
+---
+ドラえもん　ふにゅふにゅマスコットの第2弾が登場！　ドラえもん、ドラミちゃんは勿論、ひみつ道具のミニドラえもんとスモールライトをラインナップ！
+
+---
 + 発売日 2018年08月「第2週」
 + 価格（税込） 300円
 + 種類数 5
@@ -147,7 +171,11 @@ image: images/post/Goods/Gashapon/Mascot/1000129461_1.jpg
 [ドラえもん　ミニフェイスクッションマスコット](https://gashapon.jp/products/detail.html?jan_code=4549660295297000)
 + 【BANDAI】
 [ドラえもん　ミニフェイスクッションマスコット](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660295297000)
-+ ドラえもんの顔をまあるく切り取った、かわいいもふもふなマスコットがカプセルトイに登場！ミニドラえもんはドラえもんと一緒に並べてかわいいミニサイズです！
+
+---
+ドラえもんの顔をまあるく切り取った、かわいいもふもふなマスコットがカプセルトイに登場！ミニドラえもんはドラえもんと一緒に並べてかわいいミニサイズです！
+
+---
 + 発売日 2018年10月「第2週」
 + 価格（税込） 300円
 + 種類数 5
@@ -168,7 +196,11 @@ image: images/post/Goods/Gashapon/Mascot/1000129461_1.jpg
 [ドラえもん　れっつすぽーつ！スイング](https://gashapon.jp/products/detail.html?jan_code=4549660473619000)
 + 【BANDAI】
 [ドラえもん　れっつすぽーつ！スイング](https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660473619000)
-+ 人気のスポーツをテーマにした躍動感のあるスイングが登場！身につけたら一緒に体を動かしたくなっちゃうかも☆
+
+---
+人気のスポーツをテーマにした躍動感のあるスイングが登場！身につけたら一緒に体を動かしたくなっちゃうかも☆
+
+---
 + 発売日 2020年07月「第1週」
 + 価格（税込） 300円
 + 種類数 4
