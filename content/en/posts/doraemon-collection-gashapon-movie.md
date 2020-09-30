@@ -22,15 +22,17 @@ image: images/post/Goods/Gashapon/Movie/1000133807_1.jpg
 
 # 扭蛋
 ## 電影扭蛋
-### 電影哆啦A夢 新·大雄的大魔境
-![電影哆啦A夢 新·大雄的大魔境](/images/post/Goods/Gashapon/Movie/1000087570_1.jpg)
-![電影哆啦A夢 新·大雄的大魔境](/images/post/Goods/Gashapon/Movie/1000087570_2.jpg)
-![電影哆啦A夢 新·大雄的大魔境](/images/post/Goods/Gashapon/Movie/1000087570_3.jpg)
-![電影哆啦A夢 新·大雄的大魔境](/images/post/Goods/Gashapon/Movie/1000087570_4.jpg)
-![電影哆啦A夢 新·大雄的大魔境](/images/post/Goods/Gashapon/Movie/1000087570_5.jpg)
-![電影哆啦A夢 新·大雄的大魔境](/images/post/Goods/Gashapon/Movie/1000087570_6.jpg)
-![電影哆啦A夢 新·大雄的大魔境](/images/post/Goods/Gashapon/Movie/1000087570_7.jpg)
-![電影哆啦A夢 新·大雄的大魔境](/images/post/Goods/Gashapon/Movie/1000087570_8.jpg)
+### 哆啦A夢 膠囊秘密道具 2014
+`哆啦A夢電影扭蛋 2014` `電影哆啦A夢 新·大雄的大魔境`
+
+![哆啦A夢 膠囊秘密道具 2014](/images/post/Goods/Gashapon/Movie/1000087570_1.jpg)
+![哆啦A夢 膠囊秘密道具 2014](/images/post/Goods/Gashapon/Movie/1000087570_2.jpg)
+![哆啦A夢 膠囊秘密道具 2014](/images/post/Goods/Gashapon/Movie/1000087570_3.jpg)
+![哆啦A夢 膠囊秘密道具 2014](/images/post/Goods/Gashapon/Movie/1000087570_4.jpg)
+![哆啦A夢 膠囊秘密道具 2014](/images/post/Goods/Gashapon/Movie/1000087570_5.jpg)
+![哆啦A夢 膠囊秘密道具 2014](/images/post/Goods/Gashapon/Movie/1000087570_6.jpg)
+![哆啦A夢 膠囊秘密道具 2014](/images/post/Goods/Gashapon/Movie/1000087570_7.jpg)
+![哆啦A夢 膠囊秘密道具 2014](/images/post/Goods/Gashapon/Movie/1000087570_8.jpg)
 + 【BANDAI】
 [ドラえもん　カプセルひみつグッズ2014](https://www.bandai.co.jp/catalog/item.php?jan_cd=4543112849649000)
 + 【GASHPON WORLD】
@@ -41,14 +43,16 @@ image: images/post/Goods/Gashapon/Movie/1000133807_1.jpg
 + 種類数 7
 + 対象年齢 6歳以上
 
-### 電影哆啦A夢 大雄的宇宙英雄記
-![電影哆啦A夢 大雄的宇宙英雄記](/images/post/Goods/Gashapon/Movie/1000096471_1.jpg)
-![電影哆啦A夢 大雄的宇宙英雄記](/images/post/Goods/Gashapon/Movie/1000096471_2.jpg)
-![電影哆啦A夢 大雄的宇宙英雄記](/images/post/Goods/Gashapon/Movie/1000096471_3.jpg)
-![電影哆啦A夢 大雄的宇宙英雄記](/images/post/Goods/Gashapon/Movie/1000096471_4.jpg)
-![電影哆啦A夢 大雄的宇宙英雄記](/images/post/Goods/Gashapon/Movie/1000096471_5.jpg)
-![電影哆啦A夢 大雄的宇宙英雄記](/images/post/Goods/Gashapon/Movie/1000096471_6.jpg)
-![電影哆啦A夢 大雄的宇宙英雄記](/images/post/Goods/Gashapon/Movie/1000096471_7.jpg)
+### 哆啦A夢 膠囊秘密道具 2015
+`哆啦A夢電影扭蛋 2015` `電影哆啦A夢 大雄的宇宙英雄記`
+
+![哆啦A夢 膠囊秘密道具 2015](/images/post/Goods/Gashapon/Movie/1000096471_1.jpg)
+![哆啦A夢 膠囊秘密道具 2015](/images/post/Goods/Gashapon/Movie/1000096471_2.jpg)
+![哆啦A夢 膠囊秘密道具 2015](/images/post/Goods/Gashapon/Movie/1000096471_3.jpg)
+![哆啦A夢 膠囊秘密道具 2015](/images/post/Goods/Gashapon/Movie/1000096471_4.jpg)
+![哆啦A夢 膠囊秘密道具 2015](/images/post/Goods/Gashapon/Movie/1000096471_5.jpg)
+![哆啦A夢 膠囊秘密道具 2015](/images/post/Goods/Gashapon/Movie/1000096471_6.jpg)
+![哆啦A夢 膠囊秘密道具 2015](/images/post/Goods/Gashapon/Movie/1000096471_7.jpg)
 + 【BANDAI】
 [ドラえもん　カプセルひみつグッズ2015](https://www.bandai.co.jp/catalog/item.php?jan_cd=4543112957092000)
 + 【GASHPON WORLD】
@@ -61,6 +65,8 @@ image: images/post/Goods/Gashapon/Movie/1000133807_1.jpg
 + `2020-08-20` `露天` `線上扭蛋機` `NTD 358` `購入`
 
 ### 電影哆啦A夢 新·大雄的日本誕生
+`哆啦A夢電影扭蛋 2016` `電影哆啦A夢 新·大雄的日本誕生`
+
 ![電影哆啦A夢 新·大雄的日本誕生](/images/post/Goods/Gashapon/Movie/1000103124_1.jpg)
 ![電影哆啦A夢 新·大雄的日本誕生](/images/post/Goods/Gashapon/Movie/1000103124_2.jpg)
 ![電影哆啦A夢 新·大雄的日本誕生](/images/post/Goods/Gashapon/Movie/1000103124_3.jpg)
@@ -80,6 +86,8 @@ image: images/post/Goods/Gashapon/Movie/1000133807_1.jpg
 + `2020-08-30` `蝦皮` `ejinz` `NTD 599` `購入`
 
 ### 電影哆啦A夢 大雄的南極大冒險
+`哆啦A夢電影扭蛋 2017` `電影哆啦A夢 大雄的南極大冒險`
+
 ![電影哆啦A夢 大雄的南極大冒險](/images/post/Goods/Gashapon/Movie/1000113408_1.jpg)
 ![電影哆啦A夢 大雄的南極大冒險](/images/post/Goods/Gashapon/Movie/1000113408_2.jpg)
 ![電影哆啦A夢 大雄的南極大冒險](/images/post/Goods/Gashapon/Movie/1000113408_3.jpg)
@@ -101,6 +109,8 @@ image: images/post/Goods/Gashapon/Movie/1000133807_1.jpg
 + `2020-08-24` `蝦皮` `開闢工作室` `NTD 880` `購入`
 
 ### 電影哆啦A夢 大雄的金銀島
+`哆啦A夢電影扭蛋 2018` `電影哆啦A夢 大雄的金銀島`
+
 ![電影哆啦A夢 大雄的金銀島](/images/post/Goods/Gashapon/Movie/1000123089_1.jpg)
 ![電影哆啦A夢 大雄的金銀島](/images/post/Goods/Gashapon/Movie/1000123089_2.jpg)
 ![電影哆啦A夢 大雄的金銀島](/images/post/Goods/Gashapon/Movie/1000123089_3.jpg)
@@ -127,6 +137,8 @@ image: images/post/Goods/Gashapon/Movie/1000133807_1.jpg
 + `2018-02-24` `露天` `儂儂轉蛋屋` `NTD 1000` `預定購入`
 
 ### 電影哆啦A夢 大雄的月球探測記
+`哆啦A夢電影扭蛋 2019` `電影哆啦A夢 大雄的月球探測記`
+
 ![電影哆啦A夢 大雄的月球探測記](/images/post/Goods/Gashapon/Movie/1000133807_1.jpg)
 ![電影哆啦A夢 大雄的月球探測記](/images/post/Goods/Gashapon/Movie/1000133807_2.jpg)
 ![電影哆啦A夢 大雄的月球探測記](/images/post/Goods/Gashapon/Movie/1000133807_3.jpg)
@@ -146,6 +158,8 @@ image: images/post/Goods/Gashapon/Movie/1000133807_1.jpg
 + `2019-07-12` `蝦皮` `Liu 的雜貨舖` `NTD 299` `購入`
 
 ### 電影哆啦A夢 大雄的新恐龍
+`哆啦A夢電影扭蛋 2020` `電影哆啦A夢 大雄的新恐龍`
+
 ![電影哆啦A夢 大雄的新恐龍](/images/post/Goods/Gashapon/Movie/1000144003_1.jpg)
 ![電影哆啦A夢 大雄的新恐龍](/images/post/Goods/Gashapon/Movie/1000144003_2.jpg)
 ![電影哆啦A夢 大雄的新恐龍](/images/post/Goods/Gashapon/Movie/1000144003_3.jpg)

@@ -351,9 +351,14 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 + 価格（税込） 300円
 + 種類数 4
 
-### 哆啦A夢電影扭蛋 2015
-![電影哆啦A夢 大雄的宇宙英雄記](/images/post/Goods/Gashapon/Movie/1000096471_1.jpg)
+### 哆啦A夢 膠囊秘密道具 2015
+`哆啦A夢電影扭蛋 2015` `電影哆啦A夢 大雄的宇宙英雄記`
+
+![哆啦A夢 膠囊秘密道具 2015](/images/post/Goods/Gashapon/Movie/1000096471_1.jpg)
++ [哆啦A夢 膠囊秘密道具 2015](../doraemon-collection-gashapon-movie#哆啦a夢-膠囊秘密道具-2015)
 + 発売日 2015年03月下旬
++ 価格（税込） 200円
++ 種類数 6
 
 ### 藤子F不二雄桌上公仔
 ![藤子F不二雄桌上公仔](/images/post/Goods/Gashapon/Desktop/1000095400_1.jpg)
@@ -366,14 +371,58 @@ image: images/post/Goods/Gashapon/logo_gashapon.png
 [哆啦A夢桌上大冒險 第2彈](../doraemon-collection-gashapon-desktop-adventure#哆啦a夢桌上大冒險-第2彈)
 + 発売日 2014年08月上旬
 
-### 哆啦A夢電影扭蛋 2014
-![電影哆啦A夢 新·大雄的大魔境](/images/post/Goods/Gashapon/Movie/1000087570_1.jpg)
+### 哆啦A夢 膠囊秘密道具 2014
+`哆啦A夢電影扭蛋 2014` `電影哆啦A夢 新·大雄的大魔境`
+
+![哆啦A夢 膠囊秘密道具 2014](/images/post/Goods/Gashapon/goods2004.jpg)
++ [哆啦A夢 膠囊秘密道具 2014](../doraemon-collection-gashapon-movie#哆啦a夢-膠囊秘密道具-2014)
 + 発売日 2014年03月上旬
++ 価格（税込） 200円
++ 種類数 7
 
 ### 哆啦A夢桌上大冒險 第1彈
 ![哆啦A夢桌上大冒險 第1彈](/images/post/Goods/Gashapon/Desktop/m80829903687_1.jpg)
 [哆啦A夢桌上大冒險 第1彈](../doraemon-collection-gashapon-desktop-adventure#哆啦a夢桌上大冒險-第1彈)
 + 発売日 2014年1月
+
+## Bandai 2010~2013
+### 藤子・F・不二雄 角色吊飾 第4彈
+![藤子・F・不二雄 角色吊飾 第4彈](/images/post/Goods/Gashapon/fmascot4.jpg)
++ 【Toypara】[藤子・F・不二雄 キャラクターズマスコット4](https://toypara.com/catalog.cgi?products/gasya/doraemon/home.html)
+
+### 藤子・F・不二雄 角色吊飾 第3彈
+![藤子・F・不二雄 角色吊飾 第3彈](/images/post/Goods/Gashapon/fmascot3.jpg)
++ 【Toypara】[藤子・F・不二雄 キャラクターズマスコット3](https://toypara.com/catalog.cgi?products/gasya/doraemon/home.html)
+
+### 哆啦A夢 膠囊秘密道具 2013
+![哆啦A夢 膠囊秘密道具 2013](/images/post/Goods/Gashapon/goods2013.jpg)
++ 【Toypara】[ドラえもん　カプセルひみつグッズ2013](https://toypara.com/catalog.cgi?products/gasya/doraemon/home.html)
+
+### 藤子・F・不二雄 角色吊飾 第2彈
+![藤子・F・不二雄 角色吊飾 第2彈](/images/post/Goods/Gashapon/fmascot2.jpg)
++ 【Toypara】[藤子・F・不二雄 キャラクターズマスコット2](https://toypara.com/catalog.cgi?products/gasya/doraemon/home.html)
+
+### 哆啦A夢 好朋友吊飾
+![哆啦A夢 好朋友吊飾](/images/post/Goods/Gashapon/nbakayoshi.jpg)
++ 【Toypara】[ドラえもん　なかよしマスコット](https://toypara.com/catalog.cgi?products/gasya/doraemon/home.html)
++ [ドラえもん　なかよしマスコット](https://mignon.hateblo.jp/entry/2012/01/14/101206)
++ 発売日 2012年1月？
+
+### 藤子・F・不二雄 角色吊飾 第1彈
+![藤子・F・不二雄 角色吊飾 第1彈](/images/post/Goods/Gashapon/fmascot.jpg)
++ 【Toypara】[藤子・F・不二雄 キャラクターズマスコット](https://toypara.com/catalog.cgi?products/gasya/doraemon/home.html)
+
+### 哆啦A夢 膠囊秘密道具 第3彈
+![哆啦A夢 膠囊秘密道具 第3彈](/images/post/Goods/Gashapon/goods3.jpg)
++ 【Toypara】[ドラえもん　カプセルひみつグッズ3](https://toypara.com/catalog.cgi?products/gasya/doraemon/home.html)
+
+### 哆啦A夢 膠囊秘密道具 第2彈
+![哆啦A夢 膠囊秘密道具 第2彈](/images/post/Goods/Gashapon/goods2.jpg)
++ 【Toypara】[ドラえもん　カプセルひみつグッズ2](https://toypara.com/catalog.cgi?products/gasya/doraemon/home.html)
+
+### 哆啦A夢 膠囊秘密道具 第1彈
+![哆啦A夢 膠囊秘密道具 第1彈](/images/post/Goods/Gashapon/goods.jpg)
++ 【Toypara】[ドラえもん　カプセルひみつグッズ](https://toypara.com/catalog.cgi?products/gasya/doraemon/home.html)
 
 ## Bandai 早期
 ### 哆啦A夢大頭搖擺吊飾
