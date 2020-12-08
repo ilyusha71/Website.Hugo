@@ -20,8 +20,12 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## Instagram Simple Shortcode
 
-{{< instagram_simple BGvuInzyFAe hidecaption >}}
-
+{{ if not .Site.IsServer }}
+    {{ template "_internal/shortcodes/instagram.html" . }}
+{{ else }}
+    <!-- Render the placeholder for the shortcode -->
+    <pre>Instagram Photo: {{ .Get 0 }}</pre>
+{{ end }}
 <br>
 
 ---

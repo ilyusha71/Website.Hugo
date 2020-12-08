@@ -63,7 +63,7 @@ image: images/post/Goods/2020_08_mirai_dora_world/slide_202007_miradepalimited.p
 + コマ：アクリル
 + 底脚：ポリウレタン
 + 生産国：フィリピン
-+ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 1213` `未來百貨網路商店` `預定購入` `日幣匯率 0.29`
++ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 1213` `未來百貨網路商店` `購入` `日幣匯率 0.29`
 
 ## 人造花擺飾
 ### 哆啦A夢人造花擺飾
@@ -81,7 +81,7 @@ image: images/post/Goods/2020_08_mirai_dora_world/slide_202007_miradepalimited.p
 + 本体：W80mm×H100mm×D80mm
 + 外箱：W133mm×H115mm×D112mm
 + 素材：ポリエステル樹脂、造花
-+ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 894` `未來百貨網路商店` `預定購入` `日幣匯率 0.29`
++ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 894` `未來百貨網路商店` `購入` `日幣匯率 0.29`
 
 ### 哆啦美人造花擺飾
 ![哆啦美人造花擺飾](/images/post/Goods/2020_08_mirai_dora_world/4990593331369_2.jpg)
@@ -98,7 +98,7 @@ image: images/post/Goods/2020_08_mirai_dora_world/slide_202007_miradepalimited.p
 + 外箱：W153mm×H115mm×D105mm
 + 素材：ポリエステル樹脂、造花
 + 生産国：フィリピン
-+ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 894` `未來百貨網路商店` `預定購入` `日幣匯率 0.29`
++ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 894` `未來百貨網路商店` `購入` `日幣匯率 0.29`
 
 ## 時鐘
 ### 時光布時鐘
@@ -117,7 +117,7 @@ image: images/post/Goods/2020_08_mirai_dora_world/slide_202007_miradepalimited.p
 + 素材：ポリエステル樹脂
 + 生産国：フィリピン
 + 時計パーツ品質保証書在中
-+ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 1436` `未來百貨網路商店` `預定購入` `日幣匯率 0.29`
++ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 1436` `未來百貨網路商店` `購入` `日幣匯率 0.29`
 
 ## 飾品盒
 ### 想吃銅鑼燒飾品盒
@@ -135,7 +135,7 @@ image: images/post/Goods/2020_08_mirai_dora_world/slide_202007_miradepalimited.p
 + 外箱：W130mm×H120mm×D100mm
 + ポリエステル樹脂
 + 生産国：フィリピン
-+ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 894` `未來百貨網路商店` `預定購入` `日幣匯率 0.29`
++ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 894` `未來百貨網路商店` `購入` `日幣匯率 0.29`
 
 ### 哆啦A夢與小咪飾品盒
 ![哆啦A夢與小咪飾品盒](/images/post/Goods/2020_08_mirai_dora_world/4990593331475_2.jpg)
@@ -152,7 +152,7 @@ image: images/post/Goods/2020_08_mirai_dora_world/slide_202007_miradepalimited.p
 + 外箱：W100mm×H155mm×D100mm
 + ポリエステル樹脂
 + 生産国：フィリピン
-+ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 894` `未來百貨網路商店` `預定購入` `日幣匯率 0.29`
++ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 894` `未來百貨網路商店` `購入` `日幣匯率 0.29`
 
 ## 音樂盒
 ### 增加氣氛的樂團音樂盒
@@ -174,8 +174,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/slide_202007_miradepalimited.p
 + 素材:ポリレジン、オルゴール
 + 対象年齢:15歳以上
 + 原産国　中国
-+ `2020-06-22` `LINE` `Yeckas日本代購` `NTD 2500` `預定購入`
-+ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 1914` `預定購入` `日幣匯率 0.29`
++ `2020-06-22` `LINE` `Yeckas日本代購` `NTD 2500` `購入`
++ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 1914` `購入` `日幣匯率 0.29`
 
 ## 壁掛
 ![壁掛](/images/post/Goods/2020_08_mirai_dora_world/slide_202006_foop.png)
@@ -199,7 +199,7 @@ image: images/post/Goods/2020_08_mirai_dora_world/slide_202007_miradepalimited.p
 + サイズ:W146×H146×D80mm
 + 素材:ポリレジン
 + 対象年齢:15歳以上
-+ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 1213` `預定購入` `日幣匯率 0.29`
++ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 1213` `購入` `日幣匯率 0.29`
 
 ### 穿越環壁掛 再見
 ![穿越環壁掛 再見](/images/post/Goods/2020_08_mirai_dora_world/4990593341344_1.jpg)
@@ -216,7 +216,7 @@ image: images/post/Goods/2020_08_mirai_dora_world/slide_202007_miradepalimited.p
 + サイズ:W146×H146×D80mm
 + 素材:ポリレジン
 + 対象年齢:15歳以上
-+ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 1213` `預定購入` `日幣匯率 0.29`
++ `2020-07-17` `LINE` `丸丸雜貨店` `NTD 1213` `購入` `日幣匯率 0.29`
 
 ## 軟膠鑰匙圈
 ![軟膠鑰匙圈](/images/post/Goods/2020_08_mirai_dora_world/slide_202008_sofbi.png)

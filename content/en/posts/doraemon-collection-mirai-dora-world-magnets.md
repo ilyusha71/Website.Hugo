@@ -1,7 +1,7 @@
 ---
-title: "哆啦A夢收藏集-磁鐵"
-date: 2000-08-18T23:11:41+08:00
-description: "哆啦A夢收藏集-磁鐵"
+title: "未來百貨公司限定 半立體磁鐵"
+date: 2020-12-08T17:17:41+08:00
+description: "未來百貨公司限定 半立體磁鐵"
 draft: false
 hideToc: false
 enableToc: true
@@ -9,25 +9,28 @@ enableTocContent: true
 author: 伊琉沙 AKA 哇咔咔
 authorEmoji: 👩🏿‍🚀
 tags: 
-- 哆啦A夢商品目錄
+- 磁鐵
 series:
 - 哆啦A夢商品
+- 未來百貨公司限定
 categories:
-- 哆啦A夢收藏集
-image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
+- 哆啦A夢商品集
+image: images/post/Goods/2020_08_mirai_dora_world/Magnets/slide_202010_magnet.jpg
 ---
 <mark>最後更新：2020/12/08</mark>
 
-+ `2020-10-15` `LINE` `丸丸雜貨店` `NTD 272` `預定購入` `日幣匯率 0.29`
-+ `2020-10-15` `LINE` `丸丸雜貨店` `NTD 272` `預定購入` `日幣匯率 0.29`
+<!-- + `2020-10-15` `LINE` `丸丸雜貨店` `NTD 272` `預定購入` `日幣匯率 0.29`
++ `2020-10-15` `LINE` `丸丸雜貨店` `NTD 304` `預定購入` `日幣匯率 0.29` -->
 
+# 未來百貨公司限定
+## 半立體磁鐵
+![半立體磁鐵](/images/post/Goods/2020_08_mirai_dora_world/Magnets/slide_202010_magnet.jpg)
 
-## 未來百貨公司限定
 ### 半立體磁鐵 哆啦A夢
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342754_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342754_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342754_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342754_2.jpg"></td>
     </tr>
 </table>
 
@@ -45,8 +48,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 哆啦美
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342761_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342761_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342761_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342761_2.jpg"></td>
     </tr>
 </table>
 
@@ -64,8 +67,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 大雄
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342778_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342778_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342778_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342778_2.jpg"></td>
     </tr>
 </table>
 
@@ -83,8 +86,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 靜香
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342785_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342785_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342785_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342785_2.jpg"></td>
     </tr>
 </table>
 
@@ -102,8 +105,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 胖虎
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342792_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342792_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342792_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342792_2.jpg"></td>
     </tr>
 </table>
 
@@ -121,7 +124,7 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 小夫
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342808_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342808_1.jpg"></td>
     </tr>
 </table>
 
@@ -139,8 +142,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 小珠
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/rinia1009_3.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342815_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/rinia1009_3.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342815_2.jpg"></td>
     </tr>
 </table>
 
@@ -158,8 +161,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 小杉
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342822_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342822_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342822_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342822_2.jpg"></td>
     </tr>
 </table>
 
@@ -177,8 +180,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 媽媽
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342839_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342839_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342839_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342839_2.jpg"></td>
     </tr>
 </table>
 
@@ -196,8 +199,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 爸爸
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342846_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342846_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342846_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342846_2.jpg"></td>
     </tr>
 </table>
 
@@ -215,8 +218,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 老師
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342853_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342853_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342853_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342853_2.jpg"></td>
     </tr>
 </table>
 
@@ -234,8 +237,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 雷公
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342860_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342860_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342860_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342860_2.jpg"></td>
     </tr>
 </table>
 
@@ -253,8 +256,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 世修
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342877.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342877_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342877.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342877_2.jpg"></td>
     </tr>
 </table>
 
@@ -272,8 +275,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 土龍
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342884_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342884_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342884_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342884_2.jpg"></td>
     </tr>
 </table>
 
@@ -291,7 +294,7 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 野貓小黑
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342891_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342891_1.jpg"></td>
     </tr>
 </table>
 
@@ -309,8 +312,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 哆啦A夢初登場
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342907_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342907_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342907_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342907_2.jpg"></td>
     </tr>
 </table>
 
@@ -328,8 +331,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 看小孩哆啦A夢
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342914_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342914_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342914_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342914_2.jpg"></td>
     </tr>
 </table>
 
@@ -347,8 +350,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 大雄與奶奶
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342921_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342921_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342921_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342921_2.jpg"></td>
     </tr>
 </table>
 
@@ -366,8 +369,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 哆啦A夢回來了
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342938_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342938_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342938_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342938_2.jpg"></td>
     </tr>
 </table>
 
@@ -385,8 +388,8 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 ### 半立體磁鐵 LOGO
 <table>
     <tr>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342945_1.jpg"></td>
-        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/magnet2019/4990593342945_2.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342945_1.jpg"></td>
+        <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342945_2.jpg"></td>
     </tr>
 </table>
 
@@ -400,11 +403,3 @@ image: images/post/Goods/2020_08_mirai_dora_world/pins　全種_1.jpg
 + 商品サイズ：W57×H19×D6mm
 + 素材：ポリエステル樹脂、磁石
 + 対象年齢：15才以上
-
-
-
-
-
-### Re-ment盒玩 立體磁鐵
-
-### I'm Doraemon 立體磁鐵
