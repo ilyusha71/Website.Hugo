@@ -385,7 +385,7 @@ image: images/post/Goods/2020_08_mirai_dora_world/Magnets/slide_202010_magnet.jp
 + 素材：ポリエステル樹脂、磁石
 + 対象年齢：15才以上
 
-### 半立體磁鐵 LOGO
+### 半立體磁鐵 Logo
 <table>
     <tr>
         <td align="center"><img width="300px" src= "/images/post/Goods/2020_08_mirai_dora_world/Magnets/4990593342945_1.jpg"></td>
